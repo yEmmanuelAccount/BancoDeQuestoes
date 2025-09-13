@@ -1,0 +1,72 @@
+{
+  "periods": [
+    {
+      "id": "periodo1",
+      "title": "1º Período",
+      "meta": "Introdução",
+      "subjects": [
+        {
+          "id": "logica",
+          "title": "Lógica de Programação",
+          "lists": [
+            {
+              "id": "lista1",
+              "title": "Lista 1",
+              "questions": [
+                {
+                  "id": "q1",
+                  "statement": "Qual a saída do código: console.log(1 + '2') ?",
+                  "options": [
+                    { "id": "A", "text": "'12'", "explanation": "Concatenação string + número." },
+                    { "id": "B", "text": "3", "explanation": "Soma numérica (incorreto porque um operando é string)." },
+                    { "id": "C", "text": "'3'", "explanation": "String '3' (incorreto)." },
+                    { "id": "D", "text": "Erro", "explanation": "Não ocorre erro." },
+                    { "id": "E", "text": "undefined", "explanation": "Não é undefined." }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "q2",
+                  "statement": "Em pseudocódigo, qual estrutura repete enquanto condição for verdadeira?",
+                  "options": [
+                    { "id": "A", "text": "if", "explanation": "if é condicional, não repetição." },
+                    { "id": "B", "text": "for", "explanation": "for repete, mas a forma 'enquanto' corresponde a while." },
+                    { "id": "C", "text": "while", "explanation": "while repete enquanto a condição for verdadeira." },
+                    { "id": "D", "text": "switch", "explanation": "switch é seleção." },
+                    { "id": "E", "text": "return", "explanation": "return encerra." }
+                  ],
+                  "answer": "C"
+                }
+              ]
+            },
+            {
+              "id": "lista2",
+              "title": "Lista 2",
+              "questions": [
+                {
+                  "id": "q1",
+                  "statement": "Pergunta exemplo da lista 2",
+                  "options": [
+                    { "id": "A", "text": "Opção A", "explanation": "Explicação A" },
+                    { "id": "B", "text": "Opção B", "explanation": "Explicação B" },
+                    { "id": "C", "text": "Opção C", "explanation": "Explicação C" },
+                    { "id": "D", "text": "Opção D", "explanation": "Explicação D" },
+                    { "id": "E", "text": "Opção E", "explanation": "Explicação E" }
+                  ],
+                  "answer": "B"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "matematica",
+          "title": "Matemática",
+          "lists": []
+        }
+      ]
+    }
+
+    
+  ]
+}

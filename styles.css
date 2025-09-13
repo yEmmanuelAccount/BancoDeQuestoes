@@ -1,0 +1,142 @@
+:root{
+  --bg: #0f1724;
+  --card: #0b1220;
+  --text: #e6eef8;
+  --muted: #9fb0c8;
+  --accent: #7c3aed; /* roxo */
+  --success: #16a34a;
+  --danger: #ef4444;
+  --glass: rgba(255,255,255,0.03);
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family: Inter, system-ui, Arial, sans-serif;
+  background: linear-gradient(180deg,#071022 0%, var(--bg) 100%);
+  color:var(--text);
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+
+/* fixed header */
+.header{
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+  height:64px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:0 20px;
+  background: linear-gradient(90deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));
+  border-bottom:1px solid rgba(255,255,255,0.04);
+  z-index:1000;
+}
+
+.header .logo{font-weight:700; color:var(--accent); font-size:18px}
+.header .cta{
+  background:var(--accent);
+  color:white;
+  padding:10px 14px;
+  border-radius:10px;
+  text-decoration:none;
+  font-weight:600;
+  box-shadow: 0 6px 18px rgba(124,58,237,0.12);
+}
+
+/* page container with top padding to not hide under header */
+.container{
+  padding:100px 20px 60px; 
+  max-width:1050px; 
+  margin:0 auto;
+}
+
+/* Home style */
+.home-intro{display:grid; gap:18px}
+.home-intro p{color:var(--muted)}
+
+/* Period cards (like playing cards) */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 colunas fixas */
+  gap: 18px;
+  margin-top: 20px;
+}
+
+.card{
+  background:var(--card);
+  border-radius:12px;
+  padding:18px;
+  min-height:160px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  box-shadow: 0 10px 30px rgba(2,6,23,0.6);
+  border:1px solid rgba(255,255,255,0.03);
+  text-align:center;
+  cursor:pointer;
+  transition: transform .18s ease, box-shadow .18s;
+}
+.card:hover{ transform: translateY(-6px); box-shadow: 0 18px 30px rgba(2,6,23,0.8); }
+.card .title{font-weight:700; font-size:18px; color:var(--text)}
+.card .subtitle{color:var(--muted); margin-top:6px; font-size:13px}
+
+/* subject/list simple list */
+.simple-list{display:flex; flex-direction:column; gap:10px; margin-top:18px}
+.simple-list a{
+  display:block; padding:14px; border-radius:10px; text-decoration:none; color:var(--text);
+  background:var(--glass); border:1px solid rgba(255,255,255,0.02);
+  font-weight:600;
+}
+.simple-list a:hover{transform:translateX(6px)}
+
+/* question card */
+.q-card{background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(255,255,255,0.02)); padding:22px; border-radius:12px; border:1px solid rgba(255,255,255,0.03)}
+.q-statement{font-size:18px; margin-bottom:14px}
+.options{display:flex; flex-direction:column; gap:10px}
+.option{
+  display:flex; align-items:center; gap:12px; padding:12px; border-radius:10px; cursor:pointer;
+  border:1px solid rgba(255,255,255,0.03);
+  background:transparent;
+}
+.option input{display:none}
+.option .opt-id{min-width:34px; height:34px; display:flex; align-items:center; justify-content:center; border-radius:8px; background:rgba(255,255,255,0.02); font-weight:700}
+.option .opt-text{flex:1; color:var(--text)}
+.option:hover{background: rgba(255,255,255,0.01)}
+
+/* after confirm, show explanation area */
+.explanation{margin-top:12px; padding:12px; border-radius:8px; background: rgba(255,255,255,0.02); color:var(--muted) }
+
+/* buttons row */
+.row{display:flex; gap:10px; margin-top:16px}
+.btn{padding:10px 14px; border-radius:10px; border:none; cursor:pointer; font-weight:700}
+.btn-primary{background:var(--accent); color:white}
+.btn-ghost{background:transparent; color:var(--text); border:1px solid rgba(255,255,255,0.03)}
+
+/* correct / wrong */
+.correct{background:linear-gradient(90deg, rgba(22,163,74,0.12), rgba(22,163,74,0.06)); border-color: rgba(22,163,74,0.6) !important}
+.wrong{background:linear-gradient(90deg, rgba(239,68,68,0.12), rgba(239,68,68,0.06)); border-color: rgba(239,68,68,0.6) !important}
+
+/* small responsive tweaks */
+@media (max-width:520px){
+  .card{min-height:140px}
+  .header{height:56px}
+  .container{padding-top:84px}
+}
+
+/* opção destacada quando selecionada */
+.option input:checked + .opt-id,
+.option input:checked ~ .opt-text {
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 6px;
+}
+
+/* Esconde o botão "Responder Questões" quando estiver respondendo questões */
+body[data-page="questions"] .header .cta {
+  display: none;
+}
