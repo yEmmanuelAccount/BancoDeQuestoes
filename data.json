@@ -294,12 +294,12 @@
                   "options": [
                     {
                       "id": "A",
-                      "text": "Adaptar sua consciência profissional às normas da instituição.",
+                      "text": "Incorreto. Adaptar sua consciência profissional às normas da instituição.",
                       "explanation": "Incorreto. Isso contraria a diretriz de preservar a consciência profissional e os princípios éticos acima das normas institucionais"
                     },
                     {
                       "id": "B",
-                      "text": "Tentar modificar a filosofia da instituição de dentro.",
+                      "text": "Incorreto. Tentar modificar a filosofia da instituição de dentro.",
                       "explanation": "Incorreto. Embora o psicólogo deva atuar criticamente para o desenvolvimento da instituição, a interrupção do contrato é a ação expressamente indicada em caso de contrariedade aos princípios."
                     },
                     {
@@ -309,12 +309,12 @@
                     },
                     {
                       "id": "D",
-                      "text": "Denunciar a instituição às autoridades sem interromper o contrato.",
+                      "text": "Incorreto. Denunciar a instituição às autoridades sem interromper o contrato.",
                       "explanation": "Incorreto. O Art. 4º de 1987 prioriza a interrupção do contrato. O Código de 2005 menciona a denúncia como \"se pertinente\" *após* a recusa em prestar serviços."
                     },
                     {
                       "id": "E",
-                      "text": "Buscar um acordo que permita a continuação dos serviços.",
+                      "text": "Incorreto. Buscar um acordo que permita a continuação dos serviços.",
                       "explanation": "O Código estabelece a interrupção do contrato como a medida a ser tomada quando há conflito de valores e princípios."
                     }
                   ],
@@ -327,350 +327,350 @@
                     {
                       "id": "A",
                       "text": "Apenas advertência e multa.",
-                      "explanation": "Esta alternativa é incompleta, pois omite outras penalidades previstas nos códigos."
+                      "explanation": "Incorreto. Esta alternativa é incompleta, pois omite outras penalidades previstas nos códigos."
                     },
                     {
                       "id": "B",
                       "text": "Apenas suspensão do exercício profissional.",
-                      "explanation": "Esta alternativa é incompleta, pois omite outras penalidades previstas nos códigos."
+                      "explanation": "Incorreta. Esta alternativa é incompleta, pois omite outras penalidades previstas nos códigos."
                     },
                     {
                       "id": "C",
                       "text": "Advertência, multa, censura pública, suspensão e cassação da inscrição profissional.",
-                      "explanation": "O Art. 42 do Código de Ética de 1987 menciona que as infrações \"acarretarão penalidades várias, desde a advertência até a cassação de inscrição profissional\". O Art. 21 do Código de Ética de 2005 detalha essas penalidades como: \"a) Advertência; b) Multa; c) Censura pública; d) Suspensão do exercício profissional, por até 30 (trinta) dias; e) Cassação do exercício profissional\"."
+                      "explanation": "Correto! O Art. 42 do Código de Ética de 1987 menciona que as infrações \"acarretarão penalidades várias, desde a advertência até a cassação de inscrição profissional\". O Art. 21 do Código de Ética de 2005 detalha essas penalidades como: \"a) Advertência; b) Multa; c) Censura pública; d) Suspensão do exercício profissional, por até 30 (trinta) dias; e) Cassação do exercício profissional\"."
                     },
                     {
                       "id": "D",
                       "text": "Somente cassação do exercício profissional.",
-                      "explanation": "Esta alternativa é incompleta e incorreta, pois a cassação é a penalidade mais grave, e há outras menos severas."
+                      "explanation": "Incorreto. Esta alternativa é incompleta e incorreta, pois a cassação é a penalidade mais grave, e há outras menos severas."
                     },
                     {
                       "id": "E",
                       "text": "Advertência e reeducação obrigatória.",
-                      "explanation": "A \"reeducação obrigatória\" não é uma penalidade listada nos Códigos de Ética de 1987 ou 2005."
+                      "explanation": "Incorreto. A \"reeducação obrigatória\" não é uma penalidade listada nos Códigos de Ética de 1987 ou 2005."
                     }
                   ],
                   "answer": "C"
                 },
                 {
                   "id": "p4_EeL_L1_Q11",
-                  "statement": "?",
+                  "statement": "A \"Exposição de Motivos\" do Código de Ética de 1987 diferencia *éthos* (filosofia Moral) de *êthos* (Ciência dos Costumes). Qual das seguintes opções *melhor* representa a dimensão de *éthos* como Filosofia Moral no contexto da prática do psicólogo?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A obediência estrita a regras e leis de conduta na comunidade.",
+                      "explanation": "Incorreto. Esta dimensão se aproxima mais do conceito de *êthos* como Ciência dos Costumes, que trata dos deveres sociais e das obrigações na comunidade, baseada na disciplina e adaptação."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A busca pela satisfação dos desejos humanos e aspirações morais.",
+                      "explanation": "Incorreto. Embora a satisfação das aspirações morais seja parte dos desejos humanos, a Filosofia Moral (éthos) no contexto do Código vai além, focando na reflexão crítica e na compreensão das singularidades."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A reflexão, a compreensão das singularidades, a criatividade, a liberdade e a espontaneidade, vendo o cliente como pessoa.",
+                      "explanation": "Correto! A \"Exposição de Motivos\" do Código de Ética de 1987 descreve *éthos* como Filosofia Moral como aquilo que \"apela para uma reflexão, para uma compreensão das singularidades; é ela que faz um apelo à criatividade, à liberdade, à espontaneidade. É ela que faz o profissional ver seu cliente como pessoa, como ser de relação no mundo\"."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "O controle e a delimitação da realidade para que o ideal não se perca.",
+                      "explanation": "Incorreto. Esta é uma preocupação apresentada na \"Exposição de Motivos\", mas não é a definição mais abrangente de *éthos* como Filosofia Moral, que é dinâmica e convida à criatividade."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "O agir ético limitado ao pensar bem e honestamente.",
+                      "explanation": "Incorreto. O Código de 1987 afirma que \"o agir ético vai além do pensar bem e honestamente\", exigindo que a consciência se manifeste por meio de ações claras e visíveis."
                     }
                   ],
                   "answer": "C"
                 },
                 {
                   "id": "p4_EeL_L1_Q12",
-                  "statement": "?",
+                  "statement": "Qual foi um dos principais objetivos que motivou a reformulação do Código de Ética de 1979 para o de 1987, segundo a \"História da construção do Código de Ética Profissional do Psicólogo\"?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Fortalecer o caráter corporativista da profissão.",
+                      "explanation": "Incorreto. O Código de 1979 já era criticado por ser corporativista, e a reformulação visava justamente o oposto."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Desenvolver um instrumento menos corporativo e mais preocupado com as transformações sociais.",
+                      "explanation": "Correto! A \"História da construção do Código de Ética Profissional do Psicólogo\" menciona que o Código de 1979 era \"fortemente marcado 'pelo ranço corporativista'\". A proposta de revisão para o Código de 1987 era \"desenvolver um instrumento menos corporativo e que efetivamente se preocupasse com as transformações sociais, considerando as necessidades e anseios da categoria, porém, sem perder de vista os interesses da população\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Excluir temas controversos como sigilo e relações com a Justiça.",
+                      "explanation": "Incorreto. O Código de 1979 *ganhou ênfase* em temas como sigilo e relações com a Justiça, e esses temas foram mantidos e desenvolvidos no Código de 1987."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Adaptar o código exclusivamente aos moldes médicos.",
+                      "explanation": "Incorreto. O primeiro Código (1975) já havia sido criticado por sua semelhança com códigos médicos. As reformulações subsequentes buscaram uma identidade própria para a psicologia."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Restringir a atuação do psicólogo às áreas clínica e educacional.",
+                      "explanation": "Incorreto. Não há indicação de que a reformulação visasse restringir áreas de atuação. Pelo contrário, o Código de 1987 buscava ser um convite a uma reflexão mais ampla."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "B"
                 },
                 {
                   "id": "p4_EeL_L1_Q13",
-                  "statement": "?",
+                  "statement": "De acordo com a \"Apresentação\" do Código de Ética Profissional do Psicólogo de 2005, qual é a missão primordial de um código de ética profissional, distinguindo-a da normatização da natureza técnica do trabalho?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Normatizar detalhadamente todas as técnicas psicológicas reconhecidas.",
+                      "explanation": "Incorreto. O texto explicitamente nega essa como a missão primordial, distinguindo-a da normatização da natureza técnica do trabalho."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Assegurar, dentro de valores relevantes, um padrão de conduta que fortaleça o reconhecimento social da categoria.",
+                      "explanation": "Correto! A \"Apresentação\" do Código de Ética Profissional do Psicólogo de 2005 estabelece que \"A missão primordial de um código de ética profissional não é de normatizar a natureza técnica do trabalho, e, sim, a de assegurar, dentro de valores relevantes para a sociedade e para as práticas desenvolvidas, um padrão de conduta que fortaleça o reconhecimento social daquela categoria\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Impor comportamentos padrões para todas as situações profissionais.",
+                      "explanation": "Incorreto. O Código de 1987 já afirmava que não pretendia \"impor, estigmatizar ou definir comportamentos padrões\", e o de 2005 busca ser um instrumento de reflexão."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Privilegiar os interesses econômicos dos profissionais.",
+                      "explanation": "Incorreto. A remuneração deve ser justa, mas a missão primordial do Código é garantir um padrão de conduta ética para o reconhecimento social da categoria, não privilegiar interesses econômicos."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Atuar como um oráculo com respostas prontas e fechadas para tudo.",
+                      "explanation": "Incorreto. O texto \"História da construção do Código de Ética Profissional do Psicólogo\" menciona que o Código não é um \"oráculo, com respostas prontas e fechadas para tudo\", mas sim um parâmetro para reflexão."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "B"
                 },
                 {
                   "id": "p4_EeL_L1_Q14",
-                  "statement": "?",
+                  "statement": "Um dos Princípios Fundamentais do Código de Ética Profissional do Psicólogo de 2005 estabelece que o psicólogo trabalhará visando promover a saúde e a qualidade de vida. Além disso, o que ele deverá contribuir para eliminar?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Conflitos de interesse entre profissionais.",
+                      "explanation": "Incorreto. Não é especificamente mencionada no Princípio Fundamental II do Código de 2005 como o que o psicólogo deve contribuir para eliminar. O Código busca eliminar formas de negligência, discriminação, exploração, violência, crueldade e opressão."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Quaisquer formas de negligência, discriminação, exploração, violência, crueldade e opressão.",
+                      "explanation": "Correto! O Princípio Fundamental II do Código de Ética Profissional do Psicólogo de 2005 declara que o psicólogo \"trabalhará visando promover a saúde e a qualidade de vida das pessoas e das coletividades e **contribuirá para a eliminação de quaisquer formas de negligência, discriminação, exploração, violência, crueldade e opressão**\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Dúvidas na observância do Código.",
+                      "explanation": "Incorreto. Não é especificamente mencionada no Princípio Fundamental II do Código de 2005 como o que o psicólogo deve contribuir para eliminar. O Código busca eliminar formas de negligência, discriminação, exploração, violência, crueldade e opressão."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A necessidade de revisão contínua do Código.",
+                      "explanation": "Incorreto. Não é especificamente mencionada no Princípio Fundamental II do Código de 2005 como o que o psicólogo deve contribuir para eliminar. O Código busca eliminar formas de negligência, discriminação, exploração, violência, crueldade e opressão."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": " A fragmentação das práticas psicológicas.",
+                      "explanation": "Incorreto. Não é especificamente mencionada no Princípio Fundamental II do Código de 2005 como o que o psicólogo deve contribuir para eliminar. O Código busca eliminar formas de negligência, discriminação, exploração, violência, crueldade e opressão."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "B"
                 },
                 {
                   "id": "p4_EeL_L1_Q15",
-                  "statement": "?",
+                  "statement": "De acordo com o Art. 11 do Código de Ética de 1987, um psicólogo *não* deve intervir na prestação de serviços psicológicos de outro profissional, *exceto* em algumas situações. Qual das opções a seguir *NÃO* é uma dessas exceções?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A pedido do profissional responsável pelo serviço.",
+                      "explanation": "Incorreto. É explicitamente listada como situação em que o psicólogo *pode* intervir na prestação de serviços psicológicos de outro profissional, de acordo com o Art. 11 do Código de Ética de 1987."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Em caso de urgência, dando imediata ciência ao profissional.",
+                      "explanation": "Incorreto. É explicitamente listada como situação em que o psicólogo *pode* intervir na prestação de serviços psicológicos de outro profissional, de acordo com o Art. 11 do Código de Ética de 1987."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Quando informado por qualquer das partes da interrupção voluntária e definitiva do atendimento.",
+                      "explanation": "Incorreto. É explicitamente listada como situação em que o psicólogo *pode* intervir na prestação de serviços psicológicos de outro profissional, de acordo com o Art. 11 do Código de Ética de 1987."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Quando o psicólogo julgar que o outro profissional está agindo de forma ineficaz, mesmo sem comunicação prévia.",
+                      "explanation": "Correto! O Art. 11 do Código de Ética de 1987 lista as seguintes exceções para intervenção: \"a) A pedido desse profissional; b) Em caso de urgência, quando dará imediata ciência ao profissional; c) Quando informado por qualquer uma das partes da interrupção voluntária e definitiva do atendimento; d) Quando se tratar de trabalho multiprofissional e a intervenção fizer parte da metodologia adotada\". Julgar a ineficácia de outro profissional sem comunicação prévia não é uma das exceções permitidas."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Quando se tratar de trabalho multiprofissional e a intervenção fizer parte da metodologia adotada.",
+                      "explanation": "Incorreto. É explicitamente listada como situação em que o psicólogo *pode* intervir na prestação de serviços psicológicos de outro profissional, de acordo com o Art. 11 do Código de Ética de 1987."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "D"
                 },
                 {
                   "id": "p4_EeL_L1_Q16",
-                  "statement": "?",
+                  "statement": "No contexto do Código de Ética Profissional do Psicólogo de 2005, qual é a principal expectativa do Conselho Federal de Psicologia ao aprová-lo e divulgá-lo, conforme a seção de \"Apresentação\"?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Que seja um conjunto fixo e imutável de normas.",
+                      "explanation": "Incorreto. O próprio Código de 2005 afirma que \"um código de ética não pode ser visto como um conjunto fixo de normas e imutável no tempo\"."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Que normatize a natureza técnica de todo o trabalho psicológico.",
+                      "explanation": "Incorreto. O Código de 2005 declara que sua \"missão primordial (...) não é de normatizar a natureza técnica do trabalho\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Que sirva como um instrumento capaz de delinear responsabilidades, oferecer diretrizes para formação e balizar julgamentos, fortalecendo o significado social da profissão.",
+                      "explanation": "Correto! A seção de \"Apresentação\" do Código de Ética Profissional do Psicólogo de 2005 expressa a expectativa de que o Código \"seja um instrumento capaz de delinear para a sociedade as responsabilidades e deveres do psicólogo, oferecer diretrizes para a sua formação e balizar os julgamentos das suas ações, contribuindo para o fortalecimento e ampliação do significado social da profissão\"."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Que elimine completamente a necessidade de reflexão individual dos psicólogos.",
+                      "explanation": "Incorreto. O Código de 2005 busca justamente \"fomentar a auto-reflexão exigida de cada indivíduo acerca da sua práxis\", sendo concebido como um instrumento de reflexão."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Que privilegie as práticas particulares em detrimento da profissão como um todo.",
+                      "explanation": "Incorreto. O Código de 2005 busca estimular reflexões que considerem \"a profissão como um todo e não em suas práticas particulares\"."
                     }
                   ],
                   "answer": "C"
                 },
                 {
                   "id": "p4_EeL_L1_Q17",
-                  "statement": "?",
+                  "statement": "De acordo com o Art. 27 do Código de Ética de 1987, em que circunstância a quebra do sigilo profissional é *admissível*?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Sempre que os pais de um menor impúbere solicitarem informações detalhadas.",
+                      "explanation": "Incorreto. O Art. 26 do Código de 1987 afirma que o sigilo profissional protege o menor impúbere, e deve ser comunicado aos responsáveis *o estritamente essencial* para promover medidas em seu benefício, não informações detalhadas irrestritas."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Quando se tratar de fato delituoso e a gravidade de suas consequências puder criar para o psicólogo o imperativo de consciência de denunciar o fato.",
+                      "explanation": "Correto! O Art. 27 do Código de Ética de 1987 estabelece que \"A quebra do sigilo só será admissível, quando se tratar de fato delituoso e a gravidade de suas conseqüências para o próprio atendido ou para terceiros puder criar para o Psicólogo o imperativo de consciência de denunciar o fato\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Para fins de comunicações científicas, sem a necessidade de omitir dados identificadores.",
+                      "explanation": "Incorreto. O Art. 32 do Código de 1987 exige que o psicólogo *omita e/ou altere* dados que possam identificar a pessoa ou instituição envolvida em comunicações científicas, salvo interesse manifesto destas."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Para divulgar resultados de psicodiagnóstico em meios de comunicação públicos.",
+                      "explanation": "Incorreto. O Art. 2º, 'b', do Código de 1987 veda a apresentação pública de resultados de psicodiagnóstico de indivíduos ou grupos através dos meios de comunicação."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Quando a escola solicitar atualizações sobre o caso para medidas pedagógicas.",
+                      "explanation": "Incorreto. Em situações como o Caso 1, a psicóloga deve considerar os limites do sigilo e as informações devem se restringir ao estritamente necessário para a tomada de decisões."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "B"
                 },
                 {
                   "id": "p4_EeL_L1_Q18",
-                  "statement": "?",
+                  "statement": "Conforme o Art. 4º do Decreto nº 53.464 de 1964, qual das seguintes é uma função do psicólogo que envolve o uso de métodos e técnicas psicológicas para \"solução de problemas de ajustamento\"?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Dirigir serviços de Psicologia em órgãos públicos.",
+                      "explanation": "Incorreto. Esta é uma função (Art. 4º, item 2), mas não é descrita como *uso de métodos e técnicas psicológicas para \"solução de problemas de ajustamento\"*."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Ensinar cadeiras de Psicologia nos vários níveis de ensino.",
+                      "explanation": "Incorreto. Esta é uma função (Art. 4º, item 3), mas não é descrita como *uso de métodos e técnicas psicológicas para \"solução de problemas de ajustamento\"*."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Realizar perícias e emitir pareceres sobre a matéria de Psicologia.",
+                      "explanation": "Incorreto. Esta é uma função (Art. 4º, item 6), mas não é descrita como *uso de métodos e técnicas psicológicas para \"solução de problemas de ajustamento\"*."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Diagnóstico psicológico.",
+                      "explanation": "Incorreto. O diagnóstico psicológico (Art. 4º, item 1.a) é um *objetivo* específico da utilização de métodos e técnicas psicológicas, assim como a \"solução de problemas de ajustamento\" (item 1.d). No entanto, a questão pede *uma função* que envolve isso. A supervisão é uma função mais geral que abrange a aplicação desses métodos indiretamente."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Supervisionar profissionais e alunos em trabalhos teóricos.",
+                      "explanation": "Correto! O Art. 4º do Decreto nº 53.464 de 1964 lista as funções do psicólogo, incluindo \"1) Utilizar métodos e técnicas psicológicas com o objetivo de: d) solução de problemas de ajustamento.\" e, separadamente, \"4) Supervisionar profissionais e alunos em trabalhos teóricos e práticos de Psicologia\". Embora a \"solução de problemas de ajustamento\" seja um objetivo da *utilização de métodos e técnicas*, a supervisão (item 4) é uma função do psicólogo que, em um sentido mais amplo, envolve a aplicação desses conhecimentos e técnicas no contexto da formação e prática."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "E"
                 },
                 {
                   "id": "p4_EeL_L1_Q19",
-                  "statement": "?",
+                  "statement": "Um estudo sobre a formação em psicologia, conforme o artigo \"ÉTICA E MORAL NA FORMAÇÃO EM PSICOLOGIA\", constatou que os alunos frequentemente associam os conceitos de moral e ética a qual ideia??",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A liberdade e espontaneidade do agir ético.",
+                      "explanation": "Incorreto. Esta é uma característica da concepção de *éthos* como Filosofia Moral no Código de 1987, mas não a percepção dominante dos alunos na pesquisa."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A ideais que dão sentido à vida e à reflexão crítica.",
+                      "explanation": "Incorreto. Embora a ética se relacione a ideais que dão sentido à vida e à reflexão, os alunos do estudo \"não estabelecem a diferença entre os dois termos [moral e ética] e, portanto, não separa o que é obedecer a normas, leis e códigos, de refletir a respeito do que seria o agir bem\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Regras, leis e ao código de ética.",
+                      "explanation": "Correto! O artigo \"ÉTICA E MORAL NA FORMAÇÃO EM PSICOLOGIA\" relata que \"os conceitos de moral e ética apresentados pelos alunos são, indistintamente, ligados a regras e ao código de ética\". Além disso, os alunos associam ética a leis e normas, e a profissionalismo."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A autonomia da vontade e à cooperação.",
+                      "explanation": "Incorreto. Esses conceitos são relevantes para a moralidade autônoma e a ciência dos costumes, mas não são a principal associação feita pelos alunos na pesquisa"
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A uma visão aberta do mundo voltada para o social e o político.",
+                      "explanation": "Incorreto. Esta é uma dimensão da ética filosófica, mas não a percepção comum dos alunos na pesquisa."
                     }
                   ],
                   "answer": "C"
                 },
                 {
                   "id": "p4_EeL_L1_Q20",
-                  "statement": "?",
+                  "statement": "A psicóloga Mello (1983), ao analisar o primeiro Código de Ética (1975), questionou sobre sua origem e conteúdo ideológico. Qual foi a principal observação dela sobre o que este Código parecia ter sido extraído e suas pretensões implícitas?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Parecia ter sido extraído de códigos de Serviço Social, visando à proteção de direitos.",
+                      "explanation": "Incorreto. Mello especificamente menciona a extração de códigos *médicos*, não de Serviço Social."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Parecia ter sido extraído de códigos médicos, com pretensões de reivindicar prerrogativas e prestígio da profissão médica.",
+                      "explanation": "Correto! Conforme a \"História da construção do Código de Ética Profissional do Psicólogo\", Mello (1983) observou que o Código de Ética de 1975 \"pelo conteúdo ideológico que apresentava, parecia ter sido extraído de códigos médicos. 'As pretensões implícitas seriam as de reivindicar para a profissão recém-nascida, as prerrogativas e o prestigio da profissão médica'\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Refletia as necessidades da Psicologia na ocasião, sem influências externas.",
+                      "explanation": "Incorreto. Mello questionou se não seria mais interessante para a profissão definir sua própria problemática ética, sugerindo que o código de 1975 não refletia totalmente as necessidades *próprias* da psicologia e tinha influências externas (médicas)."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Focava primariamente em princípios gerais e abstratos, sem normas específicas.",
+                      "explanation": "Incorreto. O primeiro Código era composto por Princípios Fundamentais e *40 artigos*, distribuídos em 13 capítulos, indicando a presença de normas específicas."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Buscava exclusivamente a consolidação da imagem social do psicólogo.",
+                      "explanation": "Incorreto. Embora a consolidação da imagem social seja uma função dos códigos, a crítica de Mello focou na influência médica e na busca de prestígio inerente a essa origem."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "B"
                 },
                 {
                   "id": "p4_EeL_L1_Q21",
