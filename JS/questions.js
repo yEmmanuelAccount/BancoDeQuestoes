@@ -7,7 +7,7 @@ function getQuery(){
 
 let currentIndex = 0;
 let questions = [];
-let answered = {}; // registra respostas
+let answered = {}; 
 const qparams = getQuery();
 
 const metaDiv = document.getElementById('meta');
@@ -40,14 +40,17 @@ function renderQuestion(i){
   qa.innerHTML = '';
   const q = questions[i];
   if(!q) return;
+
   const card = document.createElement('div');
   card.className = 'q-card';
 
+  // enunciado
   const st = document.createElement('div');
   st.className = 'q-statement';
   st.innerText = `${i+1}. ${q.statement}`;
   card.appendChild(st);
 
+  // alternativas
   const opts = document.createElement('div');
   opts.className = 'options';
   q.options.forEach(o=>{
@@ -61,18 +64,29 @@ function renderQuestion(i){
     radio.value = o.id;
     if(answered[q.id] && answered[q.id].selection === o.id) radio.checked = true;
 
+    const header = document.createElement('div');
+    header.className = 'option-header';
+
     const idBox = document.createElement('div'); 
     idBox.className='opt-id'; 
     idBox.innerText = o.id;
+
     const text = document.createElement('div'); 
     text.className='opt-text'; 
     text.innerText = o.text;
 
-    opt.appendChild(radio);
-    opt.appendChild(idBox);
-    opt.appendChild(text);
+    header.appendChild(radio);
+    header.appendChild(idBox);
+    header.appendChild(text);
 
-    // clique em todo rótulo checa
+    opt.appendChild(header);
+
+    // explicação associada à alternativa (inicialmente escondida)
+    const expl = document.createElement('div');
+    expl.className = 'explanation';
+    expl.innerText = o.explanation;
+    opt.appendChild(expl);
+
     opt.addEventListener('click', ()=>{
       if(opt.classList.contains('confirmed')) return;
       opt.querySelector('input').checked = true;
@@ -82,14 +96,9 @@ function renderQuestion(i){
   });
   card.appendChild(opts);
 
-  // lugar para explicações
-  const explContainer = document.createElement('div');
-  explContainer.className = 'explanations';
-  card.appendChild(explContainer);
-
   qa.appendChild(card);
 
-  // se já confirmado antes, mostrar explicações e cores
+  // se já foi confirmada antes, reaplica feedback
   if(answered[q.id] && answered[q.id].confirmed){
     applyFeedback(q, answered[q.id].selection, card);
   }
@@ -106,9 +115,7 @@ confirmBtn.addEventListener('click', ()=>{
   const sel = getSelectedOption();
   if(!sel){ alert('Escolha uma alternativa antes de confirmar.'); return; }
 
-  // marca como respondida
   answered[q.id] = { selection: sel, confirmed: true };
-  // aplica feedback visual
   const card = document.querySelector('.q-card');
   applyFeedback(q, sel, card);
 });
@@ -117,7 +124,11 @@ function applyFeedback(question, selection, cardElem){
   const optionElems = cardElem.querySelectorAll('.option');
   optionElems.forEach(el=>{
     el.classList.remove('correct','wrong');
+
     const id = el.dataset.optid;
+    const expl = el.querySelector('.explanation');
+    expl.style.display = "block"; // mostrar explicação
+
     if(id === question.answer){
       el.classList.add('correct');
     }
@@ -125,16 +136,6 @@ function applyFeedback(question, selection, cardElem){
       el.classList.add('wrong');
     }
     el.classList.add('confirmed');
-
-    // mostrar explanation logo abaixo do option
-    const optId = el.dataset.optid;
-    let ex = el.querySelector('.explanation');
-    if(ex) ex.remove();
-    const optObj = question.options.find(o=>o.id===optId);
-    const expl = document.createElement('div');
-    expl.className = 'explanation';
-    expl.innerText = optObj ? optObj.explanation : '';
-    el.appendChild(expl);
   });
 }
 
@@ -158,8 +159,6 @@ nextBtn.addEventListener('click', ()=>{
 
 function updateButtons(){
   prevBtn.disabled = currentIndex === 0;
-
-  // altera texto do botão na última questão
   if(currentIndex === questions.length - 1){
     nextBtn.textContent = "Finalizar";
   } else {
@@ -167,7 +166,6 @@ function updateButtons(){
   }
 }
 
-// ===== Mostrar pontuação final =====
 function showScore(){
   const total = questions.length;
   let correct = 0;
@@ -185,7 +183,6 @@ function showScore(){
     </div>
   `;
 
-  // esconder botões de navegação
   prevBtn.style.display = "none";
   nextBtn.style.display = "none";
   confirmBtn.style.display = "none";
