@@ -22,7 +22,7 @@
     {
       "id": "p4",
       "title": "4º Período",
-      "meta": "Disciplinas específicas",
+      "meta": "Complicado isso daí, cara.",
       "subjects": [
         {
           "id": "p4_Etica_e_Legislacao",
@@ -996,17 +996,980 @@
             }
           ]
         },
+    
         {
-          "id": "p4s2",
-          "title": "Banco de Dados I",
+          "id": "p4_psicopatologia2",
+          "title": "Psicopatologia II",
           "lists": [
             {
-              "id": "p4s2l1",
+              "id": "p4_psicopatologia2_L1",
               "title": "Lista 1",
-              "questions": []
+              "questions": [
+                {
+                  "id": "p4_psicopatologia2_L1_Q1",
+                  "statement": "A disciplina \"Psicopatologia II\" tem como um de seus objetivos gerais principais o quê?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Estudar apenas a história da psicanálise.",
+                      "explanation": "Incorreto. O objetivo geral principal não é focar apenas na história da psicanálise."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Desenvolver a compreensão e análise crítica dos transtornos mentais.",
+                      "explanation": "Correto! A disciplina visa desenvolver a compreensão e análise crítica dos transtornos mentais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aprofundar-se em métodos de culinária terapêutica.",
+                      "explanation": "Incorreto. A culinária terapêutica não é mencionada como objetivo da disciplina."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ignorar os critérios diagnósticos do DSM e CID.",
+                      "explanation": "Incorreto. A disciplina aborda fundamentos teóricos e sistemas classificatórios, incluindo DSM e CID."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar exclusivamente em pesquisas neurobiológicas.",
+                      "explanation": "Incorreto. O enfoque é mais amplo, não se limitando a pesquisas neurobiológicas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q2",
+                  "statement": "De acordo com o slide de abertura, quem é a professora da disciplina \"Psicopatologia II\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Profa. Dra. Leilane Cristina Oliveira Pereira.",
+                      "explanation": "Correto! A fonte indica que essa é a professora da disciplina."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Profa. Dra. Ana Paula Costa.",
+                      "explanation": "Incorreto. Esse nome não é mencionado como professora da disciplina."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Profa. Dra. Carla Gomes.",
+                      "explanation": "Incorreto. Esse nome não é mencionado como professora da disciplina."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Profa. Dra. Juliana Silva.",
+                      "explanation": "Incorreto. Esse nome não é mencionado como professora da disciplina."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Profa. Dra. Patrícia Mendes.",
+                      "explanation": "Incorreto. Esse nome não é mencionado como professora da disciplina."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q3",
+                  "statement": "A Avaliação 1 (AV1) da disciplina \"Psicopatologia II\" está programada para 10/09/2025. Qual é o seu foco principal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um estudo de caso clínico.",
+                      "explanation": "Incorreto. O foco da AV1 é uma prova escrita, não estudo de caso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A apresentação de um projeto comunitário.",
+                      "explanation": "Incorreto. A AV1 é uma prova escrita sobre fundamentos e sistemas classificatórios."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Uma avaliação prática em campo.",
+                      "explanation": "Incorreto. A AV1 é uma prova escrita, não prática em campo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Análise de filmes sobre saúde mental.",
+                      "explanation": "Incorreto. A AV1 não envolve análise de filmes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Prova escrita sobre fundamentos teóricos e sistemas classificatórios em psicopatologia.",
+                      "explanation": "Correto! A AV1 é uma prova escrita com esse foco."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q4",
+                  "statement": "Conforme o slide \"O Que é Comportamento Anormal?\", qual das seguintes opções descreve a \"Disfunção Psicológica\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Comportamento que envolve um grau de prejuízo mensurável.",
+                      "explanation": "Incorreto. Essa definição corresponde a \"Prejuízo ou Incapacidade\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O comportamento é geralmente associado com sofrimento ou incapacidade significativa.",
+                      "explanation": "Incorreto. Essa definição corresponde a \"Sofrimento\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Comportamento que reflete uma disfunção nos processos psicológicos, biológicos ou do desenvolvimento.",
+                      "explanation": "Correto! Essa definição descreve \"Disfunção Psicológica\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Conflitos entre o sujeito e a sociedade que não são considerados transtornos psicológicos.",
+                      "explanation": "Incorreto. Essa definição corresponde a \"Resposta Atípica ou Desviante\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Comportamento desviante em termos de religião ou política.",
+                      "explanation": "Incorreto. Essa parte refere-se a desvios de normas sociais, não a disfunção psicológica."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q5",
+                  "statement": "No Modelo Biopsicossocial, as causas do comportamento anormal são categorizadas em biológicas, psicológicas e socioculturais. Qual das opções representa um exemplo de \"Causas Psicológicas\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Predisposições genéticas herdadas.",
+                      "explanation": "Incorreto. Essas são causas biológicas, não psicológicas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Danos cerebrais por traumatismo.",
+                      "explanation": "Incorreto. Esses são exemplos de causas biológicas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estigma associado a \"ser um paciente mental\".",
+                      "explanation": "Incorreto. Estigma é uma causa sociocultural."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Padrões de pensamento mal-adaptativos.",
+                      "explanation": "Correto! Padrões de pensamento mal-adaptativos são causas psicológicas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Discriminação baseada em classe, renda, raça ou gênero.",
+                      "explanation": "Incorreto. Discriminação é uma causa sociocultural."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q6",
+                  "statement": "Na \"Abordagem Espiritual dos Transtornos Psicológicos\", qual prática antiga era um ritual para expulsar espíritos malignos, realizado por xamãs, padres ou curandeiros?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Exorcismo.",
+                      "explanation": "Correto! O exorcismo era o ritual usado para expulsar espíritos malignos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Trepanação.",
+                      "explanation": "Incorreto. Trepanação perfurava o crânio, não era um ritual de exorcismo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Bruxaria e perseguição.",
+                      "explanation": "Incorreto. São crenças, mas não o ritual de expulsão de espíritos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Terapia cognitiva.",
+                      "explanation": "Incorreto. Terapia cognitiva é abordagem moderna, não ritual antigo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Meditação.",
+                      "explanation": "Incorreto. Meditação não é ritual de expulsão de espíritos malignos."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q7",
+                  "statement": "O estigma associado aos transtornos psicológicos representa um dos maiores obstáculos ao tratamento adequado. Qual é um dos efeitos negativos do estigma sobre as pessoas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumento da procura por ajuda profissional.",
+                      "explanation": "Incorreto. O estigma leva à evitação do tratamento, não ao aumento da procura."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fortalecimento da autoestima e do autocuidado.",
+                      "explanation": "Incorreto. O estigma geralmente prejudica a autoestima e o autocuidado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Maior inclusão social e aceitação na comunidade.",
+                      "explanation": "Incorreto. O estigma costuma causar discriminação e exclusão social."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Melhor compreensão pública e redução de preconceitos.",
+                      "explanation": "Incorreto. O estigma perpetua preconceitos e falta de compreensão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Evitação de tratamento, agravamento de problemas e retardo da recuperação.",
+                      "explanation": "Correto! O estigma provoca evitação de tratamento e retardo na recuperação."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q8",
+                  "statement": "Quais são os três principais domínios considerados para a avaliação dos Níveis de Gravidade da Deficiência Intelectual, conforme o DSM-5?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Acadêmico, Físico e Emocional.",
+                      "explanation": "Incorreto. Esses não são os domínios listados pelo DSM-5 para deficiência intelectual."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Conceitual, Social e Prático.",
+                      "explanation": "Correto! São os domínios principais usados pelo DSM-5 na avaliação da deficiência intelectual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Motor, Sensorial e Comunicativo.",
+                      "explanation": "Incorreto. Esses não são os domínios do DSM-5 para deficiência intelectual."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Linguístico, Cultural e Biológico.",
+                      "explanation": "Incorreto. Esses não são os domínios listados pelo DSM-5."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Familiar, Comunitário e Pessoal.",
+                      "explanation": "Incorreto. Esses não são os domínios usados na avaliação de deficiência intelectual."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q9",
+                  "statement": "No contexto do Transtorno do Espectro Autista (TEA), qual das características abaixo pertence ao \"Domínio 2: Comportamentos\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Dificuldade com contato visual.",
+                      "explanation": "Incorreto. Essa característica pertence ao Domínio 1: Interação e Comunicação Social."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Padrões de amizade diferentes.",
+                      "explanation": "Incorreto. Essa característica pertence ao Domínio 1."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Comportamentos restritos ou repetitivos.",
+                      "explanation": "Correto! Essa característica é do Domínio 2: Comportamentos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Déficits nos aspectos sociais da comunicação.",
+                      "explanation": "Incorreto. Essa característica pertence ao Domínio 1."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Desafios com brincadeiras imaginativas.",
+                      "explanation": "Incorreto. Essa característica pertence ao Domínio 1."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q10",
+                  "statement": "O que é o Transtorno de Déficit de Atenção/Hiperatividade (TDAH)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um transtorno exclusivamente motor.",
+                      "explanation": "Incorreto. O TDAH envolve desatenção e hiperatividade-impulsividade, não é exclusivamente motor."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Uma dificuldade isolada em matemática.",
+                      "explanation": "Incorreto. O TDAH não se limita a dificuldades em matemática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Uma condição temporária que se resolve na adolescência.",
+                      "explanation": "Incorreto. O TDAH é um transtorno do neurodesenvolvimento, pode persistir além da adolescência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um transtorno do neurodesenvolvimento que envolve um padrão persistente de desatenção e/ou hiperatividade-impulsividade.",
+                      "explanation": "Correto! Essa é a definição do TDAH segundo o DSM."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um transtorno que afeta apenas o desempenho escolar, sem impacto social.",
+                      "explanation": "Incorreto. O TDAH afeta múltiplas áreas da vida, incluindo a social."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q11",
+                  "statement": "A disciplina \"Psicopatologia II\" busca desenvolver um olhar crítico sobre os transtornos mentais. Em relação aos objetivos específicos da disciplina, qual afirma que se deve identificar e descrever as principais patologias das funções mentais, com base nos critérios diagnósticos do DSM e do CID?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Compreender Fundamentos",
+                      "explanation": "Incorreta. Este objetivo foca em \"Compreender os fundamentos clínicos e epidemiológicos dos transtornos psiquiátricos\", o que não se alinha com a descrição de identificar e descrever patologias usando o DSM e o CID."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Analisar Criticamente",
+                      "explanation": "Incorreta. Este objetivo se refere a \"Analisar criticamente os modelos psicopatológicos e suas implicações na prática psicológica\", que é uma análise de modelos, e não de identificação de patologias."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Diferenciar Transtornos",
+                      "explanation": "Incorreta. Este objetivo se refere a \"Diferenciar os transtornos psiquiátricos, classificando-os de acordo com os critérios do DSM e do CID\", o que é diferente de identificar e descrever patologias com base nos critérios."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aplicar Conhecimentos",
+                      "explanation": "Incorreta. Este objetivo se refere a \"Aplicar os conhecimentos adquiridos sobre os transtornos mentais, a fim de realizar uma avaliação psicopatológica detalhada\", o que não se alinha com a descrição de identificar e descrever patologias."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Identificar Patologias",
+                      "explanation": "Correta. O objetivo \"Identificar Patologias\" é descrito como \"Identificar e descrever as principais patologias das funções mentais, com base nos critérios diagnósticos do DSM e do CID\". Isso corresponde diretamente ao que é perguntado na questão."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q12",
+                  "statement": "A Psicopatologia é um campo de estudo que abrange diversos aspectos dos transtornos mentais. Qual área da Psicopatologia é responsável pelo estudo dos transtornos mentais em termos de prevalência, incidência, curso e prognóstico?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Psicopatologia descritiva",
+                      "explanation": "Incorreta. A Psicopatologia descritiva se concentra na descrição dos sintomas e sinais dos transtornos mentais, e não nos aspectos epidemiológicos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Psicopatologia geral",
+                      "explanation": "Incorreta. A Psicopatologia geral estuda os sintomas e sinais dos transtornos mentais, mas não em termos de prevalência, incidência, curso e prognóstico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Psicopatologia clínica",
+                      "explanation": "Incorreta. A Psicopatologia clínica se concentra na avaliação, diagnóstico e tratamento dos transtornos mentais, e não nos aspectos epidemiológicos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Psicopatologia epidemiológica",
+                      "explanation": "Correta. A Psicopatologia epidemiológica estuda a distribuição, frequência, curso, prognóstico e os fatores de risco dos transtornos mentais em populações."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Psicopatologia etiológica",
+                      "explanation": "Incorreta. A Psicopatologia etiológica estuda as causas e os fatores de risco dos transtornos mentais, mas não os aspectos epidemiológicos."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q13",
+                  "statement": "A Anamnese em Psicopatologia é uma técnica de avaliação que busca coletar informações sobre o paciente. Qual é o principal objetivo da Anamnese em Psicopatologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Identificar os sintomas do paciente e classificar o seu transtorno mental",
+                      "explanation": "Incorreta. O objetivo da Anamnese é coletar informações detalhadas, não apenas identificar sintomas e classificar o transtorno."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estabelecer uma relação de confiança com o paciente e coletar informações sobre o seu histórico de vida",
+                      "explanation": "Correta. A Anamnese é uma técnica de avaliação que busca coletar informações sobre o paciente, incluindo o seu histórico de vida, a fim de estabelecer uma relação de confiança e auxiliar no diagnóstico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Avaliar o estado mental do paciente e identificar os seus sintomas",
+                      "explanation": "Incorreta. A Anamnese não se limita à avaliação do estado mental. Ela também busca coletar informações sobre o histórico de vida do paciente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Coletar informações sobre a história familiar do paciente, a fim de identificar possíveis fatores genéticos de risco",
+                      "explanation": "Incorreta. A Anamnese não se limita à história familiar. Ela busca coletar informações sobre o histórico de vida do paciente em geral."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estabelecer uma relação de confiança com o paciente, a fim de iniciar o tratamento psicológico",
+                      "explanation": "Incorreta. A Anamnese é uma técnica de avaliação, e não o início do tratamento psicológico."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q14",
+                  "statement": "O Exame do Estado Mental é uma técnica de avaliação que busca coletar informações sobre o estado mental atual do paciente. Qual é o principal objetivo do Exame do Estado Mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Identificar os sintomas do paciente e classificar o seu transtorno mental",
+                      "explanation": "Incorreta. O Exame do Estado Mental não se limita à identificação de sintomas e classificação de transtornos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Avaliar o estado mental atual do paciente, incluindo a sua aparência, comportamento, humor, pensamento, percepção e cognição",
+                      "explanation": "Correta. O Exame do Estado Mental é uma técnica de avaliação que busca coletar informações sobre o estado mental atual do paciente, incluindo a sua aparência, comportamento, humor, pensamento, percepção e cognição."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Coletar informações sobre a história de vida do paciente, a fim de auxiliar no diagnóstico",
+                      "explanation": "Incorreta. A Anamnese é a técnica que busca coletar informações sobre a história de vida do paciente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Avaliar o histórico familiar do paciente, a fim de identificar possíveis fatores genéticos de risco",
+                      "explanation": "Incorreta. O Exame do Estado Mental não se limita à história familiar. Ele busca avaliar o estado mental atual do paciente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estabelecer uma relação de confiança com o paciente, a fim de iniciar o tratamento psicológico",
+                      "explanation": "Incorreta. O Exame do Estado Mental é uma técnica de avaliação, e não o início do tratamento psicológico."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q15",
+                  "statement": "Qual é a principal função da entrevista psicológica, de acordo com o Manual do Estágio Supervisionado em Psicologia Clínica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Diagnosticar e tratar o paciente",
+                      "explanation": "Incorreta. A entrevista é uma técnica de avaliação, e não de diagnóstico e tratamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Coletar informações sobre o paciente e seu histórico de vida",
+                      "explanation": "Incorreta. A coleta de informações é uma das funções da entrevista, mas não é a principal."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estabelecer uma relação de confiança com o paciente e auxiliar na avaliação e no diagnóstico",
+                      "explanation": "Correta. A principal função da entrevista é estabelecer uma relação de confiança com o paciente e auxiliar na avaliação e no diagnóstico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Avaliar o estado mental atual do paciente e identificar os seus sintomas",
+                      "explanation": "Incorreta. O Exame do Estado Mental é a técnica que busca avaliar o estado mental atual do paciente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Coletar informações sobre a história familiar do paciente, a fim de identificar possíveis fatores genéticos de risco",
+                      "explanation": "Incorreta. A entrevista não se limita à história familiar."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q16",
+                  "statement": "De acordo com o Manual do Estágio Supervisionado em Psicologia Clínica, quais são as duas principais abordagens teóricas de intervenção na Psicologia Clínica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Terapia Cognitivo-Comportamental (TCC) e a Psicanálise",
+                      "explanation": "Incorreta. O Manual do Estágio Supervisionado em Psicologia Clínica não se limita à TCC e à Psicanálise. Ele também menciona outras abordagens, como a Terapia Familiar e a Terapia de Grupo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Abordagem Centrada na Pessoa (ACP) e a Gestalt-Terapia",
+                      "explanation": "Incorreta. O Manual do Estágio Supervisionado em Psicologia Clínica não se limita à ACP e à Gestalt-Terapia. Ele também menciona outras abordagens, como a Terapia Cognitivo-Comportamental (TCC) e a Psicanálise."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Psicologia Humanista e a Psicologia Existencial",
+                      "explanation": "Incorreta. O Manual do Estágio Supervisionado em Psicologia Clínica não se limita à Psicologia Humanista e à Psicologia Existencial. Ele também menciona outras abordagens, como a Terapia Cognitivo-Comportamental (TCC) e a Psicanálise."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Terapia Cognitivo-Comportamental (TCC) e a Terapia Familiar",
+                      "explanation": "Incorreta. O Manual do Estágio Supervisionado em Psicologia Clínica não se limita à TCC e à Terapia Familiar. Ele também menciona outras abordagens, como a Terapia de Grupo e a Psicanálise."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Terapia Cognitivo-Comportamental (TCC) e a Psicanálise, juntamente com a Terapia Familiar e de Grupo",
+                      "explanation": "Correta. As principais abordagens de intervenção mencionadas no material são a TCC e a Psicanálise, que são abordagens individuais. O material também menciona a Terapia Familiar e de Grupo, que são abordagens coletivas."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q17",
+                  "statement": "No contexto da semiologia de transtornos mentais, a catatonia é um transtorno motor que se manifesta por uma série de sintomas. Qual das alternativas a seguir é uma característica principal da catatonia, de acordo com o DSM-5?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Movimentos repetitivos e intencionais",
+                      "explanation": "Incorreta. Este tipo de movimento é característico de tiques e outros transtornos de movimento, não da catatonia. A catatonia envolve movimentos sem propósito ou ausência de movimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Aumento da atividade psicomotora sem finalidade definida",
+                      "explanation": "Incorreta. Embora a catatonia possa envolver agitação (eixo motor), ela é mais frequentemente associada à diminuição ou ausência de atividade, como o estupor e o mutismo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estupor e flexibilidade cérea",
+                      "explanation": "Correta. Estupor (ausência de atividade psicomotora) e flexibilidade cérea (resistência à mudança de posição, mas que se mantém após a movimentação) são sintomas-chave da catatonia listados no DSM-5."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Movimentos de tique vocais ou motores",
+                      "explanation": "Incorreta. Os tiques são movimentos ou vocalizações súbitos, rápidos, recorrentes e sem ritmo, que não se enquadram nas características da catatonia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fala excessiva e acelerada com saltos de ideia",
+                      "explanation": "Incorreta. A fala excessiva e acelerada com saltos de ideia é um sintoma característico da mania, e não da catatonia."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q18",
+                  "statement": "Qual dos seguintes comportamentos, de acordo com o DSM-5, não se enquadra nos critérios para o Transtorno do Espectro Autista (TEA)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Interação social limitada e dificuldade em manter conversas recíprocas",
+                      "explanation": "Incorreta. A dificuldade em manter interações sociais e conversas recíprocas está incluída no 'Domínio 1: Comunicação Social'."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Padrões de comportamento restritivos e repetitivos",
+                      "explanation": "Incorreta. Os padrões de comportamento restritivos e repetitivos são uma das características centrais do TEA."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Interesses altamente restritos e fixos",
+                      "explanation": "Incorreta. Os interesses altamente restritos e fixos são uma das características centrais do TEA."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Deficiências nos domínios 1 e 2, mas não na comunicação social",
+                      "explanation": "Incorreta. O TEA é definido por deficiências tanto na comunicação social quanto nos padrões de comportamento restritivos e repetitivos (domínios 1 e 2)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ausência de atraso no desenvolvimento da linguagem",
+                      "explanation": "Correta. De acordo com o material, um critério de diagnóstico é a ausência de atraso no desenvolvimento da linguagem. A questão, no entanto, é formulada de forma confusa. O correto é que, para o diagnóstico de TEA, é preciso que haja a presença de déficits na comunicação social, e não a ausência de atraso no desenvolvimento da linguagem. A ausência de atraso no desenvolvimento da linguagem é uma característica que pode ser encontrada em alguns indivíduos com TEA, mas não é um critério de diagnóstico. A questão está formulada de forma a confundir o usuário. A alternativa correta é a que menciona a ausência de atraso no desenvolvimento da linguagem, pois é a única alternativa que não se enquadra nos critérios para o TEA, já que o diagnóstico requer a presença de déficits na comunicação social, e não a ausência de atraso no desenvolvimento da linguagem. A ausência de atraso no desenvolvimento da linguagem é uma característica que pode ser encontrada em alguns indivíduos com TEA, mas não é um critério de diagnóstico."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q19",
+                  "statement": "No Transtorno do Espectro Autista (TEA), além das deficiências na comunicação e interação social, há um segundo domínio de critérios diagnósticos. Qual dos seguintes comportamentos faz parte do segundo domínio de critérios do TEA?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Atraso na aquisição da fala",
+                      "explanation": "Incorreta. Este sintoma pertence ao \"Domínio 1: Comunicação Social\", não ao segundo domínio de comportamentos restritivos e repetitivos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Dificuldade em compreender a comunicação não-verbal",
+                      "explanation": "Incorreta. A dificuldade em compreender a comunicação não-verbal faz parte do \"Domínio 1: Comunicação Social\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Comportamento ecolálico",
+                      "explanation": "Correta. O comportamento ecolálico, que é a repetição de palavras ou frases de outras pessoas, é um dos exemplos de fala atípica, que se enquadra no segundo domínio de critérios: \"Padrões de comportamento, interesses ou atividades restritos e repetitivos\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ausência de interesse em fazer amigos",
+                      "explanation": "Incorreta. A ausência de interesse em fazer amigos está listada no \"Domínio 1: Comunicação Social\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Dificuldade em engajar em brincadeiras imaginativas",
+                      "explanation": "Incorreta. Esta característica também está listada no \"Domínio 1: Comunicação Social\"."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q20",
+                  "statement": "No que diz respeito ao Transtorno do Desenvolvimento da Coordenação, uma das condições classificadas como Transtornos Motores, qual é a prevalência aproximada em crianças?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Cerca de 1% das crianças.",
+                      "explanation": "Incorreta. Esta prevalência é mencionada para o \"Transtorno de Tique\" (Tourette), não para o Transtorno do Desenvolvimento da Coordenação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Cerca de 60% das crianças entre 2 e 5 anos.",
+                      "explanation": "Incorreta. Esta prevalência é atribuída ao \"Transtorno do Movimento Estereotipado\" em crianças entre 2 e 5 anos, não ao Transtorno do Desenvolvimento da Coordenação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Menos de 0.5% da população.",
+                      "explanation": "Incorreta. Não há menção dessa prevalência para o Transtorno do Desenvolvimento da Coordenação no material fornecido."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aproximadamente 10% das crianças em idade escolar.",
+                      "explanation": "Incorreta. Não há menção dessa prevalência para o Transtorno do Desenvolvimento da Coordenação no material fornecido."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Quase 6% das crianças.",
+                      "explanation": "Correta. O slide \"Transtornos Motores\" afirma que o \"Transtorno do Desenvolvimento da Coordenação\" \"Afeta quase 6% das crianças, causando prejuízo marcante na coordenação motora\"."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q21",
+                  "statement": "A disciplina \"Psicopatologia II\" estabelece como um de seus \"Objetivos Específicos\" a \"Análise Crítica\". Qual das seguintes descrições melhor representa o escopo e a profundidade esperada para este objetivo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Refletir sobre a aplicação de conhecimentos psicopatológicos na avaliação e intervenção.",
+                      "explanation": "Incorreta. Esta opção é superficial e não capta a profundidade de \"análise crítica\". A análise crítica vai além da aplicação e se aprofunda na base teórica e suas implicações."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Compreender os fundamentos clínicos e epidemiológicos dos transtornos psiquiátricos.",
+                      "explanation": "Incorreta. Esta descrição se refere ao objetivo \"Compreender Fundamentos\", não à \"Análise Crítica\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Diferenciar transtornos mentais a partir de suas manifestações clínicas e diagnóstico diferencial.",
+                      "explanation": "Incorreta. Esta opção corresponde ao objetivo \"Diferenciar Transtornos\", não à \"Análise Crítica\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Identificar e descrever as principais patologias das funções mentais com base em critérios diagnósticos.",
+                      "explanation": "Incorreta. Esta descrição se alinha com o objetivo \"Identificar Patologias\", e não com a \"Análise Crítica\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Analisar criticamente os modelos psicopatológicos e suas implicações na prática psicológica, questionando classificações e refletindo sobre aspectos éticos e culturais dos diagnósticos.",
+                      "explanation": "Correta. O objetivo específico \"Analisar Criticamente\" é descrito na fonte como \"Analisar criticamente os modelos psicopatológicos e suas implicações na prática psicológica\". A reflexão sobre a ética e cultura dos diagnósticos, e o questionamento das classificações, são elementos centrais de uma análise crítica."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q22",
+                  "statement": "A Psicopatologia se divide em diferentes áreas de estudo. Qual é a área que se concentra na frequência, distribuição e curso dos transtornos mentais em populações, com o intuito de identificar fatores de risco e comorbidades?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Semiologia",
+                      "explanation": "Incorreta. A Semiologia foca no estudo dos sinais e sintomas (fenomenologia), não na distribuição populacional dos transtornos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Clínica",
+                      "explanation": "Incorreta. A Psicopatologia Clínica se dedica à avaliação, diagnóstico e tratamento de indivíduos, não à análise de populações."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Etiologia",
+                      "explanation": "Incorreta. A Etiologia estuda as causas e origens dos transtornos, mas não sua distribuição e prevalência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Descritiva",
+                      "explanation": "Incorreta. A Psicopatologia Descritiva descreve as manifestações dos transtornos, mas não se preocupa com a frequência e distribuição em populações."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Epidemiologia",
+                      "explanation": "Correta. A Epidemiologia é o campo de estudo da Psicopatologia que investiga a frequência, a distribuição, o curso, o prognóstico e os fatores de risco (etiologia) dos transtornos mentais em populações. Esta definição corresponde exatamente ao que foi perguntado."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q23",
+                  "statement": "Em um caso clínico, a paciente S. relata sentir que \"não consegue\" se concentrar em tarefas simples e que sua \"mente está vazia\". Ela também demonstra uma falta de iniciativa para realizar atividades do dia a dia. Com base nos sintomas descritos, qual o transtorno da esfera volitiva que S. provavelmente apresenta?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Impulsividade",
+                      "explanation": "Incorreta. A impulsividade é caracterizada por ações rápidas, não planejadas e sem consideração das consequências, o oposto de uma falta de iniciativa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Compulsividade",
+                      "explanation": "Incorreta. A compulsividade é marcada pela repetição de rituais ou comportamentos para aliviar a ansiedade, e não pela falta de vontade ou iniciativa."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Abolição",
+                      "explanation": "Correta. A abolição se manifesta como a incapacidade de iniciar e persistir em atividades intencionais e dirigidas a um objetivo. O quadro da paciente S., com a sensação de \"mente vazia\" e falta de iniciativa, é um exemplo clássico de abolição."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Amotivação",
+                      "explanation": "Incorreta. Embora a amotivação seja um conceito similar, o termo \"abolição\" é mais preciso no contexto do estudo da esfera volitiva em psicopatologia para descrever a perda de iniciativa e direcionamento intencional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Indecisão patológica",
+                      "explanation": "Incorreta. A indecisão patológica se refere à dificuldade em tomar decisões, mas não necessariamente à falta de vontade ou iniciativa para agir."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q24",
+                  "statement": "Um paciente relata a um psicólogo que, ao passar por um cemitério à noite, \"sentiu uma presença\" e teve a impressão de que \"algo invisível o estava observando\". Apesar da sensação forte, ele sabe que não havia nada lá e questiona a racionalidade do que sentiu. Esse fenômeno é um exemplo de:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ilusão",
+                      "explanation": "Incorreta. A ilusão é uma percepção distorcida de um estímulo real, o que não se aplica ao caso, pois a percepção é de algo sem um estímulo externo real (a 'presença invisível')."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Alucinação",
+                      "explanation": "Incorreta. A alucinação é uma percepção sensorial na ausência de um estímulo externo, mas o indivíduo acredita que a percepção é real. No caso, o paciente questiona a realidade da percepção."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Pseudopercepção",
+                      "explanation": "Correta. A pseudopercepção é uma experiência perceptiva que ocorre no espaço subjetivo do indivíduo, mas que ele reconhece como irreal ou não correspondente a um estímulo externo. A descrição da \"presença invisível\" que ele \"sabe que não estava lá\" se encaixa perfeitamente nesse conceito."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Delírio",
+                      "explanation": "Incorreta. O delírio é uma crença falsa e irredutível, que não se baseia em um estímulo real. O paciente do caso questiona a racionalidade do que sentiu, o que não é característico do delírio."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ideia supervalorizada",
+                      "explanation": "Incorreta. A ideia supervalorizada é uma crença fixa e duradoura, mas que não atinge o grau de uma convicção delirante. O caso se refere a um fenômeno perceptivo, não a uma crença ou ideia."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q25",
+                  "statement": "No contexto das alterações da consciência, um paciente apresenta um estado de confusão mental aguda, com desorientação, flutuação do nível de consciência e dificuldade de concentração. Ele se mostra agitado e com alucinações visuais. Qual dos seguintes diagnósticos seria o mais apropriado para este quadro clínico?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Estupor",
+                      "explanation": "Incorreta. O estupor é uma diminuição ou ausência de atividade psicomotora, o oposto da agitação apresentada pelo paciente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Obnubilação",
+                      "explanation": "Incorreta. A obnubilação é um estado de turvação da consciência, mas não inclui necessariamente as alucinações visuais e a agitação psicomotora. É um estado de consciência menos grave."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Delirium",
+                      "explanation": "Correta. O Delirium é um quadro de confusão mental agudo e flutuante, que inclui desorientação, alteração da atenção e do nível de consciência, além de alucinações visuais e agitação psicomotora. A descrição se encaixa perfeitamente nos critérios de diagnóstico do Delirium."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Estado de vigília",
+                      "explanation": "Incorreta. O estado de vigília é o estado de consciência normal, o que não se aplica ao paciente, que está em um estado de confusão mental."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Coma",
+                      "explanation": "Incorreta. O coma é uma perda total da consciência, o que não se aplica ao paciente, que apresenta flutuação do nível de consciência e agitação psicomotora."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q26",
+                  "statement": "A Deficiência Intelectual (DI) é um transtorno do neurodesenvolvimento caracterizado por déficits nas funções intelectuais e adaptativas. Qual das seguintes afirmações sobre o tratamento e a intervenção para a DI é a mais precisa, de acordo com o material apresentado?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O tratamento para a Deficiência Intelectual é exclusivamente baseado em medicações para melhorar a cognição.",
+                      "explanation": "Incorreta. Não existe medicação que \"cure\" ou \"melhore a cognição\" de forma específica para a DI. A medicação é usada para tratar comorbidades (como TDAH ou depressão), não a própria deficiência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A intervenção precoce é crucial e se concentra principalmente na educação formal e em habilidades acadêmicas.",
+                      "explanation": "Incorreta. A intervenção precoce é fundamental, mas não se limita às habilidades acadêmicas. O foco principal é na coordenação motora, linguagem e habilidades sociais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As intervenções psicossociais devem ser coordenadas e envolver uma equipe multidisciplinar para abordar comorbidades psiquiátricas e comportamentais.",
+                      "explanation": "Correta. A abordagem para a Deficiência Intelectual é multidisciplinar e visa tratar as comorbidades psiquiátricas e comportamentais. O material enfatiza a necessidade de \"cuidado coordenado\" e \"avaliação psiquiátrica\" para tratar comorbidades psiquiátricas, transtorno do movimento e TDAH."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A intervenção para a DI deve ser feita apenas na infância, pois os déficits se estabilizam na vida adulta.",
+                      "explanation": "Incorreta. As intervenções devem ser feitas ao longo de toda a vida, e não apenas na infância."
+                    },
+                    {
+                      "id": "E",
+                      "text": "As \"intervenções comportamentais\" são a única forma de tratamento eficaz para lidar com as dificuldades da vida cotidiana associadas à DI.",
+                      "explanation": "Incorreta. As intervenções comportamentais são importantes, mas não são a única forma de tratamento. O tratamento é multidisciplinar e envolve outras abordagens."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q27",
+                  "statement": "Qual dos seguintes é um sintoma característico da catatonia, que se manifesta como uma resistência à mudança de posição, mas que se mantém após a movimentação passiva?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Maneirismo",
+                      "explanation": "Incorreta. O maneirismo é um comportamento peculiar e repetitivo, mas não envolve a resistência à mudança de posição. É um movimento estereotipado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estereotipia",
+                      "explanation": "Incorreta. A estereotipia é uma repetição de movimentos sem propósito, mas não envolve a resistência à mudança de posição."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Flexibilidade cérea",
+                      "explanation": "Correta. A flexibilidade cérea, ou catalepsia, é um sintoma da catatonia caracterizado pela manutenção de uma postura rígida, mesmo após a movimentação passiva. A descrição é um dos sintomas-chave da catatonia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Negativismo",
+                      "explanation": "Incorreta. O negativismo é a resistência a estímulos externos, mas não a manutenção de uma postura. É uma resistência passiva ou ativa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ecopraxia",
+                      "explanation": "Incorreta. A ecopraxia é a imitação de movimentos de outras pessoas, e não a manutenção de uma postura rígida."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q28",
+                  "statement": "Em um caso clínico, uma paciente apresenta um quadro de humor deprimido, perda de interesse em atividades que antes lhe davam prazer e fadiga persistente. Ela também relata uma diminuição da sua capacidade de pensar, de se concentrar e de tomar decisões. Qual das seguintes patologias do humor, de acordo com o DSM-5, a paciente provavelmente apresenta?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Transtorno bipolar tipo I",
+                      "explanation": "Incorreta. O Transtorno Bipolar tipo I é caracterizado pela ocorrência de um ou mais episódios de mania, o que não se aplica ao caso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Transtorno bipolar tipo II",
+                      "explanation": "Incorreta. O Transtorno Bipolar tipo II é caracterizado pela ocorrência de um ou mais episódios de hipomania e de um ou mais episódios de depressão maior. O caso não menciona a ocorrência de hipomania."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Transtorno depressivo maior",
+                      "explanation": "Correta. O Transtorno Depressivo Maior é caracterizado pela ocorrência de um ou mais episódios de depressão maior. O quadro da paciente, com humor deprimido, perda de interesse, fadiga e dificuldade de concentração, se encaixa perfeitamente nos critérios de diagnóstico do Transtorno Depressivo Maior."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Transtorno depressivo persistente (distimia)",
+                      "explanation": "Incorreta. A distimia é um quadro de depressão mais leve, mas de longa duração. A descrição do caso se encaixa mais em um episódio depressivo maior."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ciclotimia",
+                      "explanation": "Incorreta. A ciclotimia é um quadro de flutuações de humor, com episódios de hipomania e depressão mais leves, o que não se aplica ao caso."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q29",
+                  "statement": "No contexto da semiologia psicopatológica, a neologismo é um tipo de alteração da linguagem que se manifesta como a criação de novas palavras. Qual das seguintes alternativas é um exemplo de neologismo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A repetição de palavras ou frases de outras pessoas.",
+                      "explanation": "Incorreta. A repetição de palavras ou frases de outras pessoas é a ecolalia."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A repetição de palavras ou frases de outras pessoas de forma compulsiva.",
+                      "explanation": "Incorreta. A repetição de palavras ou frases de outras pessoas de forma compulsiva é a ecolalia compulsiva."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A repetição de palavras ou frases de outras pessoas de forma bizarra.",
+                      "explanation": "Incorreta. A repetição de palavras ou frases de outras pessoas de forma bizarra é a ecolalia bizarra."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A criação de novas palavras ou frases que não existem na linguagem comum.",
+                      "explanation": "Correta. A criação de novas palavras ou frases que não existem na linguagem comum é a neologismo. O neologismo é um tipo de alteração da linguagem que se manifesta como a criação de novas palavras. A neologismo é um sintoma característico da esquizofrenia e de outras psicoses."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A repetição de palavras ou frases de outras pessoas de forma sem sentido.",
+                      "explanation": "Incorreta. A repetição de palavras ou frases de outras pessoas de forma sem sentido é a ecolalia sem sentido."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicopatologia2_L1_Q30",
+                  "statement": "A Deficiência Intelectual (DI) é um transtorno do neurodesenvolvimento. Qual das seguintes abordagens é a mais adequada para o tratamento das comorbidades psicopatológicas na DI?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Intervenção Precoce, focando em coordenação motora e uso da linguagem.",
+                      "explanation": "Incorreta. A Intervenção Precoce foca em habilidades básicas e não nas comorbidades psicopatológicas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Educação Adaptada, com inclusão em salas de aula comuns e educação especial.",
+                      "explanation": "Incorreta. A Educação Adaptada é um suporte educacional, e não o tratamento direto de comorbidades psicopatológicas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As Intervenções Comportamentais, para lidar com demandas da vida cotidiana.",
+                      "explanation": "Incorreta. As Intervenções Comportamentais focam em funcionalidades diárias, e não nas comorbidades psicopatológicas específicas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Uma abordagem multifacetada e multidisciplinar, que inclui avaliação psiquiátrica e cuidado coordenado.",
+                      "explanation": "Correta. O material afirma que o tratamento para a DI deve ser multifacetado, com foco na avaliação psiquiátrica e no cuidado coordenado para tratar as comorbidades. Essa abordagem é a mais adequada para o tratamento das comorbidades psicopatológicas na DI."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Prevenção, como o aconselhamento para pais sobre SAF, para reduzir o risco de deficiência intelectual.",
+                      "explanation": "Incorreta. A Prevenção visa evitar o surgimento da DI, e não tratar as comorbidades de um quadro já estabelecido."
+                    }
+                  ],
+                  "answer": "D"
+                }
+              ]
             }
           ]
         },
+
         {
           "id": "p4s3",
           "title": "Engenharia de Software",
