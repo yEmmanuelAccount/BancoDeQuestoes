@@ -1,3 +1,5 @@
+// questions.js
+
 function getQuery(){ 
   const s=new URLSearchParams(location.search); 
   return {period:s.get('period'), subject:s.get('subject'), list:s.get('list')}; 
@@ -156,9 +158,16 @@ nextBtn.addEventListener('click', ()=>{
 
 function updateButtons(){
   prevBtn.disabled = currentIndex === 0;
-  nextBtn.disabled = currentIndex === questions.length - 1;
+
+  // altera texto do botão na última questão
+  if(currentIndex === questions.length - 1){
+    nextBtn.textContent = "Finalizar";
+  } else {
+    nextBtn.textContent = "Próxima";
+  }
 }
 
+// ===== Mostrar pontuação final =====
 function showScore(){
   const total = questions.length;
   let correct = 0;

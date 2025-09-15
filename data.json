@@ -1,72 +1,140 @@
 {
   "periods": [
     {
-      "id": "periodo1",
+      "id": "p1",
       "title": "1º Período",
-      "meta": "Introdução",
+      "meta": "Disciplinas iniciais",
+      "subjects": []
+    },
+    {
+      "id": "p2",
+      "title": "2º Período",
+      "meta": "Disciplinas intermediárias",
+      "subjects": []
+    },
+    {
+      "id": "p3",
+      "title": "3º Período",
+      "meta": "Disciplinas avançadas",
+      "subjects": []
+    },
+
+    {
+      "id": "p4",
+      "title": "4º Período",
+      "meta": "Disciplinas específicas",
       "subjects": [
         {
-          "id": "logica",
-          "title": "Lógica de Programação",
+          "id": "p4_Etica_e_Legislacao",
+          "title": "Ética e Legislação",
           "lists": [
             {
-              "id": "lista1",
+              "id": "p4_EeL_L1",
               "title": "Lista 1",
               "questions": [
                 {
-                  "id": "q1",
-                  "statement": "Qual a saída do código: console.log(1 + '2') ?",
+                  "id": "p4_EeL_L1_Q1",
+                  "statement": "Qual o órgão responsável por orientar, disciplinar e fiscalizar o exercício da profissão de psicólogo em todo o Território Nacional, de acordo com o documento do Código de Ética de 1996 (referindo-se ao de 1987)?",
                   "options": [
-                    { "id": "A", "text": "'12'", "explanation": "Concatenação string + número." },
-                    { "id": "B", "text": "3", "explanation": "Soma numérica (incorreto porque um operando é string)." },
-                    { "id": "C", "text": "'3'", "explanation": "String '3' (incorreto)." },
-                    { "id": "D", "text": "Erro", "explanation": "Não ocorre erro." },
-                    { "id": "E", "text": "undefined", "explanation": "Não é undefined." }
-                  ],
-                  "answer": "A"
-                },
-                {
-                  "id": "q2",
-                  "statement": "Em pseudocódigo, qual estrutura repete enquanto condição for verdadeira?",
-                  "options": [
-                    { "id": "A", "text": "if", "explanation": "if é condicional, não repetição." },
-                    { "id": "B", "text": "for", "explanation": "for repete, mas a forma 'enquanto' corresponde a while." },
-                    { "id": "C", "text": "while", "explanation": "while repete enquanto a condição for verdadeira." },
-                    { "id": "D", "text": "switch", "explanation": "switch é seleção." },
-                    { "id": "E", "text": "return", "explanation": "return encerra." }
+                    {
+                      "id": "A",
+                      "text": "Associação Brasileira de Psicólogos (ABP)",
+                      "explanation": "Incorreto. A ABP teve um papel crucial na elaboração do anteprojeto do primeiro Código de Ética, mas não é o órgão de fiscalização e disciplina da profissão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ministério da Educação e Cultura (MEC)",
+                      "explanation": "Incorreto. O MEC é responsável pelo registro profissional inicial e regulamentação de cursos, mas não pela orientação, disciplina e fiscalização contínua do exercício profissional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Conselho Federal de Psicologia (CFP)",
+                      "explanation": "Correto! O Conselho Federal de Psicologia (CFP) é uma autarquia federal, instituída pela Lei n.º 5.766/71, com a finalidade de orientar, disciplinar e fiscalizar o exercício da profissão de psicólogo em todo o Território Nacional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Sociedade de Psicologia de São Paulo (SPSP)",
+                      "explanation": "Incorreto. A SPSP também participou da discussão inicial do Código, mas não é um órgão regulador com as funções de orientação, disciplina e fiscalização."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Conselho Regional de Psicologia (CRP)",
+                      "explanation": "Incorreto. Os Conselhos Regionais de Psicologia (CRPs) atuam na esfera regional, enquanto o Conselho Federal de Psicologia (CFP) é o órgão que orienta, disciplina e fiscaliza em todo o Território Nacional."
+                    }
                   ],
                   "answer": "C"
-                }
-              ]
-            },
-            {
-              "id": "lista2",
-              "title": "Lista 2",
-              "questions": [
-                {
-                  "id": "q1",
-                  "statement": "Pergunta exemplo da lista 2",
-                  "options": [
-                    { "id": "A", "text": "Opção A", "explanation": "Explicação A" },
-                    { "id": "B", "text": "Opção B", "explanation": "Explicação B" },
-                    { "id": "C", "text": "Opção C", "explanation": "Explicação C" },
-                    { "id": "D", "text": "Opção D", "explanation": "Explicação D" },
-                    { "id": "E", "text": "Opção E", "explanation": "Explicação E" }
-                  ],
-                  "answer": "B"
                 }
               ]
             }
           ]
         },
         {
-          "id": "matematica",
-          "title": "Matemática",
-          "lists": []
+          "id": "p4s2",
+          "title": "Banco de Dados I",
+          "lists": [
+            {
+              "id": "p4s2l1",
+              "title": "Lista 1",
+              "questions": []
+            }
+          ]
+        },
+        {
+          "id": "p4s3",
+          "title": "Engenharia de Software",
+          "lists": [
+            {
+              "id": "p4s3l1",
+              "title": "Lista 1",
+              "questions": []
+            }
+          ]
+        },
+        {
+          "id": "p4s4",
+          "title": "Redes de Computadores",
+          "lists": [
+            {
+              "id": "p4s4l1",
+              "title": "Lista 1",
+              "questions": []
+            }
+          ]
+        },
+        {
+          "id": "p4s5",
+          "title": "Probabilidade e Estatística",
+          "lists": [
+            {
+              "id": "p4s5l1",
+              "title": "Lista 1",
+              "questions": []
+            }
+          ]
+        },
+        {
+          "id": "p4s6",
+          "title": "Teoria da Computação",
+          "lists": [
+            {
+              "id": "p4s6l1",
+              "title": "Lista 1",
+              "questions": []
+            }
+          ]
+        },
+        {
+          "id": "p4s7",
+          "title": "Sistemas Operacionais",
+          "lists": [
+            {
+              "id": "p4s7l1",
+              "title": "Lista 1",
+              "questions": []
+            }
+          ]
         }
       ]
     }
-
-    
   ]
 }
