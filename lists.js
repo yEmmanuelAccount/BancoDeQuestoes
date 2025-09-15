@@ -1,4 +1,3 @@
-// lists.js
 function getQuery(){ 
   const s=new URLSearchParams(location.search); 
   return {period:s.get('period'), subject:s.get('subject')}; 
