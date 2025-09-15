@@ -1,9 +1,25 @@
-/* ====== RESET BÁSICO ====== */
+/* ====== RESET E ESTILOS GERAIS ====== */
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
-  background: #1c1c1c;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #121212;
+  color: #e0e0e0;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
   color: #fff;
+  margin-top: 0;
+}
+
+a {
+  color: #a371f7;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #8e5fe5;
 }
 
 /* ====== CABEÇALHO ====== */
@@ -11,8 +27,9 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 30px;
-  background: #2b2b2b;
+  padding: 16px 32px;
+  background: #1e1e1e;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -21,159 +38,237 @@ body {
 .logo {
   font-weight: bold;
   color: #fff;
-  text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 
 .cta {
   background: #a371f7;
-  padding: 8px 16px;
+  padding: 10px 20px;
   border-radius: 8px;
   color: #fff;
-  text-decoration: none;
   font-weight: bold;
+  transition: background-color 0.2s ease-in-out;
 }
 
 .cta:hover {
   background: #8e5fe5;
 }
 
-/* ====== CONTAINERS ====== */
+/* ====== CONTAINERS E GRID ====== */
 .container {
-  max-width: 900px;
-  margin: auto;
+  max-width: 960px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 20px;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.simple-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.simple-list a {
+  background: #252525;
+  padding: 16px;
+  border-radius: 8px;
+  color: #e0e0e0;
+  font-size: 1.1rem;
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.simple-list a:hover {
+  background: #333;
+  transform: translateY(-2px);
+}
+
+/* ====== HOME PAGE ====== */
+.home-intro {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.home-intro h1 {
+  font-size: 2.5rem;
+  margin-bottom: 12px;
+}
+
+.home-intro p {
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto 20px;
+  color: #b0b0b0;
+}
+
+ol li {
+  color: #b0b0b0;
+  margin-bottom: 8px;
+}
+
+/* ====== CARD ESTILOS (Períodos e Matérias) ====== */
+.card, .period-card {
+  background: #252525;
+  border-radius: 12px;
   padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #e0e0e0;
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.card:hover, .period-card:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.5);
+  background: #2b2b2b;
+}
+
+.card .title, .period-card .title {
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.card .subtitle, .period-card .subtitle {
+  font-size: 0.9rem;
+  color: #888;
+}
+
+/* ====== BOTÕES DE NAVEGAÇÃO ====== */
+.btn {
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1rem;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.btn-primary {
+  background-color: #a371f7;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #8e5fe5;
+}
+
+.btn-ghost {
+  background-color: transparent;
+  color: #a371f7;
+  border: 2px solid #a371f7;
+}
+
+.btn-ghost:hover {
+  background-color: rgba(163, 113, 247, 0.1);
+  color: #8e5fe5;
+  border-color: #8e5fe5;
+}
+
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 .row {
   display: flex;
   align-items: center;
-  gap: 10px;
-}
-
-/* ====== BOTÕES ====== */
-.btn {
-  padding: 10px 16px;
-  border-radius: 8px;
-  font-weight: bold;
-  cursor: pointer;
-  border: none;
-  transition: background 0.3s;
-}
-
-.btn-primary {
-  background: #a371f7;
-  color: #fff;
-}
-
-.btn-primary:hover {
-  background: #8e5fe5;
-}
-
-.btn-ghost {
-  background: transparent;
-  border: 1px solid #a371f7;
-  color: #a371f7;
-}
-
-.btn-ghost:hover {
-  background: rgba(163, 113, 247, 0.2);
-}
-
-/* ====== CARTAS (Períodos) ====== */
-.periods-grid {
-  display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  gap: 20px;
-  justify-items: center;
-}
-
-.period-card {
-  background: #2c2c2c;
-  padding: 20px;
-  width: 120px;
-  height: 160px;
-  border-radius: 12px;
-  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  font-weight: bold;
-  font-size: 1.1rem;
-  text-align: center;
-  cursor: pointer;
-  transition: transform 0.2s;
 }
 
-.period-card:hover {
-  transform: scale(1.05);
-  background: #3a3a3a;
-}
-
-/* ====== QUESTÕES ====== */
+/* ====== PÁGINA DE QUESTÕES ====== */
 .q-card {
-  background-color: #2c2c2c;
-  border-radius: 10px;
-  padding: 18px;
-  margin-bottom: 20px;
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 24px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
 }
 
 .q-statement {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-weight: bold;
-  margin-bottom: 14px;
-  text-align: left; /* alinhado à esquerda */
+  margin-bottom: 20px;
+  text-align: left;
+  color: #e0e0e0;
 }
 
 .options {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 12px;
 }
 
 .option {
-  background: #3c3c3c;
-  padding: 10px;
+  background: #282828;
+  padding: 16px;
   border-radius: 8px;
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
   cursor: pointer;
+  transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
+  border: 2px solid transparent;
 }
 
-.option input {
-  display: none;
+.option:hover {
+  background: #333;
+  transform: translateY(-2px);
 }
 
-.option-header {
-  display: flex;
-  align-items: center;
-  gap: 10px;
+.option.selected {
+  border-color: #a371f7;
+  background: #2e2e2e;
 }
 
-.option .opt-id {
-  font-weight: bold;
+.option.correct {
+  border-color: #4CAF50;
+  background: #2e3d2e;
 }
 
-.option .opt-text {
-  text-align: left; /* alinhado à esquerda */
+.option.wrong {
+  border-color: #F44336;
+  background: #422d2d;
 }
 
-.option .explanation {
-  margin-top: 6px;
-  padding: 8px;
-  background: #444;
+.option.confirmed {
+  pointer-events: none;
+}
+
+.explanation {
+  background: #222;
   border-left: 4px solid #a371f7;
-  border-radius: 6px;
-  font-size: 0.9rem;
-  line-height: 1.4;
+  padding: 16px;
+  margin-top: 12px;
+  border-radius: 0 8px 8px 0;
   display: none;
-  text-align: left; /* alinhado à esquerda */
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
-.correct {
-  background: #2e7d32 !important;
+.option b {
+  color: #a371f7;
 }
 
-.wrong {
-  background: #c62828 !important;
+/* ====== OUTROS ESTILOS UTEIS ====== */
+#page-title {
+  color: #fff;
+  font-size: 2rem;
+  margin-bottom: 16px;
+}
+.muted {
+  color: #888;
+  text-align: center;
 }
