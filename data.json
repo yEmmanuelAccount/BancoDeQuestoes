@@ -63,6 +63,934 @@
                     }
                   ],
                   "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q2",
+                  "statement": "De acordo com a \"História da construção do Código de Ética Profissional do Psicólogo\", qual é a finalidade de um Código de conduta para um determinado grupo de pessoas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas definir as sanções para o descumprimento de normas.",
+                      "explanation": "Incorreto. Embora o Código preveja sanções para infrações, sua finalidade principal é orientar as ações e servir de referência para avaliação, não apenas para punição."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apresentar os princípios que o grupo deverá usar como referência para suas ações e servir como recurso para avaliar e julgar essas ações.",
+                      "explanation": "Correto! A \"História da construção do Código de Ética Profissional do Psicólogo\" esclarece que um Código de conduta tem por finalidade \"apresentar os princípios que determinado grupo de pessoas deverá utilizar como referência para suas ações\" e, inversamente, esses mesmos princípios \"também servirão como recurso para avaliar e julgar as ações desse grupo em relação à sociedade\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Exclusivamente consolidar a imagem social do profissional no mercado de trabalho.",
+                      "explanation": "Incorreto. A consolidação da imagem social é uma consequência, mas o Código também visa a proteção e defesa dos direitos dos usuários e a orientação do próprio profissional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Regulamentar as relações apenas entre os profissionais.",
+                      "explanation": "Incorreto. O Código de conduta visa \"moldar, regulamentar as relações entre os profissionais e entre estes e a sociedade\", não se limitando apenas às relações entre pares."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Proporcionar respostas pré-fabricadas para todos os dilemas morais.",
+                      "explanation": "Incorreto. O Código de Ética não é um \"oráculo, com respostas prontas e fechadas para tudo\", mas sim um instrumento para reflexão, e não pode proporcionar soluções pré-fabricadas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L1_Q3",
+                  "statement": "Qual Resolução aprovou o Código de Ética Profissional do Psicólogo de 1987?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Resolução CFP Nº 029/79.",
+                      "explanation": "Esta resolução aprovou o Código de Ética de 1979, anterior ao de 1987."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Resolução CFP Nº 010/2005.",
+                      "explanation": "Esta resolução aprovou o Código de Ética Profissional do Psicólogo em vigor atualmente, que é posterior ao de 1987."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Resolução CFP Nº 002/87.",
+                      "explanation": "A Resolução CFP Nº 002/87, aprovada em 15 de agosto de 1987, foi a responsável por aprovar o Código de Ética Profissional do Psicólogo que entrou em vigor em 27 de agosto de 1987."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Resolução CFP Nº 006/2001.",
+                      "explanation": "Esta resolução instituiu o Código de Processamento Disciplinar, não o Código de Ética Profissional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Resolução CFP Nº 008/1975.",
+                      "explanation": "O primeiro Código de Ética da categoria foi aprovado pela Resolução CFP n° 8, de 02 de fevereiro de 1975."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q4",
+                  "statement": "De acordo com o Decreto nº 53.464 de 1964, qual é uma condição indispensável para o exercício legal da profissão de Psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A afiliação a uma Associação Brasileira de Psicólogos.",
+                      "explanation": "Incorreto. O Decreto não menciona a afiliação a associações como uma condição indispensável para o exercício legal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A obtenção prévia do registro profissional de Psicólogo na Diretoria do Ensino Superior do Ministério da Educação e Cultura.",
+                      "explanation": "Correto! O Art. 3º do Decreto nº 53.464 de 1964 estabelece claramente que a \"Condição indispensável para o exercício legal de profissão de Psicólogo é a obtenção prévia do registro profissional de Psicólogo na Diretoria do Ensino Superior do Ministério da Educação e Cultura\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A defesa de tese de doutoramento em Psicologia.",
+                      "explanation": "Incorreto. Embora portadores de doutorado com tese sobre psicologia pudessem exercer a profissão, não era uma condição indispensável para *todos* os psicólogos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A participação em cursos de pós-graduação com duração mínima de dois anos.",
+                      "explanation": "Incorreto. Esta era uma condição para a equiparação de alguns diplomas e certificados de especialistas antes da regulamentação da lei, e não uma condição geral e indispensável para o exercício legal da profissão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O exercício de atividades profissionais de Psicologia Aplicada por mais de cinco anos antes de 1962.",
+                      "explanation": "Incorreto. Essa era uma condição para aqueles que já exerciam a profissão antes da lei de 1962, não uma exigência para o exercício legal futuro."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L1_Q5",
+                  "statement": "Que data é comemorada como o aniversário da aprovação da Lei N.º 4.119, que regulamentou a profissão de Psicólogo, de acordo com a Resolução de 1987?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "15 de agosto de 1987.",
+                      "explanation": "Incorreto. Esta é a data de aprovação da , que aprovou o Código de Ética de 1987, não da Lei de regulamentação da profissão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "30 de agosto de 1979.",
+                      "explanation": "Incorreto. Esta é a data de aprovação do Código de Ética anterior, pela Resolução CFP nº 029/79."
+                    },
+                    {
+                      "id": "C",
+                      "text": "27 de agosto de 1962.",
+                      "explanation": "Correto! O Art. 3º da , de 1987, afirma que a Resolução entraria em vigor em 27 de agosto de 1987, \"data em que se comemoram os 25 anos da aprovação da Lei N.º 4.119, que regulamentou a profissão de Psicólogo\". Contando 25 anos para trás, chega-se a 27 de agosto de 1962."
+                    },
+                    {
+                      "id": "D",
+                      "text": "20 de dezembro de 1971.",
+                      "explanation": "Incorreto. Esta é a data da Lei n.º 5.766, que instituiu o Conselho Federal de Psicologia e os Conselhos Regionais, e não da regulamentação da profissão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "21 de janeiro de 1964.",
+                      "explanation": "Incorreto. Esta é a data em que o Decreto nº 53.464, que regulamentou a Lei nº 4.119, entrou em vigor, não a data da aprovação da própria Lei."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q6",
+                  "statement": "Segundo a \"Exposição de Motivos\" do Código de Ética Profissional do Psicólogo de 1987, de que dupla fonte o Código nasce?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Da ideologia e do poder.",
+                      "explanation": "Incorreto. Embora haja uma discussão sobre a influência da ideologia e do poder na construção de códigos morais, a \"Exposição de Motivos\" do Código de 1987 foca na realidade e no desejo como as fontes primárias."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Da reflexão teórica e da imposição de normas.",
+                      "explanation": "Incorreto. A reflexão e a existência de normas são características do Código, mas a \"Exposição de Motivos\" identifica as fontes como realidade e desejo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Da realidade e do desejo.",
+                      "explanation": "Correto! A \"Exposição de Motivos\" do Código de Ética Profissional do Psicólogo de 1987 afirma explicitamente que o Código \"nasce de uma dupla fonte: da realidade e do desejo. Da realidade, enquanto calcado no que existe, no que está aí, na prática das pessoas, no agir permanente dos que fazem psicologia. Do desejo, enquanto a psicologia é uma preocupação com o amanhã do indivíduo, dos grupos e da sociedade, na procura do bem-estar e da saúde\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Da legislação federal e das resoluções regionais.",
+                      "explanation": "Incorreto. A legislação e as resoluções são o arcabouço formal do Código, mas a \"Exposição de Motivos\" descreve suas fontes em um sentido mais conceitual."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Do senso comum e dos valores grupais.",
+                      "explanation": "Incorreto. A construção do Código de Ética de 1987 envolveu um longo estudo e pesquisa, consultando psicólogos de Conselhos Regionais e outros profissionais, indo além do senso comum."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q7",
+                  "statement": "De acordo com o Art. 1º das Responsabilidades Gerais do Psicólogo no Código de Ética de 1987, qual é um dever fundamental do psicólogo em relação às atividades que assume?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Assumir responsabilidade por todas as atividades que lhe forem designadas.",
+                      "explanation": "Incorreto. Isso contraria diretamente o princípio de que o psicólogo deve atuar apenas dentro de sua capacitação e competência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Assumir responsabilidade somente por atividades para as quais esteja capacitado pessoal e tecnicamente.",
+                      "explanation": "Correto! O Art. 01, alínea \"a\", das Responsabilidades Gerais do Psicólogo no Código de Ética de 1987 estabelece como um dos deveres fundamentais \"Assumir responsabilidade somente por atividades para as quais esteja capacitado pessoal e tecnicamente\". O Código de 2005 reitera essa diretriz."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Delegar todas as responsabilidades técnicas a profissionais mais experientes.",
+                      "explanation": "Incorreto. O dever é de assumir responsabilidade por atividades para as quais se está capacitado, não de delegar *todas* as responsabilidades técnicas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Priorizar atividades lucrativas em detrimento de sua capacitação.",
+                      "explanation": "Incorreto. O Código de Ética enfatiza a capacitação técnica e ética, não o benefício pessoal ou financeiro em detrimento da competência."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Recusar-se a prestar serviços em situações de emergência.",
+                      "explanation": "Incorreto. O Art. 01, alínea \"b\", do Código de 1987 estabelece como dever \"Prestar serviços profissionais, em situações de calamidade pública ou de emergência, sem visar a quaisquer benefícios pessoais\", o que contradiz essa alternativa."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L1_Q8",
+                  "statement": "Qual das seguintes ações é expressamente vedada ao psicólogo, de acordo com o Art. 2º do Código de Ética de 1987?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Participar de movimentos de interesse da categoria.",
+                      "explanation": "Incorreto. O Art. 01, alínea \"g\", do Código de 1987 estabelece como um dever fundamental \"Participar de movimentos de interesse da categoria\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fornecer informações necessárias ao seu substituto.",
+                      "explanation": "Incorreto. O Art. 01, alínea \"e\", do Código de 1987 estabelece como dever \"Fornecer ao seu substituto, quando solicitado, as informações necessárias à evolução do trabalho\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Utilizar títulos que não possua.",
+                      "explanation": "Correto! O Art. 02, alínea \"a\", do Código de Ética de 1987 declara explicitamente que \"Ao Psicólogo é vedado: a) Usar títulos que não possua\". O Código de 2005 também veda a divulgação de títulos ou qualificações que o profissional não possua."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Prestar serviços profissionais em situações de calamidade pública.",
+                      "explanation": "Incorreto. O Art. 01, alínea \"b\", do Código de 1987 estabelece como dever \"Prestar serviços profissionais, em situações de calamidade pública ou de emergência, sem visar a quaisquer benefícios pessoais\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Sugerir serviços de outros profissionais quando necessário.",
+                      "explanation": "Incorreto. O Art. 01, alínea \"d\", do Código de 1987 estabelece como dever \"Sugerir serviços de outros profissionais, sempre que se impuser a necessidade de atendimento e este, por motivos justificáveis, não puder ser continuado por quem o assumiu inicialmente\"."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q9",
+                  "statement": "Segundo o Art. 4º do Código de Ética de 1987, o que o psicólogo deverá fazer se as normas e costumes de uma instituição empregadora contrariarem sua consciência profissional ou os princípios do Código?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Adaptar sua consciência profissional às normas da instituição.",
+                      "explanation": "Incorreto. Isso contraria a diretriz de preservar a consciência profissional e os princípios éticos acima das normas institucionais"
+                    },
+                    {
+                      "id": "B",
+                      "text": "Tentar modificar a filosofia da instituição de dentro.",
+                      "explanation": "Incorreto. Embora o psicólogo deva atuar criticamente para o desenvolvimento da instituição, a interrupção do contrato é a ação expressamente indicada em caso de contrariedade aos princípios."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Interromper o contrato de trabalho.",
+                      "explanation": "Correto! O Art. 04 do Código de Ética de 1987 estabelece que o psicólogo \"interromperá o contrato de trabalho sempre que normas e costumes da instituição contrariarem sua consciência profissional, bem como os princípios e regras deste Código\". O Código de 2005 mantém uma orientação similar, de recusar-se a prestar serviços em caso de incompatibilidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Denunciar a instituição às autoridades sem interromper o contrato.",
+                      "explanation": "Incorreto. O Art. 4º de 1987 prioriza a interrupção do contrato. O Código de 2005 menciona a denúncia como \"se pertinente\" *após* a recusa em prestar serviços."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Buscar um acordo que permita a continuação dos serviços.",
+                      "explanation": "O Código estabelece a interrupção do contrato como a medida a ser tomada quando há conflito de valores e princípios."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q10",
+                  "statement": "De acordo com o Código de Ética de 1987 e o de 2005, quais são as penalidades que podem ser aplicadas em caso de infrações?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas advertência e multa.",
+                      "explanation": "Esta alternativa é incompleta, pois omite outras penalidades previstas nos códigos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas suspensão do exercício profissional.",
+                      "explanation": "Esta alternativa é incompleta, pois omite outras penalidades previstas nos códigos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Advertência, multa, censura pública, suspensão e cassação da inscrição profissional.",
+                      "explanation": "O Art. 42 do Código de Ética de 1987 menciona que as infrações \"acarretarão penalidades várias, desde a advertência até a cassação de inscrição profissional\". O Art. 21 do Código de Ética de 2005 detalha essas penalidades como: \"a) Advertência; b) Multa; c) Censura pública; d) Suspensão do exercício profissional, por até 30 (trinta) dias; e) Cassação do exercício profissional\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Somente cassação do exercício profissional.",
+                      "explanation": "Esta alternativa é incompleta e incorreta, pois a cassação é a penalidade mais grave, e há outras menos severas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Advertência e reeducação obrigatória.",
+                      "explanation": "A \"reeducação obrigatória\" não é uma penalidade listada nos Códigos de Ética de 1987 ou 2005."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q11",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q12",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q13",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q14",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q15",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q16",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q17",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q18",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q19",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q20",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q21",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q22",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q23",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q24",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q25",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q26",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q27",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q28",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q29",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L1_Q30",
+                  "statement": "?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "B",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "C",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "D",
+                      "text": ".",
+                      "explanation": "."
+                    },
+                    {
+                      "id": "E",
+                      "text": ".",
+                      "explanation": "."
+                    }
+                  ],
+                  "answer": "C"
                 }
               ]
             }
