@@ -674,323 +674,323 @@
                 },
                 {
                   "id": "p4_EeL_L1_Q21",
-                  "statement": "?",
+                  "statement": "Contexto: Ao longo da história dos Códigos de Ética Profissional do Psicólogo no Brasil, houve uma evolução da função do Código. Situação-Problema: Comparando o Código de 1987 e o de 2005, como se manifestou a mudança na ênfase da função do Código e qual o impacto percebido na orientação profissional?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "O Código de 1987 era mais generalista, enquanto o de 2005 tornou-se mais prescritivo, facilitando a aplicação direta das normas.",
+                      "explanation": "Incorreto. Esta alternativa inverte a realidade. O Código de 1987 era mais detalhado, e o de 2005, mais generalista, o que gerou dúvidas em vez de facilitar a aplicação."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "O Código de 1987 era visto como um convite à reflexão, mas o de 2005 mudou para uma abordagem estritamente normativa, gerando clareza aos profissionais.",
+                      "explanation": "Incorreto. Novamente, esta alternativa inverte a ênfase. O Código de 1987 já era um convite à reflexão. O de 2005 buscou ser *ainda mais* um instrumento de reflexão, mas sua generalidade *não* gerou clareza, e sim dúvidas."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "O Código de 1987 tinha normas mais detalhadas e uma concepção de ética como filosofia moral e ciência dos costumes, enquanto o de 2005, mais reduzido e generalista, buscou ser mais um instrumento de reflexão, o que gerou dúvidas e dificuldades de aplicação para alguns profissionais.",
+                      "explanation": "Correto! O Código de 1987 era \"bastante pormenorizado\" e conceituava a ética tanto como Filosofia Moral quanto como Ciência dos Costumes. Já o Código de 2005 é \"bastante reduzido, tendo eliminado alguns artigos e alíneas e, por conseguinte, deixando de tratar alguns temas de forma mais específica e direta, para se tornar um instrumento com princípios mais gerais e amplos, com a finalidade de permitir a discussão e reflexão da profissão como um todo\". Essa generalidade, no entanto, \"tem gerado dúvidas nos profissionais, os quais encontram dificuldades na aplicação de artigos do Código com as demandas que lhes são endereçadas no cotidiano do seu exercício profissional. O instrumento apresenta-se, portanto, carente de objetividade em determinados artigos, permitindo a múltiplas interpretações\"."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Ambos os códigos tiveram como foco principal normatizar a natureza técnica do trabalho, sem grandes diferenças na abordagem da orientação profissional.",
+                      "explanation": "Incorreto. A missão primordial de um código de ética *não é* normatizar a natureza técnica do trabalho. Houve uma mudança significativa na abordagem, de um código mais prescritivo (1987) para um mais reflexivo e generalista (2005)."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A principal mudança foi a exclusão completa de sanções disciplinares no Código de 2005, valorizando apenas a auto-regulação do profissional.",
+                      "explanation": "Incorreto. O Código de 2005 mantém as sanções disciplinares, incluindo advertência, multa, censura pública, suspensão e cassação, refutando a exclusão completa de sanções."
                     }
                   ],
                   "answer": "C"
                 },
                 {
                   "id": "p4_EeL_L1_Q22",
-                  "statement": "?",
+                  "statement": "Contexto: A \"História da construção do Código de Ética Profissional do Psicólogo\" discute o papel de um código de conduta na construção da identidade profissional e sua legitimidade perante a sociedade. Situação-Problema: Qual é uma contradição inerente notada neste processo, especialmente ao considerar a influência de estruturas de poder, conforme citado pelos autores Benavides e Antón (1987)?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A contradição entre a necessidade de um código dinâmico e a impossibilidade de sua revisão.",
+                      "explanation": "Incorreto. O texto explicitamente menciona que os códigos podem e devem ser revisados, transformados e atualizados, indicando que não há impossibilidade de revisão."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A dificuldade de o código proteger tanto os profissionais quanto os usuários simultaneamente.",
+                      "explanation": "Incorreto. Embora essa seja uma tarefa complexa, o Código tem a função de proteger os usuários e orientar os profissionais. A contradição apontada por Benavides e Antón está relacionada à neutralidade do código frente aos interesses de poder, não à simultaneidade de proteção."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A possibilidade de que os códigos morais sejam reflexos dos interesses das classes dominantes e expressão do poder, em vez de serem neutros.",
+                      "explanation": "Correto! O texto \"História da construção do Código de Ética Profissional do Psicólogo\" destaca que a construção de códigos de conduta não se dá sem \"embates e contradições próprios das disputas e interesses político-econômicos e ideológicos na sociedade\". Cita Benavides e Antón (1987), que afirmam que \"os códigos morais se criam como sendo reflexos de 'interesses das classes dominantes' e 'expressão do poder'\"."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A falha em incluir filósofos, sociólogos e advogados na elaboração dos códigos.",
+                      "explanation": "Incorreto. A elaboração do Código de 1987, por exemplo, envolveu a consulta a filósofos, sociólogos, advogados e a própria categoria, então essa não é uma falha inerente ao processo em geral."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "O fato de que os códigos de ética não possuem caráter normativo e regulador da profissão.",
+                      "explanation": "Incorreto. O texto afirma categoricamente que o Código de Ética Profissional do Psicólogo é \"uma norma jurídica (...) possui caráter normativo e regulador da profissão\"."
                     }
                   ],
                   "answer": "C"
                 },
                 {
                   "id": "p4_EeL_L1_Q23",
-                  "statement": "?",
+                  "statement": "Contexto: O artigo \"ÉTICA E MORAL NA FORMAÇÃO EM PSICOLOGIA\" investigou a percepção de estudantes de psicologia sobre o ambiente acadêmico e os conceitos de moral e ética. Situação-Problema: Qual é a discrepância notável que os resultados da pesquisa revelaram entre o que os alunos consideram essencial para ser um \"bom psicólogo\" e o que eles percebem que a formação universitária oficial prioritariamente oferece?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Os alunos associam ser um bom psicólogo a competências teóricas, mas a universidade foca em competências pessoais.",
+                      "explanation": "Incorreto. A pesquisa mostra o inverso: os alunos valorizam competências pessoais, mas a universidade foca em competências teóricas."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Os alunos valorizam competências pessoais e ética para ser um bom psicólogo, mas percebem que a formação oficial prioriza a competência teórica, sem contribuir para a formação ética e as competências pessoais.",
+                      "explanation": "Correto! O estudo revelou que os alunos associam o conceito de ser um \"bom psicólogo\" principalmente a \"competências pessoais como dignidade, bom senso, consciência, capacidade de ser acolhedor, respeito\" (41%) e à \"ética\" (22,9%). Contudo, quando perguntados sobre o que a formação oficial oferece, a \"competência teórica aparece em primeiro lugar\" (50% no primeiro ano e 44,7% no quinto ano), e a \"ética quase não apareceu\". Isso demonstra uma discrepância onde \"para ser um bom psicólogo são necessárias competências que não são fornecidas pela universidade\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A universidade foca na formação prática, enquanto os alunos consideram a competência técnica como o mais importante para um bom psicólogo.",
+                      "explanation": "Incorreto. O estudo indica que a formação oficial prioriza a competência teórica. A formação prática é mencionada, mas não como o principal foco da universidade, e a competência técnica não é o fator mais importante para os alunos sobre o que é um bom psicólogo."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Não há discrepância, pois a percepção dos alunos sobre o que forma um bom psicólogo alinha-se perfeitamente com a oferta da graduação.",
+                      "explanation": "Incorreto. Os resultados do estudo mostram uma clara discrepância entre o que os alunos valorizam e o que a formação oficial oferece."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Os alunos não atribuem importância à ética, enquanto a universidade faz dela o pilar da formação.",
+                      "explanation": "Incorreto. Os alunos atribuem alta importância à ética para ser um bom psicólogo, mas percebem que a universidade não contribui significativamente para essa formação ética."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "B"
                 },
                 {
                   "id": "p4_EeL_L1_Q24",
-                  "statement": "?",
+                  "statement": "Contexto: O Código de Ética Profissional do Psicólogo de 2005 foi concebido para ser mais um \"instrumento de reflexão\" do que um \"conjunto de normas\". Situação-Problema: Qual é uma crítica significativa feita a esse caráter generalista do Código de 2005, em relação à sua aplicabilidade prática pelos psicólogos?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Tornou o Código excessivamente detalhado, dificultando a memorização dos artigos.",
+                      "explanation": "Incorreto. O Código de 2005 é descrito como \"bastante reduzido\" e mais generalista, em contraste com o de 1987, que era mais detalhado."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Privilegiou em demasia a área clínica, desconsiderando outras áreas de atuação.",
+                      "explanation": "Incorreto. O Código de 2005, ao contrário, buscou ser mais abrangente, perdendo \"o eco predominantemente clínico\" dos códigos anteriores e contemplando a diversidade do exercício profissional."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Gerou dúvidas nos profissionais e dificuldades na aplicação de artigos às demandas cotidianas, devido à falta de objetividade em determinados pontos e à margem para múltiplas interpretações.",
+                      "explanation": "O texto \"História da construção do Código de Ética Profissional do Psicólogo\" aponta que a intenção de o Código de 2005 ser um \"instrumento de reflexão\" e seu caráter generalista \"tem gerado dúvidas nos profissionais, os quais encontram dificuldades na aplicação de artigos do Código com as demandas que lhes são endereçadas no cotidiano do seu exercício profissional. O instrumento apresenta-se, portanto, carente de objetividade em determinados artigos, permitindo a múltiplas interpretações\". Isso é exemplificado com a expressão \"a quem de direito\"."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Eliminou completamente a necessidade de qualquer tipo de norma, deixando os psicólogos sem orientação.",
+                      "explanation": "Incorreto. O Código de 2005 ainda é um \"conjunto de normas\", e busca \"delinear responsabilidades\" e \"balizar julgamentos\". O problema é a *falta de objetividade*, não a ausência de normas."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Causou um aumento significativo de denúncias por parte dos usuários devido à flexibilidade do código.",
+                      "explanation": "Incorreto. Embora a generalidade possa gerar incerteza, o texto não apresenta evidências de um aumento significativo de denúncias dos usuários."
                     }
                   ],
                   "answer": "C"
                 },
                 {
                   "id": "p4_EeL_L1_Q25",
-                  "statement": "?",
+                  "statement": "Contexto: A \"Exposição de Motivos\" do Código de Ética Profissional do Psicólogo de 1987 inicia abordando as constantes mudanças no mundo e no comportamento humano. Situação-Problema: Como o Código de Ética, enquanto sistema, é caracterizado em relação a essa dinamicidade do ser humano e da psicologia como ciência?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "É visto como um sistema fixo e imutável que cristaliza normas de comportamento para estabilizar a profissão.",
+                      "explanation": "Incorreto. A \"Exposição de Motivos\" explicitamente contraria essa visão, afirmando que a ética filosófica impede um Código sem criticidade e uma visão cristalizada do comportamento humano."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "É concebido como um desafio à psicologia, sendo um sistema que deve ser, ele mesmo, sujeito à transitoriedade e aberto a reflexões que o atualizem continuamente.",
+                      "explanation": "Correto! A \"Exposição de Motivos\" do Código de Ética de 1987 afirma que \"o homem é um ser de relação, sujeito a contínuas mudanças\" e que a psicologia estuda e interpreta esse comportamento humano complexo. Consequentemente, \"qualquer sistema ou código só será real se sujeito, também ele, a esta transitoriedade\". O Código, portanto, deve \"expressar... a dinamicidade própria da liberdade, do risco e da criação\" e \"deve estar aberta a reflexões que a atualizem continuamente\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "É apresentado como uma resposta definitiva aos problemas éticos, sem a necessidade de futuras transformações.",
+                      "explanation": "Incorreto. O Código não pode ser um \"oráculo, com respostas prontas e fechadas para tudo\", e é um \"roteiro de buscas, tendo em vista a transitoriedade das normas nele contidas\"."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Seu papel é apenas refletir a realidade existente, sem preocupação com o futuro ou com a dinamicidade.",
+                      "explanation": "Incorreto. O Código nasce tanto da \"realidade\" (o que existe) quanto do \"desejo\" (preocupação com o amanhã, bem-estar e saúde)."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "É uma ferramenta para impor comportamentos padrões e estigmatizar desvios.",
+                      "explanation": "Incorreto. O Código de 1987 \"não pretende impor, estigmatizar ou definir comportamentos padrões\", mas sim \"oferece-se a uma reflexão mais ampla\"."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "B"
                 },
                 {
                   "id": "p4_EeL_L1_Q26",
-                  "statement": "?",
+                  "statement": "Contexto: No Caso 1, Mariana, uma adolescente de 15 anos, revela automutilação e ideação suicida à psicóloga Ana, solicitando sigilo absoluto dos pais. Ana se depara com o dilema entre o sigilo profissional e o dever de zelar pela integridade da paciente. Situação-Problema: Considerando os princípios do Código de Ética de 2005 e, especificamente, o artigo que trata do sigilo profissional, qual a orientação *mais direta* que Ana deve seguir para tomar uma decisão, priorizando o menor prejuízo?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Manter o sigilo absoluto, pois o sigilo é um princípio fundamental da prática psicológica, independentemente do risco.",
+                      "explanation": "Incorreto. Pois o Art. 10 do Código de 2005 prevê exceções ao sigilo quando há conflito com princípios fundamentais e busca-se o menor prejuízo, como em casos de risco à vida."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Quebrar o sigilo e informar à escola imediatamente, pois ela solicitou atualizações sobre o caso.",
+                      "explanation": "Incorreto. Embora a escola solicite informações, a decisão de quebrar o sigilo deve priorizar o menor prejuízo para a paciente e as informações devem ser estritamente necessárias. Não se trata de simplesmente atender a um pedido externo."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Basear sua decisão na busca do menor prejuízo, podendo decidir pela quebra de sigilo nas situações em que se configure conflito entre as exigências do sigilo e os princípios fundamentais do Código, restringindo-se às informações estritamente necessárias.",
+                      "explanation": "Correto! O Art. 10 do Código de Ética de 2005 orienta: \"Nas situações em que se configure conflito entre as exigências decorrentes do disposto no Art. 9º [respeito ao sigilo profissional] e as afirmações dos princípios fundamentais deste Código, excetuando-se os casos previstos em lei, o psicólogo poderá decidir pela quebra de sigilo, baseando sua decisão na busca do menor prejuízo\". Além disso, o Parágrafo único do Art. 10 estabelece que, em caso de quebra de sigilo, o psicólogo \"deverá restringir-se a prestar as informações estritamente necessárias\". Dada a situação de risco de automutilação e ideação suicida de Mariana, a integridade da paciente é um princípio fundamental."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Consultar a Declaração Universal dos Direitos Humanos para decidir se o sigilo pode ser quebrado.",
+                      "explanation": "Incorreto. Embora os princípios do Código de 2005 se apoiem na Declaração Universal dos Direitos Humanos, o Art. 10 fornece a orientação *direta e específica* para a decisão sobre a quebra de sigilo."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Apenas aconselhar Mariana a contar aos pais por conta própria, sem tomar qualquer outra ação.",
+                      "explanation": "Incorreto. Dada a gravidade da situação de risco (ideação suicida), o psicólogo tem o dever de zelar pela integridade e segurança da paciente, o que pode exigir uma intervenção mais ativa do que apenas um conselho."
                     }
                   ],
                   "answer": "C"
                 },
                 {
                   "id": "p4_EeL_L1_Q27",
-                  "statement": "?",
+                  "statement": "Contexto: O processo de construção dos Códigos de Ética no Brasil foi marcado por diversas transformações e adaptações às necessidades da profissão e da sociedade. Situação-Problema: O Código de 1979 representou uma etapa nessa evolução. Qual foi uma contribuição notável desse código e uma crítica recorrente a ele?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Contribuiu para a regulamentação inicial da profissão e foi criticado por sua origem em códigos médicos.",
+                      "explanation": "Incorreto. A regulamentação inicial da profissão é de 1962, e a crítica sobre a origem em códigos médicos foi dirigida ao *primeiro* Código de 1975."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Ganhou ênfase em temas como sigilo e relações com a Justiça, mas foi criticado por seu \"ranço corporativista\" e foco na consolidação da imagem social do psicólogo.",
+                      "explanation": "Correto! O Código de 1979, com 5 Princípios Fundamentais e 50 artigos, \"é possível constatar que alguns temas ganharam ênfase, tais como os que versavam sobre sigilo e relações com a Justiça\". Contudo, Drawin (1985) criticou que ele se apresentava \"fortemente marcado 'pelo ranço corporativista'\" e focado na \"consolidação da imagem social do psicólogo, que deve assegurar a integralidade do mercado de trabalho\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Foi um marco por ser o primeiro a ser menos corporativo, mas criticado por não incluir a participação dos Conselhos Regionais.",
+                      "explanation": "Incorreto. O Código de 1979 foi criticado por seu *ranço corporativista*. Além disso, a reformulação do código de 1975 para 1979 incluiu a remessa da minuta aos Conselhos Regionais para apreciação."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Incorporou a ideia de que o psicólogo deveria ser um instrumento de reflexão, sendo criticado por sua excessiva generalização.",
+                      "explanation": "Incorreto. A ideia de ser um \"instrumento de reflexão\" e o caráter generalista são mais marcantes no Código de 1987 e, principalmente, no de 2005. O Código de 1979 foi criticado pelo corporativismo."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Introduziu a proibição de serviços psicológicos por telefone, mas foi criticado por não prever sanções disciplinares.",
+                      "explanation": "Incorreto. A proibição de serviços psicológicos por telefone foi introduzida no Código de 1987 por meio de uma alteração em 1995. As sanções disciplinares já estavam previstas no Código de 1979."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "B"
                 },
                 {
                   "id": "p4_EeL_L1_Q28",
-                  "statement": "?",
+                  "statement": "Contexto: O Código de Ética de 2005 buscou ser mais um \"instrumento de reflexão do que de um conjunto de normas\". Situação-Problema: Apesar dessa intenção de promover autonomia e reflexão, a fonte \"História da construção do Código de Ética Profissional do Psicólogo\" aponta um desafio na sua implementação. Qual é esse desafio para os profissionais?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A dificuldade em aceitar a ideia de que o Código deve ser dinâmico e sujeito a mudanças.",
+                      "explanation": "Incorreto. A necessidade de um código dinâmico é uma premissa estabelecida. O desafio está na aplicação da generalidade, não na aceitação da dinamicidade."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A superabundância de normas específicas para cada área, que impede uma visão holística.",
+                      "explanation": "Incorreto. O Código de 2005 é, na verdade, mais reduzido e geral, buscando uma visão unificadora da profissão, e não apresenta superabundância de normas específicas."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A dificuldade em empregar o Código no exercício da profissão e em promover uma reflexão sobre sua práxis, devido à sua generalidade e à carência de objetividade em determinados artigos.",
+                      "explanation": "Correto! O texto \"História da construção do Código de Ética Profissional do Psicólogo\" destaca que o Código de 2005, sendo mais generalista e visando ser um instrumento de reflexão, \"tem gerado dúvidas nos profissionais, os quais encontram dificuldades na aplicação de artigos do Código com as demandas que lhes são endereçadas no cotidiano do seu exercício profissional. O instrumento apresenta-se, portanto, carente de objetividade em determinados artigos, permitindo a múltiplas interpretações\". Isso leva à \"dificuldade que o psicólogo encontra para empregar o Código no exercício de sua profissão, e igualmente promover uma reflexão sobre sua práxis\"."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A restrição à participação em debates sobre o Código, limitando a contribuição da categoria.",
+                      "explanation": "Incorreto. A construção do Código de 2005 foi um processo democrático com ampla participação dos psicólogos e da sociedade."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "A exigência de que o psicólogo atue exclusivamente a partir de seus princípios pessoais, sem a necessidade de um código formal.",
+                      "explanation": "Incorreto. O Código de 2005 busca a autorreflexão e responsabilização pessoal e coletiva, mas ainda é um instrumento normativo e um \"roteiro de buscas\", complementando, e não substituindo, os princípios pessoais."
                     }
                   ],
                   "answer": "C"
                 },
                 {
                   "id": "p4_EeL_L1_Q29",
-                  "statement": "?",
+                  "statement": "Contexto: O Decreto nº 53.464 de 1964 estabeleceu regulamentações para a formação em psicologia no Brasil. Situação-Problema: De acordo com o Art. 7º, as Faculdades de Filosofia que solicitarem autorização para cursos de Psicologia devem fornecer provas de capacidade didática. Qual exigência específica é mencionada em relação aos serviços clínicos e de aplicação à Educação e ao Trabalho?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Devem possuir serviços clínicos e de aplicação à Educação e ao Trabalho abertos ao público, gratuitos ou remunerados, ou convênio com serviços idôneos e equivalentes.",
+                      "explanation": "Correto! O Art. 7º, alínea \"b\", do Decreto nº 53.464 de 1964 estabelece que, ao requererem autorização para o funcionamento de Curso de Psicólogo, as Faculdades \"deverão possuir serviços clínicos e serviços de aplicação à Educação e ao Trabalho, abertos ao público, gratuitos ou remunerados\". Além disso, o Parágrafo único prevê a possibilidade de convênio com \"serviços idôneos e equivalentes\"."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Devem apenas ter um corpo docente devidamente habilitado em todas as disciplinas.",
+                      "explanation": "Incorreto. Embora o Art. 7º, alínea \"a\", exija um corpo docente habilitado, essa é uma das exigências de capacidade didática, não a única, e não se refere especificamente aos *serviços clínicos e de aplicação*."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Devem comprovar que os cursos de Psicologia terão duração mínima de quatro anos.",
+                      "explanation": "Incorreto. O Art. 10 trata da duração mínima dos cursos a ser fixada pelo Conselho Federal de Educação, mas não é a exigência específica relacionada aos serviços práticos para autorização."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Devem instituir apenas Cursos de Bacharelado e Licenciado em Psicologia, sem a necessidade de serviços práticos.",
+                      "explanation": "Incorreto. O Art. 6º menciona bacharelado e licenciado, mas a alínea \"b\" do Art. 7º exige os serviços clínicos e de aplicação para o curso de Psicólogo."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Devem garantir que todas as disciplinas de Psicologia sejam ministradas em comum com outros cursos da Faculdade.",
+                      "explanation": "Incorreto. O parágrafo único do Art. 6º permite que disciplinas comuns sejam ministradas em comum, mas não é uma exigência para a autorização de serviços clínicos."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "A"
                 },
                 {
                   "id": "p4_EeL_L1_Q30",
-                  "statement": "?",
+                  "statement": "Contexto: O artigo \"ÉTICA E MORAL NA FORMAÇÃO EM PSICOLOGIA\" explora o que um ambiente acadêmico favorável deve oferecer para o desenvolvimento moral e ético dos estudantes. Situação-Problema: De acordo com o estudo, qual é a combinação de oportunidades que constitui um \"ambiente de aprendizagem favorável\" para estimular o desenvolvimento moral, indo além de um modelo educacional tradicional?",
                   "options": [
                     {
                       "id": "A",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Aulas expositivas focadas na memorização de conteúdos e transmissão de conhecimento pelo professor.",
+                      "explanation": "Incorreto. O texto descreve essa abordagem como \"não tradicional de educação, diferente daquela em que o professor é o transmissor do conhecimento e o aluno o depositário, em que as aulas são expositivas (...) e o valor primeiro é a memorização de conteúdos\" e a considera ineficaz para o desenvolvimento moral."
                     },
                     {
                       "id": "B",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Desafios proporcionados pelas atividades, seguidos por apoio em forma de oportunidades de reflexão dirigida, aconselhamento competente ou feedback.",
+                      "explanation": "Correto! O artigo \"ÉTICA E MORAL NA FORMAÇÃO EM PSICOLOGIA\" define um \"ambiente de aprendizagem favorável\" como a combinação de \"oportunidades de assunção de responsabilidade e reflexão dirigida, ou seja, de ação e reflexão\". Especifica que o \"desafio proporcionado pelas atividades (...) deve ser seguido ou acompanhado por um apoio, em forma de oportunidades de reflexão, aconselhamento competente ou feedback\"."
                     },
                     {
                       "id": "C",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Exclusivamente a aquisição de conhecimento em situações definidas pelos professores.",
+                      "explanation": "Incorreto. As oportunidades de assunção de responsabilidades pressupõem o envolvimento do aluno em definir ou delinear as situações."
                     },
                     {
                       "id": "D",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Apenas o estímulo à autorregulação individual, sem qualquer intervenção externa.",
+                      "explanation": "Incorreto. O desenvolvimento moral requer tanto \"desafios\" quanto \"apoio\" na forma de reflexão dirigida, aconselhamento ou feedback, o que implica intervenção externa."
                     },
                     {
                       "id": "E",
-                      "text": ".",
-                      "explanation": "."
+                      "text": "Um ambiente que valoriza a heteronomia e o caráter coercitivo, sem discussões.",
+                      "explanation": "Incorreto. O estudo aponta que o modelo educacional heterônomo, com caráter coercitivo e uniformizante, *não contribui* para o desenvolvimento de sujeitos autônomos e críticos."
                     }
                   ],
-                  "answer": "C"
+                  "answer": "B"
                 }
               ]
             }
