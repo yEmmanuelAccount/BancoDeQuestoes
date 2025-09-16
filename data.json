@@ -3898,6 +3898,972 @@
                   "answer": "c"
                 }
               ]
+            },
+            {
+              "id": "p4_psicopatologia_L4",
+              "title": "Lista 4",
+              "questions": [
+                {
+                  "id": "p4_Psicopatologia_L4_Q1",
+                  "statement": "Qual mecanismo de estigma associa características negativas (perigoso, imprevisível, incapaz) a um rótulo diagnóstico?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Rotulação",
+                      "explanation": "Incorreta. Rotulação refere-se à pessoa se tornar o rótulo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Autoestigma",
+                      "explanation": "Incorreta. Autoestigma é a internalização dos estereótipos negativos pelo próprio indivíduo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Separação",
+                      "explanation": "Incorreta. Separação é a distinção entre \"nós\" e \"eles\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Discriminação",
+                      "explanation": "Incorreta. Discriminação é o tratamento injusto."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Estereótipos",
+                      "explanation": "Correta! Estereótipos são a \"Associação do rótulo a características negativas (perigoso, imprevisível, incapaz), frequentemente reforçadas pela mídia\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q2",
+                  "statement": "Qual é o primeiro objetivo das \"Metas para o Futuro da Saúde Mental\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Acesso ao Tratamento",
+                      "explanation": "Incorreta. Acesso ao Tratamento é a meta 2."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Integração de Serviços",
+                      "explanation": "Incorreta. Integração de Serviços é a meta 3."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Atenção a Comorbidades",
+                      "explanation": "Incorreta. Atenção a Comorbidades é a meta 4."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Inclusão Social",
+                      "explanation": "Incorreta. Inclusão Social é a meta 5."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Prevenção",
+                      "explanation": "Correta! A meta 1, \"Prevenção\", visa \"Reduzir a taxa de suicídio e tentativas de suicídio entre adolescentes e adultos através de programas preventivos mais eficazes e acessíveis\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q3",
+                  "statement": "Qual dos seguintes é um \"Sinal Emocional\" de alerta para transtornos psicológicos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Problemas de concentração ou atenção",
+                      "explanation": "Incorreta. Este é um Sinal Cognitivo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Isolamento social progressivo",
+                      "explanation": "Incorreta. Este é um Sinal Comportamental."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Uso crescente de álcool ou outras substâncias",
+                      "explanation": "Incorreta. Este é um Sinal Comportamental."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Percepções distorcidas da realidade",
+                      "explanation": "Incorreta. Este é um Sinal Cognitivo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Tristeza persistente ou irritabilidade",
+                      "explanation": "Correta! \"Tristeza persistente ou irritabilidade\" é listada como um dos \"Sinais Emocionais\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q4",
+                  "statement": "No \"Futuro da Psicopatologia\", qual avanço tecnológico está ampliando o acesso ao tratamento e criando novas possibilidades terapêuticas?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Avanços em Neurociência",
+                      "explanation": "Incorreta. Avanços em Neurociência são sobre tecnologias de neuroimagem e genética."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ênfase na Prevenção",
+                      "explanation": "Incorreta. Ênfase na Prevenção é sobre intervenções preventivas, especialmente em crianças e adolescentes."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Abordagens Comunitárias",
+                      "explanation": "Incorreta. Abordagens Comunitárias focam no fortalecimento de modelos de cuidado baseados na comunidade."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Psicologia Positiva",
+                      "explanation": "Incorreta. Psicologia Positiva é um movimento que enfatiza o potencial de crescimento e bem-estar."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Tecnologia e Saúde Mental",
+                      "explanation": "Correta! \"Tecnologia e Saúde Mental\" refere-se a \"Aplicativos, terapia online, realidade virtual e inteligência artificial [que] estão ampliando o acesso ao tratamento e criando novas possibilidades terapêuticas\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q5",
+                  "statement": "Qual é o foco principal da \"Terapia Individual\" como modalidade de tratamento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Intervenção que envolve membros da família",
+                      "explanation": "Incorreta. Isso descreve a Terapia Familiar."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Reúne pessoas com desafios semelhantes",
+                      "explanation": "Incorreta. Isso descreve a Terapia de Grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Modificações estratégicas no ambiente físico e social",
+                      "explanation": "Incorreta. Isso descreve a Ambientoterapia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Abordagem personalizada focada na relação um-a-um entre terapeuta e cliente",
+                      "explanation": "Correta! A \"Terapia Individual\" é uma \"Abordagem personalizada focada na relação um-a-um entre terapeuta e cliente\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Tratamento de condições associadas como depressão e ansiedade",
+                      "explanation": "Incorreta. Isso é \"Tratamento de Condições Associadas\" na Deficiência Intelectual."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q6",
+                  "statement": "Qual porcentagem de clientes que completam o tratamento recomendado frequentemente experimenta redução substancial ou eliminação completa dos sintomas?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "85%",
+                      "explanation": "Incorreta. 85% refere-se ao \"Benefício Comprovado\" da psicoterapia em geral."
+                    },
+                    {
+                      "id": "b",
+                      "text": "30%",
+                      "explanation": "Incorreta. 30% é a proporção de clientes que interrompem o tratamento antes do recomendado."
+                    },
+                    {
+                      "id": "c",
+                      "text": "60%",
+                      "explanation": "Correta! \"Cerca de 60% dos clientes que completam o tratamento recomendado frequentemente experimentam redução substancial ou eliminação completa dos sintomas\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "76%",
+                      "explanation": "Incorreta. 76% é a heritabilidade estimada do TDAH."
+                    },
+                    {
+                      "id": "e",
+                      "text": "90%",
+                      "explanation": "Incorreta. 90% é a hereditariedade estimada do TEA."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q7",
+                  "statement": "Qual transtorno do neurodesenvolvimento surge cedo na infância e pode permanecer durante toda a vida?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Transtorno de Déficit de Atenção/Hiperatividade",
+                      "explanation": "Incorreta. Embora o TDAH possa persistir, a descrição no slide é genérica para transtornos do neurodesenvolvimento."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Transtorno do Espectro Autista",
+                      "explanation": "Incorreta. O TEA se enquadra nesta descrição, mas a questão se refere à característica geral dos transtornos do neurodesenvolvimento."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Transtorno Específico da Aprendizagem",
+                      "explanation": "Incorreta. Os transtornos de aprendizagem também se enquadram, mas a pergunta se refere à característica geral."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Os transtornos do neurodesenvolvimento (em geral)",
+                      "explanation": "Correta! Uma das \"Considerações Importantes\" sobre os Transtornos do Neurodesenvolvimento é que eles \"Surgem cedo na infância e podem permanecer durante toda a vida\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Fenilcetonúria (PKU)",
+                      "explanation": "Incorreta. A PKU é uma causa genética de deficiência intelectual, mas a questão se refere aos transtornos do neurodesenvolvimento como um grupo."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q8",
+                  "statement": "Qual das seguintes opções é uma característica do Transtorno Específico da Aprendizagem com Prejuízo na Expressão Escrita?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Dificuldade em manter atenção",
+                      "explanation": "Incorreta. Isso é um sintoma de TDAH."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Incapacidade de aprender fatos matemáticos",
+                      "explanation": "Incorreta. Isso é Discalculia."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Problemas com contato visual",
+                      "explanation": "Incorreta. Isso é um critério de Comunicação Social para TEA."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Dificuldade em soletrar",
+                      "explanation": "Correta! O indivíduo com \"Transtorno Específico da Aprendizagem com Prejuízo na Expressão Escrita\" tem dificuldade em \"Soletrar\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Uso de vocabulário limitado",
+                      "explanation": "Incorreta. Isso é Transtorno da Linguagem."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q9",
+                  "statement": "Na \"Abordagem Comportamental de Tratamento\" para TEA, qual é o foco do \"Primeiro Ano\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Desenvolvimento da linguagem expressiva",
+                      "explanation": "Incorreta. Este é o foco do Segundo Ano."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Aprendizagem de brincadeiras interativas",
+                      "explanation": "Incorreta. Este é o foco do Segundo Ano."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Expressão adequada de emoções",
+                      "explanation": "Incorreta. Este é o foco do Terceiro Ano."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aprendizagem observacional",
+                      "explanation": "Incorreta. Este é o foco do Terceiro Ano."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Redução de comportamentos autoestimulantes e agressivos",
+                      "explanation": "Correta! O foco do \"Primeiro Ano\" na \"Abordagem Comportamental de Tratamento\" é a \"Redução de comportamentos autoestimulantes e agressivos\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q10",
+                  "statement": "Quais são os transtornos da comunicação caracterizados por prejuízo na linguagem, na fala e na comunicação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Transtorno do Espectro Autista",
+                      "explanation": "Incorreta. O TEA envolve prejuízos na comunicação social, mas também em comportamentos restritivos e repetitivos, sendo uma categoria mais ampla."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Transtorno de Déficit de Atenção/Hiperatividade",
+                      "explanation": "Incorreta. O TDAH é um transtorno do neurodesenvolvimento focado em desatenção e hiperatividade-impulsividade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Transtorno Específico da Aprendizagem",
+                      "explanation": "Incorreta. Estes transtornos focam em dificuldades acadêmicas específicas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Transtornos Motores",
+                      "explanation": "Incorreta. Transtornos Motores envolvem dificuldades de coordenação ou movimentos involuntários."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Transtorno da Linguagem, Transtorno do Som da Fala, Transtorno da Fluência e Transtorno da Comunicação Social",
+                      "explanation": "Correta! Os \"Transtornos da Comunicação\" são explicitamente listados como \"condições caracterizadas por prejuízo na linguagem, na fala e na comunicação\", incluindo \"Transtorno da Linguagem\", \"Transtorno do Som da Fala\", \"Transtorno da Fluência (Tartamudez)\" e \"Transtorno da Comunicação Social\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q11",
+                  "statement": "Além da rotulação e estereótipos, quais outros mecanismos são mencionados como constitutivos do estigma social associado aos transtornos psicológicos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Medo e Isolamento",
+                      "explanation": "Incorreta. Medo e isolamento são consequências do estigma, não mecanismos constitutivos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Baixa autoestima e Vergonha",
+                      "explanation": "Incorreta. Baixa autoestima e vergonha são resultados do autoestigma, que é um mecanismo derivado do estigma social."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Adaptação e Aceitação",
+                      "explanation": "Incorreta. Estes são opostos aos efeitos do estigma."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Separação, Discriminação e Evitação de Tratamento",
+                      "explanation": "Correta! Os mecanismos do estigma incluem \"Rotulação\", \"Estereótipos\", \"Separação\", \"Discriminação\" e \"Evitação de Tratamento\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Preconceito evidente e Desconforto",
+                      "explanation": "Incorreta. Preconceito evidente e desconforto são descrições mais gerais de atitudes sociais, enquanto Separação, Discriminação e Evitação de Tratamento são mecanismos mais específicos do estigma."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q12",
+                  "statement": "Qual das \"Metas para o Futuro da Saúde Mental\" se concentra em aumentar a proporção de pessoas com comorbidades que recebem tratamento integrado?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Prevenção",
+                      "explanation": "Incorreta. Prevenção foca na redução do suicídio."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Acesso ao Tratamento",
+                      "explanation": "Incorreta. Acesso ao Tratamento foca no aumento do tratamento em populações vulneráveis."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Integração de Serviços",
+                      "explanation": "Incorreta. Integração de Serviços foca em instituições de cuidado primário fornecendo tratamento de saúde mental."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Inclusão Social",
+                      "explanation": "Incorreta. Inclusão Social foca na empregabilidade e integração de pessoas com transtornos mentais graves."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Atenção a Comorbidades",
+                      "explanation": "Correta! A meta 4, \"Atenção a Comorbidades\", visa \"Aumentar a proporção de pessoas com abuso de substâncias e transtornos mentais concomitantes que recebem tratamento integrado para ambas as condições\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q13",
+                  "statement": "No processo de diagnóstico, o que a \"Observação dos Sintomas\" envolve?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Entrevistas clínicas estruturadas e semiestruturadas",
+                      "explanation": "Incorreta. Isso faz parte da Coleta de Informações."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Instrumentos padronizados como testes psicológicos",
+                      "explanation": "Incorreta. Isso também faz parte da Coleta de Informações."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Análise do histórico médico e psicossocial",
+                      "explanation": "Incorreta. Isso é um método de Coleta de Informações."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Distinção entre transtornos com apresentações semelhantes",
+                      "explanation": "Incorreta. Isso descreve o Diagnóstico Diferencial."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Avaliação sistemática dos sintomas relatados e observáveis durante as sessões, considerando frequência, intensidade, duração e impacto funcional.",
+                      "explanation": "Correta! A \"Observação dos Sintomas\" envolve \"Avaliação sistemática dos sintomas relatados pelo cliente e daqueles observáveis durante as sessões, considerando frequência, intensidade, duração e impacto funcional nas diferentes áreas da vida\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q14",
+                  "statement": "O que é o \"Diagnóstico Principal\" no contexto do processo diagnóstico?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A formulação inicial baseada nos primeiros dados coletados",
+                      "explanation": "Incorreta. Isso é a Hipótese Diagnóstica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O reconhecimento da coexistência de múltiplos transtornos",
+                      "explanation": "Incorreta. Isso é Comorbidade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O processo de descarte sistemático de diagnósticos alternativos",
+                      "explanation": "Incorreta. Isso é o Diagnóstico Diferencial."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A narrativa integrativa que explica o desenvolvimento dos problemas",
+                      "explanation": "Incorreta. Isso é a Formulação do Caso."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A condição que constitui o foco primário da intervenção clínica e a principal razão pela qual o cliente busca tratamento.",
+                      "explanation": "Correta! O \"Diagnóstico Principal\" é definido como \"A condição que constitui o foco primário da intervenção clínica e representa a principal razão pela qual o cliente busca tratamento profissional. Esta identificação direciona os recursos terapêuticos e estabelece prioridades no plano de tratamento\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q15",
+                  "statement": "Quais são os aspectos centrais dos Transtornos da Aprendizagem que parecem envolver déficits no planejamento e na programação do comportamento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Problemas de visão ou percepção visual",
+                      "explanation": "Incorreta. O material afirma que transtornos visuais *não* são a causa."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Dificuldades na execução de movimentos físicos",
+                      "explanation": "Incorreta. O material afirma que não há dificuldades na execução motora para esses transtornos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Problemas de comunicação entre os hemisférios cerebrais",
+                      "explanation": "Incorreta. O material afirma que este não é o problema central."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Déficits no planejamento e na programação do comportamento",
+                      "explanation": "Correta! Os \"Aspectos Centrais dos Transtornos da Aprendizagem\" são descritos como \"déficits no planejamento e na programação do comportamento\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Déficits em soletrar, usar regras gramaticais e organizar parágrafos",
+                      "explanation": "Incorreta. Estas são manifestações do Transtorno Específico da Aprendizagem com Prejuízo na Expressão Escrita, não os aspectos centrais neurocognitivos."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q16",
+                  "statement": "Qual a estimativa de heritabilidade do Transtorno do Espectro Autista (TEA)?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Até 76%",
+                      "explanation": "Incorreta. Este é o valor para o TDAH."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Cerca de 0,66%",
+                      "explanation": "Incorreta. Esta é a prevalência do TEA, não a heritabilidade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Aproximadamente 90%",
+                      "explanation": "Correta! A hereditariedade do TEA é \"Estimada em aproximadamente 90%, com suspeitas de anormalidades genéticas nos cromossomos 7, 2 e 15\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "5,29%",
+                      "explanation": "Incorreta. Esta é a prevalência média do TDAH no mundo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Não há dados sobre a heritabilidade do TEA",
+                      "explanation": "Incorreta. O material fornece uma estimativa clara."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q17",
+                  "statement": "De acordo com a \"Teoria do TDAH de Barkley\", qual é o prejuízo central da condição?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Dificuldade em manter atenção",
+                      "explanation": "Incorreta. Desatenção é um sintoma, mas a teoria de Barkley foca no mecanismo subjacente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Inquietação e dificuldade em permanecer sentado",
+                      "explanation": "Incorreta. Isso é hiperatividade, um sintoma, não o prejuízo central da teoria."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Incapacidade de inibir respostas",
+                      "explanation": "Correta! A \"Teoria do TDAH de Barkley (1997) propõe que o prejuízo central seja a incapacidade de inibir respostas devido a anormalidades no córtex pré-frontal e em suas conexões com outras partes do cérebro\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Dificuldade em manter o controle do tempo",
+                      "explanation": "Incorreta. Isso se relaciona à Memória Operacional, que é uma consequência da inibição prejudicada."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Incapacidade de manter pensamentos privados ou realizar autoquestionamento",
+                      "explanation": "Incorreta. Isso se relaciona à Internalização da Fala, que é uma consequência da inibição prejudicada."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q18",
+                  "statement": "No tratamento da Discalculia, qual é a importância da \"Instrução Explícita\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas avaliar todos os estudantes em risco",
+                      "explanation": "Incorreta. Isso se refere à \"Avaliação e Triagem\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Focar em números inteiros na educação infantil",
+                      "explanation": "Incorreta. Isso é \"Foco no Conteúdo Essencial\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Incluir reforço positivo e elogios",
+                      "explanation": "Incorreta. Isso se refere a \"Estratégias Motivacionais\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A instrução deve ser explícita e sistemática, incluindo modelagem, verbalização de processos e feedback corretivo.",
+                      "explanation": "Correta! \"Instrução Explícita\" significa que \"A instrução durante a intervenção deve ser explícita e sistemática, incluindo modelos de solução, verbalização de processos, prática orientada e feedback corretivo\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Identificar crianças que não se beneficiam da primeira intervenção",
+                      "explanation": "Incorreta. Isso faz parte da \"Intervenção intensiva\" na abordagem RTI."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q19",
+                  "statement": "O que significa \"Ambientoterapia\" como modalidade de tratamento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Abordagem focada na relação um-a-um",
+                      "explanation": "Incorreta. Isso é Terapia Individual."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Intervenção que envolve membros da família",
+                      "explanation": "Incorreta. Isso é Terapia Familiar."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Formato terapêutico que reúne pessoas com desafios semelhantes",
+                      "explanation": "Incorreta. Isso é Terapia de Grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Modificações estratégicas no ambiente físico e social para promover comportamentos saudáveis.",
+                      "explanation": "Correta! \"Ambientoterapia\" consiste em \"Modificações estratégicas no ambiente físico e social do cliente para promover comportamentos saudáveis, reduzir estressores e criar condições favoráveis à recuperação e manutenção do bem-estar psicológico\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Tratamento medicamentoso para condições associadas",
+                      "explanation": "Incorreta. A ambientoterapia é uma intervenção ambiental, não medicamentosa."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q20",
+                  "statement": "Qual das seguintes opções NÃO é considerada uma estratégia comportamental eficaz para o tratamento do TEA, conforme o material?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Reforço Positivo",
+                      "explanation": "Incorreta. Reforço Positivo é uma estratégia eficaz."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Divisão de Problemas",
+                      "explanation": "Incorreta. Divisão de Problemas é uma estratégia eficaz."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Motivação para Comunicação",
+                      "explanation": "Incorreta. Motivação para Comunicação é uma estratégia eficaz."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Autocontrole",
+                      "explanation": "Incorreta. Autocontrole é uma estratégia eficaz."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Punição Aversiva",
+                      "explanation": "Correta! Embora não explicitamente citada como incorreta, as estratégias comportamentais eficazes listadas são \"Reforço Positivo\", \"Divisão de Problemas\", \"Motivação para Comunicação\" e \"Autocontrole\", que focam em abordagens positivas e de desenvolvimento de habilidades, não em punição aversiva."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q21",
+                  "statement": "O estigma afeta de forma mais severa grupos minoritários étnicos e raciais. Qual é a principal implicação dessa observação para a prática clínica e as políticas de saúde mental?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que o estigma é um problema exclusivo desses grupos",
+                      "explanation": "Incorreta. O estigma é um problema geral, mas afeta mais severamente as minorias."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que a busca por ajuda é maior nessas populações",
+                      "explanation": "Incorreta. O texto indica que minorias podem ser menos propensas a definir problemas em termos de saúde mental ou buscar ajuda."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que as intervenções de saúde mental devem focar apenas na educação de minorias sobre transtornos",
+                      "explanation": "Incorreta. A implicação é mais ampla, envolvendo a adaptação da prática e das políticas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A necessidade de políticas públicas e abordagens clínicas culturalmente competentes que combatam a discriminação estrutural e facilitem o acesso e a busca por ajuda entre minorias.",
+                      "explanation": "Correta! \"Estudos mostram que adolescentes de origem europeia e seus cuidadores são duas vezes mais propensos que os membros de minorias a definir problemas em termos de saúde mental ou a buscar ajuda para esses problemas\". A principal implicação é que tanto a prática clínica quanto as políticas de saúde mental precisam ser culturalmente competentes, endereçando as barreiras estruturais e sociais que impedem que esses grupos acessem e se beneficiem dos serviços, além de combater a discriminação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que o estigma é um fator secundário em comparação com os aspectos biológicos para esses grupos",
+                      "explanation": "Incorreta. O impacto mais severo do estigma sugere que ele é um fator primário e agravante para a saúde mental dessas populações."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q22",
+                  "statement": "A declaração \"O sucesso terapêutico não se mede apenas pela remissão dos sintomas, mas pela capacidade do cliente de viver uma vida mais plena, significativa e alinhada com seus valores, mesmo diante dos desafios inevitáveis da existência humana\" redefine a avaliação do sucesso no tratamento. Qual é a principal implicação dessa redefinição para a avaliação de desfechos terapêuticos e para a concepção de recuperação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sugere que a remissão de sintomas é irrelevante para o sucesso terapêutico",
+                      "explanation": "Incorreta. A remissão de sintomas é mencionada como *parte* da melhora, mas não o único critério."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Implica que a avaliação de resultados deve ser puramente objetiva, focando apenas na funcionalidade",
+                      "explanation": "Incorreta. A citação enfatiza a subjetividade da \"vida plena, significativa e alinhada com seus valores\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Enfatiza uma visão holística e centrada na pessoa da recuperação, onde o bem-estar subjetivo, a resiliência e a qualidade de vida são tão importantes quanto a redução dos sintomas, exigindo avaliações mais abrangentes.",
+                      "explanation": "Correta! A citação \"O sucesso terapêutico não se mede apenas pela remissão dos sintomas, mas pela capacidade do cliente de viver uma vida mais plena, significativa e alinhada com seus valores, mesmo diante dos desafios inevitáveis da existência humana\" implica que a recuperação vai além da ausência de patologia, abrangendo aspectos como bem-estar subjetivo, qualidade de vida, alinhamento com valores pessoais e resiliência, exigindo, portanto, uma avaliação multidimensional do sucesso."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Prioriza a descontinuação prematura do tratamento para que o cliente aprenda a lidar sozinho",
+                      "explanation": "Incorreta. A descontinuação prematura é vista como um obstáculo, não uma meta."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Significa que o clínico deve ignorar os sintomas e focar apenas nos valores do cliente",
+                      "explanation": "Incorreta. A avaliação contínua dos resultados, utilizando medidas objetivas e feedback subjetivo, ainda é essencial."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q23",
+                  "statement": "Qual a importância da abordagem \"Resposta à Intervenção\" (RTI) no diagnóstico e tratamento de Transtornos Específicos da Aprendizagem, especialmente para evitar a patologização indevida?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sua principal função é acelerar o diagnóstico formal sem testar intervenções",
+                      "explanation": "Incorreta. A RTI inclui etapas de intervenção antes do diagnóstico formal."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Garante que apenas as crianças com os déficits mais severos recebam qualquer tipo de suporte",
+                      "explanation": "Incorreta. A RTI começa com triagem inicial e intervenção bem-estabelecida."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Permite identificar crianças em risco, aplicar intervenções graduadas e observar a resposta antes de proceder a um diagnóstico formal, diferenciando dificuldades temporárias de transtornos.",
+                      "explanation": "Correta! A \"Abordagem 'Resposta à Intervenção' (RTI)\" é considerada a melhor abordagem para identificar crianças com transtornos da aprendizagem. Ela \"envolve uma série de intervenções graduadas e observação cuidadosa da resposta da criança, diferenciando aquelas com dificuldades temporárias das que necessitam de um diagnóstico formal e apoio intensivo\", evitando a patologização de dificuldades que podem ser resolvidas com intervenções menos intensivas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "É usada apenas para crianças que não respondem a nenhuma intervenção inicial",
+                      "explanation": "Incorreta. Ela começa com triagem e \"primeira intervenção\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Foca exclusivamente na administração de testes psicológicos para um diagnóstico precoce",
+                      "explanation": "Incorreta. A RTI é um processo de etapas que vai além dos testes iniciais."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q24",
+                  "statement": "A \"Teoria do TDAH de Barkley\" postula que o prejuízo central é a incapacidade de inibir respostas. Quais são as quatro funções executivas que, segundo essa teoria, são diretamente afetadas por essa inibição prejudicada e que geram as manifestações do TDAH?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Desatenção, Hiperatividade, Impulsividade e Tipo Combinado",
+                      "explanation": "Incorreta. Estas são as categorias diagnósticas do TDAH, não as funções executivas propostas por Barkley."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Planejamento, Organização, Memória de Curto Prazo e Gestão do Tempo",
+                      "explanation": "Incorreta. Embora sejam funções executivas, a teoria de Barkley descreve especificamente outras quatro."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Memória Operacional, Internalização da Fala, Autorregulação (de emoções e motivação) e Reconstituição (análise e síntese de novos comportamentos).",
+                      "explanation": "Correta! A \"Teoria do TDAH de Barkley (1997)\" propõe que a incapacidade de inibir respostas afeta diretamente \"Memória Operacional\", \"Internalização da Fala\", \"Autorregulação\" (exibição de emoções sem censura e incapacidade de autorregular impulso e motivação) e \"Reconstituição\" (menor capacidade de resolver problemas por não conseguir analisar e sintetizar novos comportamentos)."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Concentração, Tomada de Decisão, Pensamentos Irracionais e Percepção da Realidade",
+                      "explanation": "Incorreta. Estas são manifestações cognitivas gerais, não as funções executivas específicas de Barkley."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Expressão de emoções, Tarefas acadêmicas, Brincadeiras interativas e Aprendizagem observacional",
+                      "explanation": "Incorreta. Estas são metas da abordagem comportamental para TEA."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q25",
+                  "statement": "A Deficiência Intelectual é classificada em quatro níveis de gravidade (Leve, Moderado, Grave, Profundo) em três esferas principais: Conceptual, Social e Prática. Qual é o valor clínico de ter essa classificação multidimensional e com níveis de gravidade?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Padroniza o tratamento para todos os indivíduos com Deficiência Intelectual",
+                      "explanation": "Incorreta. A classificação detalhada permite um tratamento personalizado, não padronizado."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Limita o diagnóstico apenas a casos com prejuízos físicos evidentes",
+                      "explanation": "Incorreta. A classificação é abrangente, cobrindo domínios cognitivos e sociais, não apenas físicos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Torna o diagnóstico mais rápido e menos complexo para profissionais",
+                      "explanation": "Incorreta. Um sistema multidimensional exige uma avaliação mais aprofundada, tornando-o mais complexo, mas também mais preciso."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Permite uma compreensão mais precisa e individualizada das necessidades de suporte, direcionando intervenções específicas para cada área de dificuldade e nível de funcionamento do indivíduo.",
+                      "explanation": "Correta! O DSM-5 especifica quatro níveis de gravidade para Deficiência Intelectual em três esferas principais: \"Conceptual\", \"Social\" e \"Prática\". A importância clínica é que essa classificação multidimensional e detalhada oferece um perfil mais preciso das forças e desafios do indivíduo, permitindo planejar intervenções altamente personalizadas e eficazes para cada área e nível de gravidade, em vez de uma abordagem generalista."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Foca exclusivamente nas causas genéticas da deficiência, ignorando fatores ambientais",
+                      "explanation": "Incorreta. A classificação foca nas *manifestações* da deficiência, e não em suas causas, que podem ser genéticas ou ambientais."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q26",
+                  "statement": "Considerando as \"Modalidades de Tratamento\" (Terapia Individual, Familiar, de Grupo e Ambientoterapia), qual é a principal vantagem de utilizá-las frequentemente em combinação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Reduzir o custo total do tratamento para o cliente",
+                      "explanation": "Incorreta. O material não menciona redução de custo como vantagem."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Acelerar a remissão de sintomas através de uma única abordagem intensiva",
+                      "explanation": "Incorreta. A combinação de abordagens visa maximizar benefícios, não necessariamente acelerar a remissão por uma única via."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Maximizar os benefícios terapêuticos, abordando as múltiplas dimensões do sofrimento do cliente de forma integrada e adaptada.",
+                      "explanation": "Correta! As modalidades de tratamento \"podendo ser utilizadas isoladamente ou, mais frequentemente, em combinação para maximizar os benefícios terapêuticos\". A principal vantagem da combinação é a capacidade de abordar de forma mais completa as múltiplas dimensões do sofrimento do cliente – individual, familiar, social e ambiental – otimizando os resultados e garantindo um suporte mais abrangente e adaptado às suas necessidades."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Simplificar o processo de tratamento para o clínico, que pode aplicar métodos padronizados",
+                      "explanation": "Incorreta. A combinação de abordagens pode, na verdade, aumentar a complexidade da coordenação do tratamento, exigindo maior flexibilidade do clínico."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Eliminar a necessidade de outras formas de intervenção, como a medicamentosa",
+                      "explanation": "Incorreta. As modalidades listadas são terapêuticas (psicológicas/sociais) e podem ser complementadas por outras intervenções, incluindo medicação."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q27",
+                  "statement": "Os critérios diagnósticos para SAF (Síndrome do Álcool Fetal) incluem \"Exposição pré-natal confirmada ao álcool\". Qual a importância crucial desse critério na distinção do SAF de outras condições de neurodesenvolvimento com apresentações clínicas semelhantes, mas de etiologia diferente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Permite um diagnóstico retrospectivo em adolescentes sem sintomas faciais",
+                      "explanation": "Incorreta. Embora a exposição pré-natal seja crucial, a pergunta foca na distinção de outras condições, não em retrospectiva sem sintomas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Justifica o início imediato de tratamento medicamentoso sem necessidade de outras avaliações",
+                      "explanation": "Incorreta. O critério etiológico é para o diagnóstico, não para pular etapas de avaliação ou direcionar tratamento específico por si só."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Estabelece a etiologia específica da condição, distinguindo-a de outras deficiências intelectuais ou transtornos do neurodesenvolvimento de origem genética ou ambiental diferente.",
+                      "explanation": "Correta! O critério de \"Exposição pré-natal confirmada\" ao álcool é crucial porque \"os déficits cognitivos de crianças com SAF são pronunciados principalmente na área de funcionamento executivo, levando a dificuldades no processamento e integração de informações\", e esse critério de exposição ao álcool, junto com outros (aparencia facial, problemas de crescimento, anormalidades do SNC, desempenho funcional), estabelece a etiologia específica da condição. Isso é fundamental para diferenciar SAF de outras deficiências intelectuais ou transtornos do neurodesenvolvimento que podem ter apresentações clínicas semelhantes, mas que decorrem de causas genéticas (como PKU, Síndrome do X Frágil) ou outras causas ambientais (como infecções maternas, privação de oxigênio, exposição a toxinas)."
+                    },
+                    {
+                      "id": "d",
+                      "text": "É o único critério necessário para o diagnóstico de SAF",
+                      "explanation": "Incorreta. Há outros critérios, como aparência facial, problemas de crescimento e anormalidades do SNC."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Implica que o tratamento para SAF é igual ao de outras deficiências intelectuais",
+                      "explanation": "Incorreta. Embora algumas intervenções possam ser semelhantes, a compreensão da etiologia específica pode informar abordagens mais direcionadas."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q28",
+                  "statement": "No contexto do \"Curso do Tratamento: Uma Jornada Compartilhada\", qual é o papel da \"Prática Baseada em Evidências\" em conjunto com a \"Contribuição do Clínico\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A prática baseada em evidências é exclusiva da pesquisa, e o clínico foca apenas na intuição",
+                      "explanation": "Incorreta. A prática baseada em evidências é uma *integração*."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O clínico deve seguir estritamente os protocolos da pesquisa, ignorando as preferências do cliente",
+                      "explanation": "Incorreta. A prática baseada em evidências inclui as preferências do cliente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A prática baseada em evidências visa padronizar o tratamento, eliminando a necessidade de flexibilidade do clínico",
+                      "explanation": "Incorreta. O clínico tem como contribuição a \"Aplicação flexível de diversos métodos terapêuticos\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A prática baseada em evidências fornece a fundamentação científica, enquanto a contribuição do clínico adapta esses conhecimentos de forma flexível, ética e sensível ao contexto sociocultural e às necessidades do cliente.",
+                      "explanation": "Correta! A \"Prática Baseada em Evidências\" é \"A integração da melhor pesquisa disponível, da expertise clínica do profissional e das preferências e valores do cliente\", resultando em \"intervenções mais efetivas e eticamente responsáveis\". A \"Contribuição do Clínico\" inclui \"Aplicação flexível de diversos métodos terapêuticos\", \"Monitoramento contínuo do progresso\", \"Manutenção de postura ética e atualização constante\" e \"Consideração cuidadosa do contexto sociocultural\". A interação entre essas duas partes é fundamental para otimizar os resultados terapêuticos, garantindo que o tratamento seja cientificamente validado, ético, flexível e adaptado à individualidade de cada cliente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O sucesso do tratamento depende apenas da pesquisa, sendo a contribuição do clínico secundária",
+                      "explanation": "Incorreta. A interação e a expertise do clínico são cruciais."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q29",
+                  "statement": "Os \"Riscos na Adolescência\" para pessoas com transtornos da aprendizagem incluem \"Abuso de substâncias\". Qual é a complexa relação entre os transtornos da aprendizagem, baixa autoestima/sentimentos de incompetência e o maior risco de abuso de substâncias nesse período?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O abuso de substâncias é uma causa direta dos transtornos da aprendizagem",
+                      "explanation": "Incorreta. O abuso de substâncias é listado como um *risco* na adolescência para quem já tem transtornos de aprendizagem, não como causa inicial."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A baixa autoestima e a incompetência são irrelevantes para o abuso de substâncias",
+                      "explanation": "Incorreta. O material indica que \"Mesmo fora do contexto escolar, muitos indivíduos com esses transtornos têm autoestima baixa e sentimentos de incompetência e vergonha\", sugerindo uma ligação."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A baixa autoestima e os sentimentos de incompetência resultantes das dificuldades acadêmicas e sociais podem levar à busca por substâncias como uma forma de coping disfuncional e automedicação, agravando o ciclo de problemas.",
+                      "explanation": "Correta! Os \"Riscos na Adolescência\" para indivíduos com transtornos da aprendizagem incluem \"Autoestima baixa, sentimentos de incompetência e vergonha\", além de \"Abuso de substâncias\". A relação é que as dificuldades persistentes e o estigma associado aos transtornos da aprendizagem frequentemente resultam em baixa autoestima e sentimentos de incompetência. Esses sentimentos, por sua vez, podem predispor os adolescentes ao abuso de substâncias como uma forma de lidar com o sofrimento emocional ou como uma tentativa de se encaixar socialmente, criando um ciclo de problemas comportamentais e emocionais."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A única forma de prevenir o abuso de substâncias é tratar os transtornos da aprendizagem na infância",
+                      "explanation": "Incorreta. Embora a intervenção precoce seja importante, a adolescência apresenta riscos específicos que precisam ser abordados."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Os problemas de sono são a principal causa do abuso de substâncias em adolescentes com transtornos de aprendizagem",
+                      "explanation": "Incorreta. Embora problemas de sono sejam um risco, a relação não é de causa principal nesse contexto."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L4_Q30",
+                  "statement": "A \"Formulação de Caso\" é descrita como uma \"narrativa integrativa\" que explica o desenvolvimento e manutenção dos problemas. Qual é o papel crucial de uma \"hipótese sobre as causas, os precipitantes e os fatores mantenedores\" no processo de formulação do caso e no direcionamento do tratamento, considerando que ela vai \"além do diagnóstico\" formal?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A hipótese limita a compreensão do caso ao diagnóstico principal, ignorando a complexidade individual",
+                      "explanation": "Incorreta. A formulação de caso vai *além* do diagnóstico, buscando uma compreensão mais profunda."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Seu único objetivo é confirmar o diagnóstico inicial do DSM, sem considerar fatores contextuais",
+                      "explanation": "Incorreta. A formulação de caso integra fatores biopsicossociais e culturais."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ela oferece um modelo explicativo individualizado que integra fatores biológicos, psicológicos, sociais e culturais, servindo como um \"mapa que guia o tratamento\" ao identificar os pontos de intervenção mais eficazes.",
+                      "explanation": "Correta! Jacqueline B. Persons afirma que \"A formulação de caso é uma hipótese sobre as causas, os precipitantes e os fatores mantenedores dos problemas de uma pessoa... É o mapa que guia o tratamento\". Esse papel crucial reside no fato de que, ao ir \"além do diagnóstico\", a formulação de caso constrói um modelo explicativo único para cada cliente, integrando elementos biopsicossociais e culturais. Isso permite identificar não apenas o \"quê\" (o diagnóstico), mas o \"porquê\" e o \"como\" dos problemas, oferecendo um guia personalizado para as intervenções mais eficazes e adaptadas, em vez de um tratamento genérico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "É um processo que deve ser feito de forma independente do cliente, para manter a objetividade",
+                      "explanation": "Incorreta. A formulação de caso se beneficia da perspectiva do cliente e da interação cliente-clínico."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A hipótese deve ser estática e não ser revisada ao longo do tratamento",
+                      "explanation": "Incorreta. O processo terapêutico é dinâmico e contínuo."
+                    }
+                  ],
+                  "answer": "c"
+                }
+              ]
             }
           ]
         },
