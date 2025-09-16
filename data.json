@@ -1971,55 +1971,1016 @@
         },
 
         {
-          "id": "p4s3",
-          "title": "Engenharia de Software",
+          "id": "p4_psicologia_escolar_e_educacional",
+          "title": "Psicologia Escolar e Educacional",
           "lists": [
             {
-              "id": "p4s3l1",
+              "id": "p4_PEeE_L1",
+              "title": "Lista 1",
+              "questions": [
+                {
+                  "id": "p4_PEeE_L1_Q1",
+                  "statement": "Piaget, em sua atuação, era primariamente conhecido como:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um educador focado em metodologias de ensino",
+                      "explanation": "Incorreta. Embora sua teoria ofereça contribuições úteis para a Educação, Piaget não era um educador nem se preocupava com metodologias normativas ou prescritivas de ensino. Inclusive, as fontes mencionam apropriações 'nem sempre corretamente embasadas' de 'supostas metodologias piagetianas de Ensino'."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Um epistemólogo interessado na formação do conhecimento",
+                      "explanation": "Correta! Jean Piaget se autodenominava um epistemólogo e passou a vida buscando responder à pergunta 'Como se dá o conhecimento?'. A Epistemologia Genética estuda a origem e o processo de formação do conhecimento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Um psicólogo clínico infantil",
+                      "explanation": "Incorreta. Costuma-se ouvir que Piaget era um psicólogo, 'o que não é exatamente a realidade'. Sua formação inicial era em biologia, mas seu interesse principal era a epistemologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um sociólogo estudioso de grupos sociais",
+                      "explanation": "Incorreta. Embora Piaget tenha analisado fatores sociais e seu impacto no desenvolvimento humano, inclusive com uma obra intitulada 'Estudos Sociológicos', as fontes esclarecem que ele 'não foi sociólogo nem desenvolveu uma teoria social'."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um biólogo que apenas se dedicava ao estudo de genes",
+                      "explanation": "Incorreta. Sua formação inicial era em biologia, o que pode levar à falsa impressão de que a palavra 'Genética' em sua teoria se refere a estudos sobre genes. No entanto, 'Genética' em Epistemologia Genética se refere à gênese, ou seja, à origem e formação do conhecimento."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q2",
+                  "statement": "Qual dos seguintes fatores NÃO é explicitamente listado como um dos quatro tópicos diferentes de Educação analisados a partir do ponto de vista da teoria piagetiana neste artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Fator social",
+                      "explanation": "Incorreta. O fator social é explicitamente listado e analisado no artigo como um dos quatro tópicos de Educação a partir do ponto de vista da teoria piagetiana."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fator afetivo",
+                      "explanation": "Incorreta. O fator afetivo é explicitamente listado e analisado no artigo como um dos quatro tópicos de Educação a partir do ponto de vista da teoria piagetiana."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Fator espiritual",
+                      "explanation": "Correta! O artigo menciona e analisa quatro tópicos diferentes de Educação sob a ótica piagetiana: social, cognitivo, afetivo e moral. O fator espiritual não é listado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Fator cognitivo",
+                      "explanation": "Incorreta. O fator cognitivo é explicitamente listado e analisado no artigo como um dos quatro tópicos de Educação a partir do ponto de vista da teoria piagetiana."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fator moral",
+                      "explanation": "Incorreta. O fator moral é explicitamente listado e analisado no artigo como um dos quatro tópicos de Educação a partir do ponto de vista da teoria piagetiana."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q3",
+                  "statement": "A palavra 'Genética' em 'Epistemologia Genética' refere-se à(o):",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Mecanismos de hereditariedade e estudos sobre os genes",
+                      "explanation": "Incorreta. Embora a formação inicial de Piaget tenha sido em biologia, as fontes esclarecem que 'Genética' na Epistemologia Genética pode levar a essa falsa impressão, mas não se refere a mecanismos de hereditariedade ou estudos sobre genes."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Desenvolvimento biológico e processos embriogenéticos",
+                      "explanation": "Incorreta. As fontes explicam que, embora 'genética' na linguagem dos biólogos atuais se refira a mecanismos de hereditariedade e seja distinta de processos embriogenéticos ou ontogenéticos, na expressão 'psicologia genética' (e, por extensão, Epistemologia Genética) o sentido é outro."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Gênese, ou seja, a origem e o processo de formação do conhecimento",
+                      "explanation": "Correta! A palavra 'Genética' se refere à gênese, e isso nos leva a compreender que a Epistemologia Genética estuda a origem e o processo de formação do conhecimento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Características inatas e predeterminadas do ser humano",
+                      "explanation": "Incorreta. O foco da Epistemologia Genética é o processo de formação, não as formas prontas ou características inatas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estudo das formas prontas do conhecimento",
+                      "explanation": "Incorreta. A Epistemologia Genética não se volta para as formas prontas do conhecimento, mas sim para a sua origem e processo de formação."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q4",
+                  "statement": "O objetivo principal da Psicologia Escolar/Educacional, conforme o manual do CRP-08, é:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Realizar apenas psicodiagnósticos em alunos com problemas de comportamento",
+                      "explanation": "Incorreta. O manual indica que, embora avaliação, diagnóstico e acompanhamento sejam aplicados, o trabalho se dirige à prevenção e ocorre dentro de um contexto institucional, não mais exclusivamente voltado ao aluno individualmente. O objetivo é o desenvolvimento global do estudante."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ser um esteio para o desenvolvimento global do estudante",
+                      "explanation": "Correta! O manual do CRP-08 afirma que o objetivo da Psicologia Escolar/Educacional é 'ser um esteio para o desenvolvimento global do estudante'. Isso é feito através de ações com diretores, professores, orientadores, pais e os próprios alunos, focando na prevenção."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Atuar exclusivamente na terapia individual de professores",
+                      "explanation": "Incorreta. O psicólogo escolar desenvolve atividades direcionadas com alunos, professores e funcionários e atua em parceria com a coordenação, familiares e outros profissionais, buscando o desenvolvimento cognitivo, humano e social de toda a comunidade escolar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Determinar os currículos escolares sem a participação da equipe pedagógica",
+                      "explanation": "Incorreta. O psicólogo escolar colabora com a equipe docente e técnica na elaboração, implantação, avaliação e reformulação de currículos e projetos pedagógicos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Monitorar o desempenho acadêmico dos alunos sem intervenção",
+                      "explanation": "Incorreta. O psicólogo escolar apoia o processo ensino/aprendizagem, utiliza conhecimentos para compreender estilos de aprendizagem e direcionar a equipe educativa, e atua nas frentes preventiva e de ajustes/mudanças."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q5",
+                  "statement": "Na psicogenética walloniana, qual é considerado o ponto de partida do psiquismo e o meio pelo qual o bebê estabelece os primeiros contatos e se comunica com o mundo humano?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A linguagem formal",
+                      "explanation": "Incorreta. Em Wallon, a linguagem tem uma relação íntima com as emoções, mas as emoções são o ponto de partida do psiquismo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O pensamento lógico",
+                      "explanation": "Incorreta. O pensamento lógico é um desenvolvimento posterior; o ponto de partida são as emoções."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As emoções",
+                      "explanation": "Correta! As fontes argumentam que, na psicogenética walloniana, a emoção é considerada o ponto de partida do psiquismo e o meio pelo qual o bebê estabelece os primeiros contatos e se comunica com o mundo humano. Wallon (1941/2005) afirma que 'Os primeiros contactos entre o sujeito e o ambiente são de ordem afectiva: são as emoções'."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A capacidade cognitiva inata",
+                      "explanation": "Incorreta. Wallon se opôs a visões reducionistas e biologizantes, focando na construção do sujeito a partir de suas interações com o meio."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A moralidade",
+                      "explanation": "Incorreta. A moralidade é um aspecto do desenvolvimento posterior."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q6",
+                  "statement": "Qual das seguintes alternativas NÃO representa um dos três períodos principais (simplificados) de desenvolvimento destacados por Piaget em uma de suas obras fundamentais (1952)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Período que se estende até 4 anos, com pensamento simbólico e pré-conceitual",
+                      "explanation": "Incorreta. Este é o segundo período descrito, iniciando entre 1,6 a 2 anos e estendendo-se até 4 anos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Período de operações abstratas e formais",
+                      "explanation": "Correta! Embora o pensamento formal seja o último estágio de desenvolvimento descrito por Piaget ('desde os 11-12 anos e durante a adolescência se elabora enfim o pensamento formal'), o enunciado da questão refere-se aos 'três períodos principais (simplificados)' conforme a obra de 1952, que agrupa os estádios. A opção 'período de operações abstratas e formais' não é uma das opções de simplificação descritas de 1952. Na citação de Piaget (1952, p.148), ele distingue quatro períodos principais após a inteligência sensório-motora: pensamento simbólico e pré-conceitual (até 4 anos), pensamento intuitivo (4 a 7/8 anos), operações concretas (7/8 a 11/12 anos) e pensamento formal (a partir de 11/12 anos). Portanto, a alternativa B não corresponde a uma das simplificações nesse contexto, e o período de operações formais é o quarto, não um dos 'três principais' no sentido de agrupamento anterior ou simplificação dos primeiros estádios."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Período intuitivo, de 4 a 7 ou 8 anos",
+                      "explanation": "Incorreta. Este é o terceiro período descrito, de 4 a 7 ou 8 anos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Período das 'operações concretas', de 7-8 a 11-12 anos",
+                      "explanation": "Incorreta. Este é o quarto período descrito, de 7-8 a 11-12 anos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Período sensório-motor, dos 0 a 18-24 meses",
+                      "explanation": "Incorreta. Embora seja o primeiro período, a questão pede um período que NÃO seja um dos 'três principais' em seguida ao que é caracterizado pela constituição da inteligência sensório-motora. Os períodos listados na... "
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q7",
+                  "statement": "Vygotsky, em sua teoria sobre o desenvolvimento humano, enfatiza o papel da cultura e da interação social, em oposição a um modelo predominantemente biológico. Qual das seguintes noções é central à sua teoria e explica como a interação com outros mais experientes promove o desenvolvimento de funções psicológicas superiores?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Adaptação e assimilação",
+                      "explanation": "Incorreta. Estes são conceitos centrais na teoria de Piaget, não de Vygotsky. A adaptação, que envolve assimilação e acomodação, explica como o sujeito interage e modifica os esquemas mentais em contato com o ambiente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Crise moral",
+                      "explanation": "Incorreta. Embora a moralidade seja um aspecto do desenvolvimento, a 'crise moral' não é um conceito-chave da teoria vygotskiana."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Oposição e reação",
+                      "explanation": "Incorreta. Estes são estágios de desenvolvimento propostos por Wallon, especificamente a crise de oposição, que marca a diferenciação do eu em relação ao outro."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Conflito cognitivo",
+                      "explanation": "Incorreta. O conflito cognitivo é um conceito piagetiano, que se refere ao desequilíbrio causado por novas informações que não se encaixam nos esquemas mentais existentes, impulsionando a aprendizagem."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Zona de Desenvolvimento Proximal (ZDP)",
+                      "explanation": "Correta! A Zona de Desenvolvimento Proximal (ZDP) é o conceito central da teoria de Vygotsky. Ela representa a distância entre o que uma pessoa pode fazer sozinha e o que ela pode fazer com a ajuda de um adulto ou de um colega mais experiente, destacando a importância da interação social e da mediação cultural no desenvolvimento."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q8",
+                  "statement": "De acordo com o texto sobre a teoria de Vygotsky, qual dos seguintes conceitos é uma ferramenta cultural fundamental que permite ao ser humano planejar suas ações, regular seu comportamento e mediar suas interações com o mundo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O jogo simbólico",
+                      "explanation": "Incorreta. Embora o jogo seja um conceito importante em Vygotsky (e também em Piaget), que permite o desenvolvimento de abstrações, a ferramenta fundamental de mediação mencionada no texto para o planejamento e regulação do comportamento é a linguagem."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A percepção",
+                      "explanation": "Incorreta. A percepção é um processo psicológico básico, mas não é a ferramenta simbólica fundamental que diferencia as funções psicológicas superiores, como a linguagem."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A memória",
+                      "explanation": "Incorreta. A memória é uma função psicológica, mas a linguagem é o sistema simbólico que a organiza e a transforma em uma função psicológica superior."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O reflexo condicionado",
+                      "explanation": "Incorreta. O reflexo condicionado é um conceito da psicologia comportamental, não da teoria histórico-cultural de Vygotsky."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A linguagem",
+                      "explanation": "Correta! Conforme o texto, a linguagem, ou mais especificamente a 'linguagem interna', é a ferramenta cultural fundamental que permite a mediação das funções psicológicas superiores, possibilitando o pensamento, o planejamento e a regulação consciente das ações. Vygotsky afirma que 'a linguagem é o principal sistema simbólico que permite a mediação entre o sujeito e o mundo'."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q9",
+                  "statement": "Wallon, em sua teoria do desenvolvimento, propõe uma abordagem multifatorial e dialética, na qual o desenvolvimento ocorre por meio de conflitos e superações de estágios. Qual dos seguintes pares de conceitos melhor representa a dialética presente na teoria walloniana?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Assimilação e acomodação",
+                      "explanation": "Incorreta. Estes são os conceitos centrais da teoria de Piaget para explicar o processo de adaptação e de construção do conhecimento, não da teoria walloniana."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Maturação e aprendizagem",
+                      "explanation": "Incorreta. Embora a maturação e a aprendizagem sejam elementos do desenvolvimento, o cerne da dialética walloniana não se resume a essa dualidade. A dialética de Wallon é mais complexa, envolvendo a interdependência entre o biológico e o social."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Interação social e internalização",
+                      "explanation": "Incorreta. Estes são conceitos centrais na teoria de Vygotsky, que defende que as funções psicológicas superiores são internalizadas a partir das interações sociais. Não são o cerne da dialética walloniana."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Indivíduo e sociedade",
+                      "explanation": "Correta! A dialética walloniana é marcada pela oposição e complementaridade entre o indivíduo e a sociedade. O sujeito é construído a partir das interações com o meio social (o outro), e o desenvolvimento não ocorre de forma linear, mas através de crises e superações de conflitos entre a dimensão afetiva (centrípeta) e a cognitiva (centrífuga)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "ZDP e imitação",
+                      "explanation": "Incorreta. A Zona de Desenvolvimento Proximal (ZDP) é um conceito de Vygotsky, e a imitação é um mecanismo de aprendizagem também presente na teoria vygotskiana, que ocorre no interior da ZDP. Não são conceitos centrais da dialética walloniana."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q10",
+                  "statement": "Qual é a principal crítica apontada pelo texto em relação à apropriação da teoria de Piaget na Educação, especialmente por meio de leituras de 'intermediários'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Para evitar a repetição de conceitos já conhecidos pelo leitor",
+                      "explanation": "Incorreta. Embora o artigo mencione a repetição de conceitos, a principal razão da recomendação está relacionada a apropriações incorretas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Para focar apenas nos limites da teoria de Piaget, sem considerar suas contribuições",
+                      "explanation": "Incorreta. A recomendação é para uma visão abrangente, que inclua tanto contribuições quanto limites."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Porque a leitura de apenas intermediários pode desviar o educador do foco encontrado nos originais, levando a apropriações distorcidas da teoria de Piaget na Educação",
+                      "explanation": "Correta! O texto afirma: 'Muitas vezes a leitura apenas de alguns intermediários pode desviar o educador do foco somente encontrado nos originais. É muito freqüente se encontrar afirmativas sobre as possibilidades de aplicação da Teoria de Piaget na Educação das formas mais distorcidas que alguém possa imaginar'."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Para privilegiar as pesquisas num determinado campo, como o cognitivo, em detrimento de outros fatores",
+                      "explanation": "Incorreta. A recomendação de visão abrangente é justamente para não privilegiar um campo em detrimento de outros e evitar preconceitos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Para ignorar a complexidade da teoria e buscar apenas as conclusões superficiais",
+                      "explanation": "Incorreta. A complexidade da teoria é reconhecida, e a recomendação visa uma compreensão mais profunda, não superficial."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q11",
+                  "statement": "A Psicologia Escolar/Educacional, conforme discutido no material, atua em diversas frentes. Qual das seguintes atividades, no contexto da escola, não é uma função típica do psicólogo escolar, conforme a evolução da área?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Atuar na prevenção de problemas de aprendizagem",
+                      "explanation": "Incorreta. O manual do CRP-08 afirma que o trabalho se dirige à prevenção e que o psicólogo escolar atua na frente preventiva, utilizando conhecimentos para compreender estilos de aprendizagem e direcionar a equipe educativa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Colaborar com a equipe pedagógica na elaboração de currículos",
+                      "explanation": "Incorreta. O psicólogo escolar colabora com a equipe docente e técnica na elaboração, implantação, avaliação e reformulação de currículos e projetos pedagógicos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Realizar exclusivamente o psicodiagnóstico individual de alunos com queixas",
+                      "explanation": "Correta! A atuação da Psicologia Escolar evoluiu de um modelo clínico, que focava apenas no psicodiagnóstico e tratamento individual de alunos com problemas, para uma abordagem institucional e preventiva, que envolve toda a comunidade escolar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apoiar o processo ensino-aprendizagem, buscando o desenvolvimento global do estudante",
+                      "explanation": "Incorreta. O manual do CRP-08 estabelece que o objetivo da Psicologia Escolar/Educacional é 'ser um esteio para o desenvolvimento global do estudante' e que o psicólogo apoia o processo ensino/aprendizagem."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Trabalhar em parceria com professores, diretores e famílias",
+                      "explanation": "Incorreta. A atuação do psicólogo escolar envolve a colaboração e parceria com toda a comunidade escolar, incluindo professores, diretores, orientadores e pais."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q12",
+                  "statement": "De acordo com o texto sobre a Epistemologia Genética de Piaget, a palavra 'Genética' se refere à 'gênese' do conhecimento. Isso implica que a teoria de Piaget se volta para:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "As características inatas e predeterminadas do ser humano",
+                      "explanation": "Incorreta. O foco da Epistemologia Genética é o processo de formação, não as formas prontas ou características inatas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O estudo das formas prontas do conhecimento",
+                      "explanation": "Incorreta. A Epistemologia Genética não se volta para as formas prontas do conhecimento, mas sim para a sua origem e processo de formação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O processo de aquisição e desenvolvimento do conhecimento, desde o nascimento",
+                      "explanation": "Correta! A Epistemologia Genética estuda a origem ('gênese') e o processo de formação do conhecimento, desde as formas mais primitivas até o pensamento lógico-formal."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apenas o desenvolvimento cognitivo de crianças em idade escolar",
+                      "explanation": "Incorreta. A teoria de Piaget abrange o desenvolvimento do conhecimento desde o nascimento até a adolescência, e não se limita à idade escolar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Mecanismos de hereditariedade e estudos sobre os genes",
+                      "explanation": "Incorreta. O texto explicitamente esclarece que a palavra 'Genética' na teoria de Piaget não se refere a estudos sobre genes."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q13",
+                  "statement": "No contexto da teoria de Wallon, o desenvolvimento é considerado uma 'passagem de uma forma de atividade para outra'. Qual é o principal motor dessa transição, ou seja, o que impulsiona o desenvolvimento de um estágio para o outro?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O processo de maturação biológica",
+                      "explanation": "Incorreta. Embora a maturação seja um fator, a teoria de Wallon não se restringe a uma visão biológica. A transição entre os estágios é impulsionada por conflitos internos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A imitação de modelos sociais",
+                      "explanation": "Incorreta. A imitação é um mecanismo de aprendizagem, mas o motor do desenvolvimento, na visão de Wallon, são os conflitos entre as funções afetivas e cognitivas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A resolução de conflitos entre a dimensão afetiva (centrípeta) e a dimensão cognitiva (centrífuga)",
+                      "explanation": "Correta! O desenvolvimento walloniano é impulsionado por uma dialética de conflitos e superações. A passagem de um estágio para o outro ocorre pela resolução de conflitos entre a dimensão afetiva (direcionada para a construção do sujeito, o 'eu') e a dimensão cognitiva (direcionada para a relação com o mundo exterior)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O reforço positivo de comportamentos desejados",
+                      "explanation": "Incorreta. Este é um conceito central da psicologia comportamental, não da teoria psicogenética de Wallon."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de adaptação ao meio ambiente",
+                      "explanation": "Incorreta. Embora a adaptação seja um processo importante, a teoria de Wallon enfatiza a dimensão afetiva e social como motores do desenvolvimento, em uma dialética complexa, e não apenas a adaptação ao meio."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q14",
+                  "statement": "Em sua teoria, Vygotsky destaca a importância das 'ferramentas' e dos 'sinais' como mediadores do desenvolvimento humano. Qual dos seguintes exemplos representa melhor o uso de uma 'ferramenta' na perspectiva de Vygotsky?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um bebê que aponta para um objeto que deseja, indicando sua necessidade",
+                      "explanation": "Incorreta. Apontar é um 'sinal' ou 'gesto', que serve para a comunicação e mediação, mas não é uma ferramenta no sentido vygotskiano. A ferramenta é um instrumento externo, como uma enxada ou um lápis."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Uma criança que usa uma calculadora para resolver um problema matemático complexo",
+                      "explanation": "Correta! A calculadora é uma 'ferramenta' na perspectiva vygotskiana, pois é um instrumento externo, criado pela cultura, que serve para mediar e transformar o pensamento. As ferramentas agem sobre o objeto (o mundo exterior), enquanto os sinais agem sobre o próprio sujeito."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Um estudante que repete uma fórmula matemática em voz alta para memorizá-la",
+                      "explanation": "Incorreta. A repetição em voz alta é um uso da linguagem, que é um 'sinal' na perspectiva de Vygotsky, pois a linguagem, em sua forma internalizada, age sobre o próprio sujeito, regulando seu pensamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um psicólogo que interpreta um sonho do paciente com base na teoria psicanalítica",
+                      "explanation": "Incorreta. A teoria psicanalítica é um sistema de ideias, um 'sinal' ou um conjunto de 'sinais' que mediam a compreensão, mas não é uma 'ferramenta' no sentido instrumental vygotskiano."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um adulto que ajuda uma criança a montar um quebra-cabeça, dando-lhe dicas verbais",
+                      "explanation": "Incorreta. As dicas verbais são uma forma de 'mediação social' e uso da linguagem, que é um 'sinal' ou 'ferramenta simbólica', mas a pergunta busca um exemplo de 'ferramenta' no sentido de um instrumento externo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q15",
+                  "statement": "No contexto da teoria de Wallon, qual é o principal papel da emoção no desenvolvimento infantil?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um subproduto do desenvolvimento cognitivo, sem função social",
+                      "explanation": "Incorreta. Em Wallon, as emoções têm um papel central e inicial no desenvolvimento, sendo o ponto de partida do psiquismo e a base da comunicação com o mundo social."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas uma manifestação de estados internos, como a fome ou o sono",
+                      "explanation": "Incorreta. As emoções são mais do que manifestações de estados internos; elas têm uma função comunicativa e social, servindo de elo com o mundo humano."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A base para as primeiras interações e para a comunicação com o meio social",
+                      "explanation": "Correta! As fontes argumentam que, na psicogenética walloniana, a emoção é considerada o ponto de partida do psiquismo e o meio pelo qual o bebê estabelece os primeiros contatos e se comunica com o mundo humano."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um obstáculo para a aquisição da linguagem e do pensamento lógico",
+                      "explanation": "Incorreta. Pelo contrário, em Wallon, a emoção e a linguagem têm uma relação íntima. As emoções são a base sobre a qual se desenvolvem as formas mais complexas de comunicação e pensamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O resultado final do desenvolvimento, após a formação da consciência moral",
+                      "explanation": "Incorreta. As emoções são o ponto de partida, não o resultado final, do desenvolvimento em Wallon."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q16",
+                  "statement": "Piaget, em sua teoria do desenvolvimento, propõe uma sequência de estágios. Qual dos seguintes estágios se caracteriza pelo desenvolvimento da capacidade de pensar de forma simbólica e de formar representações mentais de objetos e eventos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Estágio Sensório-motor",
+                      "explanation": "Incorreta. Este estágio (0 a 2 anos) é caracterizado pela inteligência prática, baseada em ações e percepções, e não no pensamento simbólico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estágio Pré-operacional",
+                      "explanation": "Correta! O estágio pré-operacional (2 a 7 anos) é marcado pelo início da capacidade simbólica, que se manifesta no jogo simbólico, no desenho e na linguagem. A criança começa a representar o mundo internamente, mas ainda de forma egocêntrica e intuitiva."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estágio das Operações Concretas",
+                      "explanation": "Incorreta. Este estágio (7 a 11 anos) é marcado pela capacidade de realizar operações mentais, mas elas ainda estão limitadas a objetos e eventos concretos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Estágio das Operações Formais",
+                      "explanation": "Incorreta. Este é o último estágio (a partir dos 12 anos), no qual o adolescente adquire a capacidade de pensar de forma abstrata, hipotética e dedutiva, sem a necessidade de apoio em objetos concretos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estágio de Conflito Biossocial",
+                      "explanation": "Incorreta. Este não é um estágio na teoria de Piaget. O conceito de conflito biossocial pertence à teoria de Wallon."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q17",
+                  "statement": "No contexto da teoria de Wallon, qual é o estágio de desenvolvimento em que a criança está orientada para a construção do 'eu', com predominância da dimensão afetiva, e onde as reações de oposição e afirmação da personalidade são mais evidentes?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Estágio Impulsivo-Emocional",
+                      "explanation": "Incorreta. Este é o primeiro estágio (0 a 1 ano), onde a criança se manifesta por meio de movimentos impulsivos e emoções, sem ainda ter a consciência do 'eu'."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estágio Sensório-Motor e Projetivo",
+                      "explanation": "Incorreta. Este estágio (1 a 3 anos) é caracterizado pela exploração do mundo exterior, com a predominância da dimensão cognitiva, e onde o movimento é a principal ferramenta de interação com o mundo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estágio do Personalismo",
+                      "explanation": "Correta! Este é o estágio de 3 a 6 anos. Nele, a criança vive a 'crise do personalismo', em que busca a diferenciação do 'eu' por meio de reações de oposição (o 'não' é a palavra-chave), imitação e sedução. A dimensão afetiva é predominante."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Estágio Categorial",
+                      "explanation": "Incorreta. Este estágio (6 a 11 anos) é marcado pelo predomínio da dimensão cognitiva e pela capacidade de agrupar e classificar objetos, com o início do pensamento lógico e abstrato."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estágio da Puberdade e Adolescência",
+                      "explanation": "Incorreta. Este é o último estágio, onde há um novo conflito entre a dimensão afetiva e cognitiva, e o sujeito busca sua identidade e autonomia, com a predominância da dimensão afetiva."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q18",
+                  "statement": "Segundo Vygotsky, o que diferencia as 'funções psicológicas superiores' das 'funções psicológicas elementares'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "As funções elementares são biológicas e as superiores são adquiridas pela educação formal",
+                      "explanation": "Incorreta. Embora a educação formal seja importante, Vygotsky destaca que as funções superiores são mediadas pela cultura e pela interação social em geral, e não apenas pela educação formal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "As funções elementares são controladas pelo ambiente, enquanto as superiores são mediadas por ferramentas e sinais culturais",
+                      "explanation": "Correta! As funções psicológicas elementares (como a percepção, a atenção e a memória involuntária) são de origem biológica, enquanto as funções psicológicas superiores (como a linguagem, o pensamento e a memória voluntária) são de origem social e são mediadas por ferramentas (como um lápis) e sinais (como a linguagem)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As funções superiores são desenvolvidas apenas na vida adulta, e as elementares na infância",
+                      "explanation": "Incorreta. As funções psicológicas superiores começam a se desenvolver na infância, a partir da interação social e da mediação cultural."
+                    },
+                    {
+                      "id": "D",
+                      "text": "As funções superiores são inatas, e as elementares são aprendidas",
+                      "explanation": "Incorreta. Esta alternativa inverte a lógica da teoria de Vygotsky, que afirma que as funções superiores são construídas socialmente e as elementares são de origem biológica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Não há diferença entre as duas, pois o desenvolvimento é um processo contínuo",
+                      "explanation": "Incorreta. Vygotsky distingue claramente as funções elementares das superiores, enfatizando que o desenvolvimento humano é qualitativamente diferente dos processos de aprendizagem e desenvolvimento em outras espécies."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q19",
+                  "statement": "Piaget afirma que o desenvolvimento cognitivo da criança ocorre por meio de uma constante busca por um 'equilíbrio' entre a assimilação e a acomodação. O que acontece quando a criança se depara com uma nova informação que não se encaixa em seus esquemas mentais existentes?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ela ignora a nova informação",
+                      "explanation": "Incorreta. A criança não ignora a nova informação, mas busca um 'ajuste' em seus esquemas mentais para dar sentido a ela."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ela sofre um 'desequilíbrio' cognitivo, que a motiva a buscar uma nova 'acomodação'",
+                      "explanation": "Correta! Quando a criança se depara com uma nova informação que não se encaixa em seus esquemas mentais (processo de 'assimilação'), ela entra em um estado de 'desequilíbrio', que a motiva a modificar ou criar novos esquemas ('acomodação') para restaurar o equilíbrio cognitivo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ela regride para um estágio de desenvolvimento anterior",
+                      "explanation": "Incorreta. A teoria de Piaget é uma teoria de estágios, e a regressão não é um mecanismo típico de desenvolvimento. O desequilíbrio leva à progressão, não à regressão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ela desiste de aprender e se frustra",
+                      "explanation": "Incorreta. O desequilíbrio é um mecanismo de aprendizagem, que motiva a criança a buscar a 'acomodação' e a superação, e não a desistir."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ela assimila a nova informação sem precisar de acomodação",
+                      "explanation": "Incorreta. A assimilação sem acomodação só ocorreria se a nova informação já se encaixasse perfeitamente nos esquemas mentais existentes, o que não é o caso descrito na questão."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q20",
+                  "statement": "No contexto da Psicologia Escolar/Educacional, qual é a principal mudança de paradigma que o manual do CRP-08 enfatiza em relação à atuação do psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A atuação deve ser exclusivamente na clínica, em consultórios",
+                      "explanation": "Incorreta. A Psicologia Escolar/Educacional atua dentro do contexto institucional, na escola, e não apenas na clínica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O foco deve ser apenas no diagnóstico e tratamento de alunos com dificuldades de aprendizagem",
+                      "explanation": "Incorreta. O manual do CRP-08 destaca a superação desse modelo tradicional, que focava apenas no diagnóstico individual, para uma abordagem mais ampla."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A atuação deve ser unicamente preventiva, sem intervenções diretas nos problemas existentes",
+                      "explanation": "Incorreta. O manual do CRP-08 afirma que o trabalho se dirige à prevenção, mas também envolve avaliação, diagnóstico e acompanhamento, ou seja, atua em ambas as frentes: preventiva e de intervenção."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O psicólogo deve focar em trabalhar apenas com a coordenação e a direção da escola",
+                      "explanation": "Incorreta. O psicólogo escolar atua com toda a comunidade escolar: alunos, professores, funcionários, pais, coordenação e outros profissionais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A transição de um modelo de atuação clínico para um modelo institucional e preventivo, que envolva toda a comunidade escolar",
+                      "explanation": "Correta! O manual do CRP-08 enfatiza essa mudança de paradigma, em que a atuação do psicólogo escolar evolui de um modelo focado no indivíduo (clínico) para um modelo que abrange o contexto institucional e que prioriza a prevenção e o desenvolvimento global do estudante."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q21",
+                  "statement": "No contexto da teoria de Wallon, o desenvolvimento do 'eu' ocorre de forma conflituosa. Qual é a principal função da crise de oposição (o estágio do personalismo) na formação da personalidade da criança?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas um comportamento negativo e desobediente que deve ser reprimido",
+                      "explanation": "Incorreta. A crise de oposição é vista por Wallon como um comportamento necessário para a formação da personalidade, e não como algo que deve ser simplesmente reprimido."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A construção da identidade pessoal por meio da diferenciação do 'eu' em relação ao outro",
+                      "explanation": "Correta! A crise de oposição, que marca o estágio do personalismo, é a forma pela qual a criança se diferencia do outro e constrói a sua própria identidade, ao se opor às ordens e vontades alheias. É um momento de afirmação da personalidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A imitação de comportamentos e gestos de adultos, sem reflexão",
+                      "explanation": "Incorreta. A imitação também é um mecanismo do estágio do personalismo, mas o principal motor do desenvolvimento do 'eu' é a oposição, que leva à diferenciação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desenvolvimento do pensamento lógico e da capacidade de abstração",
+                      "explanation": "Incorreta. O desenvolvimento do pensamento lógico ocorre em um estágio posterior, o Categorial, onde a dimensão cognitiva se sobrepõe à afetiva."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A regulação das emoções e a busca pela harmonia social",
+                      "explanation": "Incorreta. A crise de oposição é um momento de conflito, não de harmonia, e o desenvolvimento da regulação emocional é um processo que se estende por toda a vida."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q22",
+                  "statement": "A 'Análise de Alternativas' destaca as contribuições de Piaget para a Educação. Qual das seguintes noções piagetianas é considerada uma das mais importantes para a prática pedagógica, segundo o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A importância da memorização e da repetição para a aprendizagem",
+                      "explanation": "Incorreta. A teoria de Piaget é construtivista, e enfatiza a aprendizagem significativa, baseada na interação e na construção do conhecimento pelo sujeito, e não na memorização."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O conceito de 'pronto-socorro' para a resolução de problemas comportamentais dos alunos",
+                      "explanation": "Incorreta. O texto do manual do CRP-08 sobre Psicologia Escolar critica essa visão, que remete a uma atuação clínica e não preventiva."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A ideia de que a inteligência é uma característica estática e inalterável",
+                      "explanation": "Incorreta. A teoria de Piaget é uma teoria de desenvolvimento e construção do conhecimento, e não de características estáticas. Ele mostra como a inteligência se desenvolve ao longo do tempo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A necessidade de respeitar as etapas do desenvolvimento cognitivo da criança",
+                      "explanation": "Correta! Uma das contribuições mais importantes de Piaget para a Educação é a compreensão de que o professor precisa respeitar as etapas do desenvolvimento cognitivo de seus alunos, ajustando as atividades de ensino ao nível de maturidade intelectual de cada um. Isso evita a frustração e facilita a aprendizagem significativa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O papel do professor como o único detentor do conhecimento e responsável pela transmissão de informações",
+                      "explanation": "Incorreta. A teoria de Piaget sugere um papel mais ativo para o aluno e um papel de mediador para o professor, que deve criar um ambiente que estimule a curiosidade e a autonomia."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q23",
+                  "statement": "Vygotsky, em seu estudo sobre o desenvolvimento da linguagem, propôs que a fala egocêntrica da criança, que se manifesta quando ela fala sozinha enquanto realiza uma atividade, tem uma função importante. Qual é essa função?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas uma repetição de frases de adultos, sem função cognitiva",
+                      "explanation": "Incorreta. Vygotsky critica essa visão e afirma que a fala egocêntrica tem uma função cognitiva importante, que é a de auto-regulação do comportamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Um sinal de imaturidade social e de egocentrismo",
+                      "explanation": "Incorreta. Piaget via a fala egocêntrica como um reflexo do egocentrismo infantil. Vygotsky, por outro lado, a via como um estágio de transição para a linguagem interna e um instrumento de auto-regulação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A mediação interna do pensamento, que auxilia a criança a planejar e a organizar suas ações",
+                      "explanation": "Correta! Vygotsky argumenta que a fala egocêntrica, ao contrário do que pensava Piaget, não é um sintoma de egocentrismo, mas um estágio de transição entre a linguagem social e a linguagem interna (pensamento verbal). A criança a utiliza para guiar e regular suas próprias ações."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apenas um meio de comunicação com adultos ausentes",
+                      "explanation": "Incorreta. A fala egocêntrica é dirigida à própria criança, e não a adultos ausentes. Sua função é de auto-regulação, e não de comunicação com o outro."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Uma forma de expressar emoções e sentimentos, sem relação com a cognição",
+                      "explanation": "Incorreta. Embora a linguagem esteja ligada às emoções, a principal função da fala egocêntrica, segundo Vygotsky, é a de auto-regulação cognitiva."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q24",
+                  "statement": "No contexto da teoria de Wallon, a puberdade e a adolescência representam um novo conflito, no qual o sujeito busca sua autonomia e se depara com a necessidade de construir sua identidade. Qual é o principal desafio desse estágio?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desenvolvimento da capacidade de pensar de forma concreta",
+                      "explanation": "Incorreta. O pensamento concreto se desenvolve em um estágio anterior, o Categorial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A necessidade de superar o egocentrismo infantil",
+                      "explanation": "Incorreta. A superação do egocentrismo ocorre nos estágios anteriores. Na adolescência, o egocentrismo assume uma nova forma, ligada à busca da autonomia e à diferenciação em relação ao grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A busca por uma nova síntese, que integre as dimensões afetiva e cognitiva, para a construção da identidade adulta",
+                      "explanation": "Correta! O estágio da puberdade e adolescência é marcado por uma nova crise e por um novo movimento de construção da identidade. O sujeito precisa encontrar uma nova síntese que integre a dimensão afetiva (as emoções, os desejos) e a cognitiva (o pensamento lógico e abstrato) para a construção da sua identidade adulta."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A assimilação de novas informações sem a necessidade de acomodação",
+                      "explanation": "Incorreta. Este é um conceito piagetiano e não se aplica à dinâmica do desenvolvimento da adolescência em Wallon."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A oposição ao mundo exterior sem a necessidade de interação social",
+                      "explanation": "Incorreta. O adolescente se opõe, mas a interação social é fundamental para a construção de sua identidade. O desafio é encontrar um lugar no mundo e construir sua autonomia dentro do grupo social."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q25",
+                  "statement": "Qual dos seguintes aspectos da teoria de Piaget é mais relevante para a Psicologia Escolar/Educacional, segundo as análises presentes no material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A ênfase na memorização e no treino de habilidades específicas",
+                      "explanation": "Incorreta. A teoria de Piaget é construtivista e valoriza a compreensão e a construção do conhecimento pelo sujeito, e não a memorização."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A visão de que o professor deve ser o único detentor do conhecimento",
+                      "explanation": "Incorreta. A teoria de Piaget enfatiza um papel ativo para o aluno e um papel de mediador para o professor."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O conceito de 'desequilíbrio' como motor da aprendizagem",
+                      "explanation": "Correta! O conceito de desequilíbrio, que se manifesta quando a criança se depara com novas informações que não se encaixam em seus esquemas mentais, é fundamental para a Psicologia Escolar/Educacional, pois mostra que a aprendizagem é um processo ativo, de conflito e superação, e que o professor deve criar situações-problema que estimulem esse desequilíbrio e a busca por novas acomodações."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crença de que a inteligência é inata e que a educação tem pouca influência",
+                      "explanation": "Incorreta. A teoria de Piaget é uma teoria interacionista, que enfatiza a interação entre o sujeito e o ambiente, e o papel da educação e do meio social no desenvolvimento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O fato de que a teoria não pode ser aplicada na prática pedagógica",
+                      "explanation": "Incorreta. O texto destaca que, embora haja apropriações distorcidas, a teoria de Piaget oferece contribuições importantes para a educação."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q26",
+                  "statement": "De acordo com o texto sobre a Psicologia Escolar, a atuação do psicólogo na escola deve se dar de forma institucional e preventiva. Qual das seguintes ações é um exemplo de atuação preventiva?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O atendimento individual de um aluno com TDAH, em seu consultório",
+                      "explanation": "Incorreta. O atendimento individual, no consultório, é uma atuação clínica, e não institucional ou preventiva."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A realização de um psicodiagnóstico para identificar a causa de uma dificuldade de aprendizagem de um aluno",
+                      "explanation": "Incorreta. O psicodiagnóstico é uma atuação de intervenção, e não preventiva."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A aplicação de um questionário em todos os alunos da escola para identificar problemas de comportamento",
+                      "explanation": "Incorreta. A aplicação de questionário é um método de avaliação, mas não uma atuação preventiva que envolva toda a comunidade escolar na busca de soluções."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desenvolvimento de um projeto em parceria com os professores para melhorar as metodologias de ensino e prevenir problemas de aprendizagem na escola",
+                      "explanation": "Correta! O desenvolvimento de projetos em parceria com a equipe pedagógica para melhorar as metodologias de ensino e prevenir problemas de aprendizagem é uma atuação institucional e preventiva, que beneficia toda a comunidade escolar, e não apenas um indivíduo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A orientação individual de um professor que está com problemas de relacionamento com um aluno",
+                      "explanation": "Incorreta. Embora a orientação individual seja uma atuação importante, ela não é uma atuação institucional e preventiva, que visa a mudança de todo o sistema escolar."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q27",
+                  "statement": "Qual dos seguintes conceitos é a principal diferença entre as abordagens de Piaget e Vygotsky em relação à linguagem e ao pensamento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Piaget vê a linguagem como um reflexo do pensamento, e Vygotsky a vê como uma ferramenta que o organiza",
+                      "explanation": "Correta! Piaget defende que o pensamento precede e determina a linguagem. A linguagem é uma manifestação do pensamento egocêntrico da criança. Vygotsky, por outro lado, defende que a linguagem é a principal ferramenta cultural que organiza o pensamento e o transforma em uma função psicológica superior."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Piaget vê a linguagem como uma ferramenta cultural, e Vygotsky a vê como um reflexo do pensamento",
+                      "explanation": "Incorreta. Esta alternativa inverte a visão de ambos os teóricos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ambos veem a linguagem como um subproduto do desenvolvimento biológico",
+                      "explanation": "Incorreta. Ambos os teóricos enfatizam o papel da interação social e da cultura no desenvolvimento da linguagem, e não apenas o aspecto biológico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ambos veem a linguagem como a principal causa da inteligência",
+                      "explanation": "Incorreta. Embora a linguagem seja fundamental em ambas as teorias, a inteligência é vista como um processo complexo, que envolve outras funções cognitivas e a interação com o meio social e físico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ambos veem a linguagem como um processo inato, sem influência do meio",
+                      "explanation": "Incorreta. Ambos os teóricos destacam o papel do meio social e da interação com o outro no desenvolvimento da linguagem."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q28",
+                  "statement": "Qual dos seguintes conceitos, presentes no material, descreve a abordagem de Wallon, que propõe que o desenvolvimento humano ocorre por meio de uma constante interação e conflito entre a dimensão afetiva (social) e a cognitiva (individual)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O behaviorismo",
+                      "explanation": "Incorreta. O behaviorismo é uma teoria que estuda o comportamento humano a partir da relação estímulo-resposta, sem levar em conta os aspectos afetivos e cognitivos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O construtivismo",
+                      "explanation": "Incorreta. O construtivismo é a base da teoria de Piaget, que defende que o sujeito constrói o seu conhecimento por meio da interação com o ambiente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A teoria histórico-cultural",
+                      "explanation": "Incorreta. A teoria histórico-cultural é a base da teoria de Vygotsky, que enfatiza o papel da cultura e da interação social no desenvolvimento do indivíduo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A psicogenética da pessoa completa",
+                      "explanation": "Correta! A teoria de Wallon é conhecida como 'Psicogenética da pessoa completa', pois ele busca integrar a emoção, o movimento, a inteligência e a dimensão social na compreensão do desenvolvimento humano."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A teoria da inteligência múltipla",
+                      "explanation": "Incorreta. A teoria da inteligência múltipla é uma abordagem de Howard Gardner, que defende que a inteligência não é uma única capacidade, mas sim um conjunto de inteligências distintas."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q29",
+                  "statement": "Piaget, em sua visão da moralidade, propõe uma passagem da 'heteronomia' para a 'autonomia'. O que essa transição significa?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A obediência cega a regras impostas por uma autoridade externa",
+                      "explanation": "Incorreta. A obediência cega é uma característica da 'heteronomia', o estágio anterior da moralidade. A transição é para a 'autonomia'."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A internalização de regras e princípios morais, que passam a ser seguidos por convicção e não por medo de punição",
+                      "explanation": "Correta! A 'heteronomia' é a moralidade da obediência, baseada no respeito unilateral e no medo de punição. A 'autonomia' é a moralidade da cooperação, que se baseia no respeito mútuo e na internalização de princípios morais. A transição ocorre quando a criança compreende que as regras são construídas socialmente e podem ser modificadas com o consentimento do grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A capacidade de mentir para se beneficiar em situações de conflito",
+                      "explanation": "Incorreta. A mentira é uma questão relacionada à moralidade, mas a transição da heteronomia para a autonomia envolve a compreensão e a internalização de princípios éticos, e não o benefício pessoal."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O respeito unilateral pelas regras, sem questioná-las",
+                      "explanation": "Incorreta. O respeito unilateral é uma característica da 'heteronomia'. A 'autonomia' envolve a capacidade de questionar e de construir regras de forma cooperativa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A dependência de uma autoridade externa para a tomada de decisões morais",
+                      "explanation": "Incorreta. A dependência de uma autoridade externa é uma característica da 'heteronomia'. A 'autonomia' é a capacidade de tomar decisões morais com base em princípios internalizados."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PEeE_L1_Q30",
+                  "statement": "Qual dos seguintes aspectos, presentes nas reflexões finais do material, é apontado como um desafio para o psicólogo escolar na atualidade?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de demanda para a atuação na escola",
+                      "explanation": "Incorreta. O material não aponta a falta de demanda como um desafio, mas sim a necessidade de uma atuação mais ampla e integrada, que vá além do modelo clínico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A necessidade de focar apenas no desenvolvimento cognitivo dos alunos, ignorando a dimensão afetiva",
+                      "explanation": "Incorreta. O material enfatiza a necessidade de um olhar holístico sobre o estudante, que inclua o desenvolvimento cognitivo, afetivo, social e moral."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A superação de uma visão de 'pronto-socorro' e a construção de uma atuação mais institucional e preventiva",
+                      "explanation": "Correta! A superação de um modelo de atuação que é reativo ('pronto-socorro') e a construção de uma atuação mais proativa, institucional e preventiva, que envolva toda a comunidade escolar, é apontada como um dos principais desafios para o psicólogo escolar na atualidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A falta de teorias para embasar a prática, o que leva à atuação baseada no senso comum",
+                      "explanation": "Incorreta. O material apresenta as teorias de Piaget, Vygotsky e Wallon como bases teóricas importantes para a atuação do psicólogo escolar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A restrição da atuação do psicólogo escolar apenas aos casos de indisciplina e de comportamento inadequado dos alunos",
+                      "explanation": "Incorreta. O material destaca a necessidade de uma atuação mais ampla, que vá além dos problemas de disciplina, e que atue na prevenção e no desenvolvimento global do estudante."
+                    }
+                  ],
+                  "answer": "C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "p4_psicologia_na_era_digital",
+          "title": "Psicologia na Era Digital",
+          "lists": [
+            {
+              "id": "p4_PnED_L1",
               "title": "Lista 1",
               "questions": []
             }
           ]
         },
         {
-          "id": "p4s4",
-          "title": "Redes de Computadores",
+          "id": "p4_orientacao_proficional",
+          "title": "Orientação Proficional",
           "lists": [
             {
-              "id": "p4s4l1",
+              "id": "p4_OP_L1",
               "title": "Lista 1",
               "questions": []
             }
           ]
         },
         {
-          "id": "p4s5",
-          "title": "Probabilidade e Estatística",
+          "id": "p4_relacoes_grupais",
+          "title": "Relações Grupais",
           "lists": [
             {
-              "id": "p4s5l1",
+              "id": "p4_RG_L1",
               "title": "Lista 1",
               "questions": []
             }
           ]
         },
         {
-          "id": "p4s6",
-          "title": "Teoria da Computação",
+          "id": "p4_psicologia_e_inclusao",
+          "title": "Psicologia e Inclusão",
           "lists": [
             {
-              "id": "p4s6l1",
-              "title": "Lista 1",
-              "questions": []
-            }
-          ]
-        },
-        {
-          "id": "p4s7",
-          "title": "Sistemas Operacionais",
-          "lists": [
-            {
-              "id": "p4s7l1",
+              "id": "p4_PeI_L1",
               "title": "Lista 1",
               "questions": []
             }
