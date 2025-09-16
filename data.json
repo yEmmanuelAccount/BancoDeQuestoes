@@ -2949,7 +2949,968 @@
             {
               "id": "p4_PnED_L1",
               "title": "Lista 1",
-              "questions": []
+              "questions": [
+                {
+                  "id": "p4_PnED_L1_Q1",
+                  "statement": "Qual a definição fundamental da psicologia digital?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O estudo exclusivo das doenças mentais no ambiente offline.",
+                      "explanation": "A psicologia digital não se limita ao ambiente offline nem exclusivamente a doenças mentais, mas sim à interação do comportamento humano com as tecnologias digitais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A investigação do comportamento humano e da mente em interação com as tecnologias digitais.",
+                      "explanation": "A psicologia digital é definida como o estudo do comportamento humano e da mente no contexto das interações com tecnologias digitais, diferenciando-se da psicologia tradicional pelo seu foco nas tecnologias digitais e como estas afetam e moldam o comportamento humano, as emoções e os processos cognitivos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A análise de processos cognitivos sem considerar o impacto tecnológico.",
+                      "explanation": "A psicologia digital, ao contrário, investiga as implicações da digitalização na psique humana e nas interações sociais, tornando o impacto tecnológico central em sua análise."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O uso da tecnologia apenas para diagnósticos médicos em hospitais.",
+                      "explanation": "O escopo da psicologia digital é mais amplo, incluindo telepsicologia, aplicativos de saúde mental e o uso de realidade virtual para tratamento de fobias, entre outros, não se restringindo a diagnósticos médicos em hospitais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco na psicologia tradicional, ignorando os avanços digitais.",
+                      "explanation": "A psicologia digital é um campo emergente que surgiu precisamente em resposta ao advento e à crescente integração das tecnologias digitais, investigando seus impactos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q2",
+                  "statement": "Qual destes elementos é considerado uma das origens da psicologia digital?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O surgimento da medicina tradicional.",
+                      "explanation": "A medicina tradicional é um campo muito anterior e não é a origem da psicologia digital, que é um campo moderno."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A popularização de técnicas de meditação.",
+                      "explanation": "Embora a meditação possa ser incorporada em aplicativos digitais, sua popularização não é a origem da psicologia digital como disciplina."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O desenvolvimento exclusivo da terapia cognitivo-comportamental.",
+                      "explanation": "A terapia cognitivo-comportamental (TCC) é uma abordagem terapêutica, e não a origem da psicologia digital em si, embora possa ser facilitada por ferramentas digitais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O surgimento da Internet e das tecnologias digitais nas últimas décadas do século XX.",
+                      "explanation": "As origens da psicologia digital podem ser traçadas de volta ao surgimento da Internet e das tecnologias digitais nas últimas décadas do século XX."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A criação de bibliotecas físicas para pesquisa.",
+                      "explanation": "A criação de bibliotecas físicas é um método da era analógica e não tem relação com o surgimento da psicologia digital."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_L1_Q3",
+                  "statement": "Que tipo de intervenção a realidade virtual (RV) tem se mostrado eficaz no tratamento de transtornos como o Transtorno de Estresse Pós-Traumático (TEPT) e fobias específicas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Terapia de grupo online.",
+                      "explanation": "Terapia de grupo online é uma modalidade de teleterapia, mas não é a intervenção específica da realidade virtual para TEPT e fobias."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Aconselhamento por e-mail.",
+                      "explanation": "Aconselhamento por e-mail é uma forma de comunicação digital, mas a RV oferece uma experiência imersiva para a terapia de exposição."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Terapia de exposição em ambiente controlado e seguro.",
+                      "explanation": "A realidade virtual (RV) tem se mostrado eficaz no tratamento de transtornos como o TEPT e fobias específicas, permitindo que pacientes enfrentem suas fobias em um ambiente controlado e seguro através da terapia de exposição."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Somente sessões de automonitoramento.",
+                      "explanation": "Embora o automonitoramento possa ser parte do processo terapêutico, a RV é usada para terapia de exposição ativa, não apenas para automonitoramento passivo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Intervenções puramente medicamentosas.",
+                      "explanation": "A pergunta refere-se a intervenções da psicologia digital, que são abordagens terapêuticas e não puramente medicamentosas."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q4",
+                  "statement": "Qual é uma das principais preocupações éticas na psicologia digital, especialmente na gestão de dados de terapias online?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "As questões éticas e de privacidade, principalmente a confidencialidade dos dados dos pacientes.",
+                      "explanation": "Um dos dilemas éticos mais prementes na psicologia digital diz respeito à confidencialidade dos dados dos pacientes e à privacidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A cor da interface do aplicativo.",
+                      "explanation": "A cor da interface é um aspecto de design e usabilidade, não uma preocupação ética fundamental na gestão de dados [fonte não menciona]."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A qualidade da conexão de internet.",
+                      "explanation": "A qualidade da conexão é um desafio prático na telepsicologia, mas não uma preocupação ética central relacionada à gestão de dados."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O número de curtidas em postagens de redes sociais.",
+                      "explanation": "Embora o impacto das redes sociais na autoestima seja um tópico de estudo na psicologia digital, não é a principal preocupação ética na gestão de dados de terapias online."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A preferência por terapia presencial.",
+                      "explanation": "A preferência é uma escolha individual do paciente ou profissional, não uma preocupação ética inerente à gestão de dados digitais."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PnED_L1_Q5",
+                  "statement": "Qual era uma das características principais dos métodos de avaliação psicológica na era analógica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Uso de algoritmos de inteligência artificial.",
+                      "explanation": "Algoritmos de IA são ferramentas da era digital, não da era analógica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A utilização de testes em papel e caneta, com a aplicação e correção manual.",
+                      "explanation": "Os métodos de avaliação psicológica na era analógica, principalmente nos anos 70, eram caracterizados pela utilização de testes em papel e caneta, com a aplicação e correção manual, dependendo da interpretação do profissional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Avaliações baseadas exclusivamente em telemedicina.",
+                      "explanation": "A telemedicina é um conceito da era digital, não analógica."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Análise de dados em grande escala (Big Data).",
+                      "explanation": "A análise de Big Data é uma característica da era digital."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Avaliações completamente automatizadas e online.",
+                      "explanation": "A automação e as avaliações online são recursos da era digital, inexistentes na era analógica."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q6",
+                  "statement": "Qual é um dos benefícios da telepsicologia, especialmente para pacientes em áreas remotas ou com dificuldades de locomoção?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Exclusão do contato humano.",
+                      "explanation": "A telepsicologia visa manter e, em alguns casos, até mesmo aprimorar a relação terapêutica, e não excluí-la. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "Acesso e conveniência, superando barreiras geográficas.",
+                      "explanation": "Um dos principais benefícios da telepsicologia é o aumento do acesso e da conveniência, pois permite que pacientes em áreas remotas ou com dificuldades de locomoção possam receber cuidados de saúde mental."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Diminuição do rigor ético.",
+                      "explanation": "O rigor ético na telepsicologia é tão importante quanto na psicologia presencial, e os códigos de ética foram adaptados para endereçar os desafios específicos do ambiente digital."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Uso obrigatório de robôs para terapia.",
+                      "explanation": "Embora a inteligência artificial (IA) possa ser usada para auxiliar a telepsicologia, não há obrigatoriedade de uso de robôs, pois a relação terapêutica é fundamental."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Maior probabilidade de erros de diagnóstico.",
+                      "explanation": "A telepsicologia, quando realizada de forma ética e profissional, não leva necessariamente a um aumento de erros de diagnóstico. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q7",
+                  "statement": "Que papel a inteligência artificial (IA) desempenha na psicologia digital, especialmente em aplicativos de saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substituição completa do profissional psicólogo.",
+                      "explanation": "A IA é usada como uma ferramenta para auxiliar o trabalho do psicólogo, e não para substituí-lo. O texto afirma que a IA não substitui o julgamento humano."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Somente na coleta de dados sem análise.",
+                      "explanation": "A IA coleta e analisa dados para fornecer insights e personalizar o tratamento, e não se limita à coleta. [fonte não menciona]"
+                    },
+                    {
+                      "id": "C",
+                      "text": "Análise de padrões de dados para personalizar o tratamento e fornecer insights ao profissional.",
+                      "explanation": "A IA analisa padrões de dados para personalizar o tratamento e fornecer insights ao profissional, ajudando-o a tomar decisões mais assertivas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Intervenção puramente baseada em algoritmos, sem supervisão humana.",
+                      "explanation": "A IA é usada para auxiliar, e não para tomar decisões de forma autônoma. A supervisão humana é fundamental para a ética e a eficácia do tratamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aumento do tempo de espera para o atendimento.",
+                      "explanation": "A IA pode ajudar a otimizar o tempo e a eficiência, o que pode reduzir o tempo de espera para o atendimento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q8",
+                  "statement": "O que a psicologia digital, ao estudar o impacto das redes sociais, tem observado sobre a relação entre o uso excessivo de redes sociais e a saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumento da autoestima e bem-estar em todos os usuários.",
+                      "explanation": "Embora as redes sociais possam ter efeitos positivos, o uso excessivo está associado a problemas como ansiedade e depressão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Melhora na capacidade de concentração e atenção.",
+                      "explanation": "O uso excessivo de redes sociais pode prejudicar a capacidade de concentração e atenção devido à sobrecarga de informações e ao estímulo constante."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aumento de problemas como ansiedade, depressão e sentimentos de inadequação, devido à comparação social e à cultura de 'curtidas'.",
+                      "explanation": "A psicologia digital tem observado um aumento de problemas como ansiedade, depressão e sentimentos de inadequação, devido à comparação social e à cultura de 'curtidas' presentes nas redes sociais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Nenhum impacto na saúde mental, pois as redes sociais são apenas ferramentas de comunicação.",
+                      "explanation": "As redes sociais têm um impacto significativo na saúde mental, tanto positivo quanto negativo, e a psicologia digital estuda esses impactos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Diminuição do sentimento de isolamento social.",
+                      "explanation": "Embora as redes sociais possam conectar as pessoas, o uso excessivo pode levar a um sentimento de isolamento, pois a interação virtual substitui a interação social presencial."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q9",
+                  "statement": "Qual é a principal diferença entre os métodos de avaliação psicológica da era analógica e da era digital?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A era digital não permite a avaliação psicológica, pois o contato humano é fundamental.",
+                      "explanation": "A era digital permite a avaliação psicológica por meio de ferramentas digitais, como testes online, aplicativos e realidade virtual. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "A era analógica é baseada em testes online, enquanto a era digital utiliza testes em papel e caneta.",
+                      "explanation": "Esta alternativa inverte a realidade. A era analógica é baseada em testes em papel e caneta, enquanto a era digital utiliza testes online e aplicativos. [fonte não menciona]"
+                    },
+                    {
+                      "id": "C",
+                      "text": "A era analógica se baseia em métodos manuais e interpretativos, enquanto a era digital se utiliza da automação, padronização e análise de dados em grande escala.",
+                      "explanation": "A era analógica se baseia em métodos manuais e interpretativos, como testes em papel e caneta, enquanto a era digital se utiliza da automação, padronização e análise de dados em grande escala, o que aumenta a eficácia e a precisão do diagnóstico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A era analógica e a era digital utilizam os mesmos métodos de avaliação, sem nenhuma diferença.",
+                      "explanation": "Existem diferenças significativas entre os métodos de avaliação da era analógica e da era digital, principalmente no que diz respeito à automação e à análise de dados."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A era digital é menos precisa na avaliação psicológica, pois não há contato humano.",
+                      "explanation": "A era digital, com a utilização de algoritmos e análise de dados, pode aumentar a precisão da avaliação, pois o diagnóstico é baseado em dados objetivos e não apenas na interpretação do profissional. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q10",
+                  "statement": "Qual é um dos principais desafios para o psicólogo na era digital?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de demanda para a telepsicologia.",
+                      "explanation": "A demanda para a telepsicologia tem aumentado, principalmente após a pandemia de COVID-19. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "O despreparo ético e técnico do profissional para atuar no ambiente digital.",
+                      "explanation": "O despreparo ético e técnico do profissional para atuar no ambiente digital é um dos principais desafios, o que exige a necessidade de um código de ética específico e de capacitação profissional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de acesso à tecnologia para a população em geral.",
+                      "explanation": "Embora a falta de acesso à tecnologia seja um desafio para a população em geral, o foco da questão é no desafio para o profissional psicólogo. [fonte não menciona]"
+                    },
+                    {
+                      "id": "D",
+                      "text": "A falta de autonomia para o profissional, que é controlado pela tecnologia.",
+                      "explanation": "A tecnologia é uma ferramenta para auxiliar o profissional, e não para controlá-lo. A autonomia do profissional é fundamental para a ética e a eficácia do tratamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A falta de ferramentas digitais para a telepsicologia.",
+                      "explanation": "Existem diversas ferramentas digitais para a telepsicologia, como plataformas de videoconferência, aplicativos e softwares de prontuário eletrônico. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q11",
+                  "statement": "Qual dos seguintes é um benefício do uso da realidade virtual (RV) em tratamentos psicológicos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Permite que os pacientes ignorem completamente suas fobias.",
+                      "explanation": "A RV permite que os pacientes enfrentem suas fobias de forma gradual e segura, e não que as ignorem."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Cria ambientes controlados e seguros para terapia de exposição, minimizando riscos reais.",
+                      "explanation": "Um dos principais benefícios da RV é a possibilidade de criar ambientes controlados e seguros para a terapia de exposição, minimizando os riscos reais para o paciente. Isso é particularmente útil para o tratamento de fobias, como o medo de altura, voar, ou falar em público."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Substitui a necessidade de um psicólogo, tornando o tratamento totalmente automatizado.",
+                      "explanation": "A RV é uma ferramenta para auxiliar o trabalho do psicólogo, e não para substituí-lo. O julgamento e o acompanhamento do profissional são fundamentais para a eficácia do tratamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Garante uma cura imediata para todos os transtornos mentais.",
+                      "explanation": "A RV não garante a cura imediata de todos os transtornos mentais. O tratamento psicológico é um processo contínuo e que exige o engajamento do paciente e o acompanhamento do profissional. [fonte não menciona]"
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aumenta o sentimento de isolamento social nos pacientes.",
+                      "explanation": "A RV, quando usada de forma ética e profissional, pode ser uma ferramenta para o tratamento de transtornos como o Transtorno de Estresse Pós-Traumático (TEPT) e fobias, o que pode ajudar a diminuir o sentimento de isolamento social."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q12",
+                  "statement": "Como o uso da telepsicologia e das tecnologias digitais tem impactado a acessibilidade aos serviços de saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Tornou os serviços de saúde mental inacessíveis para a maioria das pessoas.",
+                      "explanation": "O uso da telepsicologia e das tecnologias digitais tem aumentado a acessibilidade aos serviços de saúde mental, principalmente para pessoas em áreas remotas ou com dificuldades de locomoção."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Diminuiu o número de profissionais disponíveis, concentrando-os em grandes centros urbanos.",
+                      "explanation": "O uso da telepsicologia permite que os profissionais atendam pacientes de qualquer lugar, o que amplia o acesso aos serviços de saúde mental."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aumentou as barreiras geográficas e de horário para o acesso ao tratamento.",
+                      "explanation": "O uso da telepsicologia superou as barreiras geográficas e de horário, pois o paciente pode ser atendido de qualquer lugar e em horários flexíveis."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aumentou a acessibilidade, superando barreiras geográficas, de horário e, em alguns casos, financeiras.",
+                      "explanation": "O uso da telepsicologia e das tecnologias digitais aumentou a acessibilidade, superando as barreiras geográficas, de horário e, em alguns casos, financeiras, pois o custo do tratamento online pode ser menor do que o tratamento presencial."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Eliminou a necessidade de regulamentação para o exercício profissional.",
+                      "explanation": "O uso da telepsicologia exige a regulamentação para o exercício profissional, a fim de garantir a ética e a qualidade do serviço. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_L1_Q13",
+                  "statement": "O que a psicologia digital, ao analisar o fenômeno das redes sociais, identifica como um de seus principais riscos para a saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A incapacidade de gerar qualquer conexão social verdadeira.",
+                      "explanation": "As redes sociais podem gerar conexões sociais verdadeiras, mas o uso excessivo está associado a problemas como ansiedade, depressão e sentimentos de inadequação. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "O risco de isolamento social real, apesar da conectividade virtual.",
+                      "explanation": "A psicologia digital identifica o risco de isolamento social real, pois o uso excessivo de redes sociais pode levar a uma substituição da interação social presencial pela interação virtual, o que pode gerar um sentimento de isolamento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de conteúdo interessante disponível.",
+                      "explanation": "As redes sociais oferecem uma infinidade de conteúdos, e a questão não é a falta de conteúdo, mas o impacto do conteúdo na saúde mental. [fonte não menciona]"
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ausência de comparação social entre os usuários.",
+                      "explanation": "A comparação social é um dos principais problemas identificados pela psicologia digital, e ela pode levar a sentimentos de inadequação e baixa autoestima. [fonte não menciona]"
+                    },
+                    {
+                      "id": "E",
+                      "text": "O aumento da privacidade do usuário.",
+                      "explanation": "O uso de redes sociais pode levar a uma diminuição da privacidade, pois os dados dos usuários são coletados e analisados para fins comerciais. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q14",
+                  "statement": "Como o uso de tecnologias digitais na psicologia, como a telepsicologia, pode influenciar o futuro da profissão de psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Tornando o psicólogo obsoleto.",
+                      "explanation": "O uso de tecnologias digitais não torna o psicólogo obsoleto, mas exige que ele se adapte e se capacite para atuar no ambiente digital. A tecnologia é uma ferramenta para auxiliar o trabalho do profissional, e não para substituí-lo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Aumentando a demanda por terapias presenciais, pois o contato humano será cada vez mais valorizado.",
+                      "explanation": "Embora a terapia presencial continue a ser importante, o uso de tecnologias digitais tem aumentado a demanda por terapias online, o que exige que o psicólogo se adapte para atuar no ambiente digital. [fonte não menciona]"
+                    },
+                    {
+                      "id": "C",
+                      "text": "Eliminando a necessidade de um código de ética específico para a telepsicologia.",
+                      "explanation": "O uso de tecnologias digitais exige um código de ética específico para a telepsicologia, a fim de garantir a ética e a qualidade do serviço. [fonte não menciona]"
+                    },
+                    {
+                      "id": "D",
+                      "text": "Tornando o psicólogo um profissional mais flexível, acessível e capaz de atuar em diferentes contextos, com o uso da tecnologia como uma ferramenta para aprimorar o cuidado.",
+                      "explanation": "O uso de tecnologias digitais torna o psicólogo um profissional mais flexível, acessível e capaz de atuar em diferentes contextos, com o uso da tecnologia como uma ferramenta para aprimorar o cuidado, o que amplia o escopo de atuação do profissional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Diminuindo a importância da empatia e da relação terapêutica.",
+                      "explanation": "A empatia e a relação terapêutica continuam a ser fundamentais na telepsicologia, e o psicólogo deve se capacitar para manter a qualidade do serviço, mesmo com a distância física. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_L1_Q15",
+                  "statement": "Qual dos seguintes é um exemplo de como a psicologia digital pode usar a inteligência artificial para auxiliar no tratamento de transtornos mentais?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Usar um robô para diagnosticar e tratar o paciente sem a intervenção de um psicólogo.",
+                      "explanation": "A IA é uma ferramenta para auxiliar o trabalho do psicólogo, e não para substituí-lo. O diagnóstico e o tratamento devem ser feitos por um profissional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Utilizar a IA para analisar o comportamento do paciente em redes sociais e prever o risco de suicídio.",
+                      "explanation": "A IA pode analisar o comportamento do paciente em redes sociais para prever o risco de suicídio e fornecer insights ao profissional. No entanto, é importante ressaltar que a IA é uma ferramenta de apoio e não substitui o julgamento humano. [fonte não menciona]"
+                    },
+                    {
+                      "id": "C",
+                      "text": "A IA pode ser usada para monitorar o comportamento do paciente em casa e alertar o psicólogo sobre possíveis crises.",
+                      "explanation": "A IA pode ser usada para monitorar o comportamento do paciente em casa e alertar o psicólogo sobre possíveis crises, o que pode ajudar na prevenção e no tratamento de transtornos mentais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Utilizar a IA para personalizar o tratamento, com base em algoritmos que levam em conta as características individuais de cada paciente.",
+                      "explanation": "A IA pode ser usada para personalizar o tratamento, com base em algoritmos que levam em conta as características individuais de cada paciente, como idade, gênero, histórico de vida, etc. [fonte não menciona]"
+                    },
+                    {
+                      "id": "E",
+                      "text": "Usar a IA para substituir a necessidade de um psicólogo, tornando o tratamento totalmente automatizado.",
+                      "explanation": "A IA é uma ferramenta para auxiliar o trabalho do psicólogo, e não para substituí-lo. O julgamento e o acompanhamento do profissional são fundamentais para a ética e a eficácia do tratamento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q16",
+                  "statement": "A telepsicologia, por sua natureza, tem um alcance global. Qual é um dos principais desafios éticos relacionados a essa característica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de acesso à tecnologia para a maioria da população.",
+                      "explanation": "Embora a falta de acesso à tecnologia seja um desafio, a pergunta se refere a um desafio ético, e não a um desafio de acesso. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "A necessidade de adaptar o tratamento a diferentes culturas, leis e regulamentações de cada país.",
+                      "explanation": "Um dos principais desafios éticos da telepsicologia é a necessidade de adaptar o tratamento a diferentes culturas, leis e regulamentações de cada país, o que exige que o profissional se capacite para atuar em um contexto global."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A dificuldade em manter a confidencialidade dos dados do paciente.",
+                      "explanation": "A confidencialidade dos dados do paciente é um desafio ético, mas a pergunta se refere a um desafio relacionado ao alcance global da telepsicologia. [fonte não menciona]"
+                    },
+                    {
+                      "id": "D",
+                      "text": "A falta de contato humano, o que pode prejudicar a relação terapêutica.",
+                      "explanation": "A falta de contato humano pode ser um desafio na telepsicologia, mas a pergunta se refere a um desafio ético relacionado ao alcance global. [fonte não menciona]"
+                    },
+                    {
+                      "id": "E",
+                      "text": "A incapacidade de cobrar o paciente de forma justa.",
+                      "explanation": "A cobrança do paciente é uma questão financeira, e não um desafio ético relacionado ao alcance global da telepsicologia. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q17",
+                  "statement": "Como o advento das tecnologias digitais impactou a noção de 'consultório' na prática psicológica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Limitou o consultório ao espaço físico tradicional.",
+                      "explanation": "O advento das tecnologias digitais expandiu o conceito de consultório, que agora pode ser tanto físico quanto virtual. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "Tornou o consultório obsoleto e desnecessário.",
+                      "explanation": "O consultório físico continua a ser importante para a prática psicológica, mas o psicólogo também pode atuar em um consultório virtual. [fonte não menciona]"
+                    },
+                    {
+                      "id": "C",
+                      "text": "Expandiu o conceito de consultório para incluir espaços virtuais, o que permite que o psicólogo atenda pacientes de qualquer lugar do mundo.",
+                      "explanation": "O advento das tecnologias digitais expandiu o conceito de consultório para incluir espaços virtuais, o que permite que o psicólogo atenda pacientes de qualquer lugar do mundo, desde que respeitadas as regulamentações de cada país."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aumentou a importância do consultório físico, pois o contato humano é cada vez mais valorizado.",
+                      "explanation": "Embora o contato humano seja importante, o advento das tecnologias digitais expandiu o conceito de consultório, o que permite que o psicólogo atenda pacientes em um consultório virtual. [fonte não menciona]"
+                    },
+                    {
+                      "id": "E",
+                      "text": "Diminuiu a necessidade de regulamentação para o exercício profissional em consultórios virtuais.",
+                      "explanation": "O exercício profissional em consultórios virtuais exige a regulamentação para garantir a ética e a qualidade do serviço. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q18",
+                  "statement": "De acordo com o texto, o que o psicólogo digital deve fazer para atuar de forma ética e profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ignorar o código de ética e as regulamentações, pois o ambiente digital é diferente do presencial.",
+                      "explanation": "O psicólogo digital deve respeitar o código de ética e as regulamentações, que foram adaptados para o ambiente digital, a fim de garantir a ética e a qualidade do serviço."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Focar apenas na tecnologia e em seus benefícios, sem se preocupar com os riscos.",
+                      "explanation": "O psicólogo digital deve se preocupar com os riscos da tecnologia, como a privacidade dos dados, o isolamento social e o impacto na saúde mental. [fonte não menciona]"
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ter um olhar clínico e humanista sobre o paciente, e não um olhar tecnicista.",
+                      "explanation": "O psicólogo digital deve ter um olhar clínico e humanista sobre o paciente, e não um olhar tecnicista, pois o ser humano é o foco da psicologia, e a tecnologia é apenas uma ferramenta para auxiliar o trabalho do profissional. [fonte não menciona]"
+                    },
+                    {
+                      "id": "D",
+                      "text": "Analisar o comportamento do paciente em redes sociais e prever o risco de suicídio.",
+                      "explanation": "Embora a análise do comportamento do paciente em redes sociais possa ajudar a prever o risco de suicídio, a pergunta se refere a um desafio ético, e não a um desafio de acesso. [fonte não menciona]"
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ter a capacidade de reflexão crítica, de auto-análise e de autonomia, a fim de que possa construir suas trajetórias profissionais de forma consciente e engajada.",
+                      "explanation": "O psicólogo digital deve ter a capacidade de reflexão crítica, de auto-análise e de autonomia, a fim de que possa construir suas trajetórias profissionais de forma consciente e engajada, e atuar como um agente de transformação social. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q19",
+                  "statement": "De acordo com o material, qual é uma das principais críticas ao uso excessivo de redes sociais para a saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumenta o sentimento de pertencimento e comunidade.",
+                      "explanation": "Embora as redes sociais possam gerar um sentimento de pertencimento e comunidade, o uso excessivo está associado a problemas como ansiedade, depressão e sentimentos de inadequação. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "Diminui o risco de comparação social.",
+                      "explanation": "O uso excessivo de redes sociais aumenta o risco de comparação social, pois o usuário se compara com a vida perfeita dos outros, o que pode gerar sentimentos de inadequação e baixa autoestima."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Impulsiona o desenvolvimento de novas formas de comunicação.",
+                      "explanation": "Embora as redes sociais impulsionem o desenvolvimento de novas formas de comunicação, o uso excessivo pode ter um impacto negativo na saúde mental."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O impacto negativo na autoestima, devido à cultura de 'curtidas' e à comparação constante com vidas idealizadas.",
+                      "explanation": "O uso excessivo de redes sociais tem um impacto negativo na autoestima, devido à cultura de 'curtidas' e à comparação constante com vidas idealizadas, o que pode levar a problemas como ansiedade e depressão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A falta de conteúdo relevante e de qualidade.",
+                      "explanation": "As redes sociais oferecem uma infinidade de conteúdos, e a questão não é a falta de conteúdo, mas o impacto do conteúdo na saúde mental. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_L1_Q20",
+                  "statement": "Qual dos seguintes é um exemplo de como a psicologia digital pode ser usada para promover a saúde mental em um contexto preventivo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas o tratamento de transtornos já instalados.",
+                      "explanation": "A psicologia digital pode ser usada tanto para o tratamento de transtornos já instalados quanto para a prevenção."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Desenvolvimento de aplicativos de meditação e mindfulness para o público em geral.",
+                      "explanation": "O desenvolvimento de aplicativos de meditação e mindfulness para o público em geral é um exemplo de como a psicologia digital pode ser usada para a prevenção, pois ajuda a promover a saúde mental e o bem-estar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Focar apenas em diagnósticos complexos para doenças raras.",
+                      "explanation": "A psicologia digital pode ser usada tanto para o diagnóstico de doenças raras quanto para o tratamento de transtornos mentais mais comuns."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ignorar a dimensão social e comunitária da saúde mental.",
+                      "explanation": "A psicologia digital pode ser usada para promover a saúde mental em um contexto social e comunitário, como no desenvolvimento de plataformas de suporte para grupos de pessoas com interesses em comum. [fonte não menciona]"
+                    },
+                    {
+                      "id": "E",
+                      "text": "Utilizar a tecnologia apenas para substituir o contato humano.",
+                      "explanation": "A tecnologia é uma ferramenta para auxiliar e aprimorar o contato humano, e não para substituí-lo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q21",
+                  "statement": "Como o conceito de \"big data\" e a análise de dados em larga escala influenciam a pesquisa em psicologia digital?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Tornando a pesquisa mais lenta e menos eficiente.",
+                      "explanation": "A análise de big data pode tornar a pesquisa mais rápida e eficiente, pois o pesquisador pode analisar grandes volumes de dados em pouco tempo. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "Permitindo que a psicologia investigue padrões de comportamento em grandes populações de forma inédita.",
+                      "explanation": "O conceito de big data e a análise de dados em larga escala permitem que a psicologia investigue padrões de comportamento em grandes populações de forma inédita, o que pode ajudar a entender as tendências e os problemas de saúde mental em larga escala."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Limitando a pesquisa a estudos de caso individuais.",
+                      "explanation": "A análise de big data permite que a pesquisa vá além de estudos de caso individuais e investigue padrões de comportamento em grandes populações. [fonte não menciona]"
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ignorando a necessidade de revisão por pares e validade científica.",
+                      "explanation": "A análise de big data exige a revisão por pares e a validade científica, a fim de garantir a qualidade da pesquisa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focando apenas em dados qualitativos, ignorando os dados quantitativos.",
+                      "explanation": "A análise de big data se concentra em dados quantitativos, mas a pesquisa em psicologia digital também pode usar dados qualitativos, como entrevistas e grupos focais."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q22",
+                  "statement": "Qual é a principal implicação do uso de jogos digitais (gamificação) para a saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumenta o risco de vício em jogos.",
+                      "explanation": "O uso de jogos digitais para a saúde mental é um campo de pesquisa promissor, mas o uso excessivo de jogos pode levar a um vício em jogos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Diminui a motivação para o tratamento.",
+                      "explanation": "O uso de jogos digitais pode aumentar a motivação para o tratamento, pois a gamificação pode tornar o tratamento mais divertido e envolvente. [fonte não menciona]"
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aumenta o engajamento e a motivação para o tratamento, utilizando elementos de jogos para abordar temas psicológicos de forma lúdica.",
+                      "explanation": "O uso de jogos digitais (gamificação) pode aumentar o engajamento e a motivação para o tratamento, utilizando elementos de jogos para abordar temas psicológicos de forma lúdica, como o manejo de emoções, a resolução de problemas e o desenvolvimento de habilidades sociais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Substitui a terapia tradicional, tornando-a obsoleta.",
+                      "explanation": "O uso de jogos digitais é uma ferramenta para auxiliar a terapia tradicional, e não para substituí-la. O julgamento e o acompanhamento do profissional são fundamentais para a eficácia do tratamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aumenta o sentimento de solidão e isolamento social.",
+                      "explanation": "O uso de jogos digitais pode aumentar o sentimento de solidão e isolamento social, mas a gamificação pode ser usada para promover a interação social, como em jogos de grupo. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q23",
+                  "statement": "O que a psicologia digital, ao estudar o uso de aplicativos de saúde mental, tem observado sobre a necessidade de um psicólogo na orientação do paciente?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Os aplicativos tornam a orientação de um psicólogo desnecessária.",
+                      "explanation": "Os aplicativos são uma ferramenta para auxiliar o trabalho do psicólogo, e não para substituí-lo. A orientação de um profissional é fundamental para a ética e a eficácia do tratamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O paciente deve usar o aplicativo de forma autônoma, sem a intervenção de um psicólogo.",
+                      "explanation": "O paciente deve usar o aplicativo com a orientação de um psicólogo, a fim de garantir a ética e a qualidade do serviço. [fonte não menciona]"
+                    },
+                    {
+                      "id": "C",
+                      "text": "Os aplicativos podem ser usados como ferramentas de apoio, mas a orientação de um psicólogo é crucial para o tratamento.",
+                      "explanation": "Os aplicativos de saúde mental podem ser usados como ferramentas de apoio, mas a orientação de um psicólogo é crucial para o tratamento, pois o profissional pode ajudar o paciente a usar o aplicativo de forma eficaz e a interpretar os resultados."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A orientação de um psicólogo é necessária apenas em casos de transtornos graves.",
+                      "explanation": "A orientação de um psicólogo é necessária para o tratamento de todos os transtornos mentais, independentemente da gravidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Os aplicativos são mais eficazes que a terapia tradicional.",
+                      "explanation": "Os aplicativos são uma ferramenta para auxiliar a terapia tradicional, e não para substituí-la. A terapia tradicional continua a ser o tratamento mais eficaz para a maioria dos transtornos mentais."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q24",
+                  "statement": "Qual dos seguintes é um desafio para a regulamentação da psicologia digital?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de interesse dos órgãos reguladores.",
+                      "explanation": "Os órgãos reguladores, como o Conselho Federal de Psicologia (CFP), têm se preocupado com a regulamentação da psicologia digital, a fim de garantir a ética e a qualidade do serviço. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "A velocidade das inovações tecnológicas, que supera a capacidade dos órgãos reguladores de criar normas e regulamentações.",
+                      "explanation": "A velocidade das inovações tecnológicas, que supera a capacidade dos órgãos reguladores de criar normas e regulamentações, é um dos principais desafios para a regulamentação da psicologia digital."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O excesso de regulamentação, que dificulta a inovação.",
+                      "explanation": "O excesso de regulamentação pode dificultar a inovação, mas a falta de regulamentação pode colocar em risco a ética e a qualidade do serviço. [fonte não menciona]"
+                    },
+                    {
+                      "id": "D",
+                      "text": "A falta de interesse da população em geral.",
+                      "explanation": "A população em geral tem se interessado cada vez mais pela psicologia digital, principalmente após a pandemia de COVID-19. [fonte não menciona]"
+                    },
+                    {
+                      "id": "E",
+                      "text": "A falta de um código de ética para a psicologia digital.",
+                      "explanation": "A psicologia digital é regida pelo Código de Ética Profissional do Psicólogo, que foi adaptado para o ambiente digital. [fonte não menciona]"
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q25",
+                  "statement": "Qual é a principal preocupação ética em relação à análise de dados em larga escala (big data) na psicologia digital?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de dados para análise.",
+                      "explanation": "A análise de big data se baseia em grandes volumes de dados, e a questão não é a falta de dados, mas o impacto do uso dos dados na privacidade do paciente. [fonte não menciona]"
+                    },
+                    {
+                      "id": "B",
+                      "text": "O uso de dados de pacientes sem o consentimento deles, o que viola a privacidade e a confidencialidade.",
+                      "explanation": "O uso de dados de pacientes sem o consentimento deles é uma das principais preocupações éticas em relação à análise de big data na psicologia digital, pois viola a privacidade e a confidencialidade. [fonte não menciona]"
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de ferramentas para a análise de dados.",
+                      "explanation": "Existem diversas ferramentas para a análise de dados, e a questão não é a falta de ferramentas, mas o uso ético das ferramentas. [fonte não menciona]"
+                    },
+                    {
+                      "id": "D",
+                      "text": "O uso de dados para fins comerciais, sem o consentimento do paciente.",
+                      "explanation": "O uso de dados para fins comerciais, sem o consentimento do paciente, é uma das principais preocupações éticas em relação à análise de big data na psicologia digital, pois viola a privacidade e a confidencialidade. [fonte não menciona]"
+                    },
+                    {
+                      "id": "E",
+                      "text": "A falta de regulamentação para a análise de dados.",
+                      "explanation": "A análise de dados exige a regulamentação para garantir a ética e a qualidade do serviço."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q26",
+                  "statement": "Qual dos seguintes é um exemplo de como a inteligência artificial (IA) pode ser usada para auxiliar o profissional psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substituição completa do profissional psicólogo.",
+                      "explanation": "A IA é uma ferramenta para auxiliar o trabalho do psicólogo, e não para substituí-lo. O julgamento e o acompanhamento do profissional são fundamentais para a ética e a eficácia do tratamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Análise de grandes volumes de dados para identificar padrões e tendências no comportamento do paciente.",
+                      "explanation": "A IA pode analisar grandes volumes de dados para identificar padrões e tendências no comportamento do paciente, o que pode ajudar o profissional a tomar decisões mais assertivas e a personalizar o tratamento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Intervenção puramente baseada em algoritmos, sem supervisão humana.",
+                      "explanation": "A IA é usada para auxiliar, e não para tomar decisões de forma autônoma. A supervisão humana é fundamental para a ética e a eficácia do tratamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aumento do tempo de espera para o atendimento.",
+                      "explanation": "A IA pode ajudar a otimizar o tempo e a eficiência, o que pode reduzir o tempo de espera para o atendimento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Somente na coleta de dados sem análise.",
+                      "explanation": "A IA coleta e analisa dados para fornecer insights e personalizar o tratamento, e não se limita à coleta."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q27",
+                  "statement": "O que é telepsicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O uso de tecnologia apenas para fazer diagnósticos médicos.",
+                      "explanation": "A telepsicologia não se limita a diagnósticos médicos, e o seu escopo é mais amplo, incluindo telepsicologia, aplicativos de saúde mental e o uso de realidade virtual para tratamento de fobias, entre outros."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A prática da psicologia através de tecnologias de comunicação, como videoconferências e e-mail.",
+                      "explanation": "A telepsicologia é a prática da psicologia através de tecnologias de comunicação, como videoconferências e e-mail, o que permite que o paciente seja atendido de qualquer lugar e em horários flexíveis."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O estudo da mente humana sem o uso de tecnologia.",
+                      "explanation": "A telepsicologia se baseia no uso de tecnologia para a prática da psicologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O uso de robôs para substituir o psicólogo.",
+                      "explanation": "A telepsicologia é uma modalidade de atendimento que utiliza a tecnologia para auxiliar o trabalho do psicólogo, e não para substituí-lo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um campo de estudo que se concentra em jogos digitais.",
+                      "explanation": "A telepsicologia é uma modalidade de atendimento, e não um campo de estudo que se concentra em jogos digitais. O uso de jogos digitais é um exemplo de como a psicologia digital pode ser usada para promover a saúde mental."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q28",
+                  "statement": "De acordo com o texto, por que o psicólogo digital deve se preocupar com as questões éticas e de privacidade?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Porque a falta de preocupação com a ética pode levar a um aumento de erros de diagnóstico.",
+                      "explanation": "Embora a falta de preocupação com a ética possa levar a um aumento de erros de diagnóstico, a principal razão é a proteção da privacidade e da confidencialidade dos dados do paciente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Porque a confidencialidade dos dados dos pacientes é fundamental para a relação terapêutica e a confiança do paciente.",
+                      "explanation": "A confidencialidade dos dados dos pacientes é fundamental para a relação terapêutica e a confiança do paciente, e a falta de preocupação com a ética pode comprometer a relação terapêutica e a confiança do paciente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Porque o uso de tecnologia pode levar a um aumento de custos para o paciente.",
+                      "explanation": "O uso de tecnologia pode reduzir o custo do tratamento para o paciente, pois ele não precisa se deslocar até o consultório."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Porque a tecnologia é uma ferramenta para auxiliar o trabalho do psicólogo, e não para substituí-lo.",
+                      "explanation": "Embora a tecnologia seja uma ferramenta para auxiliar o trabalho do psicólogo, a pergunta se refere a uma preocupação ética, e não a uma preocupação de uso."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Porque a tecnologia pode aumentar a acessibilidade aos serviços de saúde mental.",
+                      "explanation": "A tecnologia pode aumentar a acessibilidade aos serviços de saúde mental, mas a pergunta se refere a uma preocupação ética, e não a um benefício."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_L1_Q29",
+                  "statement": "O que a psicologia digital tem a dizer sobre a relação entre o uso de redes sociais e o sentimento de isolamento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "As redes sociais sempre promovem o contato social e reduzem o isolamento.",
+                      "explanation": "Embora as redes sociais possam promover o contato social, o uso excessivo pode levar a um sentimento de isolamento, pois a interação virtual substitui a interação social presencial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A psicologia digital não tem uma opinião clara sobre o assunto, pois o tema é muito novo.",
+                      "explanation": "A psicologia digital tem se debruçado sobre a relação entre o uso de redes sociais e o sentimento de isolamento, e os resultados apontam para um aumento do isolamento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O uso excessivo de redes sociais pode levar a um sentimento de isolamento social real, apesar da aparente conectividade virtual.",
+                      "explanation": "O uso excessivo de redes sociais pode levar a um sentimento de isolamento social real, pois a interação virtual substitui a interação social presencial, o que pode levar a um sentimento de solidão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O uso de redes sociais não tem relação com o sentimento de isolamento.",
+                      "explanation": "O uso de redes sociais tem uma relação com o sentimento de isolamento, e a psicologia digital tem se debruçado sobre o tema."
+                    },
+                    {
+                      "id": "E",
+                      "text": "As redes sociais são a única forma de contato social para a maioria das pessoas.",
+                      "explanation": "As redes sociais são uma forma de contato social, mas não são a única forma. A interação social presencial é fundamental para o bem-estar e a saúde mental."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_L1_Q30",
+                  "statement": "A Psicologia Digital é um campo em constante evolução. Qual é o principal fator que impulsiona essa evolução e ao mesmo tempo apresenta um desafio ético e profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desinteresse dos psicólogos por novas tecnologias.",
+                      "explanation": "O interesse dos psicólogos por novas tecnologias tem aumentado, e a psicologia digital é um campo em constante evolução."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A velocidade das inovações tecnológicas.",
+                      "explanation": "A velocidade das inovações tecnológicas é o principal fator que impulsiona a evolução da psicologia digital e ao mesmo tempo apresenta um desafio ético e profissional, pois a tecnologia evolui mais rápido do que a capacidade dos órgãos reguladores de criar normas e regulamentações."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de pacientes que aceitem o tratamento online.",
+                      "explanation": "A procura por tratamento online tem aumentado, principalmente após a pandemia de COVID-19."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O alto custo das ferramentas digitais.",
+                      "explanation": "O custo das ferramentas digitais pode ser um desafio, mas a evolução da tecnologia tem tornado as ferramentas mais acessíveis."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A ausência de estudos científicos sobre o tema.",
+                      "explanation": "A psicologia digital é um campo de pesquisa promissor, e existem diversos estudos científicos sobre o tema."
+                    }
+                  ],
+                  "answer": "B"
+                }
+              ]
             }
           ]
         },
