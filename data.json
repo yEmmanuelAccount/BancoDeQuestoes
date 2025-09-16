@@ -2954,13 +2954,974 @@
           ]
         },
         {
-          "id": "p4_orientacao_proficional",
-          "title": "Orientação Proficional",
+          "id": "p4_orientacao_profissional",
+          "title": "Orientação Profissional",
           "lists": [
             {
               "id": "p4_OP_L1",
               "title": "Lista 1",
-              "questions": []
+              "questions": [
+                {
+                  "id": "p4_OP_L1_Q1",
+                  "statement": "Qual das seguintes opções MELHOR descreve uma das principais transformações no mundo do trabalho a partir dos anos 1970, segundo os textos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Aumento da estabilidade empregatícia e contratos por tempo indeterminado.",
+                      "explanation": "Incorreta. Os textos indicam o oposto, que as transformações a partir dos anos 1970 nos distanciam da visão de emprego estável e permanente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Prevalência da precarização do trabalho, contratos por prazo determinado e terceirização de serviços",
+                      "explanation": "Correta! A introdução do texto afirma claramente que, a partir dos anos 1970, \"Prevalece a precarização do trabalho, os contratos por prazo determinado, a terceirização de serviços, a degradação das condições de trabalho e a negação de direitos historicamente conquistados\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Fortalecimento das condições de trabalho e garantia irrestrita de direitos.",
+                      "explanation": "Incorreta. O texto menciona a \"degradação das condições de trabalho e a negação de direitos historicamente conquistados\", o que contraria essa afirmação."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Diminuição da necessidade de mão de obra qualificada em todos os setores.",
+                      "explanation": "Incorreta. Embora o texto mencione o aumento de desempregados de baixa escolaridade, ele não generaliza a diminuição da necessidade de mão de obra qualificada em todos os setores. Pelo contrário, sistemas modernos de produção requerem qualificação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O fim da globalização e o retorno à produção local exclusiva.",
+                      "explanation": "Incorreta. O texto descreve o Brasil inserido em uma \"grande onda globalizante\" e as mutações globais no universo produtivo, indicando o fortalecimento, e não o fim, da globalização."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_OP_L1_Q2",
+                  "statement": "O que a Constituição Federal de 1988 trouxe de significativo para os trabalhadores brasileiros?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Abolição da Justiça do Trabalho como órgão especializado.",
+                      "explanation": "Incorreta. A Justiça do Trabalho teve sua competência ampliada pela Emenda Constitucional n. 45/2004, e as propostas de sua extinção foram arquivadas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Limitação dos direitos trabalhistas apenas aos empregados urbanos.",
+                      "explanation": "Incorreta. A Constituição Federal de 1988 estendeu os direitos trabalhistas \"às categorias de empregados antes não abrangidos, como os rurais e os domésticos\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Avanços significativos, positivando vários direitos e estendendo-os a categorias como rurais e domésticos",
+                      "explanation": "Correta! O texto afirma que a Constituição Federal de 1988 \"trouxe avanços significativos aos trabalhadores, positivando vários direitos, além de estendê-los às categorias de empregados antes não abrangidos, como os rurais e os domésticos\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aumento da jornada de trabalho para fins de desenvolvimento econômico.",
+                      "explanation": "Incorreta. O texto não menciona um aumento da jornada de trabalho pela CF/88 para esse fim; inclusive, a flexibilização pode levar à diminuição da jornada para justificar a diminuição salarial."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A obrigatoriedade de contratos de trabalho por prazo indeterminado.",
+                      "explanation": "Incorreta. Apesar dos avanços, o texto aponta que a precarização e os \"contratos por prazo determinado\" prevalecem a partir dos anos 1970."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_OP_L1_Q3",
+                  "statement": "Quem é Kátia Magalhães Arruda, conforme mencionado no texto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Uma economista renomada que criticou o Consenso de Washington.",
+                      "explanation": "Incorreta. O texto não a descreve como economista nem como crítica específica do Consenso de Washington."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A autora da teoria da acumulação flexível.",
+                      "explanation": "Incorreta. A teoria da acumulação flexível é atribuída a David Harvey."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Uma pesquisadora sobre o trabalho informal no Brasil.",
+                      "explanation": "Incorreta. Embora o artigo de sua autoria aborde esse tema, sua descrição principal é outra."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A fundadora do primeiro Centro de Orientação Profissional na América do Norte.",
+                      "explanation": "Incorreta. O marco principal da Orientação Profissional foi a criação do primeiro Centro na América do Norte, mas o texto não associa Kátia Magalhães Arruda a esse evento."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ministra do Tribunal Superior do Trabalho, Mestre em Direito Constitucional e Doutora em Políticas Públicas",
+                      "explanation": "Correta! O texto de forma explícita a identifica como \"Ministra do Tribunal Superior do Trabalho. Mestre em Direito Constitucional e Doutora em políticas Públicas\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_OP_L1_Q4",
+                  "statement": "De acordo com John Williamson e o \"Consenso de Washington\", quais eram as três posturas fundamentais \"receitadas\" para os países em desenvolvimento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Investimento em educação pública, fortalecimento de sindicatos e controle estatal da economia.",
+                      "explanation": "Incorreta. As medidas do Consenso de Washington eram de cunho neoliberal, focadas em privatizações e liberalização."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Aumento de impostos, nacionalização de empresas e valorização da mão de obra.",
+                      "explanation": "Incorreta. As \"receitas\" eram o oposto, buscando liberalização de mercados e retomada de investimentos estrangeiros."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Estabilização da economia com combate à inflação, reformas estruturais (privatizações, liberalização) e retomada de investimentos estrangeiros",
+                      "explanation": "Correta! O \"Consenso de Washington\" é descrito como tendo \"três posturas fundamentais: a estabilização da economia com o combate à inflação; a efetivação de reformas estruturais (privatizações, liberalização de mercados); a retomada de investimentos estrangeiros como forma de incentivar o desenvolvimento\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Protecionismo comercial, subsídio à produção local e diminuição do PIB.",
+                      "explanation": "Incorreta. O Consenso de Washington preconizava a liberalização de mercados, contrariando o protecionismo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Regulamentação trabalhista rigorosa, expansão dos direitos sociais e redução da expectativa de vida.",
+                      "explanation": "Incorreta. As políticas neoliberais e a flexibilização do trabalho, promovidas pelo Consenso de Washington, levaram à desregulamentação de direitos e precarização."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_OP_L1_Q5",
+                  "statement": "Hannah Arendt diferencia \"labor\" de \"trabalho\". Qual é a principal diferença segundo a autora?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Labor é a atividade que busca a durabilidade e permanência, enquanto trabalho é a sobrevivência.",
+                      "explanation": "Incorreta. Arendt inverte esses conceitos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Labor é exclusivo dos animais, enquanto trabalho é humano.",
+                      "explanation": "Incorreta. O texto não faz essa distinção entre animal e humano, mas sim entre tipos de atividades humanas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ambos os termos são sinônimos e não possuem distinções significativas.",
+                      "explanation": "Incorreta. O texto explicitamente diferencia os dois termos e suas finalidades."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Trabalho é uma atividade desvalorizada, enquanto labor é valorizado.",
+                      "explanation": "Incorreta. Arendt não atribui valor moral dessa forma, mas distingue as atividades por seus resultados e propósitos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Labor é a atividade que assegura a sobrevivência do indivíduo e da espécie, enquanto trabalho corresponde aos artefatos e à busca por durabilidade",
+                      "explanation": "Correta! O texto explica que para Arendt, \"Labor é a atividade que assegura a sobrevivência do indivíduo e da vida da espécie, enquanto que trabalho corresponde aos... artefatos e à busca por certa durabilidade e permanência ao caráter efêmero do tempo humano\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_OP_L1_Q6",
+                  "statement": "Além da organização do trabalho, qual outra contribuição de Max Weber é destacada em relação ao trabalho?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A análise do modelo de produção do mundo capitalista.",
+                      "explanation": "Incorreta. Essa análise é mais associada a Karl Marx."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A defesa da centralidade da categoria trabalho como fundante no mundo dos homens.",
+                      "explanation": "Incorreta. Essa defesa é atribuída a Antunes e Marx."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O reconhecimento de que o consumo é o... produto da capacidade de trabalho e da exploração.",
+                      "explanation": "Incorreta. Não há menção dessa contribuição de Weber no texto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A tese de que a ascese intramundana seria um dos fatores determinantes para o surgimento do capitalismo",
+                      "explanation": "Correta! O texto afirma que Weber, em \"A Ética Protestante e o Espírito do Capitalismo\", estabelece a tese de que a \"ascese intramundana seria um dos fatores determinantes para o surgimento do capitalismo\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A criação do conceito de mais-valia para explicar a exploração capitalista.",
+                      "explanation": "Incorreta. A criação do conceito de mais-valia é atribuída a Karl Marx."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q7",
+                  "statement": "O que o artigo de J. K. Galbraith, \"A Cultura do Contentamento\", critica?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A ideia de que a pobreza é um problema causado por fatores estruturais da economia.",
+                      "explanation": "Incorreta. A crítica de Galbraith é direcionada àqueles que ignoram os fatores estruturais da pobreza e atribuem a culpa aos indivíduos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A visão de que a riqueza é resultado de esforço e mérito individual, sem considerar as vantagens sociais e econômicas.",
+                      "explanation": "Correta! Galbraith critica a visão de que a prosperidade é resultado apenas do mérito pessoal, argumentando que os satisfeitos não percebem suas vantagens de classe e privilégios. Ele mostra que a pobreza é vista como resultado de uma falha moral ou intelectual do indivíduo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O papel do Estado na garantia de direitos sociais e na distribuição de renda.",
+                      "explanation": "Incorreta. O artigo critica o abandono de políticas de distribuição de renda e o desinteresse do Estado na garantia de direitos."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A flexibilização das leis trabalhistas como um motor para o desenvolvimento econômico.",
+                      "explanation": "Incorreta. O texto de Galbraith não se concentra na flexibilização, mas na cegueira social das classes dominantes em relação à pobreza."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O conceito de que a mobilidade social ascendente é um mito no capitalismo.",
+                      "explanation": "Incorreta. Embora a mobilidade social seja um tema relacionado, a crítica central de Galbraith é sobre a cultura de contentamento que ignora a pobreza e as causas estruturais."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_OP_L1_Q8",
+                  "statement": "Segundo a perspectiva de Karl Marx, qual a principal função do Estado, especialmente no contexto do capitalismo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Garantir a igualdade de direitos e a justiça social para todos os cidadãos.",
+                      "explanation": "Incorreta. A visão marxista é que o Estado não age para garantir igualdade, mas sim para proteger os interesses da classe dominante."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Regular o mercado para evitar a exploração da mão de obra.",
+                      "explanation": "Incorreta. Marx argumenta que o Estado, ao invés de regular a exploração, age para protegê-la."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Aumentar a participação dos trabalhadores na política.",
+                      "explanation": "Incorreta. A participação dos trabalhadores, na visão marxista, não altera a natureza de classe do Estado capitalista."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Atuar como um aparelho ideológico que reproduz a cultura do sistema dominante.",
+                      "explanation": "Correta! O texto explica que para Marx, o Estado é um \"aparelho ideológico, que contribui, a partir da cultura do sistema dominante, para a reprodução da ideologia deste sistema\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Promover o desenvolvimento tecnológico para o bem-estar de toda a sociedade.",
+                      "explanation": "Incorreta. Embora o desenvolvimento tecnológico possa ocorrer, a função principal do Estado, segundo Marx, não é o bem-estar social, mas a manutenção da dominação de classe."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q9",
+                  "statement": "O que o texto afirma sobre o desemprego, considerando tanto a visão de senso comum quanto as análises mais aprofundadas?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "É uma responsabilidade exclusiva do indivíduo, que deve se qualificar para o mercado.",
+                      "explanation": "Incorreta. O texto critica essa visão, associando-a à \"cultura do contentamento\" de Galbraith e à culpabilização do indivíduo, desconsiderando as questões estruturais."
+                    },
+                    {
+                      "id": "b",
+                      "text": "É um problema de falta de vagas no mercado de trabalho, sem relação com a escolaridade.",
+                      "explanation": "Incorreta. O texto menciona o aumento do desemprego entre pessoas de baixa escolaridade, indicando que há, sim, uma relação."
+                    },
+                    {
+                      "id": "c",
+                      "text": "É um fenômeno de fácil solução, que se resolve com a privatização de empresas estatais.",
+                      "explanation": "Incorreta. O texto não sugere uma solução fácil e, pelo contrário, associa a privatização ao \"Consenso de Washington\" e à precarização do trabalho."
+                    },
+                    {
+                      "id": "d",
+                      "text": "É um fenômeno simples, causado por uma única razão, como a falta de educação.",
+                      "explanation": "Incorreta. O texto afirma que o desemprego é \"um fenômeno complexo e multicausal\", o que contradiz essa alternativa."
+                    },
+                    {
+                      "id": "e",
+                      "text": "É um fenômeno complexo e multicausal, que, além da formação, envolve questões estruturais do mercado e das políticas econômicas.",
+                      "explanation": "Correta! O texto afirma que o desemprego é \"um fenômeno complexo e multicausal\" e que, \"embora a baixa escolaridade seja apontada como um fator relevante, a questão vai além e envolve os arranjos econômicos do mercado\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_OP_L1_Q10",
+                  "statement": "O texto menciona que a Orientação Profissional surge no contexto da industrialização dos EUA. Qual foi o principal motivo para seu surgimento, de acordo com o texto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A necessidade de orientar os trabalhadores para uma maior participação política.",
+                      "explanation": "Incorreta. A Orientação Profissional surge com um viés mais técnico e individualista, não com o objetivo de participação política."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A preocupação com o bem-estar social e a saúde mental dos imigrantes.",
+                      "explanation": "Incorreta. O texto não aponta essa como a motivação principal. A principal motivação foi a demanda por uma melhor adequação do indivíduo ao trabalho para aumentar a produção."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A crescente demanda por adequar o indivíduo ao mercado de trabalho, com foco na eficiência da produção.",
+                      "explanation": "Correta! O texto afirma que a Orientação Profissional surge \"a partir das crescentes necessidades da sociedade capitalista em adequar o indivíduo ao mercado de trabalho, de forma a aumentar a produtividade e a eficiência da produção\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A necessidade de diminuir a jornada de trabalho e garantir mais tempo livre para os trabalhadores.",
+                      "explanation": "Incorreta. O surgimento da Orientação Profissional está ligado ao aumento da produtividade e eficiência, não à diminuição da jornada de trabalho."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O desenvolvimento de uma consciência de classe entre os operários, levando à busca por direitos.",
+                      "explanation": "Incorreta. O texto menciona que o surgimento da Orientação Profissional foi uma resposta ao conflito entre a necessidade de adequação e a revolta dos operários, mas sua função primária não era a de fortalecer a consciência de classe, e sim a de gerenciar esse conflito."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_OP_L1_Q11",
+                  "statement": "O que o texto sugere ser o principal desafio e a principal tarefa da Orientação Profissional na contemporaneidade?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Continuar focando na adequação do indivíduo ao mercado de trabalho existente.",
+                      "explanation": "Incorreta. O texto critica essa abordagem e propõe uma transformação na visão da Orientação Profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ignorar as questões econômicas e focar apenas na realização pessoal do indivíduo.",
+                      "explanation": "Incorreta. O texto defende que a Orientação Profissional deve considerar as questões econômicas e a realidade social, não ignorá-las."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ajudar o indivíduo a se adaptar passivamente às exigências da globalização.",
+                      "explanation": "Incorreta. A Orientação Profissional deve promover o desenvolvimento de sujeitos críticos e autônomos, não a adaptação passiva."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Desenvolver nos indivíduos a capacidade de reflexão crítica sobre a relação entre indivíduo, sociedade e trabalho.",
+                      "explanation": "Correta! O texto afirma que a tarefa da Orientação Profissional é \"promover nos indivíduos a capacidade de reflexão crítica, de auto-análise e de autonomia, a fim de que possam construir suas trajetórias profissionais de forma consciente e engajada\" e \"transformar a realidade social em que vivemos\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Limitar-se à aplicação de testes psicológicos e à indicação de profissões.",
+                      "explanation": "Incorreta. O texto critica a abordagem tradicional da Orientação Profissional, que se limita à aplicação de testes, e propõe uma abordagem mais ampla e crítica."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q12",
+                  "statement": "Qual dos seguintes aspectos não é um dos eixos temáticos propostos pela Federação Brasileira de Orientação Profissional (FBO), em 1994, para uma atuação mais crítica na área?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O homem e o trabalho: a subjetividade do trabalhador.",
+                      "explanation": "Incorreta. Este é um dos eixos temáticos propostos, que busca a \"reflexão crítica sobre a dimensão subjetiva do trabalho\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O mundo do trabalho e as transformações sociais.",
+                      "explanation": "Incorreta. Este é um dos eixos temáticos, que busca a \"compreensão das transformações econômicas, sociais, culturais e políticas\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A história da Orientação Profissional no Brasil e no mundo.",
+                      "explanation": "Incorreta. Este é um dos eixos, que busca a \"compreensão da história da Orientação Profissional, suas rupturas e continuidades\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A aplicação de testes psicológicos e técnicas de seleção de pessoal.",
+                      "explanation": "Correta! O texto não menciona esse aspecto como um dos eixos propostos, e critica a abordagem tradicional que se limita a testes e técnicas de seleção."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A Orientação Profissional como campo de pesquisa e intervenção.",
+                      "explanation": "Incorreta. Este é um dos eixos, que busca o \"desenvolvimento de pesquisas e intervenções que permitam a construção de uma nova práxis\"."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q13",
+                  "statement": "Qual é a principal crítica do texto de Bock (2002) à atuação do psicólogo em Orientação Profissional que se limita à aplicação de testes e à indicação de profissões?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que a aplicação de testes é uma prática ilegal e antiética.",
+                      "explanation": "Incorreta. O texto não afirma que a aplicação de testes seja ilegal, mas critica o fato de ser a única abordagem utilizada."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que essa abordagem não leva em conta o sofrimento individual do sujeito.",
+                      "explanation": "Incorreta. O texto não aborda diretamente o sofrimento individual, mas critica o foco no indivíduo e a desconsideração do contexto social e político."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que essa atuação não é uma prática científica, mas um senso comum.",
+                      "explanation": "Incorreta. O texto não questiona a cientificidade dos testes, mas a abordagem que os utiliza de forma isolada, sem considerar o contexto social e político."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que essa abordagem é individualista e desconsidera a dimensão social e política do trabalho.",
+                      "explanation": "Correta! A crítica de Bock (2002) é que a prática tradicional \"retira o homem do seu contexto social e político e o coloca em um processo individual de escolha\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que essa atuação é irrelevante para a vida do sujeito, pois não há garantia de emprego.",
+                      "explanation": "Incorreta. A crítica não é sobre a garantia de emprego, mas sobre a limitação da abordagem a um processo individual de escolha."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q14",
+                  "statement": "Segundo o texto de Bock (2002), o que é a Orientação Profissional em uma perspectiva sócio-histórica?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Um processo individual de escolha profissional.",
+                      "explanation": "Incorreta. Essa é a visão tradicional criticada pelo texto."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Um processo de conscientização e desenvolvimento de autonomia, que possibilita ao sujeito intervir em sua realidade.",
+                      "explanation": "Correta! O texto de Bock (2002) afirma que a Orientação Profissional na perspectiva sócio-histórica deve ser um \"processo de conscientização e de desenvolvimento de autonomia do sujeito, a fim de que este possa, de forma ativa e consciente, intervir em sua realidade, construindo e reconstruindo sua história de vida e trabalho\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A aplicação de testes e a indicação de profissões.",
+                      "explanation": "Incorreta. Essa é a visão tradicional criticada pelo texto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Uma ferramenta de seleção de pessoal para empresas.",
+                      "explanation": "Incorreta. O texto critica a utilização da Orientação Profissional como ferramenta de seleção de pessoal."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Um processo que visa apenas a garantia de emprego para o sujeito.",
+                      "explanation": "Incorreta. O foco não é apenas na garantia de emprego, mas no desenvolvimento de autonomia e conscientização do sujeito."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_OP_L1_Q15",
+                  "statement": "O texto sugere que a Psicologia da Orientação Profissional, em sua atuação crítica, deve ir além de uma visão individualista. Qual é o papel que ela deve assumir, segundo essa perspectiva?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O papel de um consultor de carreira para o sujeito.",
+                      "explanation": "Incorreta. O papel de consultor de carreira se encaixa em uma visão mais individualista."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O papel de um agente de transformação social.",
+                      "explanation": "Correta! O texto afirma que a Orientação Profissional deve \"assumir o papel de agente de transformação social, contribuindo para que o indivíduo se torne um sujeito crítico e consciente de sua realidade e de seu papel na sociedade\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O papel de um diagnosticador de aptidões e interesses profissionais.",
+                      "explanation": "Incorreta. O papel de diagnosticador é parte da visão tradicional criticada pelo texto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O papel de um selecionador de pessoal para empresas.",
+                      "explanation": "Incorreta. O texto critica a utilização da Orientação Profissional como ferramenta de seleção de pessoal."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O papel de um tutor que guia o sujeito para a escolha \"certa\".",
+                      "explanation": "Incorreta. O texto propõe que o sujeito seja protagonista de sua escolha, e não um mero seguidor de orientações."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_OP_L1_Q16",
+                  "statement": "O que o artigo \"Formação em Psicologia e os desafios do mundo contemporâneo\" sugere como um dos principais desafios para a formação em Psicologia na contemporaneidade?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Aumentar a carga horária de disciplinas teóricas e filosóficas.",
+                      "explanation": "Incorreta. O texto não se concentra no aumento de carga horária teórica, mas na necessidade de uma formação mais conectada com a realidade social."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Limitar a formação do psicólogo às áreas clínica e organizacional, para garantir o emprego.",
+                      "explanation": "Incorreta. O texto defende uma formação mais ampla, que permita ao psicólogo atuar em diversos contextos, não apenas nas áreas clínica e organizacional."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Reconhecer que a formação acadêmica não prepara o estudante para a complexidade da realidade social e dos problemas contemporâneos.",
+                      "explanation": "Correta! O texto afirma que a formação em Psicologia \"não tem preparado o profissional para a compreensão da complexidade da realidade social e dos problemas contemporâneos\" e que há uma \"dissonância entre o que se aprende na universidade e o que se vivencia na prática profissional\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aumentar a aplicação de testes psicológicos na prática profissional.",
+                      "explanation": "Incorreta. O texto critica a abordagem tradicional, que se limita à aplicação de testes, e propõe uma formação mais crítica e reflexiva."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O desenvolvimento de uma visão exclusivamente tecnicista e instrumental da profissão.",
+                      "explanation": "Incorreta. O texto critica a visão tecnicista e defende uma formação mais crítica e reflexiva."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_OP_L1_Q17",
+                  "statement": "Qual dos seguintes aspectos não é mencionado como um dos desafios para a formação em Psicologia na contemporaneidade, de acordo com o texto \"Formação em Psicologia e os desafios do mundo contemporâneo\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A necessidade de uma formação que leve em conta a dimensão social e política da profissão.",
+                      "explanation": "Incorreta. Este é um dos desafios mencionados, pois a formação em Psicologia \"tem se concentrado em uma dimensão individualista, em detrimento da dimensão social e política\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O desenvolvimento de uma visão exclusivamente tecnicista da profissão.",
+                      "explanation": "Incorreta. O texto afirma que a formação em Psicologia \"tem se concentrado em uma dimensão tecnicista, em detrimento da dimensão ética e política\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A necessidade de uma formação que estimule a reflexão crítica e a autonomia do estudante.",
+                      "explanation": "Incorreta. Este é um dos desafios mencionados, pois a formação em Psicologia \"tem se concentrado em uma dimensão reprodutora, em detrimento da reflexão crítica e da autonomia\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A ausência de regulamentação da profissão de psicólogo no Brasil.",
+                      "explanation": "Correta! O texto não menciona a ausência de regulamentação como um desafio, pois a profissão já é regulamentada desde 1962."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A falta de integração entre a teoria e a prática profissional.",
+                      "explanation": "Incorreta. O texto afirma que há uma \"dissonância entre o que se aprende na universidade e o que se vivencia na prática profissional\", indicando a falta de integração."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q18",
+                  "statement": "Qual é o principal desafio para a atuação do psicólogo em Orientação Profissional em um contexto de crise social e de incertezas no mercado de trabalho?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A falta de interesse dos sujeitos em buscar a Orientação Profissional.",
+                      "explanation": "Incorreta. O texto não menciona a falta de interesse, mas a necessidade de uma atuação mais crítica e engajada."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A falta de ferramentas e técnicas adequadas para a Orientação Profissional.",
+                      "explanation": "Incorreta. O texto não se concentra na falta de ferramentas, mas na necessidade de uma abordagem mais ampla e crítica."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A necessidade de uma atuação que vá além da escolha de uma profissão, e que auxilie o sujeito a lidar com a precarização do trabalho e as incertezas.",
+                      "explanation": "Correta! O texto afirma que o psicólogo em Orientação Profissional \"deve ir além da mera escolha de uma profissão, e auxiliar o sujeito a lidar com a precarização do trabalho, a incerteza e a insegurança\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A necessidade de um maior foco na aplicação de testes psicológicos.",
+                      "explanation": "Incorreta. O texto critica a abordagem tradicional que se limita à aplicação de testes."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A falta de regulamentação da atuação do psicólogo em Orientação Profissional.",
+                      "explanation": "Incorreta. A regulamentação da profissão de psicólogo já existe, e a atuação em Orientação Profissional é uma especialidade."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_OP_L1_Q19",
+                  "statement": "De acordo com o texto, o que a Orientação Profissional deve promover nos sujeitos em um contexto de mudanças e incertezas?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A adaptação passiva às exigências do mercado de trabalho.",
+                      "explanation": "Incorreta. A Orientação Profissional deve promover o desenvolvimento de sujeitos críticos e autônomos, e não a adaptação passiva."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A capacidade de antecipar o futuro e escolher a profissão \"certa\".",
+                      "explanation": "Incorreta. O texto afirma que a Orientação Profissional não pode prever o futuro, mas pode ajudar o sujeito a \"lidar com as incertezas e a construir sua própria trajetória\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A busca por uma única profissão estável e segura.",
+                      "explanation": "Incorreta. O texto aponta a precarização do trabalho e a falta de estabilidade, e propõe uma atuação que ajude o sujeito a lidar com essa realidade, e não a buscar uma estabilidade ilusória."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A autonomia e a reflexão crítica sobre a relação entre indivíduo, sociedade e trabalho.",
+                      "explanation": "Correta! O texto afirma que a Orientação Profissional deve \"promover a autonomia e a reflexão crítica dos sujeitos, a fim de que estes possam construir suas trajetórias profissionais de forma consciente e engajada\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A crença de que a Orientação Profissional é a solução para todos os problemas sociais.",
+                      "explanation": "Incorreta. O texto não sugere que a Orientação Profissional seja a solução para todos os problemas sociais, mas que ela pode ser uma ferramenta de transformação social."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q20",
+                  "statement": "De acordo com o texto, qual é a principal razão pela qual a Orientação Profissional deve ir além da mera escolha de uma profissão e se tornar um processo de desenvolvimento de carreira?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A falta de emprego no mercado de trabalho.",
+                      "explanation": "Incorreta. A falta de emprego é um fator que contribui, mas a principal razão é a complexidade das relações de trabalho na contemporaneidade."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A necessidade de o psicólogo ter uma nova área de atuação para garantir sua sobrevivência.",
+                      "explanation": "Incorreta. O texto não se concentra na sobrevivência do psicólogo, mas na necessidade de uma atuação mais ampla e relevante para a sociedade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A ausência de uma única profissão estável e segura na contemporaneidade.",
+                      "explanation": "Incorreta. O texto aponta a falta de estabilidade, mas a principal razão para a mudança de foco é a complexidade das relações de trabalho na contemporaneidade, que exigem uma atuação mais ampla e crítica."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A crescente precarização do trabalho e a complexidade das relações entre indivíduo, sociedade e trabalho.",
+                      "explanation": "Correta! O texto afirma que a Orientação Profissional deve ir além da escolha de uma profissão porque as relações de trabalho na contemporaneidade são \"cada vez mais complexas e incertas\", o que exige uma atuação mais ampla e que \"auxilie o sujeito a lidar com a precarização do trabalho e as incertezas\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A falta de interesse dos jovens em trabalhar em uma única profissão durante toda a vida.",
+                      "explanation": "Incorreta. O texto não se concentra no interesse dos jovens, mas na complexidade das relações de trabalho na contemporaneidade."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q21",
+                  "statement": "O que o texto sugere ser o principal desafio para a atuação do psicólogo em Orientação Profissional na contemporaneidade, no contexto da globalização e da reestruturação produtiva?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Lidar com a falta de vagas no mercado de trabalho.",
+                      "explanation": "Incorreta. A falta de vagas é um fator, mas o principal desafio é a complexidade das relações de trabalho na contemporaneidade."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ajudar o sujeito a se adaptar passivamente às exigências da globalização.",
+                      "explanation": "Incorreta. O texto propõe uma atuação crítica e transformadora, e não uma adaptação passiva."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ajudar o sujeito a compreender a dinâmica do mundo do trabalho e a construir suas trajetórias de forma crítica e autônoma.",
+                      "explanation": "Correta! O texto afirma que o psicólogo em Orientação Profissional deve \"auxiliar o sujeito a compreender a dinâmica do mundo do trabalho, a complexidade das relações sociais e a construir suas trajetórias profissionais de forma crítica e autônoma\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aumentar a aplicação de testes psicológicos para a seleção de pessoal.",
+                      "explanation": "Incorreta. O texto critica a abordagem tradicional que se limita à aplicação de testes."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Aconselhar o sujeito a buscar uma profissão com estabilidade e segurança.",
+                      "explanation": "Incorreta. O texto aponta a falta de estabilidade e segurança na contemporaneidade, e propõe uma atuação que ajude o sujeito a lidar com essa realidade."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_OP_L1_Q22",
+                  "statement": "O texto sugere que a Orientação Profissional deve ir além de uma visão individualista e se tornar uma \"ferramenta de transformação social\". O que isso significa na prática?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que o psicólogo deve se tornar um ativista político e lutar contra o capitalismo.",
+                      "explanation": "Incorreta. A Orientação Profissional pode ter um viés político, mas não se limita à militância política. A transformação social se dá por meio do desenvolvimento de sujeitos críticos e autônomos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que o psicólogo deve se concentrar em ajudar os sujeitos a encontrar empregos e a ter sucesso financeiro.",
+                      "explanation": "Incorreta. O foco não é o sucesso financeiro, mas o desenvolvimento de sujeitos críticos e autônomos que possam intervir em sua realidade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que a Orientação Profissional deve ajudar o sujeito a se adaptar passivamente à realidade social.",
+                      "explanation": "Incorreta. O texto propõe uma atuação transformadora, e não uma adaptação passiva."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que a Orientação Profissional deve promover a conscientização do sujeito sobre a realidade social e política, a fim de que ele possa intervir em sua realidade.",
+                      "explanation": "Correta! O texto afirma que a Orientação Profissional deve \"promover a conscientização do sujeito sobre a realidade social e política, a fim de que este possa, de forma ativa e consciente, intervir em sua realidade\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que a Orientação Profissional deve se limitar à aplicação de testes psicológicos.",
+                      "explanation": "Incorreta. O texto critica a abordagem tradicional que se limita à aplicação de testes."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q23",
+                  "statement": "Qual é a principal crítica do texto de Bock (2002) à atuação do psicólogo em Orientação Profissional que se limita à aplicação de testes e à indicação de profissões?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que a aplicação de testes é uma prática ilegal e antiética.",
+                      "explanation": "Incorreta. O texto não afirma que a aplicação de testes seja ilegal, mas critica o fato de ser a única abordagem utilizada."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que essa abordagem não leva em conta o sofrimento individual do sujeito.",
+                      "explanation": "Incorreta. O texto não aborda diretamente o sofrimento individual, mas critica o foco no indivíduo e a desconsideração do contexto social e político."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que essa atuação não é uma prática científica, mas um senso comum.",
+                      "explanation": "Incorreta. O texto não questiona a cientificidade dos testes, mas a abordagem que os utiliza de forma isolada, sem considerar o contexto social e político."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que essa abordagem é individualista e desconsidera a dimensão social e política do trabalho.",
+                      "explanation": "Correta! A crítica de Bock (2002) é que a prática tradicional \"retira o homem do seu contexto social e político e o coloca em um processo individual de escolha\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que essa atuação é irrelevante para a vida do sujeito, pois não há garantia de emprego.",
+                      "explanation": "Incorreta. A crítica não é sobre a garantia de emprego, mas sobre a limitação da abordagem a um processo individual de escolha."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q24",
+                  "statement": "De acordo com o texto de Bock (2002), o que é a Orientação Profissional em uma perspectiva sócio-histórica?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Um processo individual de escolha profissional.",
+                      "explanation": "Incorreta. Essa é a visão tradicional criticada pelo texto."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Um processo de conscientização e desenvolvimento de autonomia, que possibilita ao sujeito intervir em sua realidade.",
+                      "explanation": "Correta! O texto de Bock (2002) afirma que a Orientação Profissional na perspectiva sócio-histórica deve ser um \"processo de conscientização e de desenvolvimento de autonomia do sujeito, a fim de que este possa, de forma ativa e consciente, intervir em sua realidade, construindo e reconstruindo sua história de vida e trabalho\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A aplicação de testes e a indicação de profissões.",
+                      "explanation": "Incorreta. Essa é a visão tradicional criticada pelo texto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Uma ferramenta de seleção de pessoal para empresas.",
+                      "explanation": "Incorreta. O texto critica a utilização da Orientação Profissional como ferramenta de seleção de pessoal."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Um processo que visa apenas a garantia de emprego para o sujeito.",
+                      "explanation": "Incorreta. O foco não é apenas na garantia de emprego, mas no desenvolvimento de autonomia e conscientização do sujeito."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_OP_L1_Q25",
+                  "statement": "O texto sugere que a Psicologia da Orientação Profissional, em sua atuação crítica, deve ir além de uma visão individualista. Qual é o papel que ela deve assumir, segundo essa perspectiva?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O papel de um consultor de carreira para o sujeito.",
+                      "explanation": "Incorreta. O papel de consultor de carreira se encaixa em uma visão mais individualista."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O papel de um agente de transformação social.",
+                      "explanation": "Correta! O texto afirma que a Orientação Profissional deve \"assumir o papel de agente de transformação social, contribuindo para que o indivíduo se torne um sujeito crítico e consciente de sua realidade e de seu papel na sociedade\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O papel de um diagnosticador de aptidões e interesses profissionais.",
+                      "explanation": "Incorreta. O papel de diagnosticador é parte da visão tradicional criticada pelo texto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O papel de um selecionador de pessoal para empresas.",
+                      "explanation": "Incorreta. O texto critica a utilização da Orientação Profissional como ferramenta de seleção de pessoal."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O papel de um tutor que guia o sujeito para a escolha \"certa\".",
+                      "explanation": "Incorreta. O texto propõe que o sujeito seja protagonista de sua escolha, e não um mero seguidor de orientações."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_OP_L1_Q26",
+                  "statement": "O que o artigo de T. E. B. de Araújo (2007) sugere ser o principal desafio para a Orientação Profissional em um contexto de crise social e de incertezas no mercado de trabalho?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A falta de interesse dos sujeitos em buscar a Orientação Profissional.",
+                      "explanation": "Incorreta. O texto não menciona a falta de interesse, mas a necessidade de uma atuação mais crítica e engajada."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A falta de ferramentas e técnicas adequadas para a Orientação Profissional.",
+                      "explanation": "Incorreta. O texto não se concentra na falta de ferramentas, mas na necessidade de uma abordagem mais ampla e crítica."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A necessidade de uma atuação que vá além da escolha de uma profissão, e que auxilie o sujeito a lidar com a precarização do trabalho e as incertezas.",
+                      "explanation": "Correta! O texto afirma que o psicólogo em Orientação Profissional \"deve ir além da mera escolha de uma profissão, e auxiliar o sujeito a lidar com a precarização do trabalho, a incerteza e a insegurança\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A necessidade de um maior foco na aplicação de testes psicológicos.",
+                      "explanation": "Incorreta. O texto critica a abordagem tradicional que se limita à aplicação de testes."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A falta de regulamentação da atuação do psicólogo em Orientação Profissional.",
+                      "explanation": "Incorreta. A regulamentação da profissão de psicólogo já existe, e a atuação em Orientação Profissional é uma especialidade."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_OP_L1_Q27",
+                  "statement": "O texto sugere que a Orientação Profissional deve ir além de uma visão individualista e se tornar uma \"ferramenta de transformação social\". O que isso significa na prática?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que o psicólogo deve se tornar um ativista político e lutar contra o capitalismo.",
+                      "explanation": "Incorreta. A Orientação Profissional pode ter um viés político, mas não se limita à militância política. A transformação social se dá por meio do desenvolvimento de sujeitos críticos e autônomos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que o psicólogo deve se concentrar em ajudar os sujeitos a encontrar empregos e a ter sucesso financeiro.",
+                      "explanation": "Incorreta. O foco não é o sucesso financeiro, mas o desenvolvimento de sujeitos críticos e autônomos que possam intervir em sua realidade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que a Orientação Profissional deve ajudar o sujeito a se adaptar passivamente à realidade social.",
+                      "explanation": "Incorreta. O texto propõe uma atuação transformadora, e não uma adaptação passiva."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que a Orientação Profissional deve promover a conscientização do sujeito sobre a realidade social e política, a fim de que ele possa intervir em sua realidade.",
+                      "explanation": "Correta! O texto afirma que a Orientação Profissional deve \"promover a conscientização do sujeito sobre a realidade social e política, a fim de que este possa, de forma ativa e consciente, intervir em sua realidade\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que a Orientação Profissional deve se limitar à aplicação de testes psicológicos.",
+                      "explanation": "Incorreta. O texto critica a abordagem tradicional que se limita à aplicação de testes."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q28",
+                  "statement": "O que o texto de S. T. de Araujo (2007) afirma sobre a dimensão ética e política do trabalho do psicólogo em Orientação Profissional?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que ela deve ser ignorada em favor de uma atuação mais técnica e instrumental.",
+                      "explanation": "Incorreta. O texto critica a abordagem tecnicista e defende uma atuação que leve em conta a dimensão ética e política."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que ela é uma responsabilidade exclusiva dos Conselhos Regionais de Psicologia.",
+                      "explanation": "Incorreta. A dimensão ética e política é uma responsabilidade do psicólogo em sua atuação, e não apenas dos Conselhos Regionais."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que ela é fundamental para que o psicólogo possa atuar como um agente de transformação social, e não apenas como um técnico.",
+                      "explanation": "Correta! O texto afirma que a dimensão ética e política do trabalho do psicólogo em Orientação Profissional é \"fundamental para que o psicólogo possa atuar como um agente de transformação social, e não apenas como um técnico, um mero aplicador de testes e técnicas\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que ela é irrelevante para a prática profissional, pois a Orientação Profissional é uma prática científica.",
+                      "explanation": "Incorreta. O texto não questiona a cientificidade da Orientação Profissional, mas defende que a dimensão ética e política é fundamental para a atuação profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que ela deve ser limitada ao Código de Ética Profissional do Psicólogo.",
+                      "explanation": "Incorreta. O texto defende uma atuação que vá além do Código de Ética, e que leve em conta a dimensão ética e política em sua totalidade."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_OP_L1_Q29",
+                  "statement": "Qual é a principal crítica do texto de S. T. de Araujo (2007) à atuação do psicólogo em Orientação Profissional que se limita à aplicação de testes e à indicação de profissões?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que a aplicação de testes é uma prática ilegal e antiética.",
+                      "explanation": "Incorreta. O texto não afirma que a aplicação de testes seja ilegal, mas critica o fato de ser a única abordagem utilizada."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que essa abordagem não leva em conta o sofrimento individual do sujeito.",
+                      "explanation": "Incorreta. O texto não aborda diretamente o sofrimento individual, mas critica o foco no indivíduo e a desconsideração do contexto social e político."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que essa atuação não é uma prática científica, mas um senso comum.",
+                      "explanation": "Incorreta. O texto não questiona a cientificidade dos testes, mas a abordagem que os utiliza de forma isolada, sem considerar o contexto social e político."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que essa abordagem é individualista e desconsidera a dimensão social e política do trabalho.",
+                      "explanation": "Correta! A crítica é que a prática tradicional \"retira o homem do seu contexto social e político e o coloca em um processo individual de escolha\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que essa atuação é irrelevante para a vida do sujeito, pois não há garantia de emprego.",
+                      "explanation": "Incorreta. A crítica não é sobre a garantia de emprego, mas sobre a limitação da abordagem a um processo individual de escolha."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_OP_L1_Q30",
+                  "statement": "O que a ausência de regulamentação da proteção contra a despedida arbitrária no Brasil revela qual dinâmica de poder?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A ausência de interesse dos trabalhadores na regulamentação de seus direitos.",
+                      "explanation": "Incorreta. A proteção contra despedida arbitrária é um direito previsto constitucionalmente, o que implica interesse na sua regulamentação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A prioridade do Poder Judiciário em resolver casos de demissão coletiva.",
+                      "explanation": "Incorreta. No caso da Embraer, o Judiciário julgou não haver abuso na demissão devido à \"ausência de norma cogente\" para readmissão, indicando a falta de regulamentação."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A forte autonomia do Poder Legislativo em proteger os direitos sociais.",
+                      "explanation": "Incorreta. O Legislativo é criticado pela \"demora na regulação de questões de grande importância para os direitos sociais e trabalhistas\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A ausência de previsão constitucional para tal proteção.",
+                      "explanation": "Incorreta. A proteção do emprego contra despedida arbitrária \"está prevista constitucionalmente desde a promulgação da Constituição brasileira de 1988\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O grande poder de pressão do empresariado nacional sobre temas de grande relevância para os trabalhadores, impedindo a efetivação de direitos já previstos constitucionalmente e perpetuando a precarização",
+                      "explanation": "Correta! O texto afirma que a falta de regulamentação desse direito constitucional \"mostra mais uma vez o grande poder de pressão do empresariado nacional sobre tema da maior relevância para os trabalhadores\", o que impede a efetivação de direitos e contribui para a precarização."
+                    }
+                  ],
+                  "answer": "e"
+                }
+              ]
             }
           ]
         },

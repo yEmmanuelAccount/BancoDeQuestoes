@@ -1,8 +1,7 @@
 Aqui estão as explicações para cada alternativa das questões, seguindo a estrutura solicitada e baseadas nos arquivos fornecidos:
-
----
-
-### Bloco FÁCIL (10 questões)
+Estrutura lógica:
+    * número da questão. enunciado da questão
+        * alternativa) enuncioado da alternativa: Correta! ou Incorreta. Justificativa.
 
 1.  **Qual das seguintes opções MELHOR descreve uma das principais transformações no mundo do trabalho a partir dos anos 1970, segundo os textos?**
     *   a) Aumento da estabilidade empregatícia e contratos por tempo indeterminado.: Incorreta. Os textos indicam o oposto, que as transformações a partir dos anos 1970 nos distanciam da visão de emprego estável e permanente.
@@ -74,152 +73,142 @@ Aqui estão as explicações para cada alternativa das questões, seguindo a est
     *   d) Orientação de Habilidades.: Incorreta. O texto não menciona essa como a principal ênfase.
     *   e) Orientação para a Vida Adulta.: Incorreta. O texto não aponta essa mudança de ênfase específica.
 
----
-
-### Bloco MÉDIO (10 questões)
-
-1.  **Quais foram os principais custos sociais da estabilização econômica alcançada no governo Fernando Henrique Cardoso?**
+11.  **Quais foram os principais custos sociais da estabilização econômica alcançada no governo Fernando Henrique Cardoso?**
     *   a) Redução drástica da inflação sem impactos negativos no emprego.: Incorreta. A inflação foi contida, mas "os custos sociais foram muito altos".
     *   b) Aumento generalizado do nível de escolaridade e diminuição da informalidade.: Incorreta. Houve um aumento do desemprego, "em especial entre os trabalhadores com baixo nível de escolaridade" e crescimento do "mercado informal".
     *   c) **Altos custos sociais, desemprego não contido, aumento de desempregados (especialmente de baixa escolaridade) e crescimento do mercado informal:** Correta! O texto descreve que, no governo FHC, embora a moeda tenha sido estabilizada e a inflação contida, "os custos sociais foram muito altos. O desemprego não foi contido, aumentando a proporção de desempregados, em especial entre os trabalhadores com baixo nível de escolaridade, criando um fosso [...] que teve como alternativa o mercado informal".
     *   d) Fortalecimento dos direitos trabalhistas e do poder sindical.: Incorreta. As políticas neoliberais da época levaram à "precarização do trabalho" e ao enfraquecimento sindical.
     *   e) Equilíbrio na distribuição de renda e eliminação do fosso social.: Incorreta. Houve a criação de um "fosso" entre grandes empregados e a massa de mão de obra desqualificada, e o aumento da concentração de rendas é um efeito da flexibilização.
 
-2.  **Como o conceito de precarização do trabalho é amplamente definido nos textos?**
+12.  **Como o conceito de precarização do trabalho é amplamente definido nos textos?**
     *   a) **Trabalho com pouca ou nenhuma estabilidade, frágil, deficiente, com direitos diferenciados ou diminuídos (como em contratos por prazo determinado, terceirização e falsas cooperativas):** Correta! O texto define a precarização como "trabalho com pouca ou nenhuma estabilidade, frágil, deficiente, com direitos diferenciados ou diminuídos, a exemplo do que ocorre com os contratos por prazo determinado [...] a prestação de serviços sem carteira de trabalho, assim como o trabalho terceirizado, as falsas cooperativas".
     *   b) Apenas a prestação de serviços sem carteira de trabalho assinada.: Incorreta. Embora o trabalho sem carteira seja incluído, a definição é mais abrangente, cobrindo contratos por prazo determinado, terceirização, falsas cooperativas e condições degradantes.
     *   c) Trabalho com alta estabilidade, muitos direitos e condições ideais.: Incorreta. A precarização é o oposto, caracterizada pela degradação das condições de trabalho e negação de direitos.
     *   d) Um fenômeno restrito aos países desenvolvidos e com pouca relevância no Brasil.: Incorreta. Os textos focam na precarização no Brasil e mencionam sua amplitude global e em países pobres.
     *   e) A substituição completa de trabalhadores por máquinas, eliminando o trabalho humano.: Incorreta. A precarização se refere às condições de trabalho do ser humano, embora as tecnologias de informação mudem os processos de trabalho, não eliminam completamente o trabalho.
 
-3.  **A "flexibilização" das relações de trabalho é apresentada como uma ferramenta do capital com qual objetivo principal?**
+13.  **A "flexibilização" das relações de trabalho é apresentada como uma ferramenta do capital com qual objetivo principal?**
     *   a) Modernizar a legislação trabalhista para garantir mais direitos aos trabalhadores.: Incorreta. O texto de Artur Costa (2008) critica o discurso da modernidade da flexibilização, que "esconde [...] a anulação de direitos adquiridos".
     *   b) Promover a autonomia e a valorização do trabalho vivo.: Incorreta. A flexibilização é descrita como "consumo cada vez mais predatório e desumano da força de trabalho", e para subjugar os trabalhadores.
     *   c) Aumentar o número de empregos formais e salários estáveis.: Incorreta. A flexibilização resultou na "precarização ilimitada do trabalho" e na "destruição dos direitos sociais", e no aumento de empregos temporários e salários variáveis.
     *   d) **Subjugar os trabalhadores aos interesses de lucros crescentes, fragilizando a força de trabalho, aumentando a concentração de rendas e anulando direitos adquiridos:** Correta! O texto afirma que a flexibilização "é, na verdade, uma das mais importantes ferramentas utilizadas pelo capital para subjugar os trabalhadores aos interesses de lucros crescentes, deixando a força de trabalho cada vez mais fragilizada, aumentando a concentração de rendas". Além disso, significa "a anulação de direitos adquiridos" e "destruição dos direitos sociais".
     *   e) Estabelecer um padrão de produção taylorista-fordista mais rígido.: Incorreta. A acumulação flexível de Harvey, que se baseia na flexibilização, é um "confronto direto com a rigidez do fordismo".
 
-4.  **A Emenda Constitucional n. 45/2004 impactou a Justiça do Trabalho no Brasil de que maneira?**
+14.  **A Emenda Constitucional n. 45/2004 impactou a Justiça do Trabalho no Brasil de que maneira?**
     *   a) Levou à extinção de várias Varas do Trabalho no país.: Incorreta. O texto informa que as tentativas de extinção da Justiça do Trabalho foram arquivadas e que a EC 45/2004 ampliou sua competência.
     *   b) **Ampliou sua competência para abranger não só a relação de emprego (vínculo subordinado), mas o conceito mais abrangente de relação de trabalho, incluindo o mercado informal:** Correta! A EC n. 45/2004 "ampliou sua competência [...] principalmente quanto ao sujeito de direito, vez que, antes da mudança constitucional, a magistratura trabalhista só julgava a relação de emprego (vínculo subordinado) e atualmente abrange a relação de trabalho, conceito mais abrangente que abriga, inclusive, o mercado informal".
     *   c) Limitou sua atuação apenas a casos de servidores públicos estatutários.: Incorreta. As causas que envolvem servidores públicos estatutários não estão incluídas na competência da Justiça do Trabalho.
     *   d) Retirou a competência para julgar ações de dano material e moral.: Incorreta. A Justiça do Trabalho tem competência para processar e julgar "ações de dano material e moral decorrentes da relação de trabalho".
     *   e) Diminuiu o número de recursos recebidos anualmente pelo TST.: Incorreta. O texto afirma que "O número de recursos é crescente a cada ano" no TST.
 
-5.  **Qual contradição é observada no Brasil em relação ao crescimento econômico, segundo os textos?**
+15.  **Qual contradição é observada no Brasil em relação ao crescimento econômico, segundo os textos?**
     *   a) O PIB do Brasil diminuiu, mas a expectativa de vida aumentou significativamente.: Incorreta. O texto menciona "aumento de seu PIB".
     *   b) O país se tornou uma potência emergente, mas com perda de reconhecimento internacional.: Incorreta. O texto fala de "reconhecimento internacional como uma potência emergente".
     *   c) Houve um forte crescimento do emprego formal, mas acompanhado de redução salarial.: Incorreta. O texto indica que "tais fatores [crescimento econômico, inflação controlada] não aumentam o nível de emprego e salários", e que a política ainda é de precarização.
     *   d) A política de desregulamentação de direitos trabalhistas levou ao fortalecimento sindical.: Incorreta. A desregulamentação fragiliza os direitos e os movimentos trabalhistas.
     *   e) **Apesar do crescimento econômico (como aumento do PIB e controle da inflação), isso não se reflete proporcionalmente no aumento de empregos e melhoria da qualidade de vida dos trabalhadores:** Correta! O texto aponta a contradição de que, "embora a crise financeira mundial não tenha sido forte no Brasil [...] com crescimento anual acima de 5%, com inflação controlada, economia estável, tais fatores não aumentam o nível de emprego e salários, que continuam muito abaixo da média dos países desenvolvidos". Além disso, questiona se o "crescimento econômico repercutirá positivamente no aumento de empregos e melhoria da qualidade de vida dos trabalhadores".
 
-6.  **Na sociedade de consumo, segundo Bauman, qual é o principal dever imposto aos seus membros?**
+16.  **Na sociedade de consumo, segundo Bauman, qual é o principal dever imposto aos seus membros?**
     *   a) **O dever de desempenhar o papel de consumidor, ditando a maneira como a sociedade molda seus membros:** Correta! Bauman afirma que "A maneira como a sociedade atual molda seus membros é ditada primeira e acima de tudo pelo dever de desempenhar o papel de consumidor".
     *   b) A busca pela autossuficiência e produção de bens.: Incorreta. A ênfase é no consumo, não na autossuficiência.
     *   c) O engajamento em ações coletivas e solidárias.: Incorreta. A ideologia do capitalismo globalizado e do consumo frequentemente promove o individualismo.
     *   d) A preservação da tradição e a resistência à modernidade.: Incorreta. A "flexibilização", um padrão da modernidade, se opõe à "tradição, da fixidez".
     *   e) A valorização do trabalho como vocação, acima de tudo.: Incorreta. O sentido do trabalho se desloca para a obtenção de bens de consumo para a satisfação de necessidades.
 
-7.  **Segundo Krein, qual a consequência da busca por maior flexibilidade das empresas diante da volatilidade do mercado?**
+17.  **Segundo Krein, qual a consequência da busca por maior flexibilidade das empresas diante da volatilidade do mercado?**
     *   a) Aumento da estabilidade e do salário fixo para os trabalhadores.: Incorreta. Krein afirma que o emprego regular cede lugar ao temporário e o salário fixo ao variável.
     *   b) Fortalecimento das ações coletivas e dos direitos trabalhistas.: Incorreta. Essa busca fragiliza as ações coletivas e desregulamenta direitos.
     *   c) Redução da terceirização e do trabalho informal.: Incorreta. Pelo contrário, o emprego regular dá lugar a "formas temporárias e subcontratadas", e há aumento do trabalho informal.
     *   d) Diminuição das margens de lucro para priorizar o bem-estar do trabalhador.: Incorreta. Krein menciona o "estreitamento das suas [das empresas] margens de lucro" como causa, levando à flexibilização para proteger o lucro, não para diminuí-lo.
     *   e) **Imposição de regimes e contratos de trabalho mais flexíveis, desregulamentação de direitos, e o emprego regular dando lugar a formas temporárias e subcontratadas:** Correta! Krein afirma que as empresas "impuseram regimes e contratos de trabalho mais flexíveis, além do processo de desregulamentação de direitos. O emprego regular está dando espaço ao emprego temporário, por tempo parcial e subcontratado, assim como o salário fixo vai cedendo lugar ao salário variável e flexível".
 
-8.  **Qual o papel fundamental do orientador profissional ao auxiliar adolescentes na escolha da profissão?**
+18.  **Qual o papel fundamental do orientador profissional ao auxiliar adolescentes na escolha da profissão?**
     *   a) Impor uma profissão que garanta alta remuneração.: Incorreta. O orientador deve trabalhar a autonomia do sujeito e não designar um caminho a seguir.
     *   b) Determinar o projeto de vida do orientando, baseando-se em tendências de mercado.: Incorreta. O papel é de facilitar a busca e o autoconhecimento, não de determinar o projeto de vida.
     *   c) Apenas aplicar testes psicométricos para identificar aptidões.: Incorreta. Embora testes possam ser usados, a abordagem atual valoriza mais os processos de aprendizagem e escolha, com os testes perdendo centralidade.
     *   d) **Facilitar o autoconhecimento, a clareza sobre potencialidades e interesses, estimular a expressão de dificuldades e encorajar a busca pelo projeto de vida:** Correta! O orientador profissional tem o papel de "facilitar o percurso do orientando em busca de ter clareza das suas potencialidades, os aspectos que influenciam seus interesses e interferem na escolha da profissão. Cabe ao orientado profissional intervir estimulando os sujeitos a se expressarem em relação as suas dificuldades, medos, questionamentos e vontades. E encoraja-los a responder o que querem ser, assim iniciando a busca pelo seu projeto de vida".
     *   e) Ignorar os aspectos socioeconômicos e focar somente nos desejos individuais.: Incorreta. O orientador deve levar em conta "os aspectos intrapsíquicos e o contexto social, financeira e política que fazem parte da vida cotidiana dos sujeitos".
 
-9.  **O que o conceito de "maturidade profissional" abrange, de acordo com os textos?**
+19.  **O que o conceito de "maturidade profissional" abrange, de acordo com os textos?**
     *   a) **O conjunto de ações e comportamentos que o indivíduo deve ter para entrar na vida profissional, desde a escolha na infância até a aposentadoria, com certeza sobre suas decisões:** Correta! Lorga (2017) coloca a maturidade profissional como "o conjunto de ações e comportamentos, que o indivíduo deve ter com objetivo de entrar na vida profissional, ou seja, a relação que ele tem desde a escolha profissional a partir da infância até a escolhas sobre a aposentadoria na vida idosa". Complementa-se que acontece "quando o indivíduo tem a certeza de suas próprias decisões, confiança sobre o futuro emprego ou ocupação, como até o momento em que o sujeito percebe-se a hora da aposentadoria".
     *   b) A capacidade de trabalhar muitas horas sem se cansar.: Incorreta. O texto não associa maturidade profissional a resistência física.
     *   c) Exclusivamente a aprovação em um curso superior de prestígio.: Incorreta. A maturidade profissional abrange todo o processo de desenvolvimento e escolhas relacionadas à vida profissional, do início ao fim.
     *   d) A habilidade de mudar de emprego frequentemente sem causar transtornos.: Incorreta. A maturidade implica certeza e confiança nas decisões, o que contraria a ideia de mudanças frequentes e sem reflexão.
     *   e) Apenas o conhecimento técnico sobre uma determinada área.: Incorreta. É um conceito mais amplo, que envolve atitudes, comportamentos, autoconhecimento e a capacidade de fazer escolhas conscientes.
 
-10. **Como o cenário teórico da Orientação Profissional no Brasil se transformou a partir da década de 1970?**
+20. **Como o cenário teórico da Orientação Profissional no Brasil se transformou a partir da década de 1970?**
     *   a) Retorno exclusivo às bases psicométricas e ao modelo diretivo.: Incorreta. O texto indica que "os testes foram perdendo sua centralidade".
     *   b) **Valorização dos processos de aprendizagem e escolha, com contribuições das teorias evolutivas e do aconselhamento não diretivo de Carl Rogers, e os testes perdendo centralidade:** Correta! A partir da década de 1970, "o cenário do escopo teórico começou a mudar, em decorrência de contribuições das teorias evolutivas, e do aconselhamento não diretivo de Carl Rogers. Passou-se a valorizar mais os processos de aprendizagem e escolha, e os testes foram perdendo sua centralidade, mesmo que não tenham sido excluídos".
     *   c) Foco apenas em programas governamentais de recolocação profissional.: Incorreta. O texto não menciona que o foco se tornou *apenas* em programas governamentais de recolocação.
     *   d) Ênfase em escolhas profissionais precoces e impostas pela família.: Incorreta. A OP busca auxiliar o sujeito em sua autonomia e lidar com as pressões por escolhas precoces.
     *   e) Total desconsideração dos aspectos psicológicos na escolha profissional.: Incorreta. A valorização dos processos de aprendizagem e escolha implica a consideração de aspectos psicológicos e de autoconhecimento.
 
----
-
-### Bloco DIFÍCIL (10 questões)
-
-1.  **A "acumulação flexível", conceito de Harvey, distingue-se do padrão taylorista-fordista por qual característica principal?**
+21.  **A "acumulação flexível", conceito de Harvey, distingue-se do padrão taylorista-fordista por qual característica principal?**
     *   a) Maior rigidez nos processos de trabalho e padronização de produtos.: Incorreta. A acumulação flexível de Harvey é um "confronto direto com a rigidez do fordismo".
     *   b) **Confronto direto com a rigidez do fordismo, baseando-se na flexibilidade dos processos de trabalho, novos mercados, produtos e padrões, com alta intensificação de inovação:** Correta! Harvey (1992) descreve a "acumulação flexível" como "marcada por um confronto direto com a rigidez do fordismo. Ela se apoia na flexibilidade dos processos de trabalho, novos mercados de trabalho, dos produtos e padrões. Caracteriza-se pelo surgimento de setores de produção inteiramente novos [...] e, sobretudo, taxas altamente intensificadas de inovação comercial, tecnológica e organizacional".
     *   c) Concentração exclusiva em setores industriais tradicionais e redução do setor de serviços.: Incorreta. A acumulação flexível se caracteriza pelo "surgimento de setores de produção inteiramente novos" e um "vasto movimento no emprego do chamado 'setor de serviços'".
     *   d) Diminuição das taxas de inovação tecnológica e organizacional.: Incorreta. É caracterizada por "taxas altamente intensificadas de inovação comercial, tecnológica e organizacional".
     *   e) Estabilidade de desenvolvimento geográfico e setorial.: Incorreta. A acumulação flexível envolve "rápidas mudanças dos padrões de desenvolvimento desigual, tanto entre setores como entre regiões geográficas".
 
-2.  **Qual a contradição aparente na descrição do homem contemporâneo, que se mostra ativo e criativo, mas suscetível à alienação, conforme os textos?**
+22.  **Qual a contradição aparente na descrição do homem contemporâneo, que se mostra ativo e criativo, mas suscetível à alienação, conforme os textos?**
     *   a) A capacidade de criar novas necessidades, mas a recusa em supri-las.: Incorreta. O texto afirma que o homem foi historicamente criando formas de suprir e, paradoxalmente, criando novas necessidades.
     *   b) A busca por durabilidade nos artefatos, mas a efemeridade da vida humana.: Incorreta. Essa é a distinção de Arendt entre "trabalho" (artefatos, durabilidade) e "labor" (sobrevivência, efemeridade), mas não a contradição geral da questão.
     *   c) A recusa em participar de processos de comunicação e formação de simbolismos.: Incorreta. O texto destaca que as representações e simbologias se formam mediante "processos de comunicação" e trocas simbólicas.
     *   d) **Apesar de ser visto como autônomo e capaz de resignificar regras e valores, as relações sociais atuais são permeadas por ideologias e mecanismos de alienação que promovem o individualismo e impedem o reconhecimento crítico da dissociação entre o privado e o público:** Correta! O texto afirma que o homem contemporâneo é visto como "autônomo e a capacidade de criar e recriar a suas relações", mas, por outro lado, as relações sociais atuais "estão permeadas por ideologias, viabilizadas por mecanismo de alienação que permitem aos sujeitos posições individualistas e o não reconhecimento crítico da dissociação entre o que lhes parece privado e a ocupação dos espaços públicos".
     *   e) A valorização do trabalho como vocação, mas a realidade de empregos sem sentido.: Incorreta. Embora seja uma questão relevante (Weber), esta alternativa não abrange a contradição geral entre a capacidade ativa e criativa do homem versus sua alienação em relação às relações sociais.
 
-3.  **Como os estudos de Max Weber sobre o trabalho conectam a "santificação do trabalho como vocação" dos puritanos à compreensão moderna do trabalho?**
+23.  **Como os estudos de Max Weber sobre o trabalho conectam a "santificação do trabalho como vocação" dos puritanos à compreensão moderna do trabalho?**
     *   a) **Ele demonstra que, enquanto os puritanos santificavam o trabalho como vocação, as condições modernas oferecem um emprego que visa à sobrevivência, não à abertura de espaços para uma vida plena de sentido:** Correta! Os estudos de Weber mostram "o longo caminho percorrido desde a santificação do trabalho como vocação pelos puritanos até a consideração de que as condições de trabalho do mundo moderno não oferecem vocação, mas um emprego ou um trabalho que fornece os meios necessários para viver. Portanto, nessa concepção o trabalho significa sobrevivência e não a abertura de espaços preferenciais que levem a uma boa vida plena de sentido".
     *   b) Ele defende que a vocação ainda é o principal motivador do trabalho moderno.: Incorreta. Ele mostra a mudança de sentido, onde o trabalho moderno visa à sobrevivência, não à vocação plena.
     *   c) Seus estudos mostram que tanto na ética puritana quanto na modernidade, o trabalho sempre oferece uma vida plena de sentido.: Incorreta. Ele estabelece um contraste, indicando que o trabalho moderno não garante a mesma plenitude de sentido que a vocação puritana.
     *   d) Weber argumenta que a santificação puritana levou diretamente à desvalorização do trabalho.: Incorreta. Ele descreve uma transformação no significado e propósito do trabalho, não necessariamente uma desvalorização direta nesse sentido.
     *   e) Ele conclui que a ética puritana foi completamente erradicada pelo capitalismo industrial.: Incorreta. O texto afirma que as ideias de Weber e Marx "estão presentes nos dias atuais, apesar do fato de que, o aumento da produtividade, a sociedade oferece empregos e trabalho cada vez menos significativo".
 
-4.  **Apesar da ideia de uma "sociedade pós-trabalho", qual o paradoxo destacado nos textos sobre a centralidade e a construção da identidade através do trabalho?**
+24.  **Apesar da ideia de uma "sociedade pós-trabalho", qual o paradoxo destacado nos textos sobre a centralidade e a construção da identidade através do trabalho?**
     *   a) A sociedade pós-trabalho aboliu completamente a necessidade de qualquer atividade laboral.: Incorreta. O texto afirma que "o trabalho não será abolido".
     *   b) **A centralidade do trabalho para a identidade é negada, mas a busca por dinheiro e identidade no trabalho cresce, confirmando que "somos o que fazemos", mesmo em empregos menos significativos:** Correta! O texto aponta que, embora a ideia de "sociedade pós-trabalho" negue a centralidade do trabalho para a construção identitária, "uma maioria sempre crescente de pessoas procuram trabalho que prometa dinheiro e identidade. 'Este fenômeno é um verdadeiro paradoxo e uma doce ironia, mas finalmente somos o que fazemos'". Além disso, a concepção de dignidade está associada a "estar empregado, estar trabalhando".
     *   c) As lutas de classe foram totalmente extintas, invalidando qualquer ação coletiva no trabalho.: Incorreta. O texto menciona que há uma valorização da ideia de que as lutas de classe "não mais existem ou de que estão fragilizadas", mas também fala da possibilidade de "novas solidariedades" e preocupação com ações coletivas.
     *   d) As atividades desregulamentadas não possuem qualquer relação de subordinação, tornando o trabalho obsoleto.: Incorreta. O texto afirma que "mesmo desregulamentadas as atividades dependem de uma relação de subordinação".
     *   e) O processo de individualização impede a formação de qualquer nova solidariedade.: Incorreta. O texto sugere que "novas solidariedades e identidades deverão ser promovidas".
 
-5.  **Qual é o principal desafio enfrentado pelas "ações coletivas de associações de trabalhadores" no contexto do capitalismo globalizado, segundo os textos?**
+25.  **Qual é o principal desafio enfrentado pelas "ações coletivas de associações de trabalhadores" no contexto do capitalismo globalizado, segundo os textos?**
     *   a) O excesso de regulamentação governamental que as impede de agir.: Incorreta. O problema é a "desregulamentação de direitos" e a pressão do capital para "flexibilizar a legislação do trabalho".
     *   b) A diminuição da taxa de desemprego, que reduz a necessidade de mobilização.: Incorreta. O texto prevê um "aumento da taxa de desemprego", e a ameaça de desemprego é um fator que impede a mobilização.
     *   c) A forte mobilização de seus associados, que sobrecarrega os sindicatos.: Incorreta. O texto aponta que "A ameaça do desemprego, por sua vez, tem impedido uma maior mobilização de seus associados".
     *   d) **A fragilidade dos movimentos trabalhistas causada pela flexibilização do trabalho, desregulamentação de direitos, o capital migratório e sem barreiras, e a ameaça do desemprego, que promovem a individualização:** Correta! O texto menciona que uma tendência é a "fragilidade das ações de movimentos trabalhistas", causada pela "flexibilização do trabalho, desregulamentação de direitos", e pelo avanço de um "novo tipo de capital: migratório e sem barreiras". A "ameaça do desemprego" também impede a mobilização, e ideologias que "promovem o individualismo" fragilizam as ações coletivas.
     *   e) O apoio irrestrito do empresariado nacional às demandas sindicais.: Incorreta. O texto descreve o "grande poder de pressão do empresariado nacional sobre tema da maior relevância para os trabalhadores", o que contradiz a ideia de apoio irrestrito.
 
-6.  **Em que sentido o "trabalho voluntário" pode ser visto como um modo de construção da subjetividade dentro da lógica capitalista que limita essa construção?**
+26.  **Em que sentido o "trabalho voluntário" pode ser visto como um modo de construção da subjetividade dentro da lógica capitalista que limita essa construção?**
     *   a) O trabalho voluntário é remunerado e oferece os mesmos benefícios do trabalho formal.: Incorreta. O texto distingue o trabalho voluntário como uma atividade "não remunerada".
     *   b) **O trabalho voluntário preenche lacunas deixadas pelo capitalismo, que, ao precarizar e focar na competitividade, dificulta a identificação com o trabalho, permitindo que as pessoas encontrem satisfação e construam sua subjetividade em outros espaços sociais:** Correta! Caldana e Figueiredo (2008) "defendem a idéia de que o voluntariado seja um modo permitido de construção da subjetividade dentro da lógica capitalista, pois o trabalho subjugado ao capital limitam a construção da subjetividade, isto é, a preocupação com a competitividade e adequação para se manter no mercado de trabalho dificultam a identificação com o trabalho. Nesse contexto, as pessoas buscam outros espaços sociais para a atuação e o exercício das práticas profissionais, fazendo crescer movimentos que satisfaçam necessidades que o capitalismo deixou de suprir".
     *   c) Ele reforça a competitividade e a adequação ao mercado, que são as bases da subjetividade capitalista.: Incorreta. O trabalho voluntário é visto como preenchedor de lacunas deixadas pela própria lógica capitalista da competitividade, que *dificulta* a identificação com o trabalho.
     *   d) O trabalho voluntário é uma forma de negação total do sistema capitalista e de seus valores.: Incorreta. É apresentado como um "modo permitido de construção da subjetividade *dentro da lógica capitalista*", não uma negação total.
     *   e) Ele é uma atividade assistencialista que não obedece a regulamentações contratuais.: Incorreta. O texto faz a ressalva de que "fala-se aqui de trabalho voluntário e não do trabalho assistencialista, ou seja, de uma atividade que mesmo não remunerada obedece a regulamentações contratuais".
 
-7.  **Considerando o histórico do direito do trabalho no Brasil, como a "flexibilização" impactou os direitos dos trabalhadores?**
+27.  **Considerando o histórico do direito do trabalho no Brasil, como a "flexibilização" impactou os direitos dos trabalhadores?**
     *   a) A flexibilização resultou em maior garantia e expansão dos direitos sociais, tornando o Brasil modelo.: Incorreta. A flexibilização significa "aumentar ainda mais a precarização e destruição dos direitos sociais".
     *   b) No Brasil, onde o direito do trabalho sempre foi mais negociado, a flexibilização fortaleceu os acordos coletivos em favor dos trabalhadores.: Incorreta. O "direito do trabalho no Brasil sempre foi mais legislado que negociado", e a flexibilização tem sido a marca dos acordos recentes, resultando em diminuição salarial.
     *   c) **A flexibilização, embora historicamente menos negociada no Brasil, tem sido a principal marca dos acordos recentes, significando aumento da precarização, destruição de direitos sociais e justificativa para diminuição salarial e demissões em massa:** Correta! O texto explica que "o direito do trabalho no Brasil sempre foi mais legislado que negociado", mas que a "flexibilização" é a "principal marca dos acordos e convenções coletivas mais recentes", como a diminuição da jornada para justificar a diminuição salarial. Além disso, a flexibilização "aumentar ainda mais a precarização e destruição dos direitos sociais" e impacta em demissões em massa, como no caso da Embraer.
     *   d) Ela não teve impacto significativo, pois a legislação brasileira é imune às pressões do capital global.: Incorreta. Os "governos nacionais estão sendo cada vez mais pressionados a adaptar sua legislação social às exigências do sistema global do capital".
     *   e) Os governos nacionais resistiram firmemente às exigências do sistema global de capital, protegendo os direitos.: Incorreta. A realidade é de "adaptação" e "destruição dos direitos do trabalho" sob pressão.
 
-8.  **A citação de Ulysses Guimarães sobre a "Constituição cidadã" e os "guetos da perseguição social" enfatiza qual aspecto da realidade brasileira, apesar do caminho da modernidade?**
+28.  **A citação de Ulysses Guimarães sobre a "Constituição cidadã" e os "guetos da perseguição social" enfatiza qual aspecto da realidade brasileira, apesar do caminho da modernidade?**
     *   a) A completa erradicação da miséria e desigualdade social no Brasil.: Incorreta. A citação destaca a existência da "miséria" e dos "guetos da perseguição social".
     *   b) O sucesso total do desenvolvimento econômico em promover a cidadania.: Incorreta. Ulysses Guimarães enfatiza a "necessidade de recuperar como cidadãos milhões de brasileiros", indicando que o sucesso é incompleto.
     *   c) A irrelevância da Constituição de 1988 para a vida dos brasileiros.: Incorreta. A citação de Guimarães é um apelo para a Constituição concretizar a cidadania, ressaltando sua importância.
     *   d) O papel exclusivo do Poder Judiciário na promoção da justiça social.: Incorreta. Ele se refere à Constituição e à necessidade de que os cidadãos sejam usuários dos bens do desenvolvimento, um papel que vai além do Judiciário.
     *   e) **A necessidade de recuperar milhões de brasileiros como cidadãos e usuários dos bens do desenvolvimento, contrastando com a segregação social e a persistência da miséria, mostrando que a modernidade ainda não trouxe plena cidadania e dignidade:** Correta! Ulysses Guimarães declara que a "Constituição cidadã, porque recuperará como cidadãos milhões de brasileiros, vítimas da pior das discriminações: a miséria" e que a cidadania plena, como "usuário de bens e serviços do desenvolvimento", não acontece com "milhões de brasileiros, segregados nos guetos da perseguição social". Isso demonstra que a modernidade brasileira ainda convive com profundas desigualdades e falta de dignidade.
 
-9.  **Por que a "renda" frequentemente se torna o fator mais visado na escolha profissional de adolescentes, considerando o contexto capitalista?**
+29.  **Por que a "renda" frequentemente se torna o fator mais visado na escolha profissional de adolescentes, considerando o contexto capitalista?**
     *   a) Porque as escolas e famílias incentivam a escolha de profissões menos remuneradas para promover o altruísmo.: Incorreta. Escolas e famílias podem transmitir "concepções e status de profissões 'boas' e 'ruins'" e "expectativas financeiras".
     *   b) A escolha profissional é dissociada da identidade e do projeto de vida.: Incorreta. A escolha profissional está "relacionada ao processo de construção da identidade" e à busca por um "projeto de vida".
     *   c) As adversidades do mundo do trabalho diminuíram, tornando a renda menos relevante.: Incorreta. As "adversidades que existem no mundo do trabalho se tornam elementos desafiadores à escolha por uma profissão".
     *   d) **A escolha profissional está ligada à construção da identidade na transição para a vida adulta e às pressões sociais e familiares. No contexto do capitalismo que estimula o consumo, a renda é crucial para satisfazer necessidades e alcançar status, tornando-se o item mais visado para garantir o "maior leque de utilidades":** Correta! A escolha profissional está ligada à "construção de identidade" na adolescência e sofre "pressão social" e familiar. No capitalismo, onde o consumo é "constantemente estimulado", a renda é essencial para "satisfazer necessidades" e alcançar o "maior leque de utilidades", tornando-se o "item mais visado no momento da escolha profissional".
     *   e) A falta de informações sobre profissões faz com que os adolescentes escolham aleatoriamente, sem considerar a renda.: Incorreta. Embora a falta de informação seja um problema, o texto aponta que a renda é um fator visado e considerado na escolha.
 
-10. **A persistente falta de regulamentação da proteção contra despedida arbitrária no Brasil revela qual dinâmica de poder?**
+30. **A persistente falta de regulamentação da proteção contra despedida arbitrária no Brasil revela qual dinâmica de poder?**
     *   a) A ausência de interesse dos trabalhadores na regulamentação de seus direitos.: Incorreta. A proteção contra despedida arbitrária é um direito previsto constitucionalmente, o que implica interesse na sua regulamentação.
     *   b) A prioridade do Poder Judiciário em resolver casos de demissão coletiva.: Incorreta. No caso da Embraer, o Judiciário julgou não haver abuso na demissão devido à "ausência de norma cogente" para readmissão, indicando a falta de regulamentação.
     *   c) A forte autonomia do Poder Legislativo em proteger os direitos sociais.: Incorreta. O Legislativo é criticado pela "demora na regulação de questões de grande importância para os direitos sociais e trabalhistas".
     *   d) A ausência de previsão constitucional para tal proteção.: Incorreta. A proteção do emprego contra despedida arbitrária "está prevista constitucionalmente desde a promulgação da Constituição brasileira de 1988".
     *   e) **O grande poder de pressão do empresariado nacional sobre temas de grande relevância para os trabalhadores, impedindo a efetivação de direitos já previstos constitucionalmente e perpetuando a precarização:** Correta! O texto afirma que a falta de regulamentação desse direito constitucional "mostra mais uma vez o grande poder de pressão do empresariado nacional sobre tema da maior relevância para os trabalhadores", o que impede a efetivação de direitos e contribui para a precarização.
-
----
