@@ -1966,6 +1966,972 @@
                   "answer": "D"
                 }
               ]
+            },
+            {
+              "id": "p4_psicopatologia_L2",
+              "title": "Lista 2",
+              "questions": [
+                {
+                  "id": "p4_Psicopatologia_L2_Q1",
+                  "statement": "Qual objetivo específico da disciplina \"Psicopatologia II\" foca em compreender os fundamentos clínicos e epidemiológicos dos transtornos psiquiátricos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Identificar Patologias",
+                      "explanation": "Incorreta. Este é outro objetivo específico da disciplina, que se concentra em \"Identificar e descrever as principais patologias das funções mentais, com base nos critérios diagnósticos do DSM e do CID\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Analisar Criticamente",
+                      "explanation": "Incorreta. Este é um objetivo específico que visa \"Analisar criticamente os modelos psicopatológicos e suas implicações na prática psicológica\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Compreender Fundamentos",
+                      "explanation": "Correta! Um dos objetivos específicos da disciplina \"Psicopatologia II\" é \"Compreender os fundamentos clínicos e epidemiológicos dos transtornos psiquiátricos\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Diferenciar Transtornos",
+                      "explanation": "Incorreta. Este é um objetivo específico que busca \"Diferenciar os transtornos mentais a partir de suas manifestações clínicas e diagnóstico diferencial\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Aplicar Conhecimentos",
+                      "explanation": "Incorreta. Este é um objetivo específico que foca em \"Refletir sobre a aplicação dos conhecimentos psicopatológicos na avaliação e intervenção psicológica\"."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q2",
+                  "statement": "Qual seção do \"Conteúdo Programático\" da disciplina \"Psicopatologia II\" explora perspectivas como a fenomenológica, psicodinâmica e cognitivo-comportamental?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sistemas Classificatórios",
+                      "explanation": "Incorreta. Esta seção do conteúdo programático aborda o \"Estudo comparativo entre o DSM-5 e o CID-11, análise crítica das classificações e sua evolução histórica\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Grandes Síndromes Clínicas",
+                      "explanation": "Incorreta. Esta seção foca no \"Aprofundamento nos transtornos de humor, ansiedade, psicóticos, personalidade, entre outros\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Diagnóstico Diferencial",
+                      "explanation": "Incorreta. Esta seção trata de \"Métodos e técnicas para identificação e distinção entre transtornos com sintomatologia semelhante\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Abordagens Psicopatológicas",
+                      "explanation": "Correta! A seção \"Abordagens Psicopatológicas\" do \"Conteúdo Programático\" é onde são exploradas as \"Perspectivas fenomenológicas, psicodinâmicas, cognitivo-comportamentais e neurobiológicas\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Cronograma de Avaliações",
+                      "explanation": "Incorreta. O cronograma de avaliações apresenta as datas e formatos das avaliações, não o conteúdo programático sobre perspectivas psicopatológicas."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q3",
+                  "statement": "No \"Cronograma de Avaliações\" da disciplina \"Psicopatologia II\", a Avaliação 2 (AV2) é focada na apresentação de que tipo de projeto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Um estudo de caso clínico.",
+                      "explanation": "Incorreta. Um estudo de caso clínico é o foco da Avaliação 3 (AV3)."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Uma prova escrita.",
+                      "explanation": "Incorreta. A Avaliação 1 (AV1) é uma prova escrita."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Resultados de projeto desenvolvido no CAPS.",
+                      "explanation": "Correta! A Avaliação 2 (AV2) é a \"Curricularização da extensão: apresentação dos resultados do projeto desenvolvido no CAPS\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Análise de artigos científicos.",
+                      "explanation": "Incorreta. A análise de artigos científicos não é mencionada como foco de nenhuma avaliação específica no cronograma."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Um debate em sala de aula.",
+                      "explanation": "Incorreta. Um debate em sala de aula não é mencionado como foco de nenhuma avaliação específica no cronograma."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q4",
+                  "statement": "No Modelo Biopsicossocial, quais são os três tipos de causas que podem influenciar o comportamento anormal?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Somente genéticas, sociais e culturais",
+                      "explanation": "Incorreta. Embora a genética seja uma causa biológica, e social/cultural sejam causas socioculturais, a alternativa não abrange as três grandes categorias principais do modelo biopsicossocial."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas ambientais, familiares e pessoais",
+                      "explanation": "Incorreta. Estas são subcategorias ou fatores, não as três categorias principais do modelo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Biológicas, psicológicas e socioculturais.",
+                      "explanation": "Correta! O comportamento anormal é melhor compreendido por meio de uma abordagem integrada que incorpora \"fatores biológicos, psicológicos e socioculturais\", conhecida como modelo biopsicossocial."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Exclusivamente neurológicas, emocionais e econômicas",
+                      "explanation": "Incorreta. Neurológicas e emocionais se encaixam nas categorias principais, mas \"econômicas\" não é listada como uma das três causas primárias no modelo apresentado."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Comportamentais, cognitivas e afetivas",
+                      "explanation": "Incorreta. Estas são partes do domínio psicológico, mas não abrangem as três categorias principais do modelo biopsicossocial."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q5",
+                  "statement": "No contexto da psicopatologia, o que o princípio da \"equifinalidade\" sugere?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que um único fator biológico pode levar a diferentes transtornos mentais.",
+                      "explanation": "Incorreta. O princípio da equifinalidade não se limita a fatores biológicos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que as causas de um transtorno mental são sempre as mesmas, independentemente do indivíduo.",
+                      "explanation": "Incorreta. O princípio da equifinalidade sugere o oposto: que diferentes trajetórias podem levar ao mesmo resultado."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que diferentes trajetórias de desenvolvimento e fatores de risco podem levar a um mesmo resultado de transtorno mental.",
+                      "explanation": "Correta! O princípio da \"equifinalidade\" sugere que diferentes trajetórias de desenvolvimento e múltiplos fatores de risco (biológicos, psicológicos e socioculturais) podem levar a um mesmo resultado de transtorno mental. Por exemplo, a depressão em dois indivíduos pode ter causas completamente distintas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que um transtorno mental específico pode ser causado apenas por um único evento traumático.",
+                      "explanation": "Incorreta. Isso contraria a visão multicausal do modelo biopsicossocial e o princípio da equifinalidade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que a cura de um transtorno mental é sempre o fim do processo de tratamento.",
+                      "explanation": "Incorreta. A cura não é o foco do princípio da equifinalidade, que se refere à origem dos transtornos."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q6",
+                  "statement": "Qual dos seguintes elementos *não* é considerado parte da definição de Comportamento Anormal no material da aula?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A resposta atípica ou desviante.",
+                      "explanation": "Incorreta. A resposta atípica ou desviante faz parte da definição de comportamento anormal, referindo-se a comportamentos que se desviam das normas sociais."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O sofrimento ou incapacidade significativa.",
+                      "explanation": "Incorreta. O sofrimento é um dos critérios da definição de comportamento anormal."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A disfunção psicológica.",
+                      "explanation": "Incorreta. A disfunção psicológica é um dos critérios da definição de comportamento anormal."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A hereditariedade genética do comportamento.",
+                      "explanation": "Correta! Embora fatores genéticos possam contribuir para a predisposição de um transtorno, a hereditariedade genética em si não é um dos critérios da definição de comportamento anormal apresentados no material da aula. A definição se concentra nos aspectos de disfunção psicológica, sofrimento e resposta atípica."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O perigo para si ou para outros.",
+                      "explanation": "Incorreta. O perigo para si ou para outros é um dos critérios da definição de comportamento anormal."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q7",
+                  "statement": "O que o princípio da \"multifinalidade\" sugere no contexto da psicopatologia?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que um mesmo fator de risco pode levar a diferentes resultados de desenvolvimento.",
+                      "explanation": "Correta! O princípio da \"multifinalidade\" sugere que um mesmo fator de risco (por exemplo, um histórico de abuso infantil) pode levar a diferentes resultados de desenvolvimento ou transtornos mentais (por exemplo, depressão, transtorno de ansiedade, ou resiliência) em diferentes indivíduos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que todos os transtornos mentais têm uma causa única e identificável.",
+                      "explanation": "Incorreta. Isso contraria a visão multicausal do modelo biopsicossocial."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que o tratamento de um transtorno mental deve ser o mesmo para todos os indivíduos.",
+                      "explanation": "Incorreta. Isso ignora a individualidade dos pacientes e as diferentes trajetórias."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que a resiliência é um fator que protege contra todos os transtornos mentais.",
+                      "explanation": "Incorreta. Embora a resiliência seja importante, o princípio da multifinalidade foca nas diferentes manifestações de um mesmo fator de risco."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que a causa de um transtorno mental é sempre biológica.",
+                      "explanation": "Incorreta. O princípio da multifinalidade não se limita a fatores biológicos."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q8",
+                  "statement": "Qual é a principal diferença entre os conceitos de \"sinal\" e \"sintoma\" em psicopatologia?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sinal é a percepção subjetiva do paciente e sintoma é o que o clínico observa.",
+                      "explanation": "Incorreta. A definição é o oposto: sintoma é a percepção subjetiva do paciente e sinal é o que o clínico observa."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ambos são termos intercambiáveis e significam a mesma coisa.",
+                      "explanation": "Incorreta. Os termos \"sinal\" e \"sintoma\" são distintos na psicopatologia."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Sinal é a manifestação objetiva, observável e mensurável, enquanto sintoma é a queixa subjetiva do paciente.",
+                      "explanation": "Correta! Sinal é uma manifestação objetiva, observável e mensurável de um transtorno (por exemplo, uma tremedeira, uma fala acelerada). Sintoma é a queixa subjetiva do paciente, algo que ele sente ou vivencia (por exemplo, tristeza, medo, ansiedade)."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Sintoma é o diagnóstico do transtorno, e sinal é a forma como o transtorno se manifesta.",
+                      "explanation": "Incorreta. Nem sintoma nem sinal são o diagnóstico em si."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Sinal se refere a um grupo de sintomas, e sintoma se refere a um único sinal.",
+                      "explanation": "Incorreta. O grupo de sinais e sintomas é chamado de \"síndrome\"."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q9",
+                  "statement": "O que a psicopatologia fenomenológica busca compreender principalmente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A etiologia biológica dos transtornos mentais.",
+                      "explanation": "Incorreta. A psicopatologia fenomenológica foca na experiência subjetiva, não na etiologia biológica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O conjunto de sinais e sintomas para classificar um transtorno.",
+                      "explanation": "Incorreta. A psicopatologia fenomenológica foca na experiência vivida pelo paciente, não na mera classificação de sinais e sintomas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A experiência subjetiva e a vivência do paciente com o transtorno.",
+                      "explanation": "Correta! A psicopatologia fenomenológica, ou psicopatologia geral, busca compreender a experiência subjetiva e a vivência do paciente em seu adoecimento. Ela se concentra no \"como\" o paciente vivencia o transtorno, e não no \"o que\" ele tem."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A relação entre a cultura e a prevalência de transtornos mentais.",
+                      "explanation": "Incorreta. Embora a cultura possa influenciar a experiência, o foco da psicopatologia fenomenológica é na experiência individual."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O desenvolvimento de novas técnicas de tratamento medicamentoso.",
+                      "explanation": "Incorreta. O foco é na compreensão, não no tratamento medicamentoso."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q10",
+                  "statement": "Qual a principal função dos sistemas classificatórios como o DSM-5 e o CID-11?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Fornecer uma lista de tratamentos para cada transtorno.",
+                      "explanation": "Incorreta. Os sistemas classificatórios não fornecem listas de tratamentos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas rotular o paciente para fins burocráticos.",
+                      "explanation": "Incorreta. A classificação tem múltiplas funções, não se limitando à burocracia."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Promover um sistema de diagnóstico padronizado e facilitar a comunicação entre os profissionais da saúde mental.",
+                      "explanation": "Correta! Os sistemas classificatórios como o DSM e o CID têm como principal função fornecer um sistema de diagnóstico padronizado, facilitando a comunicação entre os profissionais, a pesquisa e o ensino em saúde mental. Eles agrupam sintomas e sinais em síndromes, que por sua vez formam os transtornos, garantindo uma linguagem comum."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Determinar a causa exata de cada transtorno mental.",
+                      "explanation": "Incorreta. Os sistemas classificatórios são ateóricos e não se concentram em determinar a causa de cada transtorno."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Identificar os fatores de risco e de proteção de um indivíduo.",
+                      "explanation": "Incorreta. A identificação de fatores de risco é parte do processo de avaliação, mas não a função primária da classificação."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q11",
+                  "statement": "Segundo o material, quais são as principais etapas da \"Formulação de Caso\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas o diagnóstico descritivo e a seleção da técnica de tratamento.",
+                      "explanation": "Incorreta. A formulação de caso é um processo mais complexo, que vai além do diagnóstico e da técnica de tratamento."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Coleta de dados, elaboração do diagnóstico e avaliação do paciente.",
+                      "explanation": "Incorreta. A formulação de caso envolve mais do que a simples coleta de dados e elaboração do diagnóstico."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Análise da etiologia, determinação do tratamento e prognóstico.",
+                      "explanation": "Incorreta. Estas etapas são parte da formulação de caso, mas não a lista completa apresentada."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Diagnóstico Descritivo, Diagnóstico Etiológico (Biopsicossocial), Hipóteses sobre o Tratamento e Prognóstico.",
+                      "explanation": "Correta! As etapas da \"Formulação de Caso\" são: \"1) Diagnóstico Descritivo (com base nos sistemas classificatórios), 2) Diagnóstico Etiológico (abordagem biopsicossocial, que investiga a origem do problema), 3) Hipóteses sobre o Tratamento (com base na formulação de caso), e 4) Prognóstico (previsão sobre a evolução do caso)\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Aplicação de testes psicológicos e entrevista com o paciente.",
+                      "explanation": "Incorreta. A aplicação de testes e a entrevista são ferramentas utilizadas na etapa de coleta de dados, mas não são as etapas da formulação de caso em si."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q12",
+                  "statement": "Na \"Formulação de Caso\", o que o \"Diagnóstico Etiológico\" busca compreender?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A classificação dos sinais e sintomas do paciente.",
+                      "explanation": "Incorreta. A classificação dos sinais e sintomas é a função do diagnóstico descritivo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas a influência da hereditariedade na vida do paciente.",
+                      "explanation": "Incorreta. O diagnóstico etiológico não se limita à hereditariedade, mas sim à abordagem biopsicossocial."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Apenas o histórico de vida do paciente.",
+                      "explanation": "Incorreta. O diagnóstico etiológico não se limita ao histórico de vida do paciente, mas sim à abordagem biopsicossocial."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A etiologia, ou seja, a origem do problema do paciente, utilizando a abordagem biopsicossocial.",
+                      "explanation": "Correta! O \"Diagnóstico Etiológico\" busca compreender a origem do problema do paciente, integrando os fatores biológicos, psicológicos e socioculturais do modelo biopsicossocial para explicar o desenvolvimento do transtorno."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A previsão sobre a evolução do quadro do paciente.",
+                      "explanation": "Incorreta. A previsão sobre a evolução do quadro é a função do prognóstico."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q13",
+                  "statement": "Um dos principais desafios na psicopatologia do desenvolvimento é a necessidade de considerar a \"trajetória do desenvolvimento\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que a avaliação deve se concentrar apenas nos sintomas atuais do paciente, ignorando o passado.",
+                      "explanation": "Incorreta. Isso contraria a premissa de que a psicopatologia do desenvolvimento deve considerar a trajetória do desenvolvimento."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que a avaliação deve considerar como os comportamentos e sintomas evoluíram ao longo do tempo, em vez de focar apenas em um ponto fixo no tempo.",
+                      "explanation": "Correta! Considerar a \"trajetória do desenvolvimento\" significa que a avaliação em psicopatologia não deve focar apenas em um ponto fixo no tempo, mas sim em como os comportamentos e sintomas evoluíram ao longo da vida do indivíduo, buscando compreender as interações dinâmicas entre os fatores de risco e proteção."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que o diagnóstico de um transtorno mental deve ser feito apenas na infância.",
+                      "explanation": "Incorreta. A avaliação da trajetória de desenvolvimento se aplica em qualquer momento da vida."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que a genética é o único fator determinante da trajetória de desenvolvimento.",
+                      "explanation": "Incorreta. A psicopatologia do desenvolvimento considera a interação entre a biologia, a psicologia e o ambiente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que o tratamento deve ser focado em medicamentos apenas na fase inicial do transtorno.",
+                      "explanation": "Incorreta. A avaliação da trajetória do desenvolvimento não se limita a medicamentos."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q14",
+                  "statement": "Qual dos seguintes é um exemplo de \"sinal\" na psicopatologia?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sentimento de tristeza persistente.",
+                      "explanation": "Incorreta. O sentimento de tristeza é uma queixa subjetiva e, portanto, um sintoma."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Falta de apetite relatada pelo paciente.",
+                      "explanation": "Incorreta. A falta de apetite relatada é uma queixa subjetiva e, portanto, um sintoma."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Alucinações auditivas relatadas pelo paciente.",
+                      "explanation": "Incorreta. A alucinação auditiva relatada é uma queixa subjetiva e, portanto, um sintoma."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aceleração do pensamento (observada pelo clínico).",
+                      "explanation": "Correta! A aceleração do pensamento é uma manifestação observável e mensurável, e, portanto, um sinal."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Sensação de que vai morrer a qualquer momento.",
+                      "explanation": "Incorreta. A sensação de que vai morrer a qualquer momento é uma queixa subjetiva e, portanto, um sintoma."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q15",
+                  "statement": "No contexto da psicopatologia do desenvolvimento, qual é a principal utilidade de se ter uma visão da \"trajetória do desenvolvimento\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas determinar o momento exato em que o transtorno se iniciou.",
+                      "explanation": "Incorreta. A trajetória de desenvolvimento é mais complexa do que apenas determinar um ponto de início. Ela busca compreender as interações ao longo da vida."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ignorar a complexidade dos fatores biológicos e focar apenas no ambiente.",
+                      "explanation": "Incorreta. A visão da trajetória do desenvolvimento considera a interação entre os fatores biológicos, psicológicos e socioculturais."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Compreender como os fatores de risco e de proteção atuaram ao longo da vida do indivíduo, permitindo uma intervenção mais precisa e personalizada.",
+                      "explanation": "Correta! A visão da \"trajetória do desenvolvimento\" é útil para compreender como os fatores de risco e de proteção interagiram ao longo da vida do indivíduo, o que permite uma intervenção mais precisa e personalizada, focando em fortalecer os fatores de proteção e mitigar os de risco."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Padronizar o tratamento para todos os indivíduos com o mesmo diagnóstico.",
+                      "explanation": "Incorreta. A visão da trajetória do desenvolvimento enfatiza a individualidade e, portanto, contraria a padronização do tratamento."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas prever o futuro do paciente com base no diagnóstico atual.",
+                      "explanation": "Incorreta. A visão da trajetória do desenvolvimento é mais complexa do que a simples previsão do futuro."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q16",
+                  "statement": "Um dos principais desafios para o diagnóstico dos transtornos mentais em crianças é a \"heterogeneidade do desenvolvimento\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que todas as crianças com o mesmo diagnóstico apresentam os mesmos sintomas.",
+                      "explanation": "Incorreta. A heterogeneidade do desenvolvimento significa que o desenvolvimento de cada criança é único e individual."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que o desenvolvimento de cada criança é único e individual, o que pode mascarar ou confundir os sintomas de um possível transtorno.",
+                      "explanation": "Correta! A heterogeneidade do desenvolvimento se refere ao fato de que o desenvolvimento de cada criança é único e individual, o que pode mascarar ou confundir os sintomas de um possível transtorno, tornando o diagnóstico mais desafiador. Por exemplo, a agitação de uma criança pode ser um sintoma de TDAH, enquanto em outra pode ser apenas um traço de personalidade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que a avaliação deve ser feita apenas por um único profissional.",
+                      "explanation": "Incorreta. O material indica que a avaliação de crianças com transtornos mentais deve ser feita por uma equipe multidisciplinar."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que a família não deve ser envolvida no processo de diagnóstico.",
+                      "explanation": "Incorreta. O material indica que o envolvimento da família é crucial para o processo de diagnóstico."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que os sintomas de um transtorno mental só se manifestam na vida adulta.",
+                      "explanation": "Incorreta. Muitos transtornos mentais têm início na infância e na adolescência."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q17",
+                  "statement": "No contexto da \"avaliação multidisciplinar\", qual é a principal vantagem de se ter um \"diagnóstico categórico\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Permite que cada profissional da equipe use sua própria linguagem.",
+                      "explanation": "Incorreta. O diagnóstico categórico busca justamente o oposto, que é a padronização da linguagem entre os profissionais."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Possibilita um diagnóstico mais preciso e individualizado.",
+                      "explanation": "Incorreta. O diagnóstico categórico é menos preciso e individualizado do que o diagnóstico dimensional."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Facilita a comunicação e a integração entre os profissionais, permitindo que a equipe multidisciplinar \"fale a mesma língua\" e planeje o tratamento de forma mais coesa.",
+                      "explanation": "Correta! O \"diagnóstico categórico\" facilita a comunicação e a integração entre os profissionais da equipe multidisciplinar, pois fornece uma linguagem comum para descrever os sintomas e planejar o tratamento de forma mais coesa."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Permite que o diagnóstico seja feito apenas por um psicólogo.",
+                      "explanation": "Incorreta. O diagnóstico categórico é parte de um processo de avaliação que deve ser feito por uma equipe multidisciplinar."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Permite que o tratamento seja focado apenas em medicamentos.",
+                      "explanation": "Incorreta. O diagnóstico categórico não se limita a medicamentos."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q18",
+                  "statement": "No contexto da \"avaliação multidisciplinar\", qual é a principal vantagem de se ter um \"diagnóstico dimensional\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Facilita a comunicação e a integração entre os profissionais da equipe.",
+                      "explanation": "Incorreta. O diagnóstico dimensional não facilita a comunicação e a integração entre os profissionais da equipe, pois ele não fornece uma linguagem comum."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Permite uma avaliação mais detalhada e individualizada, que considera a intensidade dos sintomas e os diferentes domínios de desenvolvimento do paciente.",
+                      "explanation": "Correta! O \"diagnóstico dimensional\" permite uma avaliação mais detalhada e individualizada, que considera a intensidade dos sintomas e os diferentes domínios de desenvolvimento do paciente, o que é fundamental para um plano de tratamento preciso e personalizado. Isso porque o diagnóstico dimensional não se limita a um rótulo, mas sim a uma avaliação mais profunda do paciente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Permite que a avaliação seja feita apenas por um psiquiatra.",
+                      "explanation": "Incorreta. O diagnóstico dimensional é parte de um processo de avaliação que deve ser feito por uma equipe multidisciplinar."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Permite que o tratamento seja focado apenas em terapia.",
+                      "explanation": "Incorreta. O diagnóstico dimensional não se limita à terapia."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ignora a complexidade dos fatores ambientais.",
+                      "explanation": "Incorreta. O diagnóstico dimensional considera a complexidade dos fatores ambientais, pois ele se baseia no modelo biopsicossocial."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q19",
+                  "statement": "No processo de \"Formulação de Caso\", o que a \"Avaliação Multiaxial\" busca integrar?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas o diagnóstico psiquiátrico do paciente.",
+                      "explanation": "Incorreta. A avaliação multiaxial não se limita ao diagnóstico psiquiátrico."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas os fatores de risco e de proteção.",
+                      "explanation": "Incorreta. A avaliação multiaxial não se limita aos fatores de risco e de proteção."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Os fatores de risco, de proteção, a história de vida, a cultura e o ambiente do paciente, permitindo uma compreensão mais abrangente do quadro clínico.",
+                      "explanation": "Correta! A \"Avaliação Multiaxial\" busca integrar os fatores de risco, de proteção, a história de vida, a cultura e o ambiente do paciente, permitindo uma compreensão mais abrangente do quadro clínico. Essa avaliação é fundamental para a \"Formulação de Caso\", pois ela permite que o clínico \"olhe para além do diagnóstico\", e compreenda o paciente como um ser integral, e não como um conjunto de sintomas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas o diagnóstico psiquiátrico e o tratamento medicamentoso.",
+                      "explanation": "Incorreta. A avaliação multiaxial não se limita ao diagnóstico psiquiátrico e ao tratamento medicamentoso."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas a idade, o gênero e a raça do paciente.",
+                      "explanation": "Incorreta. A avaliação multiaxial não se limita à idade, ao gênero e à raça do paciente."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q20",
+                  "statement": "No contexto da \"avaliação psicopatológica\", qual é a principal utilidade da \"história de vida\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas para coletar informações sobre a família do paciente.",
+                      "explanation": "Incorreta. A história de vida é mais complexa do que apenas coletar informações sobre a família do paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ignorar a história do paciente e focar apenas no presente.",
+                      "explanation": "Incorreta. A história de vida é crucial para a avaliação psicopatológica."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Compreender como os sintomas se manifestaram ao longo da vida, os fatores de risco e de proteção, e as \"marcas do adoecer\" que o paciente carrega.",
+                      "explanation": "Correta! A \"história de vida\" é crucial para a avaliação psicopatológica, pois ela permite que o clínico compreenda como os sintomas se manifestaram ao longo da vida, os fatores de risco e de proteção, e as \"marcas do adoecer\" que o paciente carrega. Isso é fundamental para um diagnóstico mais preciso e para a formulação de um plano de tratamento mais eficaz."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas para coletar informações sobre o histórico de tratamentos do paciente.",
+                      "explanation": "Incorreta. A história de vida é mais complexa do que apenas coletar informações sobre o histórico de tratamentos do paciente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas para coletar informações sobre os medicamentos que o paciente já utilizou.",
+                      "explanation": "Incorreta. A história de vida é mais complexa do que apenas coletar informações sobre os medicamentos que o paciente já utilizou."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q21",
+                  "statement": "No processo de \"Formulação de Caso\", o que o \"prognóstico\" busca prever?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas a duração do tratamento medicamentoso.",
+                      "explanation": "Incorreta. O prognóstico não se limita à duração do tratamento medicamentoso."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas o número de sessões de terapia necessárias.",
+                      "explanation": "Incorreta. O prognóstico não se limita ao número de sessões de terapia necessárias."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Apenas a evolução do quadro clínico do paciente.",
+                      "explanation": "Incorreta. O prognóstico não se limita à evolução do quadro clínico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A evolução do quadro clínico, a possibilidade de remissão dos sintomas e a necessidade de suporte a longo prazo, com base na compreensão abrangente do caso.",
+                      "explanation": "Correta! O \"prognóstico\" busca prever a evolução do quadro clínico, a possibilidade de remissão dos sintomas e a necessidade de suporte a longo prazo, com base na compreensão abrangente do caso. O prognóstico é crucial para que o clínico e o paciente tenham expectativas realistas sobre o tratamento e a evolução do quadro."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas os custos financeiros do tratamento.",
+                      "explanation": "Incorreta. O prognóstico não se limita aos custos financeiros do tratamento."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q22",
+                  "statement": "A \"neuropsicologia\" é uma área da psicologia que estuda a relação entre o cérebro e o comportamento. No contexto da \"Formulação de Caso\", qual é a principal utilidade da avaliação neuropsicológica?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas para descartar a necessidade de avaliação psiquiátrica.",
+                      "explanation": "Incorreta. A avaliação neuropsicológica não descarta a necessidade de avaliação psiquiátrica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas para identificar transtornos de personalidade.",
+                      "explanation": "Incorreta. A avaliação neuropsicológica não se limita a identificar transtornos de personalidade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Compreender os déficits cognitivos, como memória, atenção e funções executivas, que podem influenciar o quadro clínico do paciente e o plano de tratamento.",
+                      "explanation": "Correta! A \"avaliação neuropsicológica\" é útil para compreender os déficits cognitivos, como memória, atenção e funções executivas, que podem influenciar o quadro clínico do paciente e o plano de tratamento. Por exemplo, a avaliação neuropsicológica pode ajudar a identificar déficits de atenção em um paciente com TDAH, o que é fundamental para a formulação de um plano de tratamento mais eficaz."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas para determinar a causa exata de um transtorno mental.",
+                      "explanation": "Incorreta. A avaliação neuropsicológica é uma ferramenta para auxiliar o diagnóstico e a formulação de caso, mas não determina a causa exata de um transtorno mental."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas para identificar transtornos de humor.",
+                      "explanation": "Incorreta. A avaliação neuropsicológica não se limita a identificar transtornos de humor."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q23",
+                  "statement": "No contexto das \"Considerações Culturais\" no processo de \"Formulação de Caso\", o que o clínico deve buscar compreender?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas os costumes religiosos do paciente.",
+                      "explanation": "Incorreta. A compreensão cultural não se limita a costumes religiosos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas as síndromes culturalmente específicas, como a Síndrome de Koro.",
+                      "explanation": "Incorreta. A compreensão cultural é mais ampla do que apenas as síndromes culturalmente específicas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Como as normas culturais influenciam a expressão, a interpretação e a percepção dos sintomas, além de considerar a influência de síndromes culturalmente específicas.",
+                      "explanation": "Correta! A \"competência cultural\" do clínico e as \"Considerações Culturais\" na Formulação de Caso exigem que o clínico busque compreender como as normas culturais influenciam a expressão, a interpretação e a percepção dos sintomas, além de considerar a influência de síndromes culturalmente específicas (por exemplo, a Síndrome de Koro). Essa compreensão é fundamental para um diagnóstico mais preciso e para um plano de tratamento mais eficaz, que respeite a cultura do paciente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas a língua falada pelo paciente.",
+                      "explanation": "Incorreta. A compreensão cultural é mais ampla do que apenas a língua falada pelo paciente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas os fatores socioeconômicos do paciente.",
+                      "explanation": "Incorreta. A compreensão cultural não se limita aos fatores socioeconômicos do paciente."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q24",
+                  "statement": "Um dos principais desafios na \"avaliação psicopatológica\" é a possibilidade de \"comorbidade\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas a coexistência de um transtorno mental e de uma doença física.",
+                      "explanation": "Incorreta. A comorbidade não se limita à coexistência de um transtorno mental e de uma doença física. Ela também pode se referir à coexistência de dois ou mais transtornos mentais."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas a coexistência de dois ou mais transtornos mentais.",
+                      "explanation": "Incorreta. A comorbidade pode se referir à coexistência de um transtorno mental e de uma doença física."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A coexistência de dois ou mais transtornos mentais ou de um transtorno mental e de uma doença física no mesmo indivíduo, o que pode dificultar o diagnóstico e o tratamento.",
+                      "explanation": "Correta! A \"comorbidade\" se refere à coexistência de dois ou mais transtornos mentais ou de um transtorno mental e de uma doença física no mesmo indivíduo, o que pode dificultar o diagnóstico e o tratamento. Por exemplo, um paciente com TDAH pode também ter um transtorno de ansiedade, o que torna o diagnóstico e o tratamento mais desafiadores."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas a ausência de transtornos mentais no paciente.",
+                      "explanation": "Incorreta. A ausência de transtornos mentais é o oposto de comorbidade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas a manifestação de sintomas de um transtorno em diferentes fases da vida.",
+                      "explanation": "Incorreta. A manifestação de sintomas de um transtorno em diferentes fases da vida é a trajetória de desenvolvimento."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q25",
+                  "statement": "No contexto da \"avaliação psicopatológica\", qual é a principal utilidade da \"história familiar\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas para identificar os familiares que precisam de tratamento.",
+                      "explanation": "Incorreta. A história familiar não se limita a identificar os familiares que precisam de tratamento."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas para identificar os fatores de risco e de proteção no ambiente familiar.",
+                      "explanation": "Incorreta. A história familiar também pode ajudar a identificar a predisposição genética a transtornos mentais."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Compreender a predisposição genética a transtornos mentais e a influência do ambiente familiar no desenvolvimento do quadro clínico do paciente.",
+                      "explanation": "Correta! A \"história familiar\" é útil para compreender a predisposição genética a transtornos mentais e a influência do ambiente familiar no desenvolvimento do quadro clínico do paciente. Por exemplo, a história de depressão na família de um paciente pode indicar uma predisposição genética, o que é fundamental para a formulação de um plano de tratamento mais eficaz."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas para coletar informações sobre os medicamentos que os familiares já utilizaram.",
+                      "explanation": "Incorreta. A história familiar não se limita a coletar informações sobre os medicamentos que os familiares já utilizaram."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas para descartar a necessidade de avaliação psiquiátrica.",
+                      "explanation": "Incorreta. A história familiar não descarta a necessidade de avaliação psiquiátrica."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q26",
+                  "statement": "No contexto das \"Considerações Culturais\" no processo de \"Formulação de Caso\", o que a \"competência cultural\" do clínico busca garantir?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas que o clínico saiba falar a língua do paciente.",
+                      "explanation": "Incorreta. A competência cultural é mais ampla do que apenas a língua falada pelo paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas que o clínico conheça a cultura do paciente.",
+                      "explanation": "Incorreta. A competência cultural é mais ampla do que apenas o conhecimento da cultura do paciente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que o clínico seja capaz de atuar de forma ética e eficaz em contextos multiculturais, compreendendo como a cultura do paciente influencia a manifestação dos sintomas, o diagnóstico e o tratamento.",
+                      "explanation": "Correta! A \"competência cultural\" do clínico busca garantir que ele seja capaz de atuar de forma ética e eficaz em contextos multiculturais, compreendendo como a cultura do paciente influencia a manifestação dos sintomas, o diagnóstico e o tratamento. Essa competência é fundamental para um diagnóstico mais preciso e para um plano de tratamento mais eficaz, que respeite a cultura do paciente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas que o clínico use os mesmos sistemas classificatórios em todos os contextos.",
+                      "explanation": "Incorreta. A competência cultural não se limita aos sistemas classificatórios."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas que o clínico seja capaz de atuar em contextos de calamidade pública.",
+                      "explanation": "Incorreta. A competência cultural não se limita a contextos de calamidade pública."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q27",
+                  "statement": "No processo de \"Formulação de Caso\", o que a \"psicoeducação\" busca promover?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas a adesão do paciente ao tratamento medicamentoso.",
+                      "explanation": "Incorreta. A psicoeducação é mais ampla do que apenas a adesão do paciente ao tratamento medicamentoso."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas a adesão do paciente à terapia.",
+                      "explanation": "Incorreta. A psicoeducação é mais ampla do que apenas a adesão do paciente à terapia."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O conhecimento do paciente e de seus familiares sobre o transtorno, o tratamento e o prognóstico, o que aumenta a autonomia do paciente e o engajamento com o processo terapêutico.",
+                      "explanation": "Correta! A \"psicoeducação\" busca promover o conhecimento do paciente e de seus familiares sobre o transtorno, o tratamento e o prognóstico, o que aumenta a autonomia do paciente e o engajamento com o processo terapêutico. A psicoeducação é crucial para que o paciente se torne um agente ativo no processo de tratamento, e não apenas um receptor passivo de intervenções."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas a capacidade do paciente de lidar com os sintomas.",
+                      "explanation": "Incorreta. A psicoeducação é mais ampla do que apenas a capacidade do paciente de lidar com os sintomas."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas a capacidade do paciente de identificar os fatores de risco e de proteção.",
+                      "explanation": "Incorreta. A psicoeducação é mais ampla do que apenas a capacidade do paciente de identificar os fatores de risco e de proteção."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q28",
+                  "statement": "Qual a principal diferença entre a \"psicopatologia descritiva\" e a \"psicopatologia do desenvolvimento\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicopatologia descritiva foca apenas no tratamento, enquanto a do desenvolvimento foca apenas no diagnóstico.",
+                      "explanation": "Incorreta. A psicopatologia descritiva e a do desenvolvimento são abordagens para a compreensão e o diagnóstico dos transtornos, não apenas para o tratamento."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicopatologia descritiva foca no momento presente, enquanto a do desenvolvimento foca na trajetória ao longo da vida, e na interação entre a biologia, a psicologia e o ambiente.",
+                      "explanation": "Correta! A \"psicopatologia descritiva\" foca no momento presente, ou seja, na classificação dos sintomas e sinais do paciente, enquanto a \"psicopatologia do desenvolvimento\" foca na trajetória ao longo da vida, e na interação entre a biologia, a psicologia e o ambiente, buscando compreender a etiologia do transtorno."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicopatologia descritiva foca apenas em adultos, enquanto a do desenvolvimento foca apenas em crianças.",
+                      "explanation": "Incorreta. Ambas as abordagens podem ser aplicadas em qualquer fase da vida."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicopatologia descritiva ignora a cultura do paciente, enquanto a do desenvolvimento a considera.",
+                      "explanation": "Incorreta. Ambas as abordagens consideram a cultura do paciente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicopatologia descritiva foca apenas em fatores biológicos, enquanto a do desenvolvimento foca apenas em fatores ambientais.",
+                      "explanation": "Incorreta. Ambas as abordagens consideram a interação entre os fatores biológicos, psicológicos e socioculturais."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q29",
+                  "statement": "No contexto da \"avaliação psicopatológica\", o que as \"Considerações Culturais\" buscam evitar?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas o uso de termos técnicos.",
+                      "explanation": "Incorreta. As considerações culturais não se limitam ao uso de termos técnicos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas a comunicação com o paciente.",
+                      "explanation": "Incorreta. As considerações culturais buscam melhorar a comunicação com o paciente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O diagnóstico de um transtorno mental que é apenas uma variação cultural da normalidade, e não um transtorno em si.",
+                      "explanation": "Correta! As \"Considerações Culturais\" buscam evitar o diagnóstico de um transtorno mental que é apenas uma variação cultural da normalidade, e não um transtorno em si. Por exemplo, em algumas culturas, as alucinações podem ser interpretadas como uma experiência espiritual, e não como um sintoma de psicose."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas o tratamento medicamentoso.",
+                      "explanation": "Incorreta. As considerações culturais não se limitam ao tratamento medicamentoso."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas a necessidade de uma equipe multidisciplinar.",
+                      "explanation": "Incorreta. As considerações culturais não se limitam a uma equipe multidisciplinar."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_Psicopatologia_L2_Q30",
+                  "statement": "O material \"Considerações Culturais\" indica que a prevalência do TDAH varia amplamente de acordo com o país e a região. Qual dos fatores a seguir é um dos principais fatores que podem explicar essa variação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Exclusivamente a genética da população local",
+                      "explanation": "Incorreta. Embora a hereditariedade seja um fator, a pergunta busca fatores *além* dos biológicos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas a disponibilidade de tratamento medicamentoso",
+                      "explanation": "Incorreta. A disponibilidade de tratamento pode influenciar as taxas de diagnóstico, mas não é o único fator."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Diferenças culturais na percepção e diagnóstico dos sintomas, sistemas educacionais, fatores socioeconômicos e ambientais.",
+                      "explanation": "Correta! O material indica que a \"prevalência média do TDAH no mundo em 5,29%, mas as diferenças nas taxas variam amplamente de acordo com o país e a região\". O modelo biopsicossocial e as \"Considerações Culturais\" no processo de Formulação de Caso sugerem que fatores socioculturais como a influência das normas culturais na expressão e interpretação dos sintomas, síndromes culturalmente específicas, a importância da competência cultural do clínico, sistemas educacionais e fatores socioeconômicos e ambientais podem explicar essas variações regionais na percepção e diagnóstico do TDAH."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Variações na dieta alimentar de cada região",
+                      "explanation": "Incorreta. Embora a dieta possa influenciar a saúde em geral, o material não a menciona especificamente como um fator explicativo para as variações globais de prevalência do TDAH."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A presença de outras comorbidades em cada continente",
+                      "explanation": "Incorreta. A comorbidade é a coexistência de transtornos, mas não explica a variação da prevalência do TDAH em si entre diferentes regiões."
+                    }
+                  ],
+                  "answer": "c"
+                }
+              ]
             }
           ]
         },
