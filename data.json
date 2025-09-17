@@ -6803,6 +6803,972 @@
                   "answer": "c"
                 }
               ]
+            },
+            {
+              "id": "p4_psicologia_escolar_e_educacional_L3",
+              "title": "Lista 3",
+              "questions": [
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q1",
+                  "statement": "De acordo com a programação da aula, qual é a primeira atividade a ser realizada?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Exposição dos conteúdos da aula",
+                      "explanation": "A exposição dos conteúdos vem após o diagnóstico do conhecimento prévio."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Atividades integrativas",
+                      "explanation": "As atividades integrativas são o último item da programação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Diagnóstico do conhecimento prévio",
+                      "explanation": "A programação da aula inicia com o \"Diagnóstico do conhecimento prévio\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Estudo de caso",
+                      "explanation": "O estudo de caso é um formato das atividades integrativas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Articulação ensino, pesquisa, extensão",
+                      "explanation": "Esta é uma parte das atividades integrativas."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q2",
+                  "statement": "Qual o objetivo geral da aula, conforme apresentado no material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Caracterizar fases do desenvolvimento cognitivo",
+                      "explanation": "Esta é um objetivo específico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apresentar diferentes teorias da aprendizagem",
+                      "explanation": "Este é um objetivo específico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Refletir sobre aspectos biopsicossociais da aprendizagem",
+                      "explanation": "Este é um objetivo específico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Compreender os processos de desenvolvimento da aprendizagem",
+                      "explanation": "O \"Objetivo Geral\" da aula é \"Compreender os processos de desenvolvimento da aprendizagem\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Realizar atividades de estudo de caso",
+                      "explanation": "Esta é um objetivo específico."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q3",
+                  "statement": "A Psicologia da Educação se aplica a quais contextos, de acordo com o material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas na escola, no ensino formal",
+                      "explanation": "Incorreta. O texto especifica que a Psicologia da Educação se aplica a \"ambientes educacionais formais e não formais\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Somente em instituições de ensino superior",
+                      "explanation": "Incorreta. A Psicologia da Educação atua em diversos níveis e contextos educacionais, não se restringindo ao ensino superior."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Em ambientes educacionais formais e não formais, abrangendo o desenvolvimento do indivíduo, do grupo e da instituição",
+                      "explanation": "Correta! O texto menciona que a Psicologia da Educação atua em \"ambientes educacionais formais e não formais\", e que sua atuação abrange o \"desenvolvimento do indivíduo, do grupo e da instituição\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exclusivamente no diagnóstico de transtornos de aprendizagem",
+                      "explanation": "Incorreta. O diagnóstico é uma parte da atuação, mas o campo é mais amplo, abrangendo o desenvolvimento, a instituição e as relações sociais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Apenas na sala de aula, com o professor e o aluno",
+                      "explanation": "Incorreta. A atuação abrange o desenvolvimento do indivíduo, do grupo e da instituição, não se limitando apenas à relação professor-aluno."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q4",
+                  "statement": "Qual é a principal diferença de atuação entre a Psicologia da Educação e a Psicologia Escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Psicologia Escolar atua exclusivamente na clínica, enquanto a Psicologia da Educação atua na escola.",
+                      "explanation": "Incorreta. A Psicologia Escolar atua na escola, não na clínica, e tem como objetivo ajudar a resolver os problemas educacionais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Psicologia da Educação é uma área de pesquisa, enquanto a Psicologia Escolar é uma área de aplicação e intervenção.",
+                      "explanation": "Correta! A Psicologia da Educação é um \"campo de pesquisa, que estuda o desenvolvimento e a aprendizagem\", enquanto a Psicologia Escolar é um \"campo de aplicação\", que utiliza os conhecimentos da Psicologia da Educação para intervir na realidade escolar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Psicologia Escolar foca em grupos, enquanto a Psicologia da Educação foca no indivíduo.",
+                      "explanation": "Incorreta. Ambas as áreas podem focar no indivíduo, no grupo e na instituição."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Psicologia da Educação é teórica e a Psicologia Escolar é prática, mas ambas não se complementam.",
+                      "explanation": "Incorreta. O texto ressalta que elas se complementam, com a Psicologia Escolar utilizando os conhecimentos da Psicologia da Educação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ambas são a mesma coisa, não havendo diferença entre elas.",
+                      "explanation": "Incorreta. O texto distingue as duas áreas em termos de pesquisa e aplicação."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q5",
+                  "statement": "Segundo o material, quais são as áreas de atuação do psicólogo escolar e educacional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas no diagnóstico e intervenção com alunos",
+                      "explanation": "Incorreta. A atuação do psicólogo escolar e educacional é muito mais ampla."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Exclusivamente em relação a problemas de aprendizagem",
+                      "explanation": "Incorreta. O material lista diversas áreas de atuação, não se restringindo a problemas de aprendizagem."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Na gestão escolar, na formação de professores, na relação com a família e na articulação com a comunidade",
+                      "explanation": "Correta! O material lista essas áreas como parte da atuação do psicólogo escolar e educacional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Somente na pesquisa sobre teorias da aprendizagem",
+                      "explanation": "Incorreta. A pesquisa é uma parte do campo, mas a atuação do psicólogo escolar é na aplicação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "No desenvolvimento de currículos escolares",
+                      "explanation": "Incorreta. Embora o psicólogo escolar possa colaborar no desenvolvimento de currículos, esta não é a única área de atuação."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q6",
+                  "statement": "Qual dos seguintes modelos de atuação do psicólogo escolar é criticado por focar excessivamente no indivíduo e por patologizar o fracasso escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Modelo Sistêmico",
+                      "explanation": "Incorreta. O modelo sistêmico considera as interações entre os diversos subsistemas da escola, superando o foco no indivíduo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Modelo preventivo",
+                      "explanation": "Incorreta. O modelo preventivo foca em ações de prevenção para evitar o surgimento de problemas, em vez de focar no tratamento individual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Modelo clínico-curativo",
+                      "explanation": "Correta! O texto critica o modelo clínico-curativo por \"desconsiderar as dimensões pedagógicas, institucionais e sociais do fracasso escolar\" e por focar \"apenas no aluno como o portador de um 'déficit' individual\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Modelo contextualizado",
+                      "explanation": "Incorreta. O modelo contextualizado é um modelo que busca superar a patologização e o foco individual."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Modelo de colaboração com a comunidade",
+                      "explanation": "Incorreta. Este é um modelo que busca ampliar a atuação do psicólogo para além da escola."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q7",
+                  "statement": "Qual é a principal crítica feita no texto ao modelo de atuação clínico-curativo na Psicologia Escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ele se concentra em intervenções preventivas em vez de tratar problemas existentes.",
+                      "explanation": "Incorreta. A principal crítica é que ele é reativo e curativo, não preventivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ele foca na instituição escolar em vez de no aluno.",
+                      "explanation": "Incorreta. A crítica é justamente o foco excessivo no aluno, desconsiderando as dimensões institucionais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ele desconsidera as dimensões pedagógicas, institucionais e sociais do fracasso escolar, focando apenas no aluno como o portador de um \"déficit\" individual.",
+                      "explanation": "Correta! O texto afirma que o modelo clínico \"restringe a atuação ao 'déficit' do aluno, desconsiderando as dimensões pedagógicas, institucionais e sociais do fracasso escolar\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ele se baseia no modelo biopsicossocial, que é considerado ultrapassado.",
+                      "explanation": "Incorreta. O modelo biopsicossocial é o modelo mais completo, e o modelo clínico-curativo é criticado por não o utilizar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ele promove a interdisciplinaridade, o que é um problema na atuação do psicólogo.",
+                      "explanation": "Incorreta. O texto defende a interdisciplinaridade."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q8",
+                  "statement": "Qual o principal desafio para o psicólogo escolar atualmente, de acordo com o material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de alunos com dificuldades de aprendizagem.",
+                      "explanation": "Incorreta. O texto menciona o aumento da demanda por diagnóstico de \"distúrbios\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A dificuldade em efetivar um modelo de atuação contextualizado, que supere a patologização e atenda às expectativas dos educadores por um viés clínico e remediador.",
+                      "explanation": "Correta! O texto aponta que os profissionais enfrentam \"dificuldades para efetivar um modelo de atuação contextualizado\", pois a demanda da escola ainda é por um modelo clínico e remediador, que se concentra no \"déficit\" do aluno. O desafio é superar essa atuação puramente remediadora e a patologização, buscando uma \"visão crítica da realidade\" e focando no \"desenvolvimento humano\" e \"cidadania\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de autonomia para atuar na escola, já que é preciso seguir as regras da gestão.",
+                      "explanation": "Incorreta. O texto não menciona a falta de autonomia, mas a dificuldade de atuar de forma contextualizada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A falta de interesse dos alunos e professores nas atividades propostas.",
+                      "explanation": "Incorreta. O texto não aborda este tópico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de focar apenas no desenvolvimento cognitivo dos alunos.",
+                      "explanation": "Incorreta. O texto defende uma atuação que vá além do desenvolvimento cognitivo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q9",
+                  "statement": "De acordo com o material, qual das seguintes afirmativas sobre a relação entre desenvolvimento e aprendizagem na visão de Vigotski está correta?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desenvolvimento precede a aprendizagem.",
+                      "explanation": "Incorreta. Vigotski afirma que a aprendizagem é que impulsiona o desenvolvimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O desenvolvimento e a aprendizagem são processos independentes.",
+                      "explanation": "Incorreta. A teoria de Vigotski é sobre a interdependência e a relação intrínseca entre os dois."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A aprendizagem precede o desenvolvimento.",
+                      "explanation": "Correta! O material afirma que para Vigotski, \"a aprendizagem e o desenvolvimento se influenciam e se inter-relacionam, porém é a aprendizagem que impulsiona o desenvolvimento\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A aprendizagem e o desenvolvimento ocorrem simultaneamente, mas não se influenciam.",
+                      "explanation": "Incorreta. O texto afirma que eles se influenciam e se inter-relacionam."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento e a aprendizagem são sinônimos.",
+                      "explanation": "Incorreta. Embora estejam inter-relacionados, são conceitos distintos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q10",
+                  "statement": "O que Wallon enfatiza sobre o desenvolvimento da criança?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas o desenvolvimento cognitivo",
+                      "explanation": "Incorreta. Ele enfatiza o desenvolvimento integral, incluindo o afetivo e o motor."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas a maturação biológica",
+                      "explanation": "Incorreta. Wallon defende a interdependência entre os fatores biológicos e ambientais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O papel central do afeto e da emoção no desenvolvimento integral da criança.",
+                      "explanation": "Correta! Wallon \"destaca o papel central do afeto e da emoção no desenvolvimento integral da criança\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desenvolvimento motor como o único fator de aprendizagem",
+                      "explanation": "Incorreta. Ele defende a integração entre os domínios afetivo, motor e cognitivo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento ocorre em etapas lineares e previsíveis",
+                      "explanation": "Incorreta. O texto não menciona esta característica, e Wallon defende a alternância entre os domínios de desenvolvimento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q11",
+                  "statement": "Qual dos seguintes modelos de atuação do psicólogo escolar é criticado por focar excessivamente no indivíduo e por patologizar o fracasso escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Modelo Sistêmico",
+                      "explanation": "Incorreta. O modelo sistêmico considera as interações entre os diversos subsistemas da escola, superando o foco no indivíduo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Modelo preventivo",
+                      "explanation": "Incorreta. O modelo preventivo foca em ações de prevenção para evitar o surgimento de problemas, em vez de focar no tratamento individual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Modelo clínico-curativo",
+                      "explanation": "Correta! O texto critica o modelo clínico-curativo por \"desconsiderar as dimensões pedagógicas, institucionais e sociais do fracasso escolar\" e por focar \"apenas no aluno como o portador de um 'déficit' individual\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Modelo contextualizado",
+                      "explanation": "Incorreta. O modelo contextualizado é um modelo que busca superar a patologização e o foco individual."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Modelo de colaboração com a comunidade",
+                      "explanation": "Incorreta. Este é um modelo que busca ampliar a atuação do psicólogo para além da escola."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q12",
+                  "statement": "Qual é a principal crítica feita no texto ao modelo de atuação clínico-curativo na Psicologia Escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ele se concentra em intervenções preventivas em vez de tratar problemas existentes.",
+                      "explanation": "Incorreta. A principal crítica é que ele é reativo e curativo, não preventivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ele foca na instituição escolar em vez de no aluno.",
+                      "explanation": "Incorreta. A crítica é justamente o foco excessivo no aluno, desconsiderando as dimensões institucionais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ele desconsidera as dimensões pedagógicas, institucionais e sociais do fracasso escolar, focando apenas no aluno como o portador de um \"déficit\" individual.",
+                      "explanation": "Correta! O texto afirma que o modelo clínico \"restringe a atuação ao 'déficit' do aluno, desconsiderando as dimensões pedagógicas, institucionais e sociais do fracasso escolar\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ele se baseia no modelo biopsicossocial, que é considerado ultrapassado.",
+                      "explanation": "Incorreta. O modelo biopsicossocial é o modelo mais completo, e o modelo clínico-curativo é criticado por não o utilizar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ele promove a interdisciplinaridade, o que é um problema na atuação do psicólogo.",
+                      "explanation": "Incorreta. O texto defende a interdisciplinaridade."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q13",
+                  "statement": "Qual o principal desafio para o psicólogo escolar atualmente, de acordo com o material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de alunos com dificuldades de aprendizagem.",
+                      "explanation": "Incorreta. O texto menciona o aumento da demanda por diagnóstico de \"distúrbios\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A dificuldade em efetivar um modelo de atuação contextualizado, que supere a patologização e atenda às expectativas dos educadores por um viés clínico e remediador.",
+                      "explanation": "Correta! O texto aponta que os profissionais enfrentam \"dificuldades para efetivar um modelo de atuação contextualizado\", pois a demanda da escola ainda é por um modelo clínico e remediador, que se concentra no \"déficit\" do aluno. O desafio é superar essa atuação puramente remediadora e a patologização, buscando uma \"visão crítica da realidade\" e focando no \"desenvolvimento humano\" e \"cidadania\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de autonomia para atuar na escola, já que é preciso seguir as regras da gestão.",
+                      "explanation": "Incorreta. O texto não menciona a falta de autonomia, mas a dificuldade de atuar de forma contextualizada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A falta de interesse dos alunos e professores nas atividades propostas.",
+                      "explanation": "Incorreta. O texto não aborda este tópico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de focar apenas no desenvolvimento cognitivo dos alunos.",
+                      "explanation": "Incorreta. O texto defende uma atuação que vá além do desenvolvimento cognitivo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q14",
+                  "statement": "De acordo com o material, qual das seguintes afirmativas sobre a relação entre desenvolvimento e aprendizagem na visão de Vigotski está correta?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desenvolvimento precede a aprendizagem.",
+                      "explanation": "Incorreta. Vigotski afirma que a aprendizagem é que impulsiona o desenvolvimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O desenvolvimento e a aprendizagem são processos independentes.",
+                      "explanation": "Incorreta. A teoria de Vigotski é sobre a interdependência e a relação intrínseca entre os dois."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A aprendizagem precede o desenvolvimento.",
+                      "explanation": "Correta! O material afirma que para Vigotski, \"a aprendizagem e o desenvolvimento se influenciam e se inter-relacionam, porém é a aprendizagem que impulsiona o desenvolvimento\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A aprendizagem e o desenvolvimento ocorrem simultaneamente, mas não se influenciam.",
+                      "explanation": "Incorreta. O texto afirma que eles se influenciam e se inter-relacionam."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento e a aprendizagem são sinônimos.",
+                      "explanation": "Incorreta. Embora estejam inter-relacionados, são conceitos distintos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q15",
+                  "statement": "O que Wallon enfatiza sobre o desenvolvimento da criança?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas o desenvolvimento cognitivo",
+                      "explanation": "Incorreta. Ele enfatiza o desenvolvimento integral, incluindo o afetivo e o motor."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas a maturação biológica",
+                      "explanation": "Incorreta. Wallon defende a interdependência entre os fatores biológicos e ambientais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O papel central do afeto e da emoção no desenvolvimento integral da criança.",
+                      "explanation": "Correta! Wallon \"destaca o papel central do afeto e da emoção no desenvolvimento integral da criança\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desenvolvimento motor como o único fator de aprendizagem",
+                      "explanation": "Incorreta. Ele defende a integração entre os domínios afetivo, motor e cognitivo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento ocorre em etapas lineares e previsíveis",
+                      "explanation": "Incorreta. O texto não menciona esta característica, e Wallon defende a alternância entre os domínios de desenvolvimento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q16",
+                  "statement": "Qual foi a principal crítica de Wallon à abordagem de Piaget?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Wallon criticou Piaget por focar demais no desenvolvimento cognitivo e negligenciar os fatores afetivos e sociais.",
+                      "explanation": "Correta! O texto menciona que \"O principal ponto de crítica de Wallon em relação a Piaget foi o fato de que a teoria piagetiana, ao dar ênfase ao desenvolvimento cognitivo, negligenciou o papel dos fatores afetivos e sociais no desenvolvimento da criança. Wallon defendeu que os dois domínios (cognitivo e afetivo) se desenvolvem em alternância e em interação, e não de forma separada.\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Wallon defendeu que o desenvolvimento biológico é mais importante do que o desenvolvimento cognitivo.",
+                      "explanation": "Incorreta. A crítica de Wallon não foi sobre a superioridade do desenvolvimento biológico, mas sobre a integração entre o cognitivo e o afetivo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Wallon defendeu que o desenvolvimento emocional não existe na infância.",
+                      "explanation": "Incorreta. Wallon deu grande ênfase ao desenvolvimento emocional e afetivo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Wallon criticou a ideia de que o desenvolvimento ocorre em estágios.",
+                      "explanation": "Incorreta. Wallon também dividiu o desenvolvimento em estágios, mas com foco na alternância entre os domínios."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Wallon defendia que a aprendizagem precede o desenvolvimento.",
+                      "explanation": "Incorreta. Essa é a visão de Vigotski, não de Wallon."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q17",
+                  "statement": "Qual a principal função do psicólogo escolar, conforme a visão crítica apresentada no material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Diagnosticar e tratar problemas de aprendizagem.",
+                      "explanation": "Incorreta. Essa é a visão criticada do modelo clínico-curativo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Superar o modelo de patologização e atuar de forma sistêmica, preventiva e crítica, promovendo o desenvolvimento humano e a cidadania.",
+                      "explanation": "Correta! A visão crítica defendida pelo texto é de uma atuação que \"supera o modelo de patologização e de tratamento de problemas individuais\", e que busca \"promover o desenvolvimento humano e a cidadania\" através de uma visão \"crítica da realidade\" e de uma atuação \"sistêmica e preventiva\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ajudar os alunos a se adaptarem ao currículo escolar existente.",
+                      "explanation": "Incorreta. O texto defende que o psicólogo deve atuar na transformação do contexto escolar, e não apenas na adaptação do aluno."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Atuar somente no nível individual, com foco no aluno.",
+                      "explanation": "Incorreta. O texto critica essa atuação e defende uma visão sistêmica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar exclusivamente na relação professor-aluno.",
+                      "explanation": "Incorreta. A atuação do psicólogo escolar abrange o indivíduo, o grupo e a instituição."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q18",
+                  "statement": "O que é a Zona de Desenvolvimento Proximal (ZDP) de Vigotski?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A distância entre o que a criança sabe e o que ela não sabe de forma alguma.",
+                      "explanation": "Incorreta. Não se trata do que ela não sabe, mas do que ela pode aprender com ajuda."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A área de conhecimento que a criança já domina totalmente de forma autônoma.",
+                      "explanation": "Incorreta. Esta é a Zona de Desenvolvimento Real."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A distância entre o nível de desenvolvimento real (o que a criança faz sozinha) e o nível de desenvolvimento potencial (o que ela faz com a ajuda de um adulto ou colega mais capaz).",
+                      "explanation": "Correta! A ZDP é a \"distância entre o nível de desenvolvimento real... e o nível de desenvolvimento potencial...\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A capacidade da criança de aprender de forma completamente independente, sem nenhuma ajuda.",
+                      "explanation": "Incorreta. A ZDP é exatamente a área em que a ajuda externa é necessária e eficaz."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Uma zona de desenvolvimento que existe apenas em ambientes de educação formal.",
+                      "explanation": "Incorreta. A ZDP pode ocorrer em qualquer contexto de interação social, não se limitando à escola."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q19",
+                  "statement": "Qual dos seguintes aspectos não é um tópico central de estudo da Psicologia da Educação, conforme o material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Fatores que afetam a aprendizagem e a motivação",
+                      "explanation": "Incorreta. A aprendizagem e a motivação são tópicos centrais da Psicologia da Educação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O papel do professor no processo de ensino-aprendizagem",
+                      "explanation": "Incorreta. O papel do professor é um tópico central de estudo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A história da educação brasileira no século XX",
+                      "explanation": "Correta! Embora a história da educação seja importante, não é um tópico central de estudo da Psicologia da Educação em si, mas sim de outras áreas como a Pedagogia e a História da Educação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desenvolvimento cognitivo, social e emocional do aluno",
+                      "explanation": "Incorreta. O desenvolvimento do aluno é um dos principais focos da Psicologia da Educação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A avaliação educacional e psicológica",
+                      "explanation": "Incorreta. A avaliação é um tópico central da Psicologia da Educação."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q20",
+                  "statement": "De acordo com o material, qual a principal diferença na atuação do psicólogo escolar em relação a um psicoterapeuta, considerando a visão crítica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo escolar foca no tratamento de patologias, enquanto o psicoterapeuta foca na prevenção.",
+                      "explanation": "Incorreta. A visão crítica do psicólogo escolar é justamente o oposto, focando na prevenção e na superação da patologização."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O psicoterapeuta atua em ambientes educacionais, enquanto o psicólogo escolar atua em clínicas.",
+                      "explanation": "Incorreta. A atuação do psicólogo escolar é na escola e em outros ambientes educacionais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O psicoterapeuta foca no indivíduo e em suas questões subjetivas, enquanto o psicólogo escolar, na visão crítica, foca no contexto, nas relações e na promoção do desenvolvimento integral de todos os envolvidos.",
+                      "explanation": "Correta! A atuação do psicólogo escolar, na visão crítica, vai além do indivíduo e busca intervir no contexto escolar, nas relações entre os diferentes atores (professores, alunos, gestores, pais) e na promoção do desenvolvimento integral de todos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O psicólogo escolar atua de forma curativa, enquanto o psicoterapeuta atua de forma preventiva.",
+                      "explanation": "Incorreta. O texto critica a atuação curativa do psicólogo escolar, e defende uma atuação preventiva."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ambos atuam da mesma forma, não havendo diferença na sua abordagem.",
+                      "explanation": "Incorreta. O texto diferencia as duas abordagens, com o psicólogo escolar atuando de forma mais ampla no contexto educacional."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q21",
+                  "statement": "Segundo o texto, a Educação não é apenas um processo de transmissão de conhecimento, mas também de:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumento da capacidade de memorização e repetição de informações.",
+                      "explanation": "Incorreta. Essa é uma visão mecanicista e limitada da educação, que é criticada pelo texto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Desenvolvimento da autonomia, do pensamento crítico e da cidadania.",
+                      "explanation": "Correta! A Educação, para os autores referenciados, é um processo de \"humanização\", \"desenvolvimento da autonomia, do pensamento crítico e da cidadania\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Adequação do indivíduo às normas sociais existentes, sem questionamentos.",
+                      "explanation": "Incorreta. O texto defende o pensamento crítico e a cidadania, que implicam em questionar as normas sociais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Simples adaptação do indivíduo ao ambiente escolar.",
+                      "explanation": "Incorreta. A adaptação é apenas uma parte do processo, que deve ir além e promover a transformação social."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Acumulação de diplomas e títulos acadêmicos.",
+                      "explanation": "Incorreta. A educação, na visão dos autores, é um processo muito mais amplo e profundo do que a acumulação de títulos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q22",
+                  "statement": "De acordo com o material, qual a crítica central ao modelo de atuação psicológico centrado no déficit, que patologiza o aluno?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ele promove uma visão holística e contextualizada do aluno.",
+                      "explanation": "Incorreta. A crítica é que ele faz justamente o oposto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ele incentiva a colaboração entre a escola, a família e a comunidade.",
+                      "explanation": "Incorreta. A atuação que promove a colaboração é o modelo contextualizado, não o modelo centrado no déficit."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ele desconsidera as causas sociais, institucionais e pedagógicas do fracasso escolar, focando a culpa no indivíduo.",
+                      "explanation": "Correta! A crítica central ao modelo centrado no déficit é que ele \"desconsidera as causas sociais, institucionais e pedagógicas do fracasso escolar\", e \"culpa o indivíduo\" pelo seu fracasso, sem considerar o contexto em que ele está inserido."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ele é um modelo preventivo e eficaz na resolução de problemas de aprendizagem.",
+                      "explanation": "Incorreta. A crítica é que ele é um modelo curativo e ineficaz, pois não resolve as causas sistêmicas do problema."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ele defende a atuação do psicólogo escolar apenas na clínica.",
+                      "explanation": "Incorreta. A atuação clínica é criticada quando inserida na escola."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q23",
+                  "statement": "Qual o papel do psicólogo escolar na visão defendida pelo texto, em relação às demandas da escola?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Atender a todas as demandas da escola, mesmo que elas reforcem a patologização.",
+                      "explanation": "Incorreta. O texto defende que o psicólogo deve ter uma visão crítica sobre as demandas e não apenas atendê-las."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Questionar, problematizar e transformar as demandas que chegam à psicologia, superando a visão clínica e curativa e propondo um trabalho contextualizado.",
+                      "explanation": "Correta! O papel do psicólogo escolar, na visão crítica, é \"questionar, problematizar e transformar as demandas que chegam à psicologia\", a fim de \"superar a visão clínica e curativa\" e propor um trabalho que considere o contexto social e institucional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Fazer diagnósticos de transtornos de aprendizagem para todos os alunos que apresentam dificuldades.",
+                      "explanation": "Incorreta. A patologização e o diagnóstico em massa são criticados."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Manter-se isolado das demandas da escola, para focar em pesquisas teóricas.",
+                      "explanation": "Incorreta. A atuação do psicólogo escolar é justamente na escola, e não de forma isolada."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Assumir o papel de professor, para garantir que as questões pedagógicas sejam resolvidas.",
+                      "explanation": "Incorreta. O psicólogo escolar atua em colaboração com o professor, mas não assume o seu papel."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q24",
+                  "statement": "Qual a principal contribuição da teoria de Piaget para a Educação, segundo o material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A teoria piagetiana defende que o desenvolvimento afetivo é o mais importante para a aprendizagem.",
+                      "explanation": "Incorreta. Esta é a contribuição de Wallon."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A teoria piagetiana demonstra que a maturação biológica é o único fator que influencia a aprendizagem.",
+                      "explanation": "Incorreta. A teoria de Piaget considera a interação entre a maturação biológica e a experiência social."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A teoria piagetiana propõe uma visão do aluno como um ser passivo, que apenas absorve conhecimento.",
+                      "explanation": "Incorreta. A visão piagetiana é a de um aluno ativo, que constrói o seu próprio conhecimento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A teoria piagetiana enfatiza que a criança é um sujeito ativo que constrói o seu próprio conhecimento através da interação com o meio, o que exige do professor uma atuação que crie ambientes ricos e desafiadores para essa construção.",
+                      "explanation": "Correta! A principal contribuição de Piaget para a Educação foi a de demonstrar que a criança é \"um sujeito ativo\" que \"constrói o seu próprio conhecimento\". A atuação do professor, nesse sentido, deve ser a de \"criar ambientes ricos e desafiadores para que essa construção aconteça\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A teoria piagetiana defende que o conhecimento é transmitido de forma unilateral do professor para o aluno.",
+                      "explanation": "Incorreta. A teoria piagetiana critica a visão de que o conhecimento é transmitido de forma unilateral."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q25",
+                  "statement": "De acordo com o material, qual a principal diferença na visão sobre a relação entre desenvolvimento e aprendizagem entre Piaget e Vigotski?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Piaget e Vigotski têm a mesma visão sobre a relação entre desenvolvimento e aprendizagem.",
+                      "explanation": "Incorreta. Embora ambos sejam construtivistas, suas visões sobre a relação entre os dois conceitos são diferentes."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Para Piaget, a aprendizagem impulsiona o desenvolvimento, enquanto para Vigotski, o desenvolvimento precede a aprendizagem.",
+                      "explanation": "Incorreta. A visão é exatamente o oposto: Vigotski defende que a aprendizagem impulsiona o desenvolvimento, e Piaget, que o desenvolvimento precede a aprendizagem."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Piaget afirma que o desenvolvimento precede a aprendizagem, enquanto Vigotski defende que a aprendizagem impulsiona o desenvolvimento.",
+                      "explanation": "Correta! O texto afirma que \"para Piaget, o desenvolvimento precede a aprendizagem. Já para Vigotski, a aprendizagem impulsiona o desenvolvimento\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ambos defendem que o desenvolvimento e a aprendizagem são processos independentes.",
+                      "explanation": "Incorreta. Ambos defendem a interdependência entre os dois."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ambos defendem que o desenvolvimento e a aprendizagem são sinônimos.",
+                      "explanation": "Incorreta. São conceitos distintos para ambos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q26",
+                  "statement": "Qual o principal objetivo da Psicologia da Educação, conforme a visão crítica apresentada no material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ajudar os alunos a se adaptarem às exigências do sistema educacional.",
+                      "explanation": "Incorreta. A visão crítica defende a transformação do sistema, e não apenas a adaptação do aluno."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Diagnosticar e tratar alunos com dificuldades de aprendizagem.",
+                      "explanation": "Incorreta. Essa é a visão clínica e curativa, que é criticada."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover a transformação do contexto educacional, superando a patologização e o foco individual, e promovendo o desenvolvimento humano e a cidadania.",
+                      "explanation": "Correta! O principal objetivo da Psicologia da Educação, na visão crítica, é \"promover a transformação do contexto educacional\", o que implica em \"superar a patologização e o foco individual\", e em \"promover o desenvolvimento humano e a cidadania\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Atuar de forma neutra e imparcial, sem se envolver com as questões sociais e políticas.",
+                      "explanation": "Incorreta. O texto defende uma atuação engajada, que considere as questões sociais e políticas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Atuar de forma isolada, sem colaboração com outros profissionais da educação.",
+                      "explanation": "Incorreta. O texto defende a interdisciplinaridade e a colaboração."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q27",
+                  "statement": "De acordo com o material, qual a principal contribuição de Wallon para a Educação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A contribuição de Wallon é a de defender que a maturação biológica é o principal fator que influencia a aprendizagem.",
+                      "explanation": "Incorreta. Wallon defende a interdependência entre os fatores biológicos e ambientais, e a importância do afeto e da emoção."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A contribuição de Wallon é a de defender que o desenvolvimento cognitivo é o único fator que importa na aprendizagem.",
+                      "explanation": "Incorreta. Esta é a visão criticada por Wallon em relação a Piaget."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A contribuição de Wallon é a de enfatizar o papel central do afeto, da emoção e da interação social no desenvolvimento integral da criança, integrando os domínios afetivo, cognitivo e motor.",
+                      "explanation": "Correta! Wallon \"destaca o papel central do afeto e da emoção no desenvolvimento integral da criança\" e \"integra os domínios afetivo, cognitivo e motor\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A contribuição de Wallon é a de defender que o desenvolvimento e a aprendizagem são processos independentes.",
+                      "explanation": "Incorreta. Wallon defende a interdependência entre os dois."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A contribuição de Wallon é a de propor uma visão do aluno como um ser passivo, que apenas absorve conhecimento.",
+                      "explanation": "Incorreta. Wallon defende uma visão do aluno como um ser ativo, que se desenvolve através da interação com o meio."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q28",
+                  "statement": "Qual a crítica de Wallon à abordagem de Piaget?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Wallon criticou a ênfase de Piaget no desenvolvimento afetivo, defendendo que o cognitivo é mais importante.",
+                      "explanation": "Incorreta. A crítica de Wallon é o contrário, sobre a negligência de Piaget em relação ao afeto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Wallon criticou a abordagem de Piaget por negligenciar o papel dos fatores afetivos e sociais no desenvolvimento da criança.",
+                      "explanation": "Correta! O texto menciona que \"O principal ponto de crítica de Wallon em relação a Piaget foi o fato de que a teoria piagetiana, ao dar ênfase ao desenvolvimento cognitivo, negligenciou o papel dos fatores afetivos e sociais no desenvolvimento da criança.\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Wallon criticou a ideia de que o desenvolvimento ocorre em estágios.",
+                      "explanation": "Incorreta. Wallon também dividiu o desenvolvimento em estágios."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Wallon defendeu que o desenvolvimento e a aprendizagem são processos independentes.",
+                      "explanation": "Incorreta. Wallon defende a interdependência entre os dois."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Wallon criticou a ideia de que o desenvolvimento ocorre em etapas lineares e previsíveis.",
+                      "explanation": "Incorreta. O texto não menciona esta característica, e Wallon defende a alternância entre os domínios de desenvolvimento."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q29",
+                  "statement": "Qual o principal desafio para o psicólogo escolar e educacional na sua atuação, de acordo com a visão crítica apresentada no material?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de alunos com dificuldades de aprendizagem.",
+                      "explanation": "Incorreta. O texto menciona o aumento da demanda por diagnóstico de \"distúrbios\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A dificuldade em superar o modelo de atuação clínico-curativo e focar no contexto escolar e nas relações, e não apenas no indivíduo.",
+                      "explanation": "Correta! O principal desafio é \"superar o modelo de atuação clínico-curativo\", que foca no indivíduo, e \"propor um trabalho contextualizado\", que considere o contexto escolar e as relações entre os diferentes atores."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de autonomia para atuar na escola, já que é preciso seguir as regras da gestão.",
+                      "explanation": "Incorreta. O texto não menciona a falta de autonomia, mas a dificuldade de atuar de forma contextualizada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A falta de interesse dos alunos e professores nas atividades propostas.",
+                      "explanation": "Incorreta. O texto não aborda este tópico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de focar apenas no desenvolvimento cognitivo dos alunos.",
+                      "explanation": "Incorreta. O texto defende uma atuação que vá além do desenvolvimento cognitivo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L3_Q30",
+                  "statement": "De acordo com o material, qual o papel da família e da escola no desenvolvimento da criança na primeira infância?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A escola deve focar exclusivamente no desenvolvimento cognitivo, deixando o emocional e social para a família.",
+                      "explanation": "Incorreta. O impacto é nos três aspectos de forma interligada."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A família é a única responsável pelo desenvolvimento emocional e social, enquanto a escola cuida do cognitivo.",
+                      "explanation": "Incorreta. O desenvolvimento é interligado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Tanto a escola quanto a família possuem papéis complementares e interdependentes, devendo colaborar ativamente para oferecer experiências e interações que nutram o desenvolvimento integral (cognitivo, emocional e social) da criança na primeira infância.",
+                      "explanation": "Correta! A informação de que a primeira infância tem um \"impacto significativo no seu desenvolvimento cognitivo, emocional e social\" por meio de \"experiências e interações\" sugere que a responsabilidade é compartilhada e interligada. Tanto a escola quanto a família são ambientes primordiais para essas experiências e interações, e sua colaboração é fundamental para o desenvolvimento integral."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A intervenção de especialistas externos é mais importante do que o ambiente familiar ou escolar na primeira infância.",
+                      "explanation": "Incorreta. O texto enfatiza experiências e interações em geral, não apenas especialistas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento na primeira infância é autônomo, não dependendo de experiências ou interações específicas.",
+                      "explanation": "Incorreta. O texto destaca o impacto significativo das experiências e interações."
+                    }
+                  ],
+                  "answer": "C"
+                }
+              ]
             }
           ]
         },
