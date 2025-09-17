@@ -7772,7 +7772,7 @@
             },
             {
               "id": "p4_psicologia_escolar_e_educacional_L4",
-              "title": "Psicologia Escolar e Educacional - Lista 4",
+              "title": "Lista 4",
               "questions": [
                 {
                   "id": "p4_psicologia_escolar_e_educacional_L4_Q1",
@@ -8733,6 +8733,972 @@
                     }
                   ],
                   "answer": "A"
+                }
+              ]
+            },
+            {
+              "id": "p4_psicologia_escolar_e_educacional_L5",
+              "title": "Lista 5",
+              "questions": [
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q1",
+                  "statement": "De acordo com o artigo 'A contribuição de Piaget para educação', qual é a principal hipótese que o estudo busca desmistificar sobre a teoria de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que Piaget era um educador preocupado diretamente com métodos de ensino.",
+                      "explanation": "Incorreta. O artigo afirma que Piaget não era um educador, embora sua teoria ofereça contribuições úteis à Educação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que a teoria de Piaget se limita exclusivamente ao estudo do desenvolvimento da cognição.",
+                      "explanation": "Correta! A hipótese principal do artigo é que a Teoria de Piaget frequentemente se limita ao estudo do desenvolvimento da cognição, mas que isso não é verdadeiro, pois ele se interessava por muitos outros aspectos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que os estádios de desenvolvimento cognitivo são fixos e não variam entre os indivíduos.",
+                      "explanation": "Incorreta. O artigo menciona que, embora a sequência dos estádios seja previsível, o ritmo de aparecimento das capacidades varia de um indivíduo para outro."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que Piaget não reconhecia a importância da afetividade no desenvolvimento humano.",
+                      "explanation": "Incorreta. O artigo dedica uma seção a mostrar o interesse de Piaget pela afetividade, afirmando que ela é o “motor” para a inteligência funcionar."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que a Epistemologia Genética é uma teoria prescritiva para a prática pedagógica.",
+                      "explanation": "Incorreta. A teoria não é um manual de instruções, e a forma de aplicação nas salas de aula dependerá da situação do professor."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q2",
+                  "statement": "Em qual área do saber se insere a Teoria de Piaget, de acordo com o texto, e qual o seu foco?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Psicologia da Aprendizagem, focada em como o conhecimento é transmitido.",
+                      "explanation": "Incorreta. A teoria se insere na Epistemologia Genética, não na Psicologia da Aprendizagem."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Filosofia da Mente, focada nas estruturas do pensamento adulto.",
+                      "explanation": "Incorreta. A teoria se insere na Epistemologia Genética, focada na aquisição de conhecimento ao longo do desenvolvimento."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Epistemologia Genética, focada no desenvolvimento do conhecimento desde a infância.",
+                      "explanation": "Correta! A teoria se insere na Epistemologia Genética, que é o estudo da origem e do desenvolvimento do conhecimento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Psicologia Cognitiva, focada na memória e percepção.",
+                      "explanation": "Incorreta. Embora a teoria se relacione com a Psicologia Cognitiva, ela tem um campo mais amplo de estudo no desenvolvimento do conhecimento."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Neurociência, focada no funcionamento cerebral.",
+                      "explanation": "Incorreta. A teoria de Piaget é uma área do saber que está na Epistemologia Genética, com foco no desenvolvimento do conhecimento desde a infância."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q3",
+                  "statement": "O que é o 'sujeito epistêmico' na teoria de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Aquele que adquire conhecimento de forma passiva, apenas recebendo informações do ambiente.",
+                      "explanation": "Incorreta. O sujeito epistêmico é ativo e interage com o ambiente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O sujeito universal que Piaget estudou para compreender como se dá a aquisição do conhecimento em sua forma mais simples.",
+                      "explanation": "Correta! O sujeito epistêmico é o sujeito universal, que não se refere a uma pessoa específica, mas a um tipo de sujeito que busca a compreensão de como se dá a aquisição do conhecimento."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O professor, que é o responsável por transmitir o conhecimento ao aluno.",
+                      "explanation": "Incorreta. O sujeito epistêmico é o sujeito do conhecimento, o aluno."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O objeto de conhecimento que é estudado pela Epistemologia Genética.",
+                      "explanation": "Incorreta. O objeto de conhecimento é o conhecimento, não o sujeito."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Um indivíduo com dificuldades de aprendizagem.",
+                      "explanation": "Incorreta. O sujeito epistêmico é o sujeito do conhecimento, o aluno, e não necessariamente tem dificuldades."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q4",
+                  "statement": "Qual a principal crítica que o artigo aponta para a aplicação da teoria de Piaget na prática educativa, especificamente no que se refere ao papel do professor?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A teoria não oferece nenhuma orientação prática para o professor.",
+                      "explanation": "Incorreta. O artigo afirma que a teoria de Piaget pode oferecer orientações ao professor."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O professor é visto como um mero observador, sem participação ativa no processo de aprendizagem.",
+                      "explanation": "Correta! O artigo afirma que o professor é frequentemente visto como um mero observador, sem participação ativa no processo de aprendizagem, mas que isso é uma interpretação errônea da teoria."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O professor deve assumir o papel de 'doutor' e fazer diagnósticos clínicos dos alunos.",
+                      "explanation": "Incorreta. A teoria de Piaget é sobre o desenvolvimento do conhecimento, não sobre diagnóstico clínico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O professor deve focar exclusivamente na transmissão de conteúdo, ignorando o desenvolvimento do aluno.",
+                      "explanation": "Incorreta. O professor deve mediar o processo de aprendizagem, não apenas transmitir conteúdo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O professor deve focar apenas no desenvolvimento da afetividade, ignorando o desenvolvimento cognitivo.",
+                      "explanation": "Incorreta. O professor deve atuar no desenvolvimento integral do aluno, incluindo a afetividade e a cognição."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q5",
+                  "statement": "De acordo com o texto, qual é a principal contribuição de Piaget para a Educação, que vai além do estudo dos estádios de desenvolvimento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A criação de um método pedagógico fixo para cada faixa etária.",
+                      "explanation": "Incorreta. O texto afirma que a teoria de Piaget não é um manual de instruções."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A ênfase na memorização e repetição de conteúdos.",
+                      "explanation": "Incorreta. A ênfase de Piaget é na construção do conhecimento pelo próprio aluno, em um processo de interação com o ambiente, não na memorização."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A compreensão de que o erro é uma parte fundamental da aprendizagem e um passo necessário na construção do conhecimento.",
+                      "explanation": "Correta! O texto menciona que, de acordo com a teoria de Piaget, o erro é uma parte fundamental da aprendizagem e um passo necessário para a construção do conhecimento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A defesa de uma educação que se baseia unicamente no conhecimento inato do aluno.",
+                      "explanation": "Incorreta. A teoria de Piaget defende que o conhecimento é construído ao longo do desenvolvimento."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O foco na competição entre os alunos como forma de incentivar a aprendizagem.",
+                      "explanation": "Incorreta. O foco de Piaget não é na competição, mas na interação com o meio."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q6",
+                  "statement": "O texto sugere que a educação deve focar no desenvolvimento do aluno como um todo, em vez de apenas transmitir conteúdo. Qual termo Piaget usou para se referir a essa abordagem de desenvolvimento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Assimilação.",
+                      "explanation": "Incorreta. A assimilação é um processo de como o indivíduo incorpora o conhecimento, não o desenvolvimento como um todo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Acomodação.",
+                      "explanation": "Incorreta. A acomodação é o processo de como o indivíduo modifica sua estrutura mental para se adaptar a novas informações, não o desenvolvimento como um todo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Equilibração.",
+                      "explanation": "Incorreta. A equilibração é o processo de autorregulação que busca o equilíbrio entre a assimilação e a acomodação, não o desenvolvimento como um todo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Relação sujeito-objeto.",
+                      "explanation": "Incorreta. A relação sujeito-objeto é o processo de interação do sujeito com o ambiente, mas não é o termo que Piaget usou para se referir ao desenvolvimento como um todo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O autor não usa um termo específico para se referir a isso, mas o texto sugere que o professor deve focar no desenvolvimento integral do aluno, em vez de apenas transmitir conteúdo.",
+                      "explanation": "Correta! O texto não menciona um termo específico que Piaget usou para se referir a essa abordagem de desenvolvimento, mas o autor sugere que o professor deve focar no desenvolvimento integral do aluno, em vez de apenas transmitir conteúdo."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q7",
+                  "statement": "No contexto da teoria de Piaget, qual é o papel da afetividade no processo de aprendizagem e desenvolvimento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A afetividade é um subproduto do desenvolvimento cognitivo e não tem influência direta.",
+                      "explanation": "Incorreta. O texto afirma que a afetividade é o 'motor' para a inteligência funcionar."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A afetividade é o 'motor' que impulsiona o funcionamento da inteligência, embora não seja a base da cognição.",
+                      "explanation": "Correta! O texto afirma que a afetividade é o 'motor' que impulsiona o funcionamento da inteligência."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A afetividade é a principal fonte de conhecimento, superando a cognição.",
+                      "explanation": "Incorreta. Embora a afetividade seja importante, ela é o 'motor', não a principal fonte de conhecimento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A afetividade é irrelevante para o desenvolvimento cognitivo e deve ser ignorada na educação.",
+                      "explanation": "Incorreta. O texto dedica uma seção a mostrar o interesse de Piaget pela afetividade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A afetividade e a cognição se desenvolvem de forma independente e paralela.",
+                      "explanation": "Incorreta. O texto afirma que a afetividade é o 'motor' para a inteligência funcionar, o que sugere uma relação de interdependência."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q8",
+                  "statement": "Qual a relação entre 'conhecimento' e 'pensamento' na teoria de Piaget, de acordo com o texto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O conhecimento é o resultado do pensamento, que é uma atividade mental que não tem relação com a ação.",
+                      "explanation": "Incorreta. O texto afirma que o pensamento não é uma atividade que não tem relação com a ação, mas que a ação é o principal meio de aquisição do conhecimento."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O pensamento é um tipo de ação internalizada, e o conhecimento é a principal forma de se adquirir conhecimento.",
+                      "explanation": "Incorreta. O pensamento é um tipo de ação internalizada, mas o conhecimento é adquirido pela ação."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O pensamento é uma ação internalizada, e o conhecimento se dá através de ações do sujeito sobre o objeto.",
+                      "explanation": "Correta! O texto afirma que o pensamento é uma ação internalizada, e que o conhecimento se dá através de ações do sujeito sobre o objeto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O pensamento e o conhecimento são sinônimos e se referem à mesma coisa.",
+                      "explanation": "Incorreta. O pensamento e o conhecimento são diferentes, o pensamento é uma ação internalizada e o conhecimento é o resultado da ação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Não há relação entre o pensamento e o conhecimento na teoria de Piaget.",
+                      "explanation": "Incorreta. O texto afirma que o pensamento é uma ação internalizada, o que sugere uma relação."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q9",
+                  "statement": "De acordo com o texto, qual é o papel do 'meio' ou 'ambiente' no desenvolvimento e aprendizagem na teoria de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O meio é o principal fator que determina o desenvolvimento e a aprendizagem, pois o conhecimento é inato.",
+                      "explanation": "Incorreta. O texto afirma que a teoria de Piaget não é sobre conhecimento inato, mas sobre a construção do conhecimento."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O meio não tem papel relevante, pois o desenvolvimento ocorre de forma autônoma.",
+                      "explanation": "Incorreta. O texto afirma que a ação do sujeito sobre o meio é o principal meio de aquisição do conhecimento."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O meio é o principal fator de desenvolvimento e aprendizagem, pois o conhecimento é construído pelo sujeito em sua interação com o meio.",
+                      "explanation": "Correta! O texto afirma que o conhecimento é construído pelo sujeito em sua interação com o meio, o que sugere que o meio é o principal fator de desenvolvimento e aprendizagem."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O meio é um obstáculo para o desenvolvimento e aprendizagem.",
+                      "explanation": "Incorreta. O texto afirma que o meio é o principal fator de desenvolvimento e aprendizagem."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O meio não tem influência, pois o desenvolvimento e a aprendizagem são determinados apenas por fatores biológicos.",
+                      "explanation": "Incorreta. O texto afirma que o meio é o principal fator de desenvolvimento e aprendizagem."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q10",
+                  "statement": "De acordo com o texto, qual é a principal razão para as 'distorções' na aplicação da teoria de Piaget na educação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O fato de Piaget ter se limitado a estudar a cognição infantil.",
+                      "explanation": "Incorreta. O texto afirma que Piaget também se interessava por outros aspectos do desenvolvimento, como a afetividade."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A complexidade da teoria, que torna sua aplicação inviável.",
+                      "explanation": "Incorreta. A complexidade é mencionada, mas não é a principal razão para as distorções."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A falta de interesse dos educadores em aprofundar-se na obra original de Piaget.",
+                      "explanation": "Incorreta. O artigo sugere que a leitura de intermediários é o problema, não a falta de interesse."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A leitura apenas de alguns intermediários pode desviar o educador do foco somente encontrado nos originais.",
+                      "explanation": "Correta! O artigo afirma que a leitura de intermediários é a principal razão para as distorções na aplicação da teoria."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A crença de que a teoria de Piaget é a panaceia para todos os problemas pedagógicos.",
+                      "explanation": "Incorreta. Essa é uma das 'apropriações' distorcidas, mas a causa principal apontada é a leitura de intermediários."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q11",
+                  "statement": "De acordo com o artigo, o que significa a 'epistemologia' no contexto da obra de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas o estudo do conhecimento filosófico e abstrato.",
+                      "explanation": "Incorreta. A epistemologia de Piaget se refere ao estudo da aquisição de conhecimento de forma mais ampla, incluindo a ciência."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A teoria da inteligência e do pensamento.",
+                      "explanation": "Incorreta. A epistemologia é o estudo da origem e do desenvolvimento do conhecimento."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O estudo da origem e do desenvolvimento do conhecimento, incluindo o conhecimento científico.",
+                      "explanation": "Correta! O artigo afirma que a epistemologia é o estudo da origem e do desenvolvimento do conhecimento, incluindo o conhecimento científico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A teoria da afetividade e das emoções.",
+                      "explanation": "Incorreta. A epistemologia é sobre o conhecimento, não sobre a afetividade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas o estudo do desenvolvimento da criança.",
+                      "explanation": "Incorreta. A epistemologia se refere ao estudo da origem e do desenvolvimento do conhecimento de forma mais ampla, não apenas na infância."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q12",
+                  "statement": "Qual a principal crítica que o artigo aponta para a apropriação da teoria de Piaget no Brasil, especificamente no que se refere ao uso de 'palavras de ordem'?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O uso de 'palavras de ordem' como 'aprender a aprender' e 'o aluno constrói o seu próprio conhecimento' é uma forma de simplificar a teoria.",
+                      "explanation": "Incorreta. O artigo afirma que o uso de 'palavras de ordem' é uma forma de distorcer a teoria."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' para os problemas pedagógicos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O uso de 'palavras de ordem' é uma forma de simplificar a teoria e de torná-la acessível aos educadores.",
+                      "explanation": "Incorreta. O artigo afirma que o uso de 'palavras de ordem' é uma forma de distorcer a teoria."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna uma 'panaceia' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna uma 'panaceia' para os problemas pedagógicos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' e uma 'panaceia' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' e uma 'panaceia' para os problemas pedagógicos."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q13",
+                  "statement": "De acordo com o texto, qual é a principal função do professor na educação, de acordo com a teoria de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O professor é o responsável por transmitir o conhecimento ao aluno.",
+                      "explanation": "Incorreta. O professor deve mediar o processo de aprendizagem."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O professor é o principal responsável por 'acelerar' o desenvolvimento do aluno.",
+                      "explanation": "Incorreta. O professor não deve 'acelerar' o desenvolvimento do aluno, mas sim mediar o processo de aprendizagem."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O professor é o principal responsável por 'facilitar' a aprendizagem do aluno.",
+                      "explanation": "Correta! O artigo afirma que a principal função do professor é 'facilitar' a aprendizagem do aluno."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O professor é o principal responsável por 'acelerar' o desenvolvimento do aluno, e 'facilitar' a aprendizagem do aluno.",
+                      "explanation": "Correta! O artigo afirma que a principal função do professor é 'acelerar' o desenvolvimento do aluno, e 'facilitar' a aprendizagem do aluno."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O professor é o principal responsável por 'acelerar' o desenvolvimento do aluno, e 'facilitar' a aprendizagem do aluno, e 'ajudar' o aluno a construir o seu próprio conhecimento.",
+                      "explanation": "Correta! O artigo afirma que a principal função do professor é 'acelerar' o desenvolvimento do aluno, e 'facilitar' a aprendizagem do aluno, e 'ajudar' o aluno a construir o seu próprio conhecimento."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q14",
+                  "statement": "O que significa 'desenvolvimento progressivo' na teoria de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, sem variação entre os indivíduos.",
+                      "explanation": "Incorreta. O artigo menciona que, embora a sequência dos estádios seja previsível, o ritmo de aparecimento das capacidades varia de um indivíduo para outro."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, e o ritmo de aparecimento das capacidades é o mesmo para todos os indivíduos.",
+                      "explanation": "Incorreta. O artigo menciona que, embora a sequência dos estádios seja previsível, o ritmo de aparecimento das capacidades varia de um indivíduo para outro."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, e o ritmo de aparecimento das capacidades é o mesmo para todos os indivíduos, e o conhecimento é inato.",
+                      "explanation": "Incorreta. O artigo afirma que o conhecimento é construído ao longo do desenvolvimento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, e o ritmo de aparecimento das capacidades varia de um indivíduo para outro, e o conhecimento é inato.",
+                      "explanation": "Incorreta. O artigo afirma que o conhecimento é construído ao longo do desenvolvimento."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, e o ritmo de aparecimento das capacidades varia de um indivíduo para outro, e o conhecimento é construído ao longo do desenvolvimento.",
+                      "explanation": "Correta! O artigo afirma que o desenvolvimento ocorre em uma sequência fixa, e que o ritmo de aparecimento das capacidades varia de um indivíduo para outro, e que o conhecimento é construído ao longo do desenvolvimento."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q15",
+                  "statement": "Ao finalizar o artigo, o autor adverte sobre as 'formas mais distorcidas' de aplicação da Teoria de Piaget na Educação. Qual é a principal causa apontada para essas distorções?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A complexidade intrínseca da Epistemologia Genética, que torna sua aplicação inviável.",
+                      "explanation": "Incorreta. A complexidade é mencionada, mas não como a causa principal das distorções na aplicação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A falta de interesse dos educadores em aprofundar-se na obra original de Piaget.",
+                      "explanation": "Incorreta. O artigo sugere que a leitura de intermediários é o problema, não necessariamente a falta de interesse."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A leitura apenas de alguns intermediários pode desviar o educador do foco somente encontrado nos originais.",
+                      "explanation": "Correta! O artigo afirma: '**Muitas vezes a leitura apenas de alguns intermediários pode desviar o educador do foco somente encontrado nos originais**. É muito freqüente se encontrar afirmativas sobre as possibilidades de aplicação da Teoria de Piaget na Educação das formas mais distorcidas que alguém possa imaginar'."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O fato de Piaget não ter sido um educador, o que impede a aplicação direta de sua teoria.",
+                      "explanation": "Incorreta. Embora não fosse um educador, o artigo mostra que sua teoria tem contribuições."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A crença de que a teoria de Piaget é a panaceia para todos os problemas pedagógicos, sem considerar seus limites.",
+                      "explanation": "Incorreta. Essa é uma das 'apropriações' distorcidas, mas a causa principal apontada é a leitura de intermediários."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q16",
+                  "statement": "O texto sugere que a 'humanização' do aluno na educação é a principal contribuição de Piaget. O que significa 'humanização' neste contexto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A humanização se refere à capacidade de o aluno memorizar e repetir conteúdo de forma mecânica.",
+                      "explanation": "Incorreta. A humanização se refere a uma educação que transcende a memorização e a repetição, e que se preocupa com o desenvolvimento integral do aluno."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A humanização se refere à capacidade de o aluno se tornar um cidadão capaz de viver em sociedade.",
+                      "explanation": "Correta! A humanização se refere à capacidade de o aluno se tornar um cidadão capaz de viver em sociedade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A humanização se refere à capacidade de o aluno se tornar um ser humano, e não um animal.",
+                      "explanation": "Incorreta. A humanização se refere a uma educação que se preocupa com o desenvolvimento integral do aluno."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A humanização se refere à capacidade de o aluno se tornar um indivíduo, e não um ser humano.",
+                      "explanation": "Incorreta. A humanização se refere à capacidade de o aluno se tornar um cidadão capaz de viver em sociedade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A humanização se refere à capacidade de o aluno se tornar um ser humano, e não um ser social.",
+                      "explanation": "Incorreta. A humanização se refere à capacidade de o aluno se tornar um cidadão capaz de viver em sociedade."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q17",
+                  "statement": "O texto sugere que a 'pedagogia da ação' é a principal contribuição de Piaget. O que significa 'pedagogia da ação' neste contexto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do professor, e não do aluno.",
+                      "explanation": "Incorreta. A pedagogia da ação se refere a uma educação que se baseia na ação do aluno."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto, e não do professor sobre o aluno.",
+                      "explanation": "Correta! A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto, e não do professor sobre o aluno."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do professor sobre o aluno, e não do aluno sobre o objeto.",
+                      "explanation": "Incorreta. A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do professor sobre o objeto, e não do aluno sobre o objeto.",
+                      "explanation": "Incorreta. A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do professor sobre o aluno, e do aluno sobre o objeto.",
+                      "explanation": "Incorreta. A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q18",
+                  "statement": "De acordo com o texto, qual é a principal diferença entre o 'sujeito epistêmico' e o 'sujeito psicológico' na obra de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo.",
+                      "explanation": "Correta! O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O sujeito epistêmico é o indivíduo, e o sujeito psicológico é o sujeito universal.",
+                      "explanation": "Incorreta. O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O sujeito epistêmico e o sujeito psicológico são a mesma coisa.",
+                      "explanation": "Incorreta. O sujeito epistêmico e o sujeito psicológico são diferentes, o sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O sujeito epistêmico é o sujeito que aprende, e o sujeito psicológico é o sujeito que ensina.",
+                      "explanation": "Incorreta. O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O sujeito epistêmico é o sujeito que ensina, e o sujeito psicológico é o sujeito que aprende.",
+                      "explanation": "Incorreta. O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q19",
+                  "statement": "O que o autor do artigo defende sobre a relação entre a teoria de Piaget e a prática pedagógica, em vez de uma aplicação direta?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Defende uma aplicação direta da teoria, como um manual de instruções.",
+                      "explanation": "Incorreta. O autor critica essa visão e defende uma reflexão e adaptação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Defende que a teoria de Piaget não tem nenhuma contribuição para a prática pedagógica.",
+                      "explanation": "Incorreta. O autor mostra que a teoria de Piaget tem contribuições para a prática pedagógica."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Defende uma apropriação crítica e reflexiva da teoria, que auxilie o professor a repensar a prática pedagógica.",
+                      "explanation": "Correta! O autor defende que a apropriação crítica e reflexiva da teoria de Piaget pode auxiliar o professor a repensar a prática pedagógica."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Defende que a teoria de Piaget é apenas uma teoria, sem nenhuma aplicação prática.",
+                      "explanation": "Incorreta. O autor mostra que a teoria de Piaget tem contribuições para a prática pedagógica."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Defende que a teoria de Piaget é apenas para a pesquisa acadêmica, e não para a prática pedagógica.",
+                      "explanation": "Incorreta. O autor mostra que a teoria de Piaget tem contribuições para a prática pedagógica."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q20",
+                  "statement": "De acordo com o texto, qual é a principal causa das 'distorções' na aplicação da teoria de Piaget na educação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A falta de interesse dos educadores em aprofundar-se na obra original de Piaget.",
+                      "explanation": "Incorreta. O artigo sugere que a leitura de intermediários é o problema, não a falta de interesse."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A leitura apenas de alguns intermediários pode desviar o educador do foco somente encontrado nos originais.",
+                      "explanation": "Correta! O artigo afirma: '**Muitas vezes a leitura apenas de alguns intermediários pode desviar o educador do foco somente encontrado nos originais**. É muito freqüente se encontrar afirmativas sobre as possibilidades de aplicação da Teoria de Piaget na Educação das formas mais distorcidas que alguém possa imaginar'."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A crença de que a teoria de Piaget é a panaceia para todos os problemas pedagógicos, sem considerar seus limites.",
+                      "explanation": "Incorreta. Essa é uma das 'apropriações' distorcidas, mas a causa principal apontada é a leitura de intermediários."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A complexidade da teoria, que torna sua aplicação inviável.",
+                      "explanation": "Incorreta. A complexidade é mencionada, mas não como a causa principal das distorções na aplicação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O fato de Piaget não ter sido um educador, o que impede a aplicação direta de sua teoria.",
+                      "explanation": "Incorreta. Embora não fosse um educador, o artigo mostra que sua teoria tem contribuições."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q21",
+                  "statement": "De acordo com o texto, qual a principal diferença entre o 'sujeito epistêmico' e o 'sujeito psicológico' na obra de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo.",
+                      "explanation": "Correta! O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O sujeito epistêmico é o indivíduo, e o sujeito psicológico é o sujeito universal.",
+                      "explanation": "Incorreta. O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O sujeito epistêmico e o sujeito psicológico são a mesma coisa.",
+                      "explanation": "Incorreta. O sujeito epistêmico e o sujeito psicológico são diferentes."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O sujeito epistêmico é o sujeito que aprende, e o sujeito psicológico é o sujeito que ensina.",
+                      "explanation": "Incorreta. O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O sujeito epistêmico é o sujeito que ensina, e o sujeito psicológico é o sujeito que aprende.",
+                      "explanation": "Incorreta. O sujeito epistêmico é o sujeito universal, e o sujeito psicológico é o indivíduo."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q22",
+                  "statement": "Qual a principal crítica que o artigo aponta para a aplicação da teoria de Piaget na prática educativa, especificamente no que se refere ao papel do professor?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A teoria não oferece nenhuma orientação prática para o professor.",
+                      "explanation": "Incorreta. O artigo afirma que a teoria de Piaget pode oferecer orientações ao professor."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O professor é visto como um mero observador, sem participação ativa no processo de aprendizagem.",
+                      "explanation": "Correta! O artigo afirma que o professor é frequentemente visto como um mero observador, sem participação ativa no processo de aprendizagem, mas que isso é uma interpretação errônea da teoria."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O professor deve assumir o papel de 'doutor' e fazer diagnósticos clínicos dos alunos.",
+                      "explanation": "Incorreta. A teoria de Piaget é sobre o desenvolvimento do conhecimento, não sobre diagnóstico clínico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O professor deve focar exclusivamente na transmissão de conteúdo, ignorando o desenvolvimento do aluno.",
+                      "explanation": "Incorreta. O professor deve mediar o processo de aprendizagem, não apenas transmitir conteúdo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O professor deve focar apenas no desenvolvimento da afetividade, ignorando o desenvolvimento cognitivo.",
+                      "explanation": "Incorreta. O professor deve atuar no desenvolvimento integral do aluno, incluindo a afetividade e a cognição."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q23",
+                  "statement": "De acordo com o texto, qual é a principal contribuição de Piaget para a Educação, que vai além do estudo dos estádios de desenvolvimento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A criação de um método pedagógico fixo para cada faixa etária.",
+                      "explanation": "Incorreta. O texto afirma que a teoria de Piaget não é um manual de instruções."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A ênfase na memorização e repetição de conteúdos.",
+                      "explanation": "Incorreta. A ênfase de Piaget é na construção do conhecimento pelo próprio aluno, em um processo de interação com o ambiente, não na memorização."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A compreensão de que o erro é uma parte fundamental da aprendizagem e um passo necessário na construção do conhecimento.",
+                      "explanation": "Correta! O texto menciona que, de acordo com a teoria de Piaget, o erro é uma parte fundamental da aprendizagem e um passo necessário para a construção do conhecimento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A defesa de uma educação que se baseia unicamente no conhecimento inato do aluno.",
+                      "explanation": "Incorreta. A teoria de Piaget defende que o conhecimento é construído ao longo do desenvolvimento."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O foco na competição entre os alunos como forma de incentivar a aprendizagem.",
+                      "explanation": "Incorreta. O foco de Piaget não é na competição, mas na interação com o meio."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q24",
+                  "statement": "O que significa 'desenvolvimento progressivo' na teoria de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, sem variação entre os indivíduos.",
+                      "explanation": "Incorreta. O artigo menciona que, embora a sequência dos estádios seja previsível, o ritmo de aparecimento das capacidades varia de um indivíduo para outro."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, e o ritmo de aparecimento das capacidades é o mesmo para todos os indivíduos.",
+                      "explanation": "Incorreta. O artigo menciona que, embora a sequência dos estádios seja previsível, o ritmo de aparecimento das capacidades varia de um indivíduo para outro."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, e o ritmo de aparecimento das capacidades é o mesmo para todos os indivíduos, e o conhecimento é inato.",
+                      "explanation": "Incorreta. O artigo afirma que o conhecimento é construído ao longo do desenvolvimento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, e o ritmo de aparecimento das capacidades varia de um indivíduo para outro, e o conhecimento é inato.",
+                      "explanation": "Incorreta. O artigo afirma que o conhecimento é construído ao longo do desenvolvimento."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O desenvolvimento ocorre em uma sequência fixa, e o ritmo de aparecimento das capacidades varia de um indivíduo para outro, e o conhecimento é construído ao longo do desenvolvimento.",
+                      "explanation": "Correta! O artigo afirma que o desenvolvimento ocorre em uma sequência fixa, e que o ritmo de aparecimento das capacidades varia de um indivíduo para outro, e que o conhecimento é construído ao longo do desenvolvimento."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q25",
+                  "statement": "O texto sugere que a 'humanização' do aluno na educação é a principal contribuição de Piaget. O que significa 'humanização' neste contexto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A humanização se refere à capacidade de o aluno memorizar e repetir conteúdo de forma mecânica.",
+                      "explanation": "Incorreta. A humanização se refere a uma educação que transcende a memorização e a repetição, e que se preocupa com o desenvolvimento integral do aluno."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A humanização se refere à capacidade de o aluno se tornar um cidadão capaz de viver em sociedade.",
+                      "explanation": "Correta! A humanização se refere à capacidade de o aluno se tornar um cidadão capaz de viver em sociedade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A humanização se refere à capacidade de o aluno se tornar um ser humano, e não um animal.",
+                      "explanation": "Incorreta. A humanização se refere a uma educação que se preocupa com o desenvolvimento integral do aluno."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A humanização se refere à capacidade de o aluno se tornar um indivíduo, e não um ser humano.",
+                      "explanation": "Incorreta. A humanização se refere à capacidade de o aluno se tornar um cidadão capaz de viver em sociedade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A humanização se refere à capacidade de o aluno se tornar um ser humano, e não um ser social.",
+                      "explanation": "Incorreta. A humanização se refere à capacidade de o aluno se tornar um cidadão capaz de viver em sociedade."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q26",
+                  "statement": "O texto sugere que a 'pedagogia da ação' é a principal contribuição de Piaget. O que significa 'pedagogia da ação' neste contexto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do professor, e não do aluno.",
+                      "explanation": "Incorreta. A pedagogia da ação se refere a uma educação que se baseia na ação do aluno."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto, e não do professor sobre o aluno.",
+                      "explanation": "Correta! A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto, e não do professor sobre o aluno."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do professor sobre o aluno, e não do aluno sobre o objeto.",
+                      "explanation": "Incorreta. A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do professor sobre o objeto, e não do aluno sobre o objeto.",
+                      "explanation": "Incorreta. A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A pedagogia da ação se refere a uma educação que se baseia na ação do professor sobre o aluno, e do aluno sobre o objeto.",
+                      "explanation": "Incorreta. A pedagogia da ação se refere a uma educação que se baseia na ação do aluno sobre o objeto."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q27",
+                  "statement": "Qual é a principal crítica que o artigo aponta para a apropriação da teoria de Piaget no Brasil, especificamente no que se refere ao uso de 'palavras de ordem'?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O uso de 'palavras de ordem' como 'aprender a aprender' e 'o aluno constrói o seu próprio conhecimento' é uma forma de simplificar a teoria.",
+                      "explanation": "Incorreta. O artigo afirma que o uso de 'palavras de ordem' é uma forma de distorcer a teoria."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' para os problemas pedagógicos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O uso de 'palavras de ordem' é uma forma de simplificar a teoria e de torná-la acessível aos educadores.",
+                      "explanation": "Incorreta. O artigo afirma que o uso de 'palavras de ordem' é uma forma de distorcer a teoria."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna uma 'panaceia' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna uma 'panaceia' para os problemas pedagógicos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' e uma 'panaceia' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' e uma 'panaceia' para os problemas pedagógicos."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q28",
+                  "statement": "De acordo com o texto, qual é a principal função do professor na educação, de acordo com a teoria de Piaget?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O professor é o responsável por transmitir o conhecimento ao aluno.",
+                      "explanation": "Incorreta. O professor deve mediar o processo de aprendizagem."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O professor é o principal responsável por 'acelerar' o desenvolvimento do aluno.",
+                      "explanation": "Incorreta. O professor não deve 'acelerar' o desenvolvimento do aluno, mas sim mediar o processo de aprendizagem."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O professor é o principal responsável por 'facilitar' a aprendizagem do aluno.",
+                      "explanation": "Correta! O artigo afirma que a principal função do professor é 'facilitar' a aprendizagem do aluno."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O professor é o principal responsável por 'acelerar' o desenvolvimento do aluno, e 'facilitar' a aprendizagem do aluno.",
+                      "explanation": "Correta! O artigo afirma que a principal função do professor é 'acelerar' o desenvolvimento do aluno, e 'facilitar' a aprendizagem do aluno."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O professor é o principal responsável por 'acelerar' o desenvolvimento do aluno, e 'facilitar' a aprendizagem do aluno, e 'ajudar' o aluno a construir o seu próprio conhecimento.",
+                      "explanation": "Correta! O artigo afirma que a principal função do professor é 'acelerar' o desenvolvimento do aluno, e 'facilitar' a aprendizagem do aluno, e 'ajudar' o aluno a construir o seu próprio conhecimento."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q29",
+                  "statement": "Qual a principal crítica que o artigo aponta para a apropriação da teoria de Piaget no Brasil, especificamente no que se refere ao uso de 'palavras de ordem'?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O uso de 'palavras de ordem' como 'aprender a aprender' e 'o aluno constrói o seu próprio conhecimento' é uma forma de simplificar a teoria.",
+                      "explanation": "Incorreta. O artigo afirma que o uso de 'palavras de ordem' é uma forma de distorcer a teoria."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' para os problemas pedagógicos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O uso de 'palavras de ordem' é uma forma de simplificar a teoria e de torná-la acessível aos educadores.",
+                      "explanation": "Incorreta. O artigo afirma que o uso de 'palavras de ordem' é uma forma de distorcer a teoria."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna uma 'panaceia' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna uma 'panaceia' para os problemas pedagógicos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' e uma 'panaceia' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' e uma 'panaceia' para os problemas pedagógicos."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L5_Q30",
+                  "statement": "Qual a principal crítica que o artigo aponta para a apropriação da teoria de Piaget no Brasil, especificamente no que se refere ao uso de 'palavras de ordem'?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O uso de 'palavras de ordem' como 'aprender a aprender' e 'o aluno constrói o seu próprio conhecimento' é uma forma de simplificar a teoria.",
+                      "explanation": "Incorreta. O artigo afirma que o uso de 'palavras de ordem' é uma forma de distorcer a teoria."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' para os problemas pedagógicos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O uso de 'palavras de ordem' é uma forma de simplificar a teoria e de torná-la acessível aos educadores.",
+                      "explanation": "Incorreta. O artigo afirma que o uso de 'palavras de ordem' é uma forma de distorcer a teoria."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna uma 'panaceia' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna uma 'panaceia' para os problemas pedagógicos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' e uma 'panaceia' para os problemas pedagógicos.",
+                      "explanation": "Correta! O artigo afirma que o uso de 'palavras de ordem' é uma forma de apropriação da teoria que a torna um 'remédio milagroso' e uma 'panaceia' para os problemas pedagógicos."
+                    }
+                  ],
+                  "answer": "b"
                 }
               ]
             }
