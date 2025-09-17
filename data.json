@@ -5837,6 +5837,972 @@
                   "answer": "C"
                 }
               ]
+            },
+            {
+              "id": "p4_PeE_L2",
+              "title": "Lista 2",
+              "questions": [
+                {
+                  "id": "p4_PeE_L2_Q1",
+                  "statement": "De acordo com o Capítulo 2, qual o método filosófico que fundamenta as abordagens de Vigotski e Wallon?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Empirismo lógico",
+                      "explanation": "Incorreta. O texto não menciona o empirismo lógico como base filosófica para nenhum dos autores."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Idealismo transcendental",
+                      "explanation": "Incorreta. O texto afirma que suas abordagens são de base marxista, opondo-se ao idealismo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Materialismo dialético",
+                      "explanation": "Correta! O texto afirma que \"Vigotski e Wallon são concepções de base marxista; adotam, portanto, o materialismo dialético como método\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Positivismo científico",
+                      "explanation": "Incorreta. Ambos se opuseram a pensamentos científicos vigentes que eram deterministas e mecanicistas, categorias que muitas vezes se associam ao positivismo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Racionalismo cartesiano",
+                      "explanation": "Incorreta. Embora Vigotski criticasse teorias sustentadas pela filosofia de Descartes, este não é o método base de suas teorias."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q2",
+                  "statement": "Conforme Vigotski, quais são as duas funções básicas da linguagem no desenvolvimento humano?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Comunicação interpessoal e expressão emocional",
+                      "explanation": "Incorreta. A expressão emocional é mais ligada a Wallon inicialmente, e embora a linguagem sirva à comunicação e à expressão emocional, a divisão vigotskiana se dá em outras funções."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Função social e função pragmática",
+                      "explanation": "Incorreta. Embora a linguagem tenha funções sociais e pragmáticas, estas não são as duas básicas mencionadas por Vigotski no texto."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Função de planejamento e função de organização de ideias",
+                      "explanation": "Incorreta. Estas são funções derivadas, mas não as duas básicas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Função de intercâmbio social e função de pensamento generalizante",
+                      "explanation": "Correta! O texto afirma que \"Para Vigotski, a linguagem possui duas funções básicas: de intercâmbio social e de pensamento generalizante\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Função de memória e função de raciocínio lógico",
+                      "explanation": "Incorreta. Estas são funções cognitivas, mas não as duas funções básicas da linguagem no sentido vigotskiano."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_PeE_L2_Q3",
+                  "statement": "Segundo Vigotski, qual é a natureza do desenvolvimento humano?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Um processo puramente biológico e linear",
+                      "explanation": "Incorreta. A abordagem de Vigotski é sociocognitiva e dialética, não linear e puramente biológica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Um processo de maturação individual sem influência externa",
+                      "explanation": "Incorreta. Vigotski defende que o desenvolvimento é resultado da interação com o meio social e cultural."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Um processo dialético e descontínuo, com saltos qualitativos em função da apropriação dos instrumentos e símbolos da cultura",
+                      "explanation": "Correta! O texto afirma que o desenvolvimento humano, para Vigotski, \"é um processo dialético e descontínuo, com saltos qualitativos que se dão em função da apropriação que o indivíduo faz dos instrumentos e dos símbolos da cultura\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Um processo de adaptação puramente ambiental",
+                      "explanation": "Incorreta. Embora a adaptação seja importante, o conceito-chave de Vigotski é a apropriação dos símbolos culturais, não a adaptação ambiental em si."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Um processo exclusivamente emocional e afetivo",
+                      "explanation": "Incorreta. O desenvolvimento, para Vigotski, é uma síntese entre afeto, intelecto e cultura."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q4",
+                  "statement": "Na perspectiva de Vigotski, o que é a \"Zona de Desenvolvimento Proximal\" (ZDP)?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A distância entre o que o indivíduo já sabe e o que ele pode aprender sozinho",
+                      "explanation": "Incorreta. A ZDP não se refere ao aprendizado individual, mas ao mediado."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O nível de desenvolvimento atual do indivíduo, determinado por aquilo que ele consegue fazer de forma autônoma",
+                      "explanation": "Incorreta. Isso se refere ao \"nível de desenvolvimento real\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A distância entre o nível de desenvolvimento real e o nível de desenvolvimento potencial, determinado por aquilo que o indivíduo pode realizar com a ajuda de um mediador",
+                      "explanation": "Correta! O texto define a ZDP como \"A distância entre o nível de desenvolvimento real (o que a pessoa consegue fazer sozinha) e o nível de desenvolvimento potencial (o que ela pode realizar com a ajuda de um mediador)\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O conjunto de habilidades que o indivíduo nunca será capaz de adquirir, mesmo com ajuda",
+                      "explanation": "Incorreta. Esta é a definição oposta à ZDP."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Uma zona de estagnação onde o aprendizado não ocorre",
+                      "explanation": "Incorreta. A ZDP é justamente o espaço onde o aprendizado ocorre de forma mais significativa."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q5",
+                  "statement": "Para Wallon, qual é o papel da emoção no desenvolvimento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas um componente biológico sem influência no aprendizado",
+                      "explanation": "Incorreta. Wallon defende a centralidade da emoção no desenvolvimento humano."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Um fator secundário, surgindo apenas após o desenvolvimento cognitivo",
+                      "explanation": "Incorreta. A emoção é primária e precede o desenvolvimento cognitivo, para Wallon."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A emoção é um fator primário de interação com o meio, servindo como a primeira forma de comunicação entre a criança e seu ambiente",
+                      "explanation": "Correta! O texto afirma que \"A emoção para Wallon tem um papel de fator primário de interação com o meio. Ela se manifesta de forma generalizada e é a primeira forma de comunicação do ser humano com seu meio\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A emoção é um obstáculo para o desenvolvimento racional e lógico",
+                      "explanation": "Incorreta. Wallon defende que intelecto e emoção são intrinsecamente ligados e se desenvolvem em alternância."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A emoção não tem relevância no desenvolvimento cognitivo",
+                      "explanation": "Incorreta. O texto deixa claro que \"intelecto e afeto se desenvolvem em alternância funcional\"."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q6",
+                  "statement": "Qual é a principal diferença entre os conceitos de \"aprendizagem\" e \"desenvolvimento\" para Vigotski?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Eles são sinônimos e se referem ao mesmo processo",
+                      "explanation": "Incorreta. Vigotski distingue claramente os dois conceitos, embora os relacione intimamente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Aprendizagem é a capacidade de realizar ações sozinho, enquanto desenvolvimento é a capacidade de realizar ações com ajuda",
+                      "explanation": "Incorreta. Esta definição se assemelha à ZDP, mas não à distinção entre aprendizagem e desenvolvimento."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O desenvolvimento precede e é a condição para a aprendizagem",
+                      "explanation": "Incorreta. Para Vigotski, a aprendizagem precede o desenvolvimento e o impulsiona."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O aprendizado acontece de forma puramente social, enquanto o desenvolvimento é biológico",
+                      "explanation": "Incorreta. O desenvolvimento para Vigotski também é social."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A aprendizagem impulsiona o desenvolvimento. O aprendizado é o motor que move o desenvolvimento, e o que o indivíduo faz hoje com a ajuda de um mediador se tornará parte do seu desenvolvimento amanhã.",
+                      "explanation": "Correta! O texto afirma que \"Para Vigotski, a aprendizagem impulsiona o desenvolvimento\". A definição clara no texto é que \"o aprendizado é o motor que move o desenvolvimento, ou seja, o que o indivíduo faz hoje com a ajuda de um mediador se tornará parte do seu desenvolvimento amanhã\"."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_PeE_L2_Q7",
+                  "statement": "Qual dos seguintes é um conceito central na teoria de Wallon, referindo-se à alternância funcional entre o afeto e a cognição?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Instrumento mediador",
+                      "explanation": "Incorreta. Este é um conceito central de Vigotski."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Zona de Desenvolvimento Proximal",
+                      "explanation": "Incorreta. Este é um conceito central de Vigotski."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Alternância funcional",
+                      "explanation": "Correta! O texto descreve o desenvolvimento em Wallon como um processo de \"alternância funcional\", onde \"intelecto e afeto se desenvolvem em alternância funcional\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Internalização da linguagem",
+                      "explanation": "Incorreta. Este é um conceito de Vigotski."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Comunicação instrumental",
+                      "explanation": "Incorreta. Embora a comunicação seja importante, o termo específico para a alternância entre domínios é \"alternância funcional\"."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q8",
+                  "statement": "No contexto da prática do psicólogo escolar, o que significa \"superar o modelo clínico individual e a patologização\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Focar apenas no diagnóstico individual de crianças com transtornos",
+                      "explanation": "Incorreta. Esta é a descrição do modelo que deve ser superado."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ignorar completamente os problemas individuais para focar no sistema",
+                      "explanation": "Incorreta. A superação do modelo não significa ignorar, mas contextualizar as queixas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Atuar de forma a contextualizar as queixas, compreendendo o aluno a partir do seu sistema familiar, escolar e social, e atuando sobre as condições que geram o problema, em vez de apenas focar no indivíduo isolado",
+                      "explanation": "Correta! O texto discute a necessidade de superar a \"atuação restrita ao modelo clínico\", que foca no aluno isolado e patologizado, para uma atuação que \"considere o aluno a partir da sua inserção familiar, escolar e social\" e atue \"sobre as condições que geram o problema, e não apenas no aluno\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aconselhar os professores sobre como disciplinar melhor os alunos",
+                      "explanation": "Incorreta. Esta é uma atuação que reforça o modelo clínico, não o supera."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Substituir a educação por um modelo terapêutico",
+                      "explanation": "Incorreta. O objetivo é justamente o contrário: integrar a psicologia à educação, sem transformá-la em terapia."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q9",
+                  "statement": "Segundo o texto, a quem o psicólogo escolar deve atender prioritariamente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Aos pais dos alunos, para orientá-los",
+                      "explanation": "Incorreta. Embora a atuação com os pais seja importante, o foco não é prioritariamente neles."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Aos alunos com maiores dificuldades de aprendizagem",
+                      "explanation": "Incorreta. A atuação não deve ser restrita aos alunos, pois o modelo deve ser sistêmico e institucional."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Aos professores, para que possam ser mediadores eficazes",
+                      "explanation": "Incorreta. O atendimento é para todos os membros da comunidade escolar, não apenas os professores."
+                    },
+                    {
+                      "id": "d",
+                      "text": "À comunidade escolar em geral (alunos, pais, professores e outros profissionais), com o objetivo de promover o desenvolvimento humano e a cidadania",
+                      "explanation": "Correta! O texto afirma que o psicólogo escolar deve ter uma \"atuação mais abrangente, de caráter preventivo, sistêmico e institucional\" e que sua atuação \"não se restringe apenas ao aluno, mas se dirige a todos os membros da comunidade escolar, incluindo pais, professores e outros profissionais\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Aos gestores da escola, para ajudar na administração",
+                      "explanation": "Incorreta. O atendimento não é exclusivo aos gestores."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_PeE_L2_Q10",
+                  "statement": "Qual a crítica principal do autor ao modelo de psicologia escolar que foca no \"déficit do aluno\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que ele é muito caro para ser implementado nas escolas",
+                      "explanation": "Incorreta. O custo não é a principal crítica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que ele não consegue identificar os alunos com dificuldades reais",
+                      "explanation": "Incorreta. O modelo consegue identificar, mas o problema está na forma como o faz."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que ele desresponsabiliza a escola e a família pelas dificuldades de aprendizagem, atribuindo o problema exclusivamente ao aluno e seu \"déficit\"",
+                      "explanation": "Correta! O texto critica o modelo que \"restringe a atuação ao 'déficit' do aluno\", pois ele \"desconsidera o contexto escolar, a família e a sociedade, isentando-os de responsabilidade na produção do fracasso escolar\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que ele não utiliza testes psicológicos suficientes para o diagnóstico",
+                      "explanation": "Incorreta. A crítica é ao modelo, e não à falta de ferramentas, pois ele as utiliza de forma inadequada."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que ele não leva em consideração a biologia do aluno",
+                      "explanation": "Incorreta. A crítica principal é a desconsideração do contexto social e escolar, não do aspecto biológico."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q11",
+                  "statement": "Segundo o Capítulo 3, por que a atuação do psicólogo escolar deve ser interdisciplinar?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Para que o psicólogo possa atuar em todas as áreas do conhecimento",
+                      "explanation": "Incorreta. A interdisciplinaridade não se refere a atuar em todas as áreas, mas a interagir com outras."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Porque a demanda é muito grande, e ele não pode lidar sozinho",
+                      "explanation": "Incorreta. A interdisciplinaridade é uma questão de método e teoria, não de quantidade de demanda."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Para que o psicólogo possa dar aulas em outras disciplinas",
+                      "explanation": "Incorreta. A interdisciplinaridade não tem relação com dar aulas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Porque o fracasso escolar é um fenômeno complexo e multifacetado, que não pode ser compreendido e resolvido apenas por uma única disciplina ou profissão",
+                      "explanation": "Correta! O texto afirma que \"o fracasso escolar não pode ser analisado e superado apenas com um enfoque\", sendo \"o trabalho interdisciplinar o mais adequado para lidar com a complexidade e a multideterminação desse fenômeno\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Porque a interdisciplinaridade torna o trabalho mais fácil",
+                      "explanation": "Incorreta. A interdisciplinaridade muitas vezes é mais complexa e desafiadora, exigindo maior coordenação e diálogo."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_PeE_L2_Q12",
+                  "statement": "Qual o principal desafio para o psicólogo escolar ao lidar com as expectativas dos educadores?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Convencê-los a usar mais testes psicológicos",
+                      "explanation": "Incorreta. O desafio é o oposto: superar o modelo clínico e o uso de testes de forma patologizante."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Fazer com que eles entendam a complexidade do desenvolvimento humano",
+                      "explanation": "Incorreta. Embora seja um desafio, o principal é superar a visão do psicólogo como mero resolvedor de problemas individuais."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A resistência dos educadores em aceitar um modelo que os desresponsabilize dos problemas dos alunos",
+                      "explanation": "Incorreta. O texto indica que a visão de déficit do aluno *desresponsabiliza* a escola e os professores, então o principal desafio não é a resistência a serem desresponsabilizados, mas sim a dificuldade do psicólogo em \"construir um novo caminho\" que não seja o de simplesmente resolver as queixas individuais."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Romper com a expectativa de que o psicólogo irá resolver problemas individuais e patologizantes dos alunos, e atuar de forma sistêmica e preventiva",
+                      "explanation": "Correta! O texto afirma que os psicólogos \"continuam a enfrentar dificuldades para efetivar um modelo de atuação contextualizado, principalmente porque este se constrói num caminho diferenciado da expectativa dos educadores que demandam o serviço\", que ainda veem o psicólogo no aspecto curativo e individual."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Não ter um espaço físico adequado na escola para o atendimento",
+                      "explanation": "Incorreta. Embora a falta de espaço seja um desafio, não é o principal problema teórico e de atuação levantado pelo texto."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_PeE_L2_Q13",
+                  "statement": "Como o psicólogo escolar pode atuar para superar o foco individual e patologizante nas queixas escolares?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Aumentando o número de atendimentos individuais para incluir mais alunos",
+                      "explanation": "Incorreta. Esta ação reforça o modelo individual, em vez de superá-lo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Utilizando um número maior de testes psicológicos para um diagnóstico mais preciso",
+                      "explanation": "Incorreta. O uso de testes, por si só, não muda a visão de que o problema está no aluno."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Envolvendo os pais no problema do aluno, para que eles resolvam o problema em casa",
+                      "explanation": "Incorreta. Isso desresponsabiliza a escola e não resolve o problema sistêmico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Analisando a queixa como um sintoma da dinâmica escolar, e atuando em diferentes níveis (com professores, gestores, famílias), para promover mudanças no contexto institucional",
+                      "explanation": "Correta! O texto defende que, ao invés de atuar apenas no \"déficit do aluno\", o psicólogo deve \"pensar o 'problema' de forma sistêmica, contextualizando as queixas e analisando as condições escolares\" para atuar sobre elas."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Indicando que o aluno deve ser transferido para outra escola",
+                      "explanation": "Incorreta. Isso não resolve o problema, apenas o transfere, e não é uma atuação que promova mudanças no contexto."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_PeE_L2_Q14",
+                  "statement": "Qual a principal crítica ao modelo de atuação que \"patologiza\" o aluno com dificuldades de aprendizagem?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Ele é muito caro para ser aplicado nas escolas",
+                      "explanation": "Incorreta. A crítica não se baseia no custo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ele não permite que os professores trabalhem sozinhos",
+                      "explanation": "Incorreta. A crítica é que ele desresponsabiliza o professor, não que o impeça de trabalhar sozinho."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ele transforma um problema pedagógico e social em um problema individual e médico, isentando a escola e a sociedade de sua responsabilidade",
+                      "explanation": "Correta! O texto critica o modelo que \"restringe a atuação ao 'déficit' do aluno\" e \"desconsidera o contexto escolar, a família e a sociedade, isentando-os de responsabilidade na produção do fracasso escolar\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ele foca demais na família e não no aluno",
+                      "explanation": "Incorreta. Ele foca no aluno, negligenciando a família e a escola."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ele não utiliza testes psicológicos de forma adequada",
+                      "explanation": "Incorreta. O problema não é a ferramenta, mas o modelo de atuação que a utiliza para patologizar."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q15",
+                  "statement": "Segundo a perspectiva de Wallon, como se dá a relação entre cognição e afeto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A cognição é superior ao afeto",
+                      "explanation": "Incorreta. Wallon defende uma relação de alternância funcional, não de superioridade."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O afeto precede e é condição para a cognição",
+                      "explanation": "Incorreta. Embora a emoção seja primária, o desenvolvimento de ambos ocorre em alternância."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Eles são totalmente independentes e se desenvolvem separadamente",
+                      "explanation": "Incorreta. O texto enfatiza a interconexão e a alternância entre os dois."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Eles se desenvolvem em alternância funcional, onde os sistemas de emoção e cognição se complementam e se alternam no domínio do desenvolvimento",
+                      "explanation": "Correta! O texto explica que \"intelecto e afeto se desenvolvem em alternância funcional\", onde um se sobrepõe ao outro dependendo do estágio de desenvolvimento, mas ambos são essenciais e interconectados."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A cognição é a única responsável pelo desenvolvimento humano",
+                      "explanation": "Incorreta. Wallon critica essa visão, destacando a centralidade da emoção e da afetividade."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_PeE_L2_Q16",
+                  "statement": "Qual a crítica de Wallon à visão de desenvolvimento que considera a criança como um ser apenas cognitivo, desprovido de emoção?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Ele criticou a falta de rigor científico nessas teorias",
+                      "explanation": "Incorreta. A crítica de Wallon não se baseia na falta de rigor, mas na visão fragmentada do ser humano."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ele argumentou que essa visão desconsidera a complexidade e a multidimensionalidade do ser humano, pois a emoção é um fator fundamental e primário de sua interação com o meio",
+                      "explanation": "Correta! O texto ressalta a crítica de Wallon a essa visão fragmentada, afirmando que a emoção é um \"fator primário de interação com o meio\" e que \"Wallon defendia um desenvolvimento psicossocial em que emoção e cognição estariam em constante interação, opondo-se às concepções que priorizavam apenas o desenvolvimento cognitivo\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ele defendeu que o desenvolvimento emocional não existe na infância",
+                      "explanation": "Incorreta. Ele argumentou o oposto, que a emoção é o primeiro meio de comunicação do bebê."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ele defendeu que o desenvolvimento é puramente cognitivo, mas que a emoção o afeta de forma secundária",
+                      "explanation": "Incorreta. Ele defendeu que os dois domínios se desenvolvem em alternância e em interação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ele defendeu que a criança é um ser apenas emocional, sem capacidade cognitiva",
+                      "explanation": "Incorreta. A teoria dele é sobre a alternância entre os dois domínios, não sobre a ausência de um deles."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_PeE_L2_Q17",
+                  "statement": "De acordo com o texto, quais são os três pressupostos básicos da \"atuação do psicólogo escolar e educacional\" que se opõem ao modelo clínico individual?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Atuação restrita à queixa, intervenção pontual no aluno e foco no diagnóstico",
+                      "explanation": "Incorreta. Estes são pressupostos do modelo clínico que o texto critica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Atuação em grupos, foco nos professores e busca por diagnósticos",
+                      "explanation": "Incorreta. Embora o trabalho em grupo e com professores seja importante, o foco no diagnóstico não é um pressuposto do modelo sistêmico."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Atuação sistêmica, prevenção e promoção da saúde",
+                      "explanation": "Correta! Os três pressupostos são \"Atuação Sistêmica\", \"Prevenção\" e \"Promoção da Saúde\", que se opõem ao modelo tradicional e clínico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Atuação individual, foco no aluno e correção de comportamentos",
+                      "explanation": "Incorreta. Estes são pressupostos do modelo clínico que o texto critica."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Acompanhamento de casos, encaminhamentos e orientação a pais",
+                      "explanation": "Incorreta. Embora sejam atividades do psicólogo, não são os pressupostos teóricos que definem a atuação que se opõe ao modelo clínico."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q18",
+                  "statement": "Qual a visão do Conselho Federal de Psicologia (CFP) sobre a atuação do psicólogo escolar e educacional?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que a atuação do psicólogo deve ser apenas clínica, em consultório, e não na escola",
+                      "explanation": "Incorreta. O CFP reconhece a atuação na escola e propõe diretrizes para ela."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que o psicólogo escolar deve focar em resolver problemas de disciplina e comportamento",
+                      "explanation": "Incorreta. Embora lide com isso, o CFP defende uma atuação mais ampla e preventiva."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O CFP defende que o psicólogo deve atuar em um modelo preventivo e institucional, promovendo o desenvolvimento humano e a cidadania, e não apenas respondendo a queixas pontuais e patologizantes",
+                      "explanation": "Correta! O texto cita que o CFP tem se posicionado contra a \"atuação restrita ao modelo clínico\" e defendido uma \"atuação mais abrangente, de caráter preventivo, sistêmico e institucional\", com foco no \"desenvolvimento humano e a cidadania\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que a atuação do psicólogo escolar deve ser restrita a crianças com deficiência",
+                      "explanation": "Incorreta. A atuação é para toda a comunidade escolar, não restrita a um grupo específico."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que o psicólogo escolar não deve atuar em sala de aula",
+                      "explanation": "Incorreta. A atuação em sala de aula é um dos campos de trabalho do psicólogo escolar e educacional."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q19",
+                  "statement": "A atuação do psicólogo escolar no contexto do \"déficit do aluno\" é criticada por ter um caráter de \"ajustamento\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O psicólogo atua para ajudar o aluno a se ajustar a uma nova escola",
+                      "explanation": "Incorreta. O conceito de ajustamento é mais amplo e crítico no contexto do texto."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O psicólogo ajuda o aluno a se ajustar a um novo currículo",
+                      "explanation": "Incorreta. Não se refere a um novo currículo, mas a uma visão mais abrangente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O psicólogo age como uma ferramenta da escola para adequar os alunos às normas e regras institucionais, sem questionar se essas normas são adequadas ou se contribuem para o problema",
+                      "explanation": "Correta! O texto afirma que o modelo clínico \"isenta a escola de sua parcela de responsabilidade\" e que \"a criança é 'ajustada' para se adequar ao sistema, ignorando o contexto escolar, a família e a sociedade\". Portanto, o caráter de ajustamento implica em fazer o aluno se adequar ao sistema, em vez de questionar e transformar o próprio sistema."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O psicólogo ajuda o aluno a se ajustar emocionalmente aos seus problemas familiares",
+                      "explanation": "Incorreta. O foco do ajustamento criticado é o sistema escolar e suas normas."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O psicólogo promove o ajustamento social do aluno na comunidade",
+                      "explanation": "Incorreta. O termo \"ajustamento\" tem uma conotação negativa no contexto do texto, não de promoção social."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q20",
+                  "statement": "A atuação do psicólogo escolar no \"modelo clínico\" é comparada a uma \"terceirização do fracasso escolar\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que o psicólogo é um profissional contratado de forma terceirizada pela escola",
+                      "explanation": "Incorreta. O termo é uma metáfora, não uma descrição da contratação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que o fracasso escolar é um problema da sociedade e não da escola",
+                      "explanation": "Incorreta. O problema é que a escola terceiriza a responsabilidade, não que a sociedade o faz."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que a escola transfere a responsabilidade do fracasso escolar para o aluno e o psicólogo, tratando-o como um problema individual a ser resolvido pelo especialista, em vez de um problema institucional",
+                      "explanation": "Correta! O texto afirma que \"o fracasso escolar do aluno é terceirizado para o psicólogo\" e que a \"escola, que deveria ser a responsável, 'passa' o problema para o profissional, que, ao se limitar a esta atuação, acaba por corroborar a lógica do modelo clínico\", que patologiza o aluno e isenta a escola."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que o psicólogo escolar é um profissional não qualificado para lidar com as questões de aprendizagem",
+                      "explanation": "Incorreta. O problema não é a qualificação do profissional, mas o modelo de atuação que ele adota."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que o psicólogo escolar trabalha com muitas escolas ao mesmo tempo",
+                      "explanation": "Incorreta. O termo é uma metáfora sobre a transferência de responsabilidade, não sobre a carga de trabalho."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q21",
+                  "statement": "Considerando o conceito de \"alternância funcional\" de Wallon, qual a implicação prática para o psicólogo escolar ao analisar o desenvolvimento infantil?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que o psicólogo deve avaliar apenas o aspecto cognitivo da criança, pois a emoção não é relevante no aprendizado",
+                      "explanation": "Incorreta. A teoria de Wallon destaca a importância da emoção e da alternância."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que o psicólogo deve avaliar o desenvolvimento como um processo linear, onde as habilidades se somam umas às outras",
+                      "explanation": "Incorreta. O desenvolvimento é visto como dialético e descontínuo, com alternância de domínios."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que o psicólogo deve considerar que os problemas de aprendizagem podem ter raízes emocionais e vice-versa, e que o desenvolvimento não é um processo linear, exigindo uma compreensão integrada dos aspectos cognitivos e afetivos",
+                      "explanation": "Correta! A alternância funcional \"significa que, em determinados momentos, uma função se destaca em relação a outra, mas que ambas se complementam no processo de desenvolvimento do indivíduo\". Isso implica que os problemas de aprendizagem podem ter raízes emocionais e que o desenvolvimento não é linear, exigindo uma visão integrada e que considere ambos os domínios."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que o psicólogo deve focar na punição de comportamentos inadequados",
+                      "explanation": "Incorreta. A teoria de Wallon não tem foco em punição, mas em compreensão do desenvolvimento."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que o psicólogo deve focar apenas no desenvolvimento social da criança",
+                      "explanation": "Incorreta. Embora o desenvolvimento social seja importante, Wallon integra afeto e cognição de forma mais complexa."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q22",
+                  "statement": "Na perspectiva de Wallon, por que o estágio do personalismo (2-6 anos) é crucial para o desenvolvimento da personalidade e da autoconsciência?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Porque é quando a criança começa a usar a linguagem de forma abstrata",
+                      "explanation": "Incorreta. Isso se refere ao estágio do pensamento categorial."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Porque a criança está focada em se ajustar ao ambiente social",
+                      "explanation": "Incorreta. A criança busca a afirmação de si mesma, muitas vezes em oposição ao outro."
+                    },
+                    {
+                      "id": "c",
+                      "text": "É um estágio em que o desenvolvimento emocional se destaca para a formação da personalidade, através da oposição, do egocentrismo e da busca por afirmação de sua individualidade frente ao outro",
+                      "explanation": "Correta! O texto descreve o personalismo como um \"momento em que o desenvolvimento afetivo-emocional se destaca\" e onde a criança \"busca afirmar sua individualidade e se diferenciar das outras pessoas, manifestando oposição, recusa e imitação\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Porque a criança domina completamente o raciocínio lógico",
+                      "explanation": "Incorreta. O raciocínio lógico se desenvolve em estágios posteriores."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Porque a criança está totalmente focada no mundo externo, sem se preocupar com a própria identidade",
+                      "explanation": "Incorreta. O personalismo é um estágio de extrema busca pela identidade e diferenciação."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q23",
+                  "statement": "O que significa dizer que a \"atividade humana é mediada\" na teoria de Vigotski?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que todas as ações são feitas com a ajuda de outras pessoas",
+                      "explanation": "Incorreta. O conceito é mais amplo e se refere à mediação por instrumentos e símbolos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que as ações humanas são resultado de uma mediação biológica",
+                      "explanation": "Incorreta. A mediação é cultural, não biológica."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que toda a relação do ser humano com o mundo é intermediada por ferramentas (instrumentos) e signos (símbolos), que são produtos da cultura e do trabalho humano",
+                      "explanation": "Correta! O texto explica que \"Toda a relação do ser humano com o mundo é intermediada por ferramentas (instrumentos) e signos (símbolos), que são produtos da cultura e do trabalho humano\". Essa mediação é o que diferencia o ser humano de outras espécies e é a base do desenvolvimento cognitivo superior."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que o ser humano só aprende quando é ensinado por um mediador",
+                      "explanation": "Incorreta. O aprendizado pode ocorrer de forma autônoma, mas o conceito de mediação se refere à natureza da atividade humana em geral."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que a linguagem é o único instrumento de mediação",
+                      "explanation": "Incorreta. A linguagem é um dos signos, mas não o único."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q24",
+                  "statement": "Qual a principal limitação do \"modelo clínico individual\" no contexto escolar, segundo o texto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Ele é muito demorado para ser aplicado",
+                      "explanation": "Incorreta. A limitação não é sobre a demora, mas sobre a abordagem teórica e a ineficácia em lidar com a complexidade do problema."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ele foca apenas no diagnóstico, sem sugerir tratamento",
+                      "explanation": "Incorreta. O modelo clínico sugere tratamento, mas de forma inadequada, no nível individual."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ele desconsidera as dimensões pedagógicas, institucionais e sociais do fracasso escolar, focando apenas no aluno como o portador de um \"déficit\" individual",
+                      "explanation": "Correta! O texto afirma que o modelo clínico \"restringe a atuação ao 'déficit' do aluno, desconsidera o contexto escolar, a família e a sociedade, isentando-os de responsabilidade na produção do fracasso escolar\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ele não permite que o psicólogo trabalhe com os pais",
+                      "explanation": "Incorreta. A atuação pode incluir os pais, mas a limitação é a visão de problema individual do aluno, não a falta de contato com os pais."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ele não utiliza testes psicológicos adequados",
+                      "explanation": "Incorreta. O problema não é a ferramenta em si, mas a sua utilização em uma visão reducionista e patologizante."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q25",
+                  "statement": "Na visão de Wallon, por que a interação social é fundamental para o desenvolvimento, especialmente no que se refere à emoção?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Porque a interação social é a única forma de aprender a expressar emoções",
+                      "explanation": "Incorreta. Embora a interação seja fundamental, a expressão emocional começa no nascimento como uma forma de comunicação biológica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Porque a emoção é um fator primário de interação com o meio, servindo como a primeira forma de comunicação entre a criança e seu ambiente social e levando à diferenciação do self e do outro",
+                      "explanation": "Correta! O texto descreve a emoção como \"fator primário de interação com o meio\" e \"a primeira forma de comunicação do ser humano com seu meio\". Além disso, no estágio do personalismo, a criança \"busca afirmar sua individualidade e se diferenciar das outras pessoas\", um processo social fundamental para o desenvolvimento da autoconsciência."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Porque a interação social é a principal forma de aprender a ler e escrever",
+                      "explanation": "Incorreta. Embora seja importante, a interação social, para Wallon, é fundamental para o desenvolvimento emocional e da personalidade."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Porque a interação social é o único fator que influencia o desenvolvimento",
+                      "explanation": "Incorreta. O desenvolvimento é uma síntese de fatores biológicos, sociais e afetivos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Porque a interação social é um obstáculo para o desenvolvimento individual",
+                      "explanation": "Incorreta. A interação social é a base do desenvolvimento na teoria de Wallon."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_PeE_L2_Q26",
+                  "statement": "Na prática da psicologia escolar, qual é o papel crucial de uma \"visão crítica da realidade social e institucional\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Permitir que o psicólogo critique o trabalho de outros profissionais",
+                      "explanation": "Incorreta. O objetivo da crítica é a realidade, não os outros profissionais."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Para que o psicólogo possa focar apenas nos problemas dos alunos mais pobres",
+                      "explanation": "Incorreta. A visão crítica deve ser aplicada a toda a realidade social, não apenas a um grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Possibilitar que o psicólogo identifique e questione as condições sociais, políticas e institucionais que geram as queixas e os problemas de aprendizagem, evitando abordagens individualistas e patologizantes",
+                      "explanation": "Correta! O texto destaca a necessidade de o psicólogo ter uma \"visão crítica da realidade social e institucional\" para \"desenvolver uma análise da queixa a partir do contexto escolar, da família e da sociedade\", questionando as condições que geram o fracasso escolar e promovendo uma atuação que vai além do indivíduo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Para que o psicólogo possa atuar apenas em escolas privadas",
+                      "explanation": "Incorreta. A visão crítica é necessária para a atuação em qualquer contexto, especialmente o público."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Para que o psicólogo possa dar aulas de história e sociologia",
+                      "explanation": "Incorreta. A visão crítica é um instrumento de análise da realidade, não uma atribuição profissional."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q27",
+                  "statement": "Para Vigotski, por que o processo de desenvolvimento é um \"processo dialético\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Porque ele é linear e previsível",
+                      "explanation": "Incorreta. A dialética implica em contradições, superações e descontinuidades."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Porque ele é resultado de uma soma de habilidades individuais",
+                      "explanation": "Incorreta. O desenvolvimento é o resultado de uma interação dinâmica, não uma soma linear."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Porque ele não ocorre por meio de uma simples acumulação, mas por meio de conflitos, superações e saltos qualitativos que transformam o indivíduo em um nível superior",
+                      "explanation": "Correta! O texto define o desenvolvimento para Vigotski como um \"processo dialético e descontínuo, com saltos qualitativos\", onde \"as funções psicológicas superiores (FPS) surgem a partir da internalização dos signos e instrumentos, que são produtos da cultura\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Porque ele é determinado apenas pelo ambiente social",
+                      "explanation": "Incorreta. O desenvolvimento é uma interação entre o indivíduo e o meio, não uma determinação unilateral."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Porque ele é resultado de uma competição entre as habilidades do indivíduo",
+                      "explanation": "Incorreta. A dialética envolve oposição e superação, mas não uma competição entre as habilidades."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_PeE_L2_Q28",
+                  "statement": "Qual a principal limitação do modelo \"remediador\" na atuação do psicólogo escolar, conforme o texto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Ele se antecipa aos problemas, atuando de forma preventiva",
+                      "explanation": "Incorreta. O modelo remediador atua *após* o problema ter ocorrido, de forma corretiva, não preventiva."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ele considera a escola como a principal responsável pelos problemas",
+                      "explanation": "Incorreta. O modelo remediador foca no aluno, desresponsabilizando a escola."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ele não permite que o psicólogo trabalhe com as famílias dos alunos",
+                      "explanation": "Incorreta. O modelo remediador pode envolver a família, mas ainda assim de forma focada no indivíduo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ele aborda o problema apenas depois que ele já se manifestou, focando em \"remediar\" a dificuldade em vez de prevenir sua ocorrência, e não atua sobre as causas sistêmicas",
+                      "explanation": "Correta! O modelo remediador \"aborda o problema apenas depois que ele já se manifestou\", não o prevenindo. O texto defende que a atuação do psicólogo escolar deve ser \"de caráter preventivo, sistêmico e institucional\", o que se opõe diretamente ao modelo remediador que atua pontualmente no \"déficit\" do aluno."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ele não se utiliza de testes psicológicos",
+                      "explanation": "Incorreta. O modelo remediador muitas vezes se utiliza de testes para diagnosticar o \"déficit\" do aluno."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_PeE_L2_Q29",
+                  "statement": "O que significa o conceito de \"internalização\" em Vigotski?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O processo de memorizar informações de um livro",
+                      "explanation": "Incorreta. A internalização é um processo de transformação, não de memorização."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O processo pelo qual a interação social se transforma em uma função psicológica individual",
+                      "explanation": "Correta! O texto afirma que \"As funções psicológicas superiores (FPS) têm origem na vida social, sendo adquiridas por meio da internalização da atividade mediada. Ou seja, a interação social se transforma em uma função individual\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A capacidade de se isolar de outras pessoas para focar no aprendizado",
+                      "explanation": "Incorreta. A internalização é um processo social, não de isolamento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O processo pelo qual o indivíduo aprende a agir sem a ajuda de mediadores",
+                      "explanation": "Incorreta. A internalização se refere a como as funções surgem, não à ausência de mediadores."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A capacidade de entender as emoções de forma abstrata",
+                      "explanation": "Incorreta. A internalização é um processo que envolve a cognição, mas é mais abrangente do que apenas a compreensão de emoções."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_PeE_L2_Q30",
+                  "statement": "Qual é a principal forma de atuação que o CFP e a literatura especializada propõem para o psicólogo escolar, que supera o modelo tradicional de \"psicólogo do consultório na escola\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Atuar com enfoque na queixa dos educadores e pais, de forma individualizada",
+                      "explanation": "Incorreta. Esta é a atuação que o texto critica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Conduzir palestras para educadores e pais sobre problemas de comportamento",
+                      "explanation": "Incorreta. Embora as palestras possam ser usadas, a atuação proposta é mais abrangente e sistêmica."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Desenvolver novas experiências e efetivar um modelo de atuação contextualizado, sistêmico e preventivo, que supere a patologização, o foco individual no aluno, e as expectativas dos educadores por um viés clínico e remediador, promovendo o desenvolvimento integral e a cidadania",
+                      "explanation": "Correta! O texto aponta que os profissionais continuam \"a enfrentar dificuldades para efetivar um modelo de atuação contextualizado, principalmente porque este se constrói num caminho diferenciado da expectativa dos educadores que demandam o serviço\", que ainda veem o psicólogo no aspecto curativo. O desafio é superar essa atuação puramente remediadora e a patologização, buscando uma \"visão crítica da realidade\" e focando no \"desenvolvimento humano\" e \"cidadania\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Focar apenas em alunos com transtornos diagnosticados, para garantir um atendimento especializado",
+                      "explanation": "Incorreta. A atuação proposta se opõe a esse foco individual e patologizante."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Realizar exclusivamente triagens e encaminhamentos para clínicas",
+                      "explanation": "Incorreta. O psicólogo escolar deve atuar no contexto escolar, não apenas encaminhar os problemas para fora dele."
+                    }
+                  ],
+                  "answer": "c"
+                }
+              ]
             }
           ]
         },
