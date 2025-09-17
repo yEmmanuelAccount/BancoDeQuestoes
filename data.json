@@ -7769,6 +7769,972 @@
                   "answer": "C"
                 }
               ]
+            },
+            {
+              "id": "p4_psicologia_escolar_e_educacional_L4",
+              "title": "Psicologia Escolar e Educacional - Lista 4",
+              "questions": [
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q1",
+                  "statement": "De acordo com a seção de Apresentação do manual, qual é o principal objetivo da publicação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Detalhar as diferentes abordagens teóricas da psicologia",
+                      "explanation": "Embora as abordagens sejam mencionadas no sumário, o objetivo principal do manual é outro."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apresentar a história da Psicologia Escolar/Educacional, seus objetivos e formas de atuação, além de esclarecer dúvidas e instrumentalizar a atuação do psicólogo.",
+                      "explanation": "O manual visa \"apresentar aos psicólogos, aos usuários dos sistemas de ensino e aos envolvidos com educação a contribuição da Psicologia Escolar\" e o objetivo é \"esclarecer possíveis dúvidas sobre a Psicologia Escolar/Educacional\" e \"oferecer subsídios para instrumentalizar as formas de atuação do psicólogo escolar/educacional\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Exclusivamente subsidiar os trabalhos de formação nas faculdades de Psicologia",
+                      "explanation": "Esse é um dos propósitos, mas o manual também visa usuários e envolvidos com educação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Criticar a qualidade da educação brasileira e a formação dos psicólogos",
+                      "explanation": "O manual convida a repensar a qualidade, mas seu objetivo principal é de apresentação e instrumentalização."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar apenas na produção de pesquisa científica na área",
+                      "explanation": "O manual é de síntese e instrumentalização, não de produção de pesquisa."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q2",
+                  "statement": "O texto do manual critica uma visão histórica da Psicologia Escolar que a colocava em uma posição de \"apêndice\" do sistema educacional e que contribuía para o fracasso escolar. Qual a principal característica dessa atuação criticada?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O foco excessivo nas metodologias ativas e na autonomia do estudante, desconsiderando a figura do professor como guia do processo pedagógico.",
+                      "explanation": "O texto não faz essa crítica a esse modelo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A valorização de uma atuação sistêmica e preventiva, que buscava compreender o contexto escolar em sua totalidade.",
+                      "explanation": "Essa é a proposta do manual para uma atuação ideal, o oposto do que é criticado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ele desconsidera as dimensões pedagógicas, institucionais e sociais do fracasso escolar, focando apenas no aluno como o portador de um \"déficit\" individual.",
+                      "explanation": "O texto afirma que o psicólogo escolar historicamente era convocado para \"desvendar\" os problemas de aprendizagem e de comportamento, tratando o aluno como o único responsável e culpado por seu fracasso. Esse modelo de atuação se volta para a \"patologização do problema\" e desconsidera as \"dimensões pedagógicas, institucionais e sociais do fracasso escolar\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A utilização de instrumentos de avaliação exclusivamente psicotécnicos para realizar diagnósticos precisos e científicos dos transtornos de aprendizagem.",
+                      "explanation": "Embora a Psicologia Escolar tenha utilizado testes psicotécnicos no passado, a crítica do texto é mais ampla e se refere à visão reducionista e individualista que culpabiliza o aluno pelo fracasso escolar, e não a um método específico de avaliação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O caráter interdisciplinar e a parceria com educadores para solucionar problemas de aprendizagem.",
+                      "explanation": "O texto ressalta que essa atuação é fundamental, o oposto do que é criticado."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q3",
+                  "statement": "Segundo o manual, qual é o desafio atual do psicólogo escolar, dado que as expectativas dos educadores ainda se voltam para uma atuação clínica e remediadora?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Limitar-se a atender às demandas emergenciais e curativas, a fim de não criar conflito com a equipe escolar.",
+                      "explanation": "Isso seria reforçar o modelo criticado, e não superá-lo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Adotar um modelo de atuação puramente individual, aumentando o número crescente de \"distúrbios\".",
+                      "explanation": "Isso reforçaria o modelo criticado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Reduzir a presença do psicólogo na escola para focar em outras áreas da psicologia.",
+                      "explanation": "O texto ressalta a importância da presença do psicólogo no ambiente escolar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Superar a atuação puramente remediadora e a patologização do fracasso escolar, buscando uma \"visão crítica da realidade\" e focando no \"desenvolvimento humano\" e \"cidadania\" do aluno.",
+                      "explanation": "O texto aponta que os profissionais continuam \"a enfrentar dificuldades para efetivar um modelo de atuação contextualizado, principalmente porque este se constrói num caminho diferenciado da expectativa dos educadores que demandam o serviço\", que ainda veem o psicólogo no aspecto curativo. O desafio é superar essa atuação puramente remediadora e a patologização, buscando uma \"visão crítica da realidade\" e focando no \"desenvolvimento humano\" e \"cidadania\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar apenas em diagnósticos precisos, sem se preocupar com a \"visão crítica da realidade\".",
+                      "explanation": "O texto sugere que a \"visão crítica\" é fundamental para superar o modelo individualizante."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q4",
+                  "statement": "Segundo os autores do manual, o que caracteriza a Educação como uma prática social?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O processo de ensino-aprendizagem como uma simples transmissão de informações.",
+                      "explanation": "Essa é uma visão mecanicista e limitada da educação, que é criticada pelo texto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Desenvolvimento da autonomia, do pensamento crítico e da cidadania.",
+                      "explanation": "A Educação, para os autores referenciados, é um \"processo de mediação que articula a apropriação dos conhecimentos historicamente produzidos... com o desenvolvimento das capacidades humanas\" e tem como objetivo o \"desenvolvimento do viver em cidadania\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A aplicação de técnicas de memorização e repetição para garantir o sucesso acadêmico do aluno.",
+                      "explanation": "Essa é uma visão limitada e mecanicista da educação, que não corresponde à proposta do manual."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A reprodução de valores e normas sociais, sem espaço para a reflexão ou transformação.",
+                      "explanation": "Essa seria uma visão crítica de uma educação que serve a um sistema opressor, mas não a visão proposta pelos autores do manual."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento individual e isolado de cada aluno, sem a interferência do ambiente social.",
+                      "explanation": "A educação é explicitamente definida como uma \"prática social\", o que implica a interação com o ambiente social."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q5",
+                  "statement": "O manual sugere que a Psicologia Escolar se diferencia da Psicologia da Educação em sua abordagem. Qual a principal distinção apresentada?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Psicologia Escolar foca em testes e diagnósticos, enquanto a Psicologia da Educação foca em pesquisa e teoria.",
+                      "explanation": "Embora a Psicologia Escolar possa ter um foco em avaliação, a distinção não é essa, e a Psicologia da Educação também pode se valer de testes."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Psicologia da Educação é uma área de aplicação da Psicologia Escolar, focada na prática.",
+                      "explanation": "A relação é o oposto. A Psicologia Escolar utiliza os conhecimentos da Psicologia da Educação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Psicologia Escolar tem um foco prático e institucional, atuando no cotidiano escolar, enquanto a Psicologia da Educação é mais teórica, desenvolvendo conhecimentos sobre a aprendizagem e o desenvolvimento em contexto educacional.",
+                      "explanation": "O texto define a Psicologia da Educação como \"uma área de conhecimento da psicologia que investiga os fenômenos psicológicos implicados no processo educativo\" e a Psicologia Escolar como \"uma área de atuação do psicólogo que, aplicando conhecimentos da psicologia da educação, busca...\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Psicologia da Educação é teórica e a Psicologia Escolar é prática, mas ambas não se complementam.",
+                      "explanation": "O texto ressalta que elas se complementam, com a Psicologia Escolar utilizando os conhecimentos da Psicologia da Educação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Psicologia Escolar é uma subárea da Psicologia da Educação, sem autonomia própria.",
+                      "explanation": "O texto as diferencia, mas as coloca como áreas complementares, com a Psicologia Escolar sendo uma área de atuação autônoma."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q6",
+                  "statement": "Conforme a proposta do manual, qual é o principal objetivo da Psicologia Escolar/Educacional na prática cotidiana da escola?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Realizar terapias individuais com os alunos que apresentam baixo rendimento acadêmico.",
+                      "explanation": "Isso seria o modelo criticado de atuação, que se limita ao viés clínico e individual."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Atuar como mediadora em conflitos entre pais e professores, sem aprofundar-se nas questões pedagógicas.",
+                      "explanation": "A mediação de conflitos pode ser uma atribuição, mas não o principal objetivo. O manual aponta que o psicólogo deve auxiliar no desenvolvimento de processos pedagógicos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ser uma \"assessora\" no desenvolvimento de um \"projeto educativo\" mais humano e de qualidade, participando da elaboração e execução de ações que promovam o desenvolvimento integral do estudante, incluindo aspectos emocionais, cognitivos e sociais.",
+                      "explanation": "A proposta é a de o psicólogo atuar na escola como um \"assessor\" ou \"assessoramento\", um profissional que \"auxilia e colabora com os professores na organização das ações educativas e na construção de um projeto pedagógico mais humano e de qualidade\", com foco no \"desenvolvimento integral do estudante\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ajudar o professor a desenvolver uma visão fragmentada do aluno, focando apenas na sua capacidade de absorver conteúdo.",
+                      "explanation": "Isso seria o oposto do que o manual propõe, que é uma visão holística e integral do aluno."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Limitar-se à aplicação de testes de inteligência e aptidão para classificar os alunos.",
+                      "explanation": "Isso seria o modelo psicotécnico de atuação, criticado pelo manual."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q7",
+                  "statement": "Segundo o manual, qual é o principal papel do psicólogo escolar em relação às questões de violência e indisciplina na escola?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Focar apenas no tratamento individual do aluno agressor, ignorando o contexto escolar.",
+                      "explanation": "A crítica do manual é justamente a de desconsiderar o contexto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Elaborar punições mais rígidas para os alunos, com o objetivo de inibir a indisciplina e a violência no ambiente escolar.",
+                      "explanation": "A proposta do manual é de intervenção no processo, não de punição."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Compreender que o fracasso escolar e os problemas de disciplina e violência são questões complexas que transcendem o indivíduo, exigindo uma análise do contexto social, familiar, institucional e de sala de aula para uma intervenção eficaz e que vá além de culpabilizar o aluno.",
+                      "explanation": "O manual ressalta que o psicólogo escolar deve considerar que as questões de \"violência, indisciplina e fracasso escolar\" são \"questões complexas\" que exigem uma análise \"do contexto social, familiar, institucional e de sala de aula\" para uma \"intervenção eficaz\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Fazer diagnósticos de transtornos de conduta, deixando o tratamento para a área clínica.",
+                      "explanation": "A atuação do psicólogo escolar deve ser contextualizada e não se limitar a um diagnóstico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Avisar a família e a direção da escola sobre o comportamento do aluno e se eximir de qualquer outra responsabilidade.",
+                      "explanation": "A responsabilidade do psicólogo é de \"assessorar\" e \"colaborar\"."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q8",
+                  "statement": "O manual descreve a atuação do psicólogo escolar em relação às questões de evasão e abandono. Qual é o principal papel do psicólogo nesse contexto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Fazer um levantamento estatístico dos alunos evadidos, sem aprofundar-se nas causas individuais e contextuais.",
+                      "explanation": "Isso seria uma atuação meramente técnica, o oposto do que é proposto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Atuar na família do aluno, culpabilizando-a pela evasão escolar.",
+                      "explanation": "O texto sugere que a responsabilidade não deve ser atribuída a um único agente, mas sim analisada em sua complexidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Realizar uma análise individual de cada caso, identificando e compreendendo as variáveis que levam ao abandono escolar (familiares, institucionais, sociais), propondo estratégias de intervenção que busquem a permanência do aluno na escola e se antecipem a essa ocorrência.",
+                      "explanation": "O manual afirma que o psicólogo pode atuar \"junto aos demais profissionais, identificando as variáveis que contribuem para a evasão e o abandono escolar, propondo estratégias que visem à permanência e o sucesso do aluno na escola\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ignorar a questão da evasão escolar, pois é um problema da gestão pedagógica.",
+                      "explanation": "O manual elenca a evasão como um tema de atuação do psicólogo escolar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar exclusivamente na questão de trabalho infantil, sem considerar outros fatores de evasão.",
+                      "explanation": "O trabalho infantil é uma das causas, mas não a única, e o psicólogo deve considerar todas as variáveis."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q9",
+                  "statement": "De acordo com o manual, qual é o principal papel do psicólogo escolar em relação ao desenvolvimento de um currículo escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aprovar ou reprovar os currículos escolares, de acordo com as normas do Conselho Federal de Psicologia.",
+                      "explanation": "Isso não é uma atribuição do psicólogo escolar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Orientar o currículo escolar para que se alinhe com o modelo de atuação da Psicologia Clínica, focando em transtornos mentais.",
+                      "explanation": "O manual critica o viés clínico na atuação do psicólogo escolar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Assessorar os educadores e a gestão escolar na elaboração e execução de um currículo que priorize o \"desenvolvimento global do estudante\", que inclua a afetividade e a cognição de forma interligada e que promova a \"humanização do sujeito\", indo além de uma mera transmissão de conteúdo.",
+                      "explanation": "O manual aponta que o psicólogo deve \"assessorar a elaboração, execução e avaliação de currículos, de forma a garantir o desenvolvimento global do estudante\" e que a educação deve ter como objetivo a \"humanização do sujeito, através do encontro da cognição com a motricidade, os afetos e as emoções na educação\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Desenvolver um novo currículo para cada aluno que apresente dificuldades de aprendizagem.",
+                      "explanation": "O foco é no desenvolvimento do currículo da escola como um todo, não em currículos individualizados."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Realizar testes e avaliações em todos os alunos para determinar a melhor metodologia de ensino a ser utilizada.",
+                      "explanation": "O manual critica o viés psicotécnico, que se limita à aplicação de testes."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q10",
+                  "statement": "Qual é a crítica implícita no manual ao mencionar a necessidade de \"encontro da cognição com a motricidade, os afetos e as emoções na educação\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crítica é a um modelo educacional que adota uma visão fragmentada e reducionista do sujeito, valorizando apenas o intelecto, e negligenciando os aspectos emocional, afetivo e motor, essenciais para uma formação completa e humanizada.",
+                      "explanation": "A proposta de buscar a \"humanização do sujeito, através do encontro da cognição com a motricidade, os afetos e as emoções na educação\" sugere uma crítica a modelos educacionais que historicamente podem ter separado ou negligenciado um desses domínios, resultando em uma formação incompleta. A integração, por sua vez, alinha-se ao objetivo de \"desenvolvimento do viver em cidadania\" e ao \"desenvolvimento global do estudante\", reconhecendo o ser humano em sua totalidade complexa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica é à excessiva ênfase na integração, que desvia o foco do currículo acadêmico e das disciplinas formais.",
+                      "explanation": "A integração é valorizada no manual, e não criticada."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A humanização do sujeito é apenas uma questão filosófica, sem aplicação prática no cotidiano escolar.",
+                      "explanation": "É um objetivo da Psicologia Escolar e, portanto, tem aplicação prática."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A integração desses aspectos é responsabilidade exclusiva dos pais, não da escola.",
+                      "explanation": "É um papel da escola e do psicólogo na educação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O encontro da cognição com a motricidade, os afetos e as emoções é um processo natural que ocorre independentemente da intervenção educacional.",
+                      "explanation": "O manual sugere que a escola deve \"assessorar\" nesse processo."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q11",
+                  "statement": "O manual diferencia Psicologia da Educação de Psicologia Escolar. Como ele caracteriza a Psicologia da Educação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Como uma área de atuação do psicólogo, que atua no cotidiano escolar.",
+                      "explanation": "Esta é a definição de Psicologia Escolar, não da Psicologia da Educação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Como uma área de pesquisa que se limita a testar a inteligência dos alunos.",
+                      "explanation": "A Psicologia da Educação é uma área de conhecimento, mas não se limita a testes de inteligência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Como uma área de atuação que oferece serviços de aconselhamento vocacional.",
+                      "explanation": "O aconselhamento vocacional é uma das atuações, mas não a definição da área."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Como uma área de conhecimento da psicologia que investiga os fenômenos psicológicos implicados no processo educativo e na aprendizagem.",
+                      "explanation": "O manual define a Psicologia da Educação como \"uma área de conhecimento da psicologia que investiga os fenômenos psicológicos implicados no processo educativo\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Como uma disciplina teórica que não tem relação com a prática escolar.",
+                      "explanation": "O manual ressalta que ela serve de base para a prática da Psicologia Escolar."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q12",
+                  "statement": "Qual é a principal crítica do manual ao modelo \"clínico-terapêutico\" na atuação do psicólogo escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ele é muito caro e inviável para as escolas públicas.",
+                      "explanation": "O manual não aborda o custo do modelo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ele desconsidera as variáveis institucionais, sociais e pedagógicas, focando apenas no indivíduo, o que não soluciona as causas reais dos problemas.",
+                      "explanation": "A crítica é a de que esse modelo \"se limita ao viés clínico e individual, desconsiderando as variáveis institucionais, sociais e pedagógicas, o que não soluciona as causas reais dos problemas\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ele é muito lento e não consegue atender à demanda da escola.",
+                      "explanation": "O manual não aborda a questão da velocidade do modelo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ele é muito antigo e já foi superado por outras abordagens.",
+                      "explanation": "O manual mostra que esse modelo ainda é a expectativa de muitos educadores."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ele foca na prevenção, o que não é o papel do psicólogo na escola.",
+                      "explanation": "O manual defende a prevenção como um papel fundamental do psicólogo escolar."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q13",
+                  "statement": "O manual defende a atuação do psicólogo escolar em uma perspectiva preventiva e sistêmica. O que isso significa?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que o psicólogo deve intervir apenas em casos de emergência, após o problema já ter ocorrido.",
+                      "explanation": "A prevenção é o oposto disso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que o psicólogo deve se limitar a \"prevenir\" que os alunos com notas baixas cheguem à recuperação.",
+                      "explanation": "O foco é muito mais amplo que isso."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que o psicólogo deve atuar em todos os níveis do sistema escolar (gestão, professores, alunos, famílias) para \"antecipar os problemas\" e criar um ambiente que promova o desenvolvimento integral e a aprendizagem de forma mais saudável.",
+                      "explanation": "A atuação preventiva e sistêmica implica em \"atuar de forma a antecipar os problemas, criando um ambiente que promova o desenvolvimento e a aprendizagem de forma mais saudável\" e que a intervenção seja \"em todos os níveis do sistema escolar (gestão, professores, alunos, famílias)\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que o psicólogo deve focar apenas no desenvolvimento de programas de prevenção de uso de drogas na escola.",
+                      "explanation": "A atuação é muito mais ampla que isso."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que o psicólogo deve intervir apenas no aluno, de forma individualizada, para prevenir futuros problemas.",
+                      "explanation": "A atuação individual é o modelo criticado."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q14",
+                  "statement": "De acordo com o manual, qual é o principal papel do psicólogo escolar na relação com os educadores?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Atuar como um supervisor, que fiscaliza a prática pedagógica dos professores.",
+                      "explanation": "Isso não é uma atribuição do psicólogo escolar, que deve ser um assessor e colaborador."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ajudar os educadores a compreender os problemas de aprendizagem dos alunos, a partir de uma perspectiva individual e clínica, buscando o diagnóstico de possíveis transtornos.",
+                      "explanation": "Isso é o modelo criticado no manual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apresentar a eles a visão da Psicologia como uma área que pode auxiliar na compreensão do processo de ensino-aprendizagem, na criação de estratégias pedagógicas mais eficazes e na promoção de um ambiente escolar que seja mais acolhedor e menos patologizante, superando a visão de que a Psicologia só serve para \"consertar\" alunos com problemas.",
+                      "explanation": "O manual afirma que o psicólogo deve \"auxiliar os educadores a compreenderem os processos de ensino-aprendizagem, a partir de uma visão mais ampla e sistêmica, superando a visão de que a Psicologia só serve para \"consertar\" alunos com problemas\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ignorar as demandas dos professores e impor o seu próprio modelo de atuação.",
+                      "explanation": "O manual sugere o diálogo e a colaboração como o caminho."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fazer a mediação de conflitos entre os professores e a gestão da escola.",
+                      "explanation": "Isso pode ser uma atuação pontual, mas não o principal papel."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q15",
+                  "statement": "O manual ressalta que a atuação do psicólogo escolar deve ser um \"assessoramento\" e uma \"colaboração\". Qual a principal implicação disso?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que o psicólogo não tem autonomia para atuar, devendo seguir as ordens da gestão da escola.",
+                      "explanation": "O manual ressalta a autonomia do psicólogo para propor ações."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que o psicólogo deve focar em ações pontuais, sem um projeto de longo prazo.",
+                      "explanation": "O manual sugere um projeto de \"longo prazo\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que o psicólogo não deve intervir diretamente com os alunos, apenas com os professores e a gestão.",
+                      "explanation": "A atuação é em todos os níveis do sistema escolar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que o psicólogo deve trabalhar em parceria com os demais profissionais da escola (professores, diretores, coordenadores), contribuindo com seu conhecimento específico para a melhoria do processo educativo como um todo, em vez de se limitar a uma função individual e remediadora.",
+                      "explanation": "A colaboração e o assessoramento implicam em \"trabalhar em parceria com os demais profissionais da escola, contribuindo com seu conhecimento específico para a melhoria do processo educativo como um todo\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que o psicólogo deve focar em pesquisas científicas para basear sua atuação, sem a participação dos profissionais da escola.",
+                      "explanation": "A participação dos profissionais da escola é fundamental para essa atuação."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q16",
+                  "statement": "Segundo o manual, qual é um dos principais papéis da Psicologia Escolar em relação ao bullying?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Identificar os agressores e encaminhá-los para a terapia, para que tratem suas questões individuais.",
+                      "explanation": "Isso seria o modelo criticado, que foca no indivíduo e não na questão em sua totalidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fazer um trabalho de conscientização com os alunos, para que denunciem o bullying.",
+                      "explanation": "Essa é uma ação importante, mas não o papel principal do psicólogo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Atuar de forma sistêmica, \"intervindo no ambiente escolar\" para criar estratégias que \"promovam o respeito, a empatia e a valorização da diversidade\", em vez de se limitar a culpar o agressor ou a vítima.",
+                      "explanation": "A atuação do psicólogo escolar em relação ao bullying deve ser \"sistêmica, intervindo no ambiente escolar para criar estratégias que promovam o respeito, a empatia e a valorização da diversidade, em vez de se limitar a culpar o agressor ou a vítima\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Fazer uma \"sala de aula\" sobre as consequências do bullying para o agressor, para que ele mude de comportamento.",
+                      "explanation": "O texto sugere uma atuação mais ampla e sistêmica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fazer uma intervenção de crise após a ocorrência de um caso de bullying, sem um trabalho de longo prazo.",
+                      "explanation": "O manual defende a prevenção."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q17",
+                  "statement": "Qual a principal crítica que o manual faz ao modelo de atuação que foca apenas em \"dificuldades de aprendizagem\" e em \"transtornos mentais\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que ele não reconhece a complexidade do sujeito, focando em uma visão reducionista e biológica.",
+                      "explanation": "O manual não aborda a visão biológica, mas sim a reducionista e fragmentada."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que ele não tem base científica, e não pode ser aplicado nas escolas.",
+                      "explanation": "O manual critica a aplicação, não a base científica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que ele desconsidera o \"contexto socio-histórico\" em que o aluno está inserido, focando apenas no indivíduo, o que leva a uma \"patologização do problema\" e não a uma \"solução integral\" que considere o sujeito e seu meio.",
+                      "explanation": "A crítica é a de que esse modelo \"desconsidera o contexto socio-histórico em que o aluno está inserido, focando apenas no indivíduo, o que leva a uma patologização do problema\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que ele é muito caro e inviável para as escolas públicas.",
+                      "explanation": "O manual não aborda a questão do custo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que ele foca demais na família, e não na escola.",
+                      "explanation": "O manual sugere que a atuação deve ser em todos os níveis, incluindo a família."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q18",
+                  "statement": "O manual defende que o psicólogo escolar deve ir além de uma atuação meramente \"remedial\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que o psicólogo não deve intervir em casos de problemas, deixando o trabalho para o psicólogo clínico.",
+                      "explanation": "O psicólogo escolar deve intervir, mas de forma mais ampla."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que o psicólogo deve focar apenas no desenvolvimento de políticas públicas, sem atuar na escola.",
+                      "explanation": "O manual sugere que a atuação deve ser na escola, mas de forma mais abrangente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que o psicólogo deve atuar em uma \"perspectiva preventiva\", \"intervindo nas causas\" e \"não apenas nos sintomas\", para que os problemas não se tornem crônicos e para que a escola se torne um espaço de promoção da saúde e do desenvolvimento humano.",
+                      "explanation": "O manual defende a \"superação da atuação puramente remediadora e a patologização do fracasso escolar, buscando uma visão crítica da realidade\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que o psicólogo deve focar na aplicação de testes, para que os problemas sejam diagnosticados o mais rápido possível.",
+                      "explanation": "O manual critica o viés psicotécnico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que o psicólogo deve \"remediar\" os problemas dos alunos, de forma rápida e pontual.",
+                      "explanation": "Remediar é a atuação criticada, e o manual defende uma atuação de longo prazo e sistêmica."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q19",
+                  "statement": "De acordo com o manual, como o psicólogo escolar pode auxiliar na gestão escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Atuando como um gestor, que toma as decisões pedagógicas e administrativas da escola.",
+                      "explanation": "Isso não é uma atribuição do psicólogo, que é um \"assessor\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Focando em questões administrativas e burocráticas, como a elaboração de relatórios.",
+                      "explanation": "O papel do psicólogo é de \"assessorar\" e \"colaborar\" nas questões pedagógicas e de desenvolvimento humano."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Auxiliando a gestão a \"compreender as relações interpessoais\" entre professores, alunos e funcionários, a \"promover um clima organizacional saudável\" e a \"tomar decisões que considerem os aspectos psicológicos, emocionais e sociais\" do processo educativo.",
+                      "explanation": "O manual aponta que o psicólogo pode \"atuar na gestão escolar, auxiliando a equipe gestora a compreender as relações interpessoais\" e a \"promover um clima organizacional saudável\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aconselhando a gestão a não se preocupar com questões emocionais e sociais, e a focar apenas no currículo.",
+                      "explanation": "O manual defende uma atuação que considere os aspectos emocionais e sociais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focando em questões de marketing para que a escola seja mais atrativa para os pais.",
+                      "explanation": "Isso não é uma atribuição do psicólogo escolar."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q20",
+                  "statement": "Qual o principal objetivo do psicólogo escolar ao \"articular família e escola\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Fazer uma intermediação de conflitos, de forma que a família não procure a justiça.",
+                      "explanation": "O objetivo é muito mais amplo que isso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Culpabilizar a família pelos problemas de aprendizagem dos alunos.",
+                      "explanation": "O manual critica o modelo que foca na culpa."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover o diálogo e a \"colaboração mútua\" entre ambas as instituições, para que elas atuem de forma conjunta no \"desenvolvimento integral da criança e do adolescente\", superando a visão de que a família \"cobre\" o que a escola não faz, ou vice-versa.",
+                      "explanation": "O manual defende que o psicólogo escolar deve \"articular família e escola, promovendo o diálogo e a colaboração mútua, para que ambas atuem de forma conjunta no desenvolvimento integral da criança e do adolescente\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Deixar claro para a família que a escola não tem responsabilidade pelo desenvolvimento social e emocional do aluno.",
+                      "explanation": "O manual defende que a escola tem responsabilidade no desenvolvimento integral do estudante."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fazer um trabalho de \"treinamento de pais\", ensinando a eles como educar seus filhos de forma correta.",
+                      "explanation": "O manual defende a colaboração, não o treinamento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q21",
+                  "statement": "Qual é a principal função da Psicologia Escolar na educação, segundo o manual?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas diagnosticar transtornos de aprendizagem.",
+                      "explanation": "O manual critica o viés clínico e individual, e defende uma atuação mais ampla."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas fazer pesquisas científicas sobre o processo de aprendizagem.",
+                      "explanation": "O manual defende uma atuação prática, que \"assessorar\" e \"colaborar\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Contribuir para a construção de uma educação mais \"humana, crítica e transformadora\", que \"considere o sujeito em sua totalidade\", e não apenas um \"receptor passivo de informações\", e que promova o \"desenvolvimento do viver em cidadania\" e a \"emancipação humana\".",
+                      "explanation": "A principal função da Psicologia Escolar na educação é \"contribuir para a construção de uma educação mais humana, crítica e transformadora, que considere o sujeito em sua totalidade\" e que promova o \"desenvolvimento do viver em cidadania\" e a \"emancipação humana\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ajudar a escola a aumentar o rendimento dos alunos em exames e vestibulares.",
+                      "explanation": "O foco não é apenas no rendimento, mas no desenvolvimento integral do estudante."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Atuar como um profissional de \"recursos humanos\" da escola, ajudando na seleção de professores.",
+                      "explanation": "Isso não é uma atribuição do psicólogo escolar."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q22",
+                  "statement": "De acordo com o manual, o que caracteriza a \"função social da escola\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A transmissão de conhecimentos de forma neutra e objetiva.",
+                      "explanation": "O manual defende uma visão crítica e transformadora da educação, não uma visão neutra."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A preparação dos alunos para o mercado de trabalho, de forma acrítica e alinhada com as demandas do capital.",
+                      "explanation": "O manual critica essa visão, e defende a \"emancipação humana\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover o desenvolvimento do \"viver em cidadania\" e a \"emancipação humana\", que permita aos alunos \"compreender a realidade social\" em que vivem, e atuar nela de forma \"crítica e transformadora\", em vez de reproduzir a desigualdade social.",
+                      "explanation": "A \"função social da escola\" é \"promover o desenvolvimento do viver em cidadania\" e a \"emancipação humana\", que permita aos alunos \"compreender a realidade social\" em que vivem, e atuar nela de forma \"crítica e transformadora\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A reprodução da ideologia dominante, de forma a manter o status quo.",
+                      "explanation": "O manual critica essa função da escola e defende uma função transformadora."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A socialização dos alunos, sem a preocupação com o desenvolvimento intelectual.",
+                      "explanation": "O manual defende o desenvolvimento integral do aluno, que inclui o intelectual."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q23",
+                  "statement": "Qual o principal papel do psicólogo escolar em relação à \"patologização da aprendizagem\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Auxiliar a escola a identificar os alunos com \"dificuldades de aprendizagem\" e encaminhá-los para o tratamento.",
+                      "explanation": "O manual critica essa atuação, que se limita ao viés clínico e individual."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ajudar os professores a \"culpabilizar\" os pais pelos problemas de aprendizagem de seus filhos.",
+                      "explanation": "O manual critica a culpabilização e defende uma visão mais ampla e sistêmica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Atuar de forma a \"desmistificar\" a ideia de que o fracasso escolar é um problema individual e orgânico do aluno, e a \"analisar o contexto\" social, familiar e escolar que pode estar contribuindo para o problema, superando a \"patologização da aprendizagem\".",
+                      "explanation": "A atuação do psicólogo escolar em relação à \"patologização da aprendizagem\" é \"desmistificar a ideia de que o fracasso escolar é um problema individual e orgânico do aluno, e a analisar o contexto\" social, familiar e escolar que pode estar contribuindo para o problema."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Focar em questões de transtornos mentais, para que os alunos recebam um diagnóstico preciso.",
+                      "explanation": "O manual defende uma atuação que vai além do diagnóstico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fazer um trabalho de \"higiene mental\" com os alunos, para que eles não desenvolvam problemas psicológicos.",
+                      "explanation": "O manual não aborda o conceito de \"higiene mental\"."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q24",
+                  "statement": "O manual defende que o psicólogo escolar deve ser um \"agente de mudança\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que o psicólogo deve tomar as decisões pela gestão da escola, para que as mudanças aconteçam mais rápido.",
+                      "explanation": "Isso não é uma atribuição do psicólogo, que deve ser um \"assessor\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que o psicólogo deve focar em questões de \"treinamento\" de professores e funcionários, para que eles mudem seus comportamentos.",
+                      "explanation": "O manual defende a colaboração e o assessoramento, não o treinamento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que o psicólogo deve atuar de forma \"ativa\" e \"crítica\" para transformar a escola em um espaço mais \"humano, democrático e acolhedor\", que \"promova o desenvolvimento integral do sujeito\" e que \"vá além da mera transmissão de conteúdo\", e que não se limite a uma atuação meramente \"remediadora\" ou \"psicotécnica\".",
+                      "explanation": "O manual defende que o psicólogo escolar deve ser um \"agente de mudança\", que atua de forma \"ativa\" e \"crítica\" para \"transformar a escola em um espaço mais humano, democrático e acolhedor\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que o psicólogo deve focar em ações pontuais, para que as mudanças ocorram de forma gradual.",
+                      "explanation": "O manual sugere um projeto de \"longo prazo\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que o psicólogo deve se limitar a \"observar\" o que acontece na escola, sem intervir nas mudanças.",
+                      "explanation": "O manual defende uma atuação ativa e crítica."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q25",
+                  "statement": "De acordo com o manual, qual é o principal papel do psicólogo escolar em relação à \"aprendizagem\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ajudar a escola a desenvolver estratégias que promovam uma aprendizagem mais \"crítica e significativa\", que \"vá além da mera memorização\" e que \"conecte o conteúdo\" com a \"realidade do aluno\" e com a sua \"prática social\", e que \"promova o desenvolvimento do pensamento crítico e da autonomia\" do estudante.",
+                      "explanation": "O manual defende que o psicólogo escolar deve \"auxiliar os educadores a compreenderem os processos de ensino-aprendizagem, a partir de uma visão mais ampla e sistêmica, que vá além da mera memorização, e que promova o desenvolvimento do pensamento crítico e da autonomia\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Focar na aplicação de testes de aptidão, para que os professores possam ter uma noção das habilidades de cada aluno.",
+                      "explanation": "O manual critica o viés psicotécnico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Auxiliar os alunos com problemas de aprendizagem, para que eles não reprovem de ano.",
+                      "explanation": "O manual defende uma atuação mais ampla, que não se limita a resolver problemas pontuais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ajudar os professores a desenvolver uma visão fragmentada do aluno, focando apenas na sua capacidade de absorver conteúdo.",
+                      "explanation": "Isso seria o oposto do que é proposto, que é uma visão holística e integral do aluno."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fazer um trabalho de \"treinamento de professores\", ensinando a eles como dar aulas de forma mais eficaz.",
+                      "explanation": "O manual defende a colaboração, não o treinamento."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q26",
+                  "statement": "O manual discute a \"relação entre desenvolvimento e aprendizagem\". Qual a principal visão dos autores sobre essa relação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A aprendizagem é um processo puramente individual, que ocorre de forma isolada do desenvolvimento.",
+                      "explanation": "O manual defende que o desenvolvimento e a aprendizagem estão interligados e se influenciam mutuamente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O desenvolvimento ocorre de forma natural, e a aprendizagem é apenas um \"reflexo\" do desenvolvimento.",
+                      "explanation": "Os autores se baseiam em teorias que veem o desenvolvimento e a aprendizagem em uma relação de mão dupla, em que a aprendizagem impulsiona e reconfigura o desenvolvimento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A aprendizagem e o desenvolvimento estão \"intimamente relacionados\" e se \"influenciam mutuamente\", em uma \"relação de mão dupla\", e a \"intervenção educacional\" tem um papel \"crucial\" na promoção do desenvolvimento do sujeito.",
+                      "explanation": "O manual afirma que a aprendizagem e o desenvolvimento estão \"intimamente relacionados\" e se \"influenciam mutuamente\", em uma \"relação de mão dupla\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desenvolvimento é um processo que ocorre de forma linear e previsível, sem a influência da aprendizagem.",
+                      "explanation": "A visão dos autores é que o desenvolvimento é complexo e não linear."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A aprendizagem é um processo de \"treinamento\" do desenvolvimento, de forma a acelerá-lo.",
+                      "explanation": "O manual critica a visão de \"treinamento\"."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q27",
+                  "statement": "Qual o principal papel do psicólogo escolar em relação à \"formação continuada dos professores\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Fazer palestras sobre transtornos mentais, para que os professores possam identificar os alunos que precisam de ajuda.",
+                      "explanation": "O manual critica o viés clínico e individual."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ajudar a escola a elaborar um projeto de \"capacitação de professores\" que se limite a ensiná-los sobre novas tecnologias.",
+                      "explanation": "A formação continuada deve ir além da tecnologia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Auxiliar a escola na \"elaboração de projetos\" que promovam a \"reflexão sobre a prática pedagógica\", que ajudem os professores a \"compreenderem os processos de desenvolvimento e aprendizagem\" e que \"criem um espaço de diálogo\" sobre as questões que os afligem no cotidiano escolar, como a indisciplina e a violência.",
+                      "explanation": "O manual defende que o psicólogo escolar pode \"atuar na formação continuada de professores, auxiliando a escola a elaborar projetos que promovam a reflexão sobre a prática pedagógica\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Fazer um trabalho de \"terapia em grupo\" com os professores, para que eles lidem com o estresse do trabalho.",
+                      "explanation": "A atuação do psicólogo escolar deve ser em um viés pedagógico e não clínico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aconselhar a gestão a \"culpabilizar\" os professores pelo baixo rendimento dos alunos.",
+                      "explanation": "O manual critica a culpabilização."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q28",
+                  "statement": "Qual a principal crítica do manual ao modelo que se limita à \"psicologia clínica\" na escola?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que ele é muito antigo e já foi superado por outras abordagens.",
+                      "explanation": "O manual mostra que ele ainda é a expectativa de muitos educadores."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que ele é muito caro e inviável para as escolas públicas.",
+                      "explanation": "O manual não aborda a questão do custo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que ele não consegue \"atuar nas causas\" dos problemas, pois se limita a \"intervir nos sintomas\", e que ele \"desconsidera\" as \"variáveis institucionais, sociais e pedagógicas\" que influenciam o processo educativo.",
+                      "explanation": "A principal crítica do manual ao modelo que se limita à \"psicologia clínica\" na escola é que ele \"não consegue atuar nas causas dos problemas, pois se limita a intervir nos sintomas\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que ele foca em questões de transtornos mentais, o que não é o papel do psicólogo na escola.",
+                      "explanation": "O manual não sugere que o psicólogo não deva atuar em transtornos, mas que a atuação deve ser mais ampla e sistêmica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que ele é muito lento e não consegue atender à demanda da escola.",
+                      "explanation": "O manual não aborda a questão da velocidade do modelo."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q29",
+                  "statement": "O manual defende a atuação do psicólogo escolar em uma perspectiva \"crítica\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que o psicólogo deve \"criticar\" o trabalho dos professores e da gestão da escola, para que eles mudem seus comportamentos.",
+                      "explanation": "O manual defende uma atuação de colaboração e assessoramento, não de crítica no sentido de \"reprovar\" o trabalho."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que o psicólogo deve \"analisar\" o contexto social, econômico e político da escola e de seus alunos, de forma a \"compreender os problemas\" em sua \"totalidade\" e a \"atuar nas causas\" e não apenas nos sintomas, e a \"superar a visão\" de que a educação é um processo neutro e objetivo.",
+                      "explanation": "O manual defende que o psicólogo escolar deve atuar em uma perspectiva \"crítica\", que \"analise o contexto social, econômico e político da escola e de seus alunos, de forma a compreender os problemas em sua totalidade\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que o psicólogo deve se limitar a \"criticar\" as políticas públicas de educação, sem atuar na escola.",
+                      "explanation": "O manual defende que a atuação deve ser na escola, mas de forma mais abrangente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que o psicólogo deve focar na \"teoria\" e não na \"prática\", para que sua atuação seja mais científica.",
+                      "explanation": "O manual defende uma articulação entre teoria e prática."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que o psicólogo deve focar apenas nos \"aspectos negativos\" da escola, para que eles sejam corrigidos.",
+                      "explanation": "O manual defende uma atuação que promova a saúde e o desenvolvimento humano."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_L4_Q30",
+                  "statement": "O manual destaca a importância da \"integração da cognição, motricidade, afetos e emoções\" na educação. Qual a principal razão para essa integração?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Para superar a visão de um sujeito fragmentado e reducionista, valorizando apenas o intelecto, e para promover um desenvolvimento holístico, onde o pensamento, a ação corporal e o sentir se complementam, formando um indivíduo mais completo e capaz de viver em cidadania.",
+                      "explanation": "A proposta de buscar a \"humanização do sujeito, através do encontro da cognição com a motricidade, os afetos e as emoções na educação\" sugere uma crítica a modelos educacionais que historicamente podem ter separado ou negligenciado um desses domínios, resultando em uma formação incompleta. A integração, por sua vez, alinha-se ao objetivo de \"desenvolvimento do viver em cidadania\" e ao \"desenvolvimento global do estudante\", reconhecendo o ser humano em sua totalidade complexa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica é à excessiva ênfase na integração, que desvia o foco do currículo acadêmico e das disciplinas formais.",
+                      "explanation": "A integração é valorizada, não criticada."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A humanização do sujeito é apenas uma questão filosófica, sem aplicação prática no cotidiano escolar.",
+                      "explanation": "É um objetivo da Psicologia Escolar e, portanto, tem aplicação prática."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A integração desses aspectos é responsabilidade exclusiva dos pais, não da escola.",
+                      "explanation": "É um papel da escola e do psicólogo na educação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O encontro da cognição com a motricidade, os afetos e as emoções é um processo natural que ocorre independentemente da intervenção educacional.",
+                      "explanation": "O manual sugere que a escola deve \"assessorar\" nesse processo."
+                    }
+                  ],
+                  "answer": "A"
+                }
+              ]
             }
           ]
         },
