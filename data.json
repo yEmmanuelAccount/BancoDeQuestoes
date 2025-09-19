@@ -993,6 +993,972 @@
                   "answer": "B"
                 }
               ]
+            },
+            {
+              "id": "p4_EeL_L2",
+              "title": "Lista 2: Código de Ética de 1995-96",
+              "questions": [
+                {
+                  "id": "p4_EeL_L2_Q1",
+                  "statement": "De acordo com os Princípios Fundamentais do Código de Ética Profissional dos Psicólogos, qual das seguintes afirmações descreve corretamente a base do trabalho do psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo baseará seu trabalho exclusivamente na busca do desenvolvimento pessoal e científico.",
+                      "explanation": "Incorreta. A base do trabalho do psicólogo é o respeito à dignidade e integridade do ser humano. O desenvolvimento pessoal, científico, técnico e ético é um dever constante, mas não a base exclusiva."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O trabalho do psicólogo visa apenas a promoção do bem-estar individual.",
+                      "explanation": "Incorreta. O psicólogo trabalhará visando a promover o bem-estar do indivíduo e da comunidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O psicólogo atuará sem se preocupar com a realidade política e social, focando apenas no indivíduo.",
+                      "explanation": "Incorreta. A atuação profissional do psicólogo compreenderá uma análise crítica da realidade política e social."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O trabalho do psicólogo baseia-se no respeito à dignidade e integridade do ser humano.",
+                      "explanation": "Correta! O Princípio Fundamental I estabelece que \"O Psicólogo baseará o seu trabalho no respeito à dignidade e integridade do ser humano\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O psicólogo não precisa se manter atualizado, pois a ética é imutável.",
+                      "explanation": "Incorreta. É dever do psicólogo aprimorar-se continuamente, assegurando que seu trabalho se baseie em conhecimento técnico e científico de ponta."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q2",
+                  "statement": "Qual princípio fundamental do Código de Ética Profissional enfatiza que o psicólogo deve buscar o aprimoramento constante de seu trabalho, considerando os avanços técnicos, científicos e éticos da profissão?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O princípio de que o psicólogo trabalhará visando a promover o bem-estar do indivíduo e da comunidade.",
+                      "explanation": "Incorreta. Este é o Princípio Fundamental II."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O princípio de que o psicólogo baseará seu trabalho no respeito à dignidade e integridade do ser humano.",
+                      "explanation": "Incorreta. Este é o Princípio Fundamental I."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O princípio de que o psicólogo deve prestar serviços de qualidade, baseados em conhecimento técnico, científico e ético, mantendo o aprimoramento contínuo.",
+                      "explanation": "Correta! O Princípio Fundamental III ressalta a importância de o profissional se manter atualizado e buscar a excelência em seus serviços."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O princípio de que o psicólogo considerará as relações de poder em seu trabalho.",
+                      "explanation": "Incorreta. Este é o Princípio Fundamental IV."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O princípio de que o psicólogo zelará para que o exercício profissional seja realizado com dignidade.",
+                      "explanation": "Incorreta. Este é o Princípio Fundamental V."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L2_Q3",
+                  "statement": "O Princípio Fundamental VII do Código de Ética estabelece que o psicólogo deve considerar as relações de poder em seu trabalho e suas consequências para o usuário dos serviços. Qual das seguintes condutas exemplifica a aplicação deste princípio?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aceitar um presente de alto valor de um cliente como forma de gratidão, sem registrar.",
+                      "explanation": "Incorreta. Isso pode comprometer a objetividade e a relação terapêutica, além de não abordar a questão do poder."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Impor uma única abordagem teórica ao cliente, desconsiderando suas crenças e valores.",
+                      "explanation": "Incorreta. Isso desconsidera a autonomia do cliente e a relação de poder na terapia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Utilizar a posição de autoridade para explorar a vulnerabilidade do cliente.",
+                      "explanation": "Incorreta. Essa conduta é antiética e vai contra todos os princípios do Código."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Garantir que a relação profissional se baseie no respeito e na promoção da autonomia e liberdade do cliente, reconhecendo a influência da própria posição e a vulnerabilidade do cliente.",
+                      "explanation": "Correta! O Princípio Fundamental VII enfatiza a necessidade de o psicólogo ser ciente de seu poder na relação e agir de forma a proteger o usuário de qualquer exploração ou manipulação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Exclusivamente focar nas causas internas do sofrimento do cliente, ignorando o contexto social e as relações de poder em que ele está inserido.",
+                      "explanation": "Incorreta. Isso é ir contra o princípio fundamental, pois ignora as relações de poder e o contexto."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q4",
+                  "statement": "Qual dos seguintes objetivos do Código de Ética Profissional dos Psicólogos de 1996 NÃO é considerado uma finalidade do documento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Suscitar reflexões sobre o exercício da profissão.",
+                      "explanation": "Incorreta. É um dos objetivos do Código de Ética Profissional dos Psicólogos de 1996."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Oferecer orientação à sociedade quanto aos padrões de conduta dos psicólogos.",
+                      "explanation": "Incorreta. É um dos objetivos do Código de Ética Profissional dos Psicólogos de 1996."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Auxiliar na defesa dos interesses da categoria.",
+                      "explanation": "Incorreta. É um dos objetivos do Código de Ética Profissional dos Psicólogos de 1996."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Disciplinar e punir exclusivamente o profissional, sem considerar a orientação.",
+                      "explanation": "Correta! O Código visa primariamente a orientar, e as sanções só se aplicam em casos de infração, conforme o Art. 42. A finalidade não é meramente punitiva, mas sim de orientação e regulação do exercício profissional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Incentivar a formulação de novos códigos no futuro.",
+                      "explanation": "Incorreta. É um dos objetivos do Código de Ética Profissional dos Psicólogos de 1996."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q5",
+                  "statement": "De acordo com as **disposições preliminares** do Código de Ética Profissional do Psicólogo, a quem se destina a aplicação e a observância dos seus princípios e normas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas aos psicólogos com mais de 5 anos de experiência.",
+                      "explanation": "Incorreta. As disposições preliminares afirmam que o Código se aplica a todos os psicólogos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Somente aos psicólogos que trabalham em consultório particular.",
+                      "explanation": "Incorreta. O Código se aplica a todos os profissionais, independentemente da área de atuação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Exclusivamente aos psicólogos filiados ao Conselho Federal de Psicologia.",
+                      "explanation": "Incorreta. As disposições preliminares aplicam-se a todos os psicólogos inscritos nos Conselhos Regionais de Psicologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A todos os psicólogos, inclusive os que ainda estão se formando.",
+                      "explanation": "Correta! As disposições preliminares do Código de Ética afirmam que suas disposições se aplicam e obrigam a todos os psicólogos inscritos nos Conselhos Regionais de Psicologia, bem como aos que, embora não inscritos, de qualquer forma, exerçam a profissão, embora não mencione explicitamente os estudantes, o Art. 46 trata da responsabilidade dos supervisores em relação a eles, e o Art. 47 obriga todos a conhecerem o Código. No entanto, é incorreto afirmar que o código se aplica diretamente aos estudantes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A todos os psicólogos inscritos nos Conselhos Regionais de Psicologia, bem como aos que, embora não inscritos, de qualquer forma, exerçam a profissão.",
+                      "explanation": "Correta! A Disposição Preliminar I é bem clara ao definir a quem o código se aplica."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_EeL_L2_Q6",
+                  "statement": "Qual dos seguintes direitos profissionais do psicólogo, listados no Código de Ética, é FALSO?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Recusar-se a prestar serviços que considere inadequados para a sua profissão.",
+                      "explanation": "Incorreta. O artigo 1º do Código de Ética Profissional assegura ao psicólogo o direito de recusar-se a prestar serviços que, a seu ver, sejam inadequados."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Trabalhar em instituições nas quais a dignidade e a autonomia do psicólogo não sejam asseguradas.",
+                      "explanation": "Correta! O Artigo 1º, que trata dos direitos do psicólogo, assegura o direito de \"trabalhar em instituições nas quais a dignidade e a autonomia profissionais, bem como as condições de trabalho compatíveis com o Código de Ética e a legislação profissional, sejam asseguradas\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Escolher, no limite da ética e da lei, os procedimentos técnicos e científicos a serem utilizados.",
+                      "explanation": "Incorreta. O artigo 1º do Código de Ética Profissional assegura ao psicólogo o direito de escolher os procedimentos técnicos e científicos a serem utilizados."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Sair ou suspender suas atividades, individual ou coletivamente, quando as condições de trabalho não forem dignas ou o exercício da profissão for desrespeitado.",
+                      "explanation": "Incorreta. O Artigo 1º, que trata dos direitos do psicólogo, assegura o direito de \"suspender, temporariamente ou definitivamente, seus serviços quando as condições de trabalho não forem dignas ou o exercício da profissão for desrespeitado\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Suspender o atendimento quando a falta de pagamento for reiterada.",
+                      "explanation": "Incorreta. O artigo 1º do Código de Ética Profissional assegura ao psicólogo o direito de suspender o atendimento quando a falta de pagamento for reiterada."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L2_Q7",
+                  "statement": "De acordo com o Capítulo II - Dos Deveres Fundamentais do Psicólogo, qual é uma das principais responsabilidades éticas que o profissional deve cumprir?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aceitar qualquer demanda, mesmo que não seja de sua competência.",
+                      "explanation": "Incorreta. O Art. 2º veda ao psicólogo, entre outras coisas, praticar ou ser conivente com atos que firam a ética profissional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Praticar ou ser conivente com atos que firam a ética profissional.",
+                      "explanation": "Correta! O Art. 2º do Código de Ética Profissional é claro ao estabelecer que é dever do psicólogo não praticar nem ser conivente com atos que firam a ética profissional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ignorar a realidade social e política em seu trabalho.",
+                      "explanation": "Incorreta. A atuação do psicólogo deve compreender uma análise crítica da realidade política e social."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Divulgar procedimentos não reconhecidos pela ciência, desde que tragam bons resultados.",
+                      "explanation": "Incorreta. O Art. 18 do Código de Ética Profissional veda ao psicólogo a divulgação de procedimentos não reconhecidos pela ciência."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Utilizar a profissão para conseguir vantagens pessoais em detrimento da sociedade.",
+                      "explanation": "Incorreta. O Art. 2º do Código de Ética Profissional é claro ao estabelecer que é dever do psicólogo não praticar nem ser conivente com atos que firam a ética profissional."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L2_Q8",
+                  "statement": "De acordo com o Art. 2º do Código de Ética, qual das seguintes condutas é considerada uma violação ética por parte do psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Avaliar o paciente e encaminhar para outro profissional, quando necessário.",
+                      "explanation": "Incorreta. Isso é uma conduta ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Prestar serviços em instituições nas quais a dignidade do psicólogo não é assegurada.",
+                      "explanation": "Correta! O Art. 2º do Código de Ética veda ao psicólogo \"prestar serviços que, a seu ver, sejam inadequados\" e \"trabalhar em instituições que não assegurem a dignidade e autonomia do psicólogo\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Respeitar a autonomia e a liberdade do paciente.",
+                      "explanation": "Incorreta. Isso é uma conduta ética."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Utilizar o diagnóstico de forma adequada, evitando rótulos.",
+                      "explanation": "Incorreta. Isso é uma conduta ética."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Manter o sigilo profissional.",
+                      "explanation": "Incorreta. Isso é uma conduta ética."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L2_Q9",
+                  "statement": "Qual dos seguintes deveres fundamentais do psicólogo, conforme o Art. 2º do Código de Ética, é INCORRETO?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É vedado ao psicólogo promover ou ser conivente com a exploração de clientes/usuários.",
+                      "explanation": "Incorreta. A exploração de clientes é expressamente proibida pelo Art. 2º."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É vedado ao psicólogo induzir convicções políticas, filosóficas, morais ou religiosas.",
+                      "explanation": "Incorreta. A indução de convicções é expressamente proibida pelo Art. 2º."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É vedado ao psicólogo utilizar o poder da relação profissional para fins de exploração.",
+                      "explanation": "Incorreta. O uso do poder da relação profissional para exploração é expressamente proibido pelo Art. 2º."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É vedado ao psicólogo prestar serviços profissionais, a seu ver, inadequados.",
+                      "explanation": "Incorreta. É um dos direitos do psicólogo, e também um dever, não prestar serviços que ele considere inadequados."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É vedado ao psicólogo encaminhar paciente para outro profissional, quando necessário.",
+                      "explanation": "Correta! O Art. 2º não veda, mas sim incentiva, o psicólogo a encaminhar pacientes para outros profissionais quando necessário, como forma de garantir o melhor atendimento. A questão pede a alternativa incorreta."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_EeL_L2_Q10",
+                  "statement": "O Art. 3º do Código de Ética afirma que o psicólogo, para intervir ou atuar com pessoas, grupos, instituições e comunidades, deverá considerar as necessidades, os direitos, os valores e os princípios do paciente/usuário, bem como os princípios éticos da profissão. Qual a principal implicação deste artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que o psicólogo deve sempre priorizar suas próprias crenças sobre as do paciente.",
+                      "explanation": "Incorreta. O artigo enfatiza a consideração dos valores do paciente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que a intervenção do psicólogo deve ser baseada apenas na teoria que ele domina, sem se preocupar com o contexto do paciente.",
+                      "explanation": "Incorreta. O artigo exige que o psicólogo considere as necessidades e valores do paciente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que o psicólogo deve sempre buscar o benefício do paciente, mesmo que para isso tenha que violar direitos e valores do mesmo.",
+                      "explanation": "Incorreta. O artigo exige que o psicólogo considere e respeite os direitos e valores do paciente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que o psicólogo deve trabalhar em instituições que desrespeitem a ética.",
+                      "explanation": "Incorreta. O Art. 2º veda essa conduta."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que o psicólogo não deve aceitar qualquer tipo de demanda, caso esta não se coadune com sua formação.",
+                      "explanation": "Incorreta. O Art. 3º afirma que o psicólogo, para intervir, deve considerar as necessidades, os direitos, os valores e os princípios do paciente/usuário, bem como os princípios éticos da profissão."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L2_Q11",
+                  "statement": "Qual dos seguintes princípios NÃO está relacionado à atuação do psicólogo em seu trabalho, de acordo com o Código de Ética?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir a autonomia do paciente/usuário.",
+                      "explanation": "Incorreta. A autonomia é um princípio fundamental."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Prestar serviços profissionais de qualidade, mantendo o aprimoramento contínuo.",
+                      "explanation": "Incorreta. É um dos princípios fundamentais do Código de Ética Profissional dos Psicólogos de 1996."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Analisar criticamente as relações de poder.",
+                      "explanation": "Incorreta. A análise crítica das relações de poder é um princípio fundamental."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Basear o trabalho exclusivamente na teoria de sua preferência.",
+                      "explanation": "Correta! O Art. 3º afirma que o psicólogo, para intervir ou atuar com pessoas, grupos, instituições e comunidades, deverá considerar as necessidades, os direitos, os valores e os princípios do paciente/usuário, bem como os princípios éticos da profissão. A questão pede a alternativa incorreta."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Prestar serviços profissionais de qualidade.",
+                      "explanation": "Incorreta. O Art. 3º afirma que o psicólogo, para intervir ou atuar com pessoas, grupos, instituições e comunidades, deverá considerar as necessidades, os direitos, os valores e os princípios do paciente/usuário, bem como os princípios éticos da profissão."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q12",
+                  "statement": "Qual dos seguintes documentos NÃO é uma referência ética importante para o psicólogo, de acordo com o Artigo 4º do Código de Ética?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Declaração Universal dos Direitos Humanos",
+                      "explanation": "Incorreta. O Art. 4º do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo deverá, no exercício da profissão, ter sempre em mente os princípios da Declaração Universal dos Direitos Humanos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estatuto da Criança e do Adolescente",
+                      "explanation": "Incorreta. O Art. 4º do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo deverá, no exercício da profissão, ter sempre em mente os princípios do Estatuto da Criança e do Adolescente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Código de Defesa do Consumidor",
+                      "explanation": "Correta! O Código de Defesa do Consumidor não é uma referência ética importante para o psicólogo, de acordo com o Artigo 4º do Código de Ética. O Art. 4º cita os Princípios da Declaração Universal dos Direitos Humanos, o Estatuto da Criança e do Adolescente e o Código de Ética Profissional dos Psicólogos, entre outros."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Constituição Federal Brasileira",
+                      "explanation": "Incorreta. O Art. 4º do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo deverá, no exercício da profissão, ter sempre em mente os princípios da Constituição Federal Brasileira."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Código Civil Brasileiro",
+                      "explanation": "Incorreta. O Art. 4º do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo deverá, no exercício da profissão, ter sempre em mente os princípios do Código Civil Brasileiro."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L2_Q13",
+                  "statement": "De acordo com o Art. 5º do Código de Ética Profissional dos Psicólogos de 1996, o que é vedado ao psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Colaborar com outros profissionais na realização de atividades interdisciplinares.",
+                      "explanation": "Incorreta. O Artigo 5º não veda a colaboração com outros profissionais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fornecer informações sobre os seus serviços a pacientes, desde que respeite a ética profissional.",
+                      "explanation": "Incorreta. O Artigo 5º não veda a divulgação de informações sobre os serviços, desde que respeite a ética."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apresentar sua identidade profissional somente a clientes.",
+                      "explanation": "Correta! O Art. 5º do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que é vedado ao psicólogo apresentar sua identidade profissional de forma que possa confundir o público, como, por exemplo, apresentando-se como \"psicólogo\" quando não o é."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Fornecer, a quem de direito, laudos e pareceres técnicos, desde que respeite o sigilo profissional.",
+                      "explanation": "Incorreta. O Artigo 5º não veda a divulgação de laudos e pareceres técnicos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Prestar serviços em instituições que assegurem a dignidade e autonomia do psicólogo.",
+                      "explanation": "Incorreta. O Artigo 5º não veda a prestação de serviços em instituições que assegurem a dignidade e autonomia do psicólogo."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L2_Q14",
+                  "statement": "Qual é a principal função do Capítulo IV, que trata das Relações com a clientela/usuário, no Código de Ética Profissional do Psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que o psicólogo receba o pagamento pelos seus serviços.",
+                      "explanation": "Incorreta. O pagamento é coberto pelo Capítulo VI, mas não é a principal função do Capítulo IV."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Definir as penalidades para infrações éticas.",
+                      "explanation": "Incorreta. As penalidades são tratadas no Capítulo VII."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estabelecer as normas para o sigilo profissional.",
+                      "explanation": "Incorreta. O sigilo profissional é tratado no Capítulo V."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Orientar a relação profissional entre o psicólogo e a pessoa que busca o serviço.",
+                      "explanation": "Correta! O Capítulo IV estabelece as normas para a relação profissional entre o psicólogo e a clientela/usuário, como a necessidade de o psicólogo ter respeito e consideração pelo cliente, bem como a necessidade de o cliente ter sua autonomia e liberdade respeitadas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Dispor sobre a responsabilidade dos Conselhos de Psicologia.",
+                      "explanation": "Incorreta. As responsabilidades dos Conselhos são tratadas no Capítulo VIII."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q15",
+                  "statement": "No que diz respeito ao sigilo profissional, qual das seguintes situações permite ao psicólogo revelar informações sobre seu cliente, de acordo com o Código de Ética?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Quando o cliente solicita o sigilo, mesmo em casos de perigo iminente.",
+                      "explanation": "Incorreta. O sigilo pode ser quebrado em casos de perigo iminente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas se o psicólogo for autorizado por uma autoridade judicial.",
+                      "explanation": "Incorreta. O sigilo pode ser quebrado em outras situações além das judiciais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas quando o psicólogo considerar importante para sua pesquisa acadêmica.",
+                      "explanation": "Incorreta. O sigilo só pode ser quebrado com autorização do cliente ou em casos de perigo iminente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Em situações em que a revelação seja para evitar o risco de morte ou violência iminente, ou em casos de doença grave do cliente, com o seu consentimento.",
+                      "explanation": "Correta! O Art. 21 do Código de Ética Profissional dos Psicólogos de 1996 estabelece que o psicólogo poderá revelar informações sobre seu cliente em casos de risco de morte ou violência iminente, ou em casos de doença grave do cliente, com o seu consentimento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Nunca, pois o sigilo é absoluto.",
+                      "explanation": "Incorreta. O sigilo profissional não é absoluto e pode ser quebrado em situações específicas."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q16",
+                  "statement": "No artigo 15 do Capítulo V do Código de Ética, qual é a principal condição para que a quebra de sigilo profissional seja justificada?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas por decisão do psicólogo, sem consulta ao cliente.",
+                      "explanation": "Incorreta. O artigo exige que a decisão seja baseada no interesse do cliente e com seu consentimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Quando o cliente estiver em risco de suicídio ou agressão a terceiros.",
+                      "explanation": "Correta! O Art. 15 afirma que \"a quebra de sigilo só será justificada em casos de grave risco para o cliente ou para terceiros, ou em situações em que o psicólogo seja obrigado, por lei, a fazê-lo\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Quando a família do cliente exigir a revelação de informações.",
+                      "explanation": "Incorreta. A família não tem o direito de exigir a quebra de sigilo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Em qualquer situação que envolva a divulgação de informações, desde que o psicólogo se responsabilize.",
+                      "explanation": "Incorreta. A quebra de sigilo só é justificada em casos de grave risco para o cliente ou para terceiros, ou em situações em que o psicólogo seja obrigado, por lei, a fazê-lo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Nunca, pois o sigilo é absoluto.",
+                      "explanation": "Incorreta. O sigilo profissional não é absoluto."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L2_Q17",
+                  "statement": "Qual dos seguintes é um exemplo de infração grave, que pode levar a penalidades severas, conforme o Código de Ética?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Não manter o sigilo profissional.",
+                      "explanation": "Incorreta. O sigilo profissional é um dever, e sua quebra pode levar a penalidades, mas não é considerada uma infração grave, se feita em casos de risco de vida."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Realizar uma consulta por telefone.",
+                      "explanation": "Incorreta. O Art. 11 do Código de Ética Profissional dos Psicólogos de 1996 não veda a realização de consultas por telefone, mas estabelece que o psicólogo deverá, no exercício da profissão, ter sempre em mente os princípios da Declaração Universal dos Direitos Humanos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Oferecer seus serviços em troca de favores.",
+                      "explanation": "Correta! O Art. 18, que trata das infrações graves, estabelece que é vedado ao psicólogo \"oferecer seus serviços em troca de favores\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Publicar em jornal ou revista científica.",
+                      "explanation": "Incorreta. O Art. 26 do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo poderá publicar em jornal ou revista científica, desde que respeite a ética profissional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Recusar a prestação de serviços a uma pessoa que não possa pagar.",
+                      "explanation": "Incorreta. O Art. 28 do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo poderá recusar a prestação de serviços a uma pessoa que não possa pagar, desde que não haja risco de vida."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L2_Q18",
+                  "statement": "Qual é a principal função do Capítulo VI, que trata das Relações com os demais profissionais da Psicologia e com a Sociedade?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Regulamentar o trabalho dos psicólogos em consultórios particulares.",
+                      "explanation": "Incorreta. O Capítulo VI não regulamenta o trabalho em consultórios particulares."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Definir as penalidades para infrações éticas.",
+                      "explanation": "Incorreta. As penalidades são tratadas no Capítulo VII."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estabelecer as normas para o sigilo profissional.",
+                      "explanation": "Incorreta. O sigilo profissional é tratado no Capítulo V."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Orientar a relação do psicólogo com seus pares e com a comunidade em geral.",
+                      "explanation": "Correta! O Capítulo VI estabelece as normas para a relação do psicólogo com seus pares e com a comunidade em geral, como a necessidade de o psicólogo ter respeito e consideração pelos seus pares, bem como a necessidade de o psicólogo ter uma análise crítica da realidade social."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Dispor sobre a responsabilidade dos Conselhos de Psicologia.",
+                      "explanation": "Incorreta. As responsabilidades dos Conselhos são tratadas no Capítulo VIII."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q19",
+                  "statement": "De acordo com o Art. 21 do Código de Ética Profissional dos Psicólogos de 1996, o psicólogo poderá revelar informações sobre seu cliente em casos de risco de morte ou violência iminente. Qual é a principal implicação deste artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O sigilo profissional é absoluto e não pode ser quebrado em nenhuma situação.",
+                      "explanation": "Incorreta. O sigilo profissional não é absoluto e pode ser quebrado em situações específicas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A quebra de sigilo só é justificada com autorização judicial.",
+                      "explanation": "Incorreta. A quebra de sigilo pode ser justificada em outras situações além das judiciais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A revelação de informações deve ser feita de forma indiscriminada.",
+                      "explanation": "Incorreta. A revelação de informações deve ser feita com cautela e apenas em situações de risco de morte ou violência iminente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O psicólogo deve sempre priorizar a segurança do cliente e de terceiros.",
+                      "explanation": "Correta! O Art. 21 do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo deverá, no exercício da profissão, ter sempre em mente os princípios da Declaração Universal dos Direitos Humanos, e que a quebra de sigilo só será justificada em casos de grave risco para o cliente ou para terceiros."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O psicólogo não tem responsabilidade sobre a segurança do cliente.",
+                      "explanation": "Incorreta. O psicólogo tem a responsabilidade de garantir a segurança do cliente e de terceiros."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q20",
+                  "statement": "O Artigo 22 do Código de Ética menciona que o psicólogo, ao participar de atividades de pesquisa, deverá ter sempre em mente os princípios éticos da profissão. Qual a principal implicação deste artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo não pode participar de pesquisas que envolvam seres humanos.",
+                      "explanation": "Incorreta. O Artigo 22 não proíbe a participação em pesquisas, mas exige o respeito aos princípios éticos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O psicólogo deve sempre priorizar os resultados da pesquisa sobre a dignidade dos participantes.",
+                      "explanation": "Incorreta. A dignidade dos participantes é um princípio fundamental."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O psicólogo deverá obter o consentimento livre e esclarecido dos participantes.",
+                      "explanation": "Correta! O Art. 22 do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo deverá, no exercício da profissão, ter sempre em mente os princípios da Declaração Universal dos Direitos Humanos, e que a quebra de sigilo só será justificada em casos de grave risco para o cliente ou para terceiros."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O psicólogo poderá utilizar dados de pacientes sem o seu consentimento, desde que para fins acadêmicos.",
+                      "explanation": "Incorreta. O Artigo 22 exige o consentimento livre e esclarecido dos participantes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O psicólogo não tem responsabilidade sobre a ética na pesquisa.",
+                      "explanation": "Incorreta. O psicólogo tem a responsabilidade de garantir a ética na pesquisa."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L2_Q21",
+                  "statement": "A respeito do Art. 24, que trata da publicidade dos serviços de psicologia, o que é proibido ao psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Divulgar informações sobre seus serviços em jornais e revistas.",
+                      "explanation": "Incorreta. O Art. 24 permite a divulgação de informações sobre os serviços, desde que respeite a ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Oferecer serviços em troca de favores, sem mencionar o valor da consulta.",
+                      "explanation": "Correta! O Artigo 24 proíbe a oferta de serviços em troca de favores."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Disponibilizar o valor da consulta em seu site ou em redes sociais.",
+                      "explanation": "Incorreta. O Artigo 24 permite a divulgação do valor da consulta, desde que respeite a ética."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Promover palestras e workshops gratuitos.",
+                      "explanation": "Incorreta. O Artigo 24 não proíbe a realização de palestras e workshops gratuitos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Publicar em jornal ou revista científica, desde que respeite a ética profissional.",
+                      "explanation": "Incorreta. O Artigo 24 permite a publicação de artigos científicos em jornais e revistas, desde que respeite a ética."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L2_Q22",
+                  "statement": "Qual é a principal função do Capítulo IX, que trata das Disposições Finais do Código de Ética?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que o psicólogo receba o pagamento pelos seus serviços.",
+                      "explanation": "Incorreta. O pagamento é coberto pelo Capítulo VI."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Definir as penalidades para infrações éticas.",
+                      "explanation": "Incorreta. As penalidades são tratadas no Capítulo VII."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estabelecer as normas para o sigilo profissional.",
+                      "explanation": "Incorreta. O sigilo profissional é tratado no Capítulo V."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Revogar as disposições anteriores e estabelecer a vigência do Código.",
+                      "explanation": "Correta! As Disposições Finais estabelecem a vigência do Código de Ética Profissional dos Psicólogos de 1996."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Dispor sobre a responsabilidade dos Conselhos de Psicologia.",
+                      "explanation": "Incorreta. As responsabilidades dos Conselhos são tratadas no Capítulo VIII."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q23",
+                  "statement": "De acordo com as **disposições preliminares** do Código de Ética Profissional do Psicólogo, qual é a principal função do Código?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Regulamentar a profissão e punir infrações.",
+                      "explanation": "Incorreta. O Código de Ética não se destina apenas a regulamentar e punir, mas também a orientar, como diz o Art. 1º do Capítulo I."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas orientar a sociedade.",
+                      "explanation": "Incorreta. O Código de Ética não se destina apenas a orientar a sociedade, mas também a orientar a profissão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas regular a relação do psicólogo com a clientela.",
+                      "explanation": "Incorreta. O Código de Ética não se destina apenas a regular a relação do psicólogo com a clientela, mas também a orientar a profissão em geral."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Regular a profissão, orientar o exercício profissional, e estabelecer padrões de conduta.",
+                      "explanation": "Correta! As Disposições Preliminares afirmam que o Código de Ética Profissional dos Psicólogos tem como objetivo orientar a profissão e estabelecer padrões de conduta."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Garantir que o psicólogo receba o pagamento pelos seus serviços.",
+                      "explanation": "Incorreta. O pagamento é coberto pelo Capítulo VI."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q24",
+                  "statement": "O Artigo 26 do Código de Ética estabelece que o psicólogo poderá publicar em jornal ou revista científica, desde que respeite a ética profissional. Qual a principal implicação deste artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo não pode publicar em jornal ou revista científica.",
+                      "explanation": "Incorreta. O Artigo 26 permite a publicação de artigos científicos em jornais e revistas, desde que respeite a ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A publicação deve ser feita de forma indiscriminada.",
+                      "explanation": "Incorreta. A publicação deve ser feita com cautela e apenas em situações de risco de morte ou violência iminente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A publicação deve ser feita com a autorização da autoridade judicial.",
+                      "explanation": "Incorreta. A publicação pode ser feita sem a autorização da autoridade judicial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A publicação deve ser feita com o consentimento do cliente.",
+                      "explanation": "Correta! O Artigo 26 é claro ao estabelecer que o psicólogo poderá publicar em jornal ou revista científica, desde que respeite a ética profissional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O psicólogo não tem responsabilidade sobre a ética na publicação.",
+                      "explanation": "Incorreta. O psicólogo tem a responsabilidade de garantir a ética na publicação."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q25",
+                  "statement": "No que diz respeito ao Art. 30, que trata da suspensão do atendimento por falta de pagamento, qual é a principal implicação deste artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo não pode suspender o atendimento por falta de pagamento.",
+                      "explanation": "Incorreta. O Artigo 30 permite a suspensão do atendimento por falta de pagamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A suspensão do atendimento deve ser feita de forma indiscriminada.",
+                      "explanation": "Incorreta. A suspensão do atendimento deve ser feita com cautela e apenas em situações de risco de morte ou violência iminente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A suspensão do atendimento deve ser feita com a autorização da autoridade judicial.",
+                      "explanation": "Incorreta. A suspensão do atendimento pode ser feita sem a autorização da autoridade judicial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O psicólogo pode suspender o atendimento por falta de pagamento, desde que o cliente não esteja em risco de vida.",
+                      "explanation": "Correta! O Art. 30 do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo poderá suspender o atendimento por falta de pagamento, desde que não haja risco de vida para o cliente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O psicólogo não tem responsabilidade sobre a segurança do cliente.",
+                      "explanation": "Incorreta. O psicólogo tem a responsabilidade de garantir a segurança do cliente."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q26",
+                  "statement": "No que diz respeito ao Art. 31, que trata da responsabilidade dos psicólogos em relação à supervisão, qual a principal implicação deste artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo não pode supervisionar outro profissional.",
+                      "explanation": "Incorreta. O Art. 31 permite a supervisão de outro profissional, desde que respeite a ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A supervisão deve ser feita de forma indiscriminada.",
+                      "explanation": "Incorreta. A supervisão deve ser feita com cautela e apenas em situações de risco de morte ou violência iminente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A supervisão deve ser feita com a autorização da autoridade judicial.",
+                      "explanation": "Incorreta. A supervisão pode ser feita sem a autorização da autoridade judicial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O psicólogo que supervisiona tem a responsabilidade de garantir que o supervisionado atue de acordo com a ética profissional, e o supervisionado é igualmente responsável por sua conduta.",
+                      "explanation": "Correta! O Art. 31 do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo que supervisiona tem a responsabilidade de garantir que o supervisionado atue de acordo com a ética profissional, e o supervisionado é igualmente responsável por sua conduta."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O psicólogo que supervisiona não tem responsabilidade sobre a ética do supervisionado.",
+                      "explanation": "Incorreta. O psicólogo que supervisiona tem a responsabilidade de garantir que o supervisionado atue de acordo com a ética profissional."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q27",
+                  "statement": "No que diz respeito ao Art. 35, que trata da responsabilidade dos psicólogos em relação à publicidade, qual a principal implicação deste artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo não pode fazer publicidade de seus serviços.",
+                      "explanation": "Incorreta. O Art. 35 permite a publicidade de serviços, desde que respeite a ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A publicidade deve ser feita de forma indiscriminada.",
+                      "explanation": "Incorreta. A publicidade deve ser feita com cautela e apenas em situações de risco de morte ou violência iminente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A publicidade deve ser feita com a autorização da autoridade judicial.",
+                      "explanation": "Incorreta. A publicidade pode ser feita sem a autorização da autoridade judicial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O psicólogo pode fazer publicidade de seus serviços, desde que o faça de forma clara e respeite a ética profissional, evitando sensacionalismo, promessas de resultados e o uso de depoimentos de clientes.",
+                      "explanation": "Correta! O Art. 35 do Código de Ética Profissional dos Psicólogos de 1996 é claro ao estabelecer que o psicólogo poderá fazer publicidade de seus serviços, desde que o faça de forma clara e respeite a ética profissional, evitando sensacionalismo, promessas de resultados e o uso de depoimentos de clientes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O psicólogo não tem responsabilidade sobre a ética na publicidade.",
+                      "explanation": "Incorreta. O psicólogo tem a responsabilidade de garantir a ética na publicidade."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q28",
+                  "statement": "Qual a principal diferença entre a função do Art. 46 e do Art. 47 do Código de Ética Profissional dos Psicólogos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ambos tratam da mesma responsabilidade: a denúncia de infrações por parte de todos os psicólogos.",
+                      "explanation": "Incorreta. O Art. 46 trata da formação do estudante e o Art. 47 do dever de todo psicólogo conhecer e cumprir o Código."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Art. 46 trata da formação dos psicólogos no ensino superior e o Art. 47 da responsabilidade dos psicólogos em relação à denúncia de infrações. Incorreta. A denúncia de infrações é coberta pelo Art. 43, e o Art. 46 trata especificamente da formação.",
+                      "explanation": "Incorreta. A denúncia de infrações é coberta pelo Art. 43, e o Art. 46 trata especificamente da formação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O Art. 46 atribui aos psicólogos docentes e supervisores a responsabilidade de esclarecer, informar, orientar e exigir dos estudantes a observância dos princípios e normas do Código, enfatizando a formação ética inicial. O Art. 47, por sua vez, estabelece que é dever de todo psicólogo conhecer, cumprir e fazer cumprir o Código, ressaltando a responsabilidade contínua de todos os profissionais. Incorreta. Ambos os artigos tratam da mesma responsabilidade, sem distinções, indicando que a responsabilidade ética é sempre igual para todos em todas as circunstâncias.",
+                      "explanation": "Incorreta. Ambos os artigos tratam da mesma responsabilidade, sem distinções, indicando que a responsabilidade ética é sempre igual para todos em todas as circunstâncias."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Art. 46 trata de penalidades por infrações e o Art. 47 da criação de comissões de ética para fiscalização. Incorreta. Penalidades estão no Art. 42 e comissões no Art. 41.",
+                      "explanation": "Incorreta. Penalidades estão no Art. 42 e comissões no Art. 41."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ambos os artigos tratam da mesma responsabilidade, sem distinções, indicando que a responsabilidade ética é sempre igual para todos em todas as circunstâncias. Incorreta. Há uma distinção clara entre a responsabilidade educacional de docentes/supervisores e o dever geral de todos os psicólogos, refletindo diferentes papéis na manutenção da ética profissional.",
+                      "explanation": "Incorreta. Há uma distinção clara entre a responsabilidade educacional de docentes/supervisores e o dever geral de todos os psicólogos, refletindo diferentes papéis na manutenção da ética profissional."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L2_Q29",
+                  "statement": "Qual é a principal função do Capítulo VIII, que trata da Fiscalização do Exercício Profissional, no Código de Ética?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que o psicólogo receba o pagamento pelos seus serviços.",
+                      "explanation": "Incorreta. O pagamento é coberto pelo Capítulo VI."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Definir as penalidades para infrações éticas.",
+                      "explanation": "Incorreta. As penalidades são tratadas no Capítulo VII."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estabelecer as normas para o sigilo profissional.",
+                      "explanation": "Incorreta. O sigilo profissional é tratado no Capítulo V."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Dispor sobre a responsabilidade dos Conselhos de Psicologia na fiscalização do exercício profissional e na aplicação das penalidades.",
+                      "explanation": "Correta! O Capítulo VIII estabelece a responsabilidade dos Conselhos de Psicologia na fiscalização do exercício profissional e na aplicação das penalidades."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Orientar a relação profissional entre o psicólogo e a pessoa que busca o serviço.",
+                      "explanation": "Incorreta. A relação profissional é tratada no Capítulo IV."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L2_Q30",
+                  "statement": "Qual das seguintes afirmações sobre o Código de Ética Profissional dos Psicólogos de 1996 é FALSA?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O Código de Ética tem como objetivo orientar a profissão e estabelecer padrões de conduta.",
+                      "explanation": "Incorreta. O Código de Ética tem como objetivo orientar a profissão e estabelecer padrões de conduta."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Código de Ética tem como objetivo garantir que o psicólogo receba o pagamento pelos seus serviços.",
+                      "explanation": "Correta! O Código de Ética não tem como objetivo garantir que o psicólogo receba o pagamento pelos seus serviços, mas sim orientar a profissão e estabelecer padrões de conduta."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O Código de Ética tem como objetivo regulamentar a profissão e punir infrações.",
+                      "explanation": "Incorreta. O Código de Ética tem como objetivo regulamentar a profissão e punir infrações, mas não é a sua única função."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Código de Ética tem como objetivo orientar a sociedade quanto aos padrões de conduta dos psicólogos.",
+                      "explanation": "Incorreta. O Código de Ética tem como objetivo orientar a sociedade quanto aos padrões de conduta dos psicólogos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Código de Ética tem como objetivo incentivar a formulação de novos códigos no futuro.",
+                      "explanation": "Incorreta. O Código de Ética tem como objetivo incentivar a formulação de novos códigos no futuro."
+                    }
+                  ],
+                  "answer": "B"
+                }
+              ]
             }
           ]
         },
