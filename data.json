@@ -6789,6 +6789,972 @@
                   "answer": "c"
                 }
               ]
+            },
+            {
+              "id": "p4_EeL_L8",
+              "title": "Lista 8: Lei nº 4.119, de 1962",
+              "questions": [
+                {
+                  "id": "p4_EeL_L8_Q1",
+                  "statement": "De acordo com o Art. 1º, a formação em Psicologia no Brasil, quando a Lei nº 4.119/62 foi promulgada, deveria ser realizada em qual tipo de instituição de ensino?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Escolas Técnicas e de Aplicação",
+                      "explanation": "Incorreta. A formação far-se-ia nas Faculdades de Filosofia."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Institutos Federais de Pós-Graduação",
+                      "explanation": "Incorreta. A formação far-se-ia nas Faculdades de Filosofia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Faculdades de Medicina e Ciências Sociais",
+                      "explanation": "Incorreta. A formação far-se-ia nas Faculdades de Filosofia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Faculdades de Filosofia",
+                      "explanation": "Correta! O Art. 1º estabelece que a formação em Psicologia far-se-á nas Faculdades de Filosofia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Escolas de Psicologia isoladas, mediante autorização do Governo Federal",
+                      "explanation": "Incorreta. A formação estava ligada às Faculdades de Filosofia."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q2",
+                  "statement": "Qual é o requisito de idade mínima exigido do candidato para a matrícula no curso de bacharelado em Psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "21 anos",
+                      "explanation": "Incorreta. Não existe idade mínima para a matrícula no curso de bacharelado em Psicologia, exceto a idade para a conclusão do curso médio."
+                    },
+                    {
+                      "id": "B",
+                      "text": "18 anos",
+                      "explanation": "Incorreta. Não existe idade mínima para a matrícula no curso de bacharelado em Psicologia, exceto a idade para a conclusão do curso médio."
+                    },
+                    {
+                      "id": "C",
+                      "text": "16 anos",
+                      "explanation": "Incorreta. Não existe idade mínima para a matrícula no curso de bacharelado em Psicologia, exceto a idade para a conclusão do curso médio."
+                    },
+                    {
+                      "id": "D",
+                      "text": "14 anos",
+                      "explanation": "Incorreta. Não existe idade mínima para a matrícula no curso de bacharelado em Psicologia, exceto a idade para a conclusão do curso médio."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Não existe idade mínima estabelecida na Lei",
+                      "explanation": "Correta! A Lei não estabelece idade mínima, exigindo apenas a conclusão do ciclo colegial ou equivalente e aprovação em exame vestibular para o curso de bacharelado em Psicologia."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_EeL_L8_Q3",
+                  "statement": "O Art. 2º da Lei nº 4.119/62 estabelece que o curso de Psicologia seria constituído por dois ciclos. Qual é o segundo ciclo e qual sua finalidade?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Bacharelado, com finalidade de formar o psicólogo para o trabalho em equipe interdisciplinar.",
+                      "explanation": "Incorreta. A finalidade do bacharelado é \"formar o psicólogo, com o objetivo de dar-lhe uma preparação de base para o trabalho especializado e a pesquisa\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Licenciatura, com finalidade de formar o psicólogo em um período de dois anos para a prática clínica.",
+                      "explanation": "Incorreta. A Licenciatura era um ciclo de duração mínima de um ano e tinha como objetivo a \"habilitação ao magistério secundário de Psicologia\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Formação do Psicólogo, com finalidade de conferir ao diplomado o título de Psicólogo.",
+                      "explanation": "Correta! O Art. 3º afirma que a formação do Psicólogo, que é o segundo ciclo, confere ao diplomado o título de Psicólogo e o habilita ao exercício da profissão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Especialização em Psicologia, com finalidade de conferir o título de especialista em uma área de atuação.",
+                      "explanation": "Incorreta. A lei não menciona um ciclo de especialização."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Pós-graduação, com finalidade de aprofundar o conhecimento teórico e prático.",
+                      "explanation": "Incorreta. A Lei 4.119/62 não abordava os cursos de pós-graduação, que seriam regulamentados posteriormente."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L8_Q4",
+                  "statement": "Qual é a duração mínima e máxima do curso de Formação do Psicólogo (segundo ciclo), conforme o Art. 3º da Lei nº 4.119/62?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Mínima de 2 anos e máxima de 3 anos",
+                      "explanation": "Incorreta. A Lei não estabelece um período máximo para a conclusão do curso, mas sim um período mínimo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Mínima de 3 anos e máxima de 5 anos",
+                      "explanation": "Incorreta. A duração mínima é de 3 anos, mas a Lei não especifica um período máximo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Mínima de 3 anos",
+                      "explanation": "Correta! O Art. 3º da Lei estabelece que a formação do psicólogo far-se-á em curso de 3 (três) anos, no mínimo, em Faculdades de Filosofia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Mínima de 4 anos",
+                      "explanation": "Incorreta. O Art. 3º estabelece que a duração mínima é de 3 anos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A duração varia de acordo com a instituição de ensino, sem mínimo ou máximo",
+                      "explanation": "Incorreta. A Lei estabelece um tempo mínimo para a conclusão do curso."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L8_Q5",
+                  "statement": "De acordo com o Art. 5º da Lei nº 4.119/62, para que o exercício da profissão de Psicólogo seja permitido, o diplomado deve ter o seu diploma devidamente registrado. Onde este registro deveria ser feito?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Na Secretaria de Educação e Cultura do Estado",
+                      "explanation": "Incorreta. O registro não é feito nas Secretarias de Educação Estaduais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "No Ministério da Saúde",
+                      "explanation": "Incorreta. O registro é feito no Ministério da Educação e Cultura."
+                    },
+                    {
+                      "id": "C",
+                      "text": "No Conselho Federal de Psicologia",
+                      "explanation": "Incorreta. A lei é anterior à criação dos Conselhos de Psicologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "No Ministério da Educação e Cultura",
+                      "explanation": "Correta! O Art. 5º estabelece que o exercício da profissão de Psicólogo é permitido ao diplomado que tenha seu diploma registrado no Ministério da Educação e Cultura."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Em qualquer Faculdade de Filosofia do país",
+                      "explanation": "Incorreta. O registro é feito no Ministério da Educação e Cultura."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q6",
+                  "statement": "O Art. 12 da Lei nº 4.119/62 determina que a fiscalização do exercício da profissão de Psicólogo competirá a quem?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ao Ministério do Trabalho",
+                      "explanation": "Incorreta. O texto não menciona o Ministério do Trabalho."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ao Ministério da Saúde",
+                      "explanation": "Incorreta. O texto não menciona o Ministério da Saúde."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aos Conselhos Federal e Regionais de Psicologia",
+                      "explanation": "Incorreta. A Lei é anterior à criação dos Conselhos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ao Ministério da Educação e Cultura",
+                      "explanation": "Correta! O Art. 12 determina que a fiscalização do exercício da profissão de Psicólogo competirá ao Ministério da Educação e Cultura, que a exercerá por intermédio do seu órgão competente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "À Ordem dos Advogados do Brasil (OAB)",
+                      "explanation": "Incorreta. A OAB é uma entidade de classe dos advogados."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q7",
+                  "statement": "Qual dos seguintes títulos confere ao diplomado o direito de exercer a profissão de Psicólogo, de acordo com o Art. 13 da Lei nº 4.119/62?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Diploma de Licenciado em Filosofia",
+                      "explanation": "Incorreta. A Licenciatura em Filosofia não confere o direito ao exercício da profissão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Diploma de Bacharel em Psicologia",
+                      "explanation": "Incorreta. O Bacharelado em Psicologia era o primeiro ciclo do curso, mas não conferia o direito ao exercício da profissão, que era dado pela conclusão do segundo ciclo, a Formação do Psicólogo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Diploma de Doutor em Filosofia",
+                      "explanation": "Incorreta. Apenas o título de Psicólogo confere o direito ao exercício da profissão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Diploma de Psicólogo",
+                      "explanation": "Correta! O Art. 13 determina que o exercício da profissão de Psicólogo é permitido ao diplomado que possua o título de Psicólogo, conferido na forma do Art. 3º desta lei."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Diploma de Bacharel em Ciências Sociais",
+                      "explanation": "Incorreta. A Lei não menciona o Bacharelado em Ciências Sociais."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q8",
+                  "statement": "De acordo com o Art. 15 da Lei nº 4.119/62, os cursos de Psicologia já existentes na data de publicação da Lei deveriam se adaptar. Qual era o prazo para essa adaptação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "90 dias",
+                      "explanation": "Incorreta. O prazo era de 1 ano."
+                    },
+                    {
+                      "id": "B",
+                      "text": "180 dias",
+                      "explanation": "Incorreta. Este era o prazo para os portadores de títulos requererem o registro."
+                    },
+                    {
+                      "id": "C",
+                      "text": "6 meses",
+                      "explanation": "Incorreta. O prazo era de 1 ano, ou seja, 12 meses."
+                    },
+                    {
+                      "id": "D",
+                      "text": "1 ano",
+                      "explanation": "Correta! O Art. 15 estabelece que os cursos de Psicologia existentes na data da publicação desta lei deveriam se adaptar às suas exigências no prazo de 1 (um) ano."
+                    },
+                    {
+                      "id": "E",
+                      "text": "2 anos",
+                      "explanation": "Incorreta. O prazo era de 1 ano."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q9",
+                  "statement": "O Art. 16 da Lei nº 4.119/62 trata dos alunos que concluíram a parte pedagógica e realizaram exame de suficiência em Psicologia. Qual era o direito concedido a esses alunos, de acordo com o § 2º?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O direito de requerer o título de Psicólogo no Ministério da Educação.",
+                      "explanation": "Correta! O Art. 16, § 2º, estabelece que os alunos que concluíram a parte pedagógica da Licenciatura em Pedagogia ou Filosofia, com exame de suficiência em Psicologia, teriam o direito de requerer o registro de sua formação como Psicólogos no MEC."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O direito de exercer a profissão de Psicólogo por um ano, sem registro.",
+                      "explanation": "Incorreta. A lei exige o registro para o exercício legal da profissão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O direito de ser dispensado de todas as disciplinas do curso de formação do Psicólogo.",
+                      "explanation": "Incorreta. A dispensa de disciplinas seria analisada caso a caso, e não era um direito automático."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O direito de se matricular no curso de formação do Psicólogo sem exame vestibular.",
+                      "explanation": "Incorreta. A Lei não menciona a dispensa de exame vestibular."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O direito de ser dispensado de estágios supervisionados na área.",
+                      "explanation": "Incorreta. A lei não menciona a dispensa de estágios."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L8_Q10",
+                  "statement": "De acordo com o Art. 17, as Faculdades de Filosofia que oferecessem o curso de Psicologia deveriam ter uma Seção de Psicologia. Qual a finalidade principal desta seção?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Realizar pesquisas científicas na área de Psicologia experimental.",
+                      "explanation": "Incorreta. Embora a pesquisa seja parte da atuação, a principal finalidade da seção não é a pesquisa experimental."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir a assistência psicológica aos alunos da faculdade.",
+                      "explanation": "Incorreta. A assistência psicológica não é a finalidade principal da Seção de Psicologia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ministrar aulas de Filosofia e disciplinas afins.",
+                      "explanation": "Incorreta. A seção de Psicologia tem como finalidade ministrar aulas de Psicologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Coordenar os cursos de graduação e pós-graduação.",
+                      "explanation": "Incorreta. O texto não menciona a coordenação de pós-graduação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Desenvolver e ministrar aulas teóricas e práticas, e prestar assistência psicológica.",
+                      "explanation": "Correta! O Art. 17 estabelece que a Seção de Psicologia, além de ministrar as aulas teóricas e práticas, seria responsável pela assistência psicológica, de acordo com o plano do curso."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_EeL_L8_Q11",
+                  "statement": "O Art. 18 da Lei nº 4.119/62 estabelece que os diplomas de Psicologia obtidos em Faculdades estrangeiras oficiais ou reconhecidas teriam equivalência no Brasil. Qual era o critério para essa equivalência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas se o curso estrangeiro tivesse duração mínima de 5 anos.",
+                      "explanation": "Incorreta. O critério era a equivalência com o curso brasileiro."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Mediante revalidação, na forma da legislação em vigor.",
+                      "explanation": "Correta! O Art. 18 estabelece que os diplomas de Psicologia expedidos por Faculdades estrangeiras seriam válidos no Brasil, mediante revalidação, na forma da legislação em vigor."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas se o país de origem tivesse um acordo de equivalência com o Brasil.",
+                      "explanation": "Incorreta. A revalidação era o critério principal, e não a existência de um acordo prévio."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Automaticamente, sem necessidade de qualquer procedimento adicional.",
+                      "explanation": "Incorreta. A lei exige a revalidação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Somente se o diplomado tivesse, no mínimo, 5 anos de experiência profissional.",
+                      "explanation": "Incorreta. O texto não menciona a experiência profissional como critério de equivalência."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L8_Q12",
+                  "statement": "O Art. 19 da Lei nº 4.119/62 estabelece uma exceção para o exercício da profissão de Psicólogo. Quais profissionais poderiam requerer o registro, mesmo sem o diploma de Psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Todos os profissionais que já atuavam como psicólogos antes de 1962.",
+                      "explanation": "Incorreta. A Lei estabelece critérios específicos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas os portadores de diploma de bacharel em Psicologia.",
+                      "explanation": "Incorreta. O Art. 19 é para quem não tinha o diploma de psicólogo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Profissionais de áreas afins (Filosofia, Pedagogia) com experiência de 5 anos.",
+                      "explanation": "Incorreta. O critério era o tempo de atuação, mas com comprovação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aqueles que já vinham exercendo a profissão em instituições públicas e privadas há mais de 5 anos.",
+                      "explanation": "Correta! O Art. 19 estabelece que poderão requerer o registro de Psicólogo aqueles que, até a data da publicação da Lei, vinham exercendo a profissão há mais de 5 anos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Os portadores de diplomas de pós-graduação em Psicologia.",
+                      "explanation": "Incorreta. O foco é nos que já exerciam a profissão."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q13",
+                  "statement": "De acordo com o Art. 20, a Lei nº 4.119/62 entraria em vigor em que data?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "1º de janeiro de 1963",
+                      "explanation": "Incorreta. A Lei entraria em vigor na data de sua publicação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "27 de agosto de 1962",
+                      "explanation": "Correta! O Art. 20 estabelece que a Lei nº 4.119/62 entraria em vigor na data de sua publicação, que foi em 27 de agosto de 1962."
+                    },
+                    {
+                      "id": "C",
+                      "text": "60 dias após a publicação",
+                      "explanation": "Incorreta. O Art. 20 não menciona um prazo de 60 dias."
+                    },
+                    {
+                      "id": "D",
+                      "text": "180 dias após a publicação",
+                      "explanation": "Incorreta. O prazo de 180 dias é para os profissionais requererem o registro, e não para a entrada em vigor da Lei."
+                    },
+                    {
+                      "id": "E",
+                      "text": "1 ano após a publicação",
+                      "explanation": "Incorreta. O prazo de 1 ano era para a adaptação dos cursos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L8_Q14",
+                  "statement": "O Art. 19, Parágrafo único, trata dos profissionais que, antes da Lei, tinham diploma de doutorado com tese sobre Psicologia. Qual era o requisito adicional para que esses profissionais pudessem requerer o registro de Psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Comprovar a conclusão de um curso de especialização em Psicologia, de 2 anos, em universidade nacional ou estrangeira.",
+                      "explanation": "Correta! O Art. 19, Parágrafo único, exige a \"comprovação de curso de especialização em Psicologia, de 2 anos, em Faculdade de Filosofia, de universidade oficial ou reconhecida, nacional ou estrangeira\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Comprovar que já exerciam a profissão há mais de 10 anos.",
+                      "explanation": "Incorreta. O requisito principal era a conclusão de um curso de especialização, e não o tempo de experiência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Comprovar a aprovação em um exame de suficiência em Psicologia.",
+                      "explanation": "Incorreta. O exame de suficiência era para os licenciados em Pedagogia ou Filosofia, e não para os doutores."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Comprovar a publicação de, no mínimo, 3 artigos científicos na área de Psicologia.",
+                      "explanation": "Incorreta. A Lei não menciona a publicação de artigos científicos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Comprovar a participação em, no mínimo, 5 congressos internacionais de Psicologia.",
+                      "explanation": "Incorreta. A Lei não menciona a participação em congressos."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L8_Q15",
+                  "statement": "O Art. 19, § 2º, estabelece que a fiscalização da comprovação do exercício profissional, nos termos do artigo, caberá a quem?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "À Ordem dos Advogados do Brasil (OAB)",
+                      "explanation": "Incorreta. A Lei não menciona a OAB."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ao Conselho Federal de Psicologia (CFP)",
+                      "explanation": "Incorreta. O CFP foi criado em 1971."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ao Ministério da Saúde",
+                      "explanation": "Incorreta. O Art. 19, § 2º, não menciona o Ministério da Saúde."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ao Ministério da Educação e Cultura (MEC)",
+                      "explanation": "Correta! O Art. 19, § 2º, estabelece que \"A fiscalização da comprovação do exercício profissional, nos têrmos dêste artigo, caberá ao Ministério da Educação e Cultura\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aos Conselhos Regionais de Psicologia (CRPs)",
+                      "explanation": "Incorreta. Os CRPs foram criados em 1971."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q16",
+                  "statement": "O Art. 4º da Lei nº 4.119/62 estabelece que os cursos de formação em Psicologia deveriam ter uma matriz curricular. Qual das seguintes disciplinas, listadas no Art. 4º, faz parte do currículo mínimo obrigatório?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Filosofia da Mente e Teoria do Conhecimento",
+                      "explanation": "Incorreta. Essas disciplinas não estão presentes na matriz curricular mínima do Art. 4º."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estatística e Psicometria",
+                      "explanation": "Correta! O Art. 4º inclui Estatística e Psicometria como parte da matriz curricular mínima."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Psicologia do Esporte e da Reabilitação",
+                      "explanation": "Incorreta. Essas disciplinas não estão presentes na matriz curricular mínima do Art. 4º."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Neuropsicologia e Neurociências",
+                      "explanation": "Incorreta. Essas disciplinas não estão presentes na matriz curricular mínima do Art. 4º."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Psicologia Jurídica e Forense",
+                      "explanation": "Incorreta. Essas disciplinas não estão presentes na matriz curricular mínima do Art. 4º."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L8_Q17",
+                  "statement": "O Art. 6º da Lei nº 4.119/62 estabelece uma exigência para a matrícula na Formação de Psicólogo. Qual é essa exigência, além de ser portador do diploma de Bacharel em Psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ter um ano de experiência profissional na área.",
+                      "explanation": "Incorreta. A lei não exige experiência profissional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Comprovar aprovação em um novo exame vestibular para a Formação do Psicólogo.",
+                      "explanation": "Incorreta. O texto não exige um novo exame vestibular."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ter concluído o curso de Licenciatura em Filosofia.",
+                      "explanation": "Incorreta. O requisito é o Bacharelado em Psicologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Possuir certificado de especialização em Psicologia.",
+                      "explanation": "Incorreta. O requisito é o Bacharelado em Psicologia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Não existe outra exigência, apenas ser portador do diploma de Bacharel em Psicologia.",
+                      "explanation": "Correta! O Art. 6º diz que \"a matrícula no curso de Formação de Psicólogo é permitida aos portadores de diploma de Bacharel em Psicologia\" e não exige nenhum outro requisito para a matrícula."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_EeL_L8_Q18",
+                  "statement": "O Art. 7º, § 1º, trata de uma dispensa de exame vestibular para os alunos de Licenciatura em Pedagogia. Qual é a condição para que esses alunos pudessem ser dispensados do exame vestibular para o curso de Formação de Psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ter no mínimo um ano de experiência profissional.",
+                      "explanation": "Incorreta. A lei não exige experiência profissional para a dispensa do vestibular."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ter cursado e sido aprovado nas disciplinas de Psicologia exigidas no currículo do curso de Pedagogia.",
+                      "explanation": "Correta! O Art. 7º, § 1º, estabelece que \"os alunos licenciados em Pedagogia, aprovados nas disciplinas de Psicologia exigidas no currículo do curso, poderão matricular-se no curso de Formação de Psicólogo, sem exame vestibular\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ter concluído o curso de Licenciatura em Filosofia.",
+                      "explanation": "Incorreta. O parágrafo trata especificamente dos licenciados em Pedagogia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Comprovar que trabalharam como professores de Psicologia em escolas técnicas.",
+                      "explanation": "Incorreta. A lei não menciona a necessidade de comprovar trabalho como professor."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ter cursado e sido aprovado em, no mínimo, 3 disciplinas da Formação de Psicólogo.",
+                      "explanation": "Incorreta. O parágrafo trata da aprovação em disciplinas do curso de Pedagogia."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L8_Q19",
+                  "statement": "O Art. 8º da Lei nº 4.119/62 estabelece que os alunos que já cursaram disciplinas em outros cursos superiores oficiais poderiam solicitar a dispensa de disciplinas. Qual o requisito para essa solicitação, conforme o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ter cursado as disciplinas em cursos de Faculdades de Filosofia.",
+                      "explanation": "Incorreta. O Art. 8º não restringe a dispensa apenas a Faculdades de Filosofia, mas a \"outros cursos superiores oficiais ou reconhecidos\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A dispensa deveria ser solicitada ao Conselho Federal de Educação.",
+                      "explanation": "Incorreta. A dispensa é solicitada à própria instituição de ensino, que encaminharia o pedido para aprovação do Conselho Universitário ou do MEC."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As disciplinas cursadas deveriam ter sido cursadas no mesmo ano da matrícula no curso de Psicologia.",
+                      "explanation": "Incorreta. A lei não especifica o ano em que as disciplinas foram cursadas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A dispensa era automática para qualquer disciplina cursada em curso superior.",
+                      "explanation": "Incorreta. A dispensa dependia de aprovação e era analisada caso a caso."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A dispensa de disciplinas era possível, desde que houvesse aprovação do Conselho Universitário ou do Ministério da Educação e Cultura.",
+                      "explanation": "Correta! O Art. 8º estabelece que a dispensa de disciplinas \"dependerá de aprovação, no caso de Universidades, do Conselho Universitário, e no de Faculdades isoladas, do Ministério da Educação e Cultura\"."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_EeL_L8_Q20",
+                  "statement": "O Art. 9º da Lei nº 4.119/62 estabelece que o exercício da profissão de Psicólogo é privativo a quem?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aos portadores de diploma de Doutor em Filosofia com tese sobre Psicologia.",
+                      "explanation": "Incorreta. Embora esses profissionais pudessem requerer o registro, o exercício é privativo dos diplomados com o título de Psicólogo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Aos professores de Psicologia que lecionavam antes da Lei.",
+                      "explanation": "Incorreta. O Art. 9º não menciona os professores."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aos diplomados com o título de Psicólogo e aos portadores de títulos de especialistas em Psicologia.",
+                      "explanation": "Incorreta. O texto especifica que o exercício é privativo dos diplomados com o título de Psicólogo e dos portadores de títulos de especialistas que comprovem a atuação antes da Lei."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aos portadores de diploma de psicólogo expedido por Faculdades de Filosofia.",
+                      "explanation": "Correta! O Art. 9º estabelece que o exercício da profissão de Psicólogo é privativo \"aos diplomados com o título de Psicólogo e aos portadores de diplomas de especialistas em Psicologia, expedidos por Faculdades de Filosofia\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aos licenciados em Pedagogia com exame de suficiência em Psicologia.",
+                      "explanation": "Incorreta. Esses profissionais podiam se matricular no curso de formação, mas o exercício da profissão é privativo dos diplomados com o título de Psicólogo."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q21",
+                  "statement": "De acordo com o Art. 10 da Lei nº 4.119/62, as funções de Psicólogo consistiam em?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Utilização de métodos e técnicas psicológicas com o objetivo de diagnóstico psicológico, orientação e seleção profissional, orientação psicopedagógica e solução de problemas de ajustamento.",
+                      "explanation": "Correta! O Art. 10 da Lei nº 4.119/62 define as funções de Psicólogo, incluindo o uso de métodos e técnicas psicológicas para diagnóstico, orientação, seleção, psicopedagogia e solução de problemas de ajustamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas a aplicação de testes psicológicos.",
+                      "explanation": "Incorreta. As funções são mais amplas do que a mera aplicação de testes."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas a orientação educacional em escolas.",
+                      "explanation": "Incorreta. O texto lista diversas funções, e não apenas a orientação educacional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apenas o diagnóstico e tratamento de doenças mentais.",
+                      "explanation": "Incorreta. A lei não menciona o tratamento de doenças mentais, mas sim o diagnóstico psicológico e a solução de problemas de ajustamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Apenas a pesquisa científica na área de Psicologia.",
+                      "explanation": "Incorreta. A pesquisa não é a única função listada no Art. 10."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L8_Q22",
+                  "statement": "O Art. 11, § 1º, da Lei nº 4.119/62, trata de uma exceção. Quais profissionais não estariam sujeitos à fiscalização, em que circunstância?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Profissionais de outras áreas que atuam com Psicologia, desde que não se intitulem psicólogos.",
+                      "explanation": "Incorreta. O parágrafo não menciona essa exceção."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Professores que, em caráter auxiliar e eventual, ministrem aulas de Psicologia.",
+                      "explanation": "Correta! O Art. 11, § 1º, estabelece que \"não se considera exercício da profissão de Psicólogo o ensino de disciplinas constantes dos cursos de graduação, por professor habilitado, em caráter auxiliar ou eventual\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Psicólogos que atuam em instituições de pesquisa sem fins lucrativos.",
+                      "explanation": "Incorreta. A lei não menciona essa exceção."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Profissionais de áreas afins que trabalham em equipe multidisciplinar.",
+                      "explanation": "Incorreta. A lei não menciona essa exceção."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Nenhum profissional está isento de fiscalização.",
+                      "explanation": "Incorreta. A lei estabelece uma exceção para professores em caráter auxiliar ou eventual."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_EeL_L8_Q23",
+                  "statement": "O Art. 14 da Lei nº 4.119/62 estabelece que o ensino de Psicologia e as funções de Psicólogo em estabelecimentos de ensino oficial ou reconhecido estariam a cargo de quem?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Professores de Filosofia e Pedagogia.",
+                      "explanation": "Incorreta. O Art. 14 restringe o ensino e as funções ao psicólogo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Profissionais de áreas afins (Filosofia, Pedagogia, Medicina).",
+                      "explanation": "Incorreta. O texto especifica que o ensino e as funções são privativos do psicólogo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Profissionais formados em Psicologia, devidamente habilitados.",
+                      "explanation": "Correta! O Art. 14 estabelece que o ensino e as funções de Psicólogo em estabelecimentos de ensino oficial ou reconhecido seriam privativos dos profissionais habilitados na forma desta lei."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Professores com doutorado em qualquer área de conhecimento.",
+                      "explanation": "Incorreta. A lei não menciona doutorado, mas sim a habilitação como psicólogo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Qualquer profissional com experiência comprovada.",
+                      "explanation": "Incorreta. A lei exige a habilitação como psicólogo."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L8_Q24",
+                  "statement": "O Art. 15, Parágrafo único, trata dos alunos que se matriculassem nos cursos existentes antes da Lei, mas que não se adaptassem. Qual era a situação desses alunos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Eles teriam que recomeçar o curso em uma faculdade já adaptada.",
+                      "explanation": "Incorreta. A lei não exige que o aluno recomece o curso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Eles não poderiam se formar como psicólogos.",
+                      "explanation": "Incorreta. A lei garante a continuidade para esses alunos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Eles teriam direito a completar o curso e obter o diploma de acordo com o regime anterior à Lei.",
+                      "explanation": "Correta! O Art. 15, Parágrafo único, garante que \"aos alunos matriculados nos cursos existentes, na data de publicação desta lei, será assegurado o direito de completá-los, e obter os diplomas, de acordo com os respectivos regimes, na vigência dos quais se matricularam\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Eles seriam submetidos a um exame de proficiência para obter o diploma.",
+                      "explanation": "Incorreta. A lei não menciona um exame de proficiência para esses alunos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A matrícula deles seria automaticamente cancelada.",
+                      "explanation": "Incorreta. A lei garante o direito de concluir o curso."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L8_Q25",
+                  "statement": "O Art. 16 da Lei nº 4.119/62 trata dos licenciados em Pedagogia, ou em Filosofia, com exame de suficiência em Psicologia. Qual era o requisito adicional para que esses profissionais pudessem requerer o registro de Psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ter um ano de experiência profissional.",
+                      "explanation": "Incorreta. A lei não exige experiência profissional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Comprovar que trabalharam como professores de Psicologia.",
+                      "explanation": "Incorreta. A lei não exige que tenham trabalhado como professores."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Comprovar a aprovação em disciplinas de Psicologia exigidas no currículo do curso de Pedagogia ou Filosofia.",
+                      "explanation": "Correta! O Art. 16 estabelece que \"Aos portadores de diplomas de licenciado em Pedagogia, ou em Filosofia, a quem o respectivo currículo permitia a realização de exame de suficiência em Psicologia, será assegurado o direito ao registro\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Comprovar a conclusão de um curso de pós-graduação.",
+                      "explanation": "Incorreta. A lei não exige pós-graduação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ter exercido a profissão de psicólogo em uma instituição pública ou privada, por mais de 5 anos, antes de 1962.",
+                      "explanation": "Incorreta. Esse era o requisito para os profissionais que já exerciam a profissão, mas não para os licenciados."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L8_Q26",
+                  "statement": "O Art. 19 da Lei nº 4.119/62 estabelece que os portadores de diploma ou certificado de especialista em Psicologia, expedidos por Faculdades de Filosofia, teriam direito ao registro de Psicólogo. Qual era o prazo para que esses profissionais requeressem o registro?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "90 dias",
+                      "explanation": "Incorreta. O prazo era de 180 dias."
+                    },
+                    {
+                      "id": "B",
+                      "text": "120 dias",
+                      "explanation": "Incorreta. O prazo era de 180 dias."
+                    },
+                    {
+                      "id": "C",
+                      "text": "60 dias",
+                      "explanation": "Incorreta. O prazo era de 180 dias."
+                    },
+                    {
+                      "id": "D",
+                      "text": "180 dias",
+                      "explanation": "Correta! O Art. 19 estabelece que os profissionais teriam o prazo de 180 dias, a contar da data da publicação da lei, para requerer o registro."
+                    },
+                    {
+                      "id": "E",
+                      "text": "2 anos",
+                      "explanation": "Incorreta. O prazo era de 180 dias."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q27",
+                  "statement": "O Art. 21 da Lei nº 4.119/62 estabelece que os requerimentos de registro de Psicólogo seriam feitos à Diretoria do Ensino Superior. Quais documentos deveriam ser anexados ao requerimento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas o diploma de Psicólogo.",
+                      "explanation": "Incorreta. O texto exige a comprovação do exercício da profissão, além do diploma."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas o comprovante de pagamento da taxa de registro.",
+                      "explanation": "Incorreta. A lei não menciona a taxa de registro."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas o certificado de conclusão do curso de formação.",
+                      "explanation": "Incorreta. A lei exige a comprovação do exercício da profissão, além do certificado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Diploma de Doutor em Filosofia com tese de Psicologia e comprovante de curso de especialização de 2 anos.",
+                      "explanation": "Correta! O Art. 21, Parágrafo único, estabelece que os requerimentos de registro deveriam ser acompanhados do \"diploma de Doutor em Filosofia com tese de Psicologia e do comprovante de curso de especialização em Psicologia, de 2 anos\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Apenas o comprovante de residência e o histórico escolar.",
+                      "explanation": "Incorreta. A lei não menciona esses documentos."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L8_Q28",
+                  "statement": "O Art. 22 da Lei nº 4.119/62 trata do parecer sobre os requerimentos de registro. Quem era o responsável por emitir esse parecer?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Comissão de Ensino de Psicologia do Conselho Federal de Educação (CFE).",
+                      "explanation": "Correta! O Art. 22 determina que a Diretoria do Ensino Superior encaminhará os requerimentos e a documentação a esta Comissão para a emissão de parecer justificado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Presidente da República.",
+                      "explanation": "Incorreta. O processo era conduzido pelo MEC."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O Conselho Regional de Psicologia.",
+                      "explanation": "Incorreta. O Decreto é anterior à criação dos Conselhos Regionais (informação externa para contexto, mas o órgão citado no Decreto é a Comissão)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Diretor do Ensino Superior.",
+                      "explanation": "Incorreta. O Diretor do Ensino Superior era quem encaminhava o processo, não quem emitia o parecer."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Ministro da Educação e Cultura.",
+                      "explanation": "Incorreta. O processo era conduzido pela Comissão de Ensino de Psicologia do Conselho Federal de Educação."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L8_Q29",
+                  "statement": "O Art. 19, § 1º, estabelece que os portadores de diploma ou certificado de especialista (Art. 19) requeressem o registro daqueles títulos como Psicólogos? Qual era o prazo para essa ação, a contar da publicação da lei?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "60 dias",
+                      "explanation": "Incorreta. Este era o prazo para o MEC expedir instruções."
+                    },
+                    {
+                      "id": "B",
+                      "text": "90 dias",
+                      "explanation": "Incorreta. O prazo era de 180 dias."
+                    },
+                    {
+                      "id": "C",
+                      "text": "180 dias",
+                      "explanation": "Correta! O Art. 19, § 1º, estabelece que o registro deverá ser requerido dentro de 180 dias, a contar da publicação desta lei."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um ano",
+                      "explanation": "Incorreta. Este era o prazo para adaptação dos cursos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "365 dias",
+                      "explanation": "Incorreta. O prazo era de 180 dias."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L8_Q30",
+                  "statement": "Se um aluno já foi aprovado em disciplinas em cursos superiores (oficiais ou reconhecidos) anteriormente realizados, qual órgão da Universidade (no caso de Universidades) é responsável pela aprovação da proposta de dispensa dessas disciplinas, feita pelo Conselho Técnico Administrativo (C.T.A.)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O Ministério da Educação e Cultura",
+                      "explanation": "Incorreta. O MEC aprova em Faculdades isoladas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Conselho Técnico Administrativo (C.T.A.)",
+                      "explanation": "Incorreta. O C.T.A. faz a proposta."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Diretoria do Ensino Superior",
+                      "explanation": "Incorreta. O órgão responsável na Universidade é o Conselho Universitário."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Conselho Universitário da Universidade",
+                      "explanation": "Correta! O Art. 8º determina que a dispensa de disciplinas depende da aprovação do Conselho Universitário da Universidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Conselho Federal de Educação",
+                      "explanation": "Incorreta. O órgão responsável é o Conselho Universitário da Universidade."
+                    }
+                  ],
+                  "answer": "D"
+                }
+              ]
             }
           ]
         },
