@@ -4857,10 +4857,976 @@
                   "answer": "b"
                 }
               ]
+            },
+            {
+              "id": "p4_EeL_L6",
+              "title": "Lista 6: História da Construção do Código de Ética em Psicologia",
+              "questions": [
+                {
+                  "id": "p4_EeL_L6_Q1",
+                  "statement": "De acordo com a introdução do texto, qual é a pretensão da história da construção do Código de Ética Profissional do Psicólogo (CEPP) narrada pela autora?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Preencher os vazios deixados pela História Oficial da Psicologia brasileira.",
+                      "explanation": "A autora narra a história \"sem a pretensão de preencher vazios deixados pela História Oficial\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apresentar a história em sua exatidão, recuperando integralmente os fatos do passado.",
+                      "explanation": "É impossível recobrar o passado em sua exatidão, pois \"história é discurso, é construção\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Articular os elementos do passado com a percepção, análise e forma de descrever da autora:",
+                      "explanation": "A história narrada articula \"os elementos do passado com a percepção da autora sobre os mesmos, sua análise e forma de descrevê-los\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Servir como único instrumento de consulta para o agir ético dos profissionais.",
+                      "explanation": "O texto salienta o caráter referencial do código, que deve ser considerado além dos valores pessoais."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ser o discurso oficial e definitivo sobre as normativas da categoria.",
+                      "explanation": "A história é uma construção que decorre da seleção e interpretação de fatos, não um discurso definitivo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q2",
+                  "statement": "Quais são os três Códigos de Ética Profissional que o texto menciona como marcos na história da Psicologia brasileira?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "1975, 1987, 2005:",
+                      "explanation": "Os códigos mencionados foram os de 1975 (Resolução CFP nº 02/75), 1987 (Resolução CFP nº 02/87) e 2005 (Resolução CFP nº 10/2005)."
+                    },
+                    {
+                      "id": "b",
+                      "text": "1962, 1975, 1987.",
+                      "explanation": "1962 é o ano de regulamentação da profissão, não de um código de ética."
+                    },
+                    {
+                      "id": "c",
+                      "text": "1971, 1987, 2005.",
+                      "explanation": "1971 é o ano da Lei nº 5.766 que cria o CFP, não de um código de ética."
+                    },
+                    {
+                      "id": "d",
+                      "text": "1962, 1971, 2005.",
+                      "explanation": "1962 e 1971 são marcos legais, mas não códigos de ética."
+                    },
+                    {
+                      "id": "e",
+                      "text": "1975, 1987, 2018.",
+                      "explanation": "O último código mencionado no texto é o de 2005."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L6_Q3",
+                  "statement": "O texto menciona que os primeiros códigos de ética da Psicologia brasileira (1975 e 1987) tinham um caráter predominantemente clínico. Qual a consequência disso para as áreas da prática psicológica?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Aprofundou o estudo teórico sobre as novas áreas da Psicologia, como a Psicologia Social.",
+                      "explanation": "A crítica é que eles não contemplavam a diversidade da atuação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Eles limitaram a atenção à prática em consultório, dificultando a abordagem de problemas sociopolíticos e organizacionais:",
+                      "explanation": "A característica predominante clínica dos códigos de 1975 e 1987 limitou a atenção à prática em consultório, dificultando a abordagem de questões sociopolíticas e organizacionais."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Eles foram considerados inadequados, pois não tratavam de modo algum do sigilo profissional.",
+                      "explanation": "A crítica principal é o caráter predominantemente clínico, não a ausência de sigilo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aumentaram a fiscalização do trabalho do psicólogo em hospitais.",
+                      "explanation": "A crítica é que o código não contemplava a diversidade da atuação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Geraram um movimento de valorização da Psicologia Organizacional e do Trabalho.",
+                      "explanation": "A predominância clínica não gerou valorização imediata, e, sim, o contrário."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q4",
+                  "statement": "No início da década de 90, o CFP publicou o documento \"Parâmetros para uma Política de Ética\" (1994). O que esse documento representou?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O segundo código de ética da profissão, consolidando os princípios de 1987.",
+                      "explanation": "Os Parâmetros foram publicados após 1987, mas não são um código de ética."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Um avanço na discussão ética da profissão e no debate entre os psicólogos:",
+                      "explanation": "O documento \"Parâmetros para uma Política de Ética\" (1994) foi um passo importante na discussão ética e no debate entre os psicólogos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A aprovação do terceiro código de ética, substituindo o de 1987.",
+                      "explanation": "O terceiro código é o de 2005."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Uma crítica formal à ética do psicólogo, mas sem propor melhorias.",
+                      "explanation": "O documento representou um avanço no debate."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Um documento que reafirmou a natureza individual e clínica da prática profissional.",
+                      "explanation": "Ele foi um avanço na discussão ética e no debate entre os psicólogos, o que sugere uma superação da visão predominantemente clínica."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q5",
+                  "statement": "O texto afirma que, para o exercício profissional, a Psicologia deve se pautar pela \"dimensão ético-política\". O que essa dimensão implica para o psicólogo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que o trabalho do psicólogo é neutro, sem envolvimento com questões sociais e políticas.",
+                      "explanation": "A dimensão ético-política implica no contrário, um envolvimento com questões sociais e políticas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que ele deve trabalhar para garantir que a sociedade seja mais justa, humana e equânime:",
+                      "explanation": "A dimensão ético-política implica que a psicologia deve trabalhar para garantir que a sociedade seja mais justa, humana e equânime."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que o psicólogo deve privilegiar a práxis clínica individual em detrimento de questões coletivas.",
+                      "explanation": "A dimensão ético-política busca justamente romper com essa visão individualista."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que as relações entre o psicólogo e as entidades de classe são hierárquicas, baseadas em regras e normas.",
+                      "explanation": "A dimensão ético-política busca uma relação mais horizontalizada."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A obediência estrita às leis e resoluções do CFP, sem reflexão crítica.",
+                      "explanation": "O texto enfatiza que o código é um instrumento de reflexão, não apenas um conjunto de normas."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q6",
+                  "statement": "O texto menciona que o primeiro Código de Ética (1975) foi elaborado em um período histórico específico no Brasil. Que período é esse e quais são as suas características?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Período democrático, caracterizado pela liberdade de expressão e a ampliação das discussões sobre direitos sociais.",
+                      "explanation": "O código de 1975 foi elaborado durante a ditadura militar."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Período da ditadura militar, com forte censura e cerceamento das liberdades individuais e coletivas:",
+                      "explanation": "O primeiro código foi elaborado em 1975, durante a ditadura militar, um período caracterizado por forte censura e cerceamento das liberdades individuais e coletivas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Período da redemocratização, com uma maior participação da sociedade civil no debate político.",
+                      "explanation": "A redemocratização foi o contexto do código de 1987 e do debate do código de 2005."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Período de transição para a democracia, com um movimento de maior abertura política.",
+                      "explanation": "A redemocratização foi o contexto do código de 1987 e do debate do código de 2005."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Período de forte crise econômica, que levou a uma maior precarização do trabalho do psicólogo.",
+                      "explanation": "A crise econômica é um fator, mas o contexto principal é a ditadura militar."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q7",
+                  "statement": "Durante o debate sobre a reformulação do Código de Ética de 1987, qual era a principal preocupação dos profissionais e das entidades de classe?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A inclusão de uma seção específica sobre publicidade profissional.",
+                      "explanation": "A preocupação era com a \"precarização das condições de trabalho\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A regulamentação dos novos campos de atuação da Psicologia, como a Psicologia Jurídica.",
+                      "explanation": "Embora a expansão das áreas de atuação fosse um fator, a principal preocupação era a precarização."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A ética do agir profissional, especialmente diante da precarização das condições de trabalho e da mercantilização da vida:",
+                      "explanation": "A preocupação era a ética do agir profissional diante da precarização das condições de trabalho e da mercantilização da vida."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A inclusão de um capítulo sobre o uso de novas tecnologias na prática clínica.",
+                      "explanation": "A preocupação principal era com a precarização das condições de trabalho."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A manutenção dos artigos do código de 1975, que foram considerados adequados para a época.",
+                      "explanation": "O código de 1987 já era uma reformulação do de 1975."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q8",
+                  "statement": "O texto menciona que o debate sobre a reformulação do código de 1987 foi conduzido com o objetivo de ouvir os psicólogos. Que método foi utilizado para isso?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Um plebiscito nacional organizado pelos Conselhos Regionais.",
+                      "explanation": "A metodologia foi a realização de seminários e oficinas de ética."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Um questionário online enviado a todos os psicólogos registrados no CFP.",
+                      "explanation": "A metodologia foi a realização de seminários e oficinas de ética."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A criação de uma comissão de especialistas para redigir o novo código.",
+                      "explanation": "A metodologia foi a realização de seminários e oficinas de ética, para ouvir os psicólogos."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A realização de seminários e oficinas de ética em diversos estados do país:",
+                      "explanation": "O texto diz que a metodologia para ouvir os psicólogos foi \"a realização de Seminários e Oficinas de Ética em diversos estados do país\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Uma enquete por carta enviada para uma amostra aleatória de psicólogos.",
+                      "explanation": "A metodologia foi a realização de seminários e oficinas de ética."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_EeL_L6_Q9",
+                  "statement": "O texto afirma que um dos propósitos da construção do CEPP de 2005 foi a ampliação da discussão sobre o agir ético do psicólogo. Qual foi a ferramenta usada para esse fim?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A criação de um anexo com estudos de caso para consulta dos profissionais.",
+                      "explanation": "O texto não menciona a criação de anexo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O desenvolvimento de uma plataforma digital para consulta de dúvidas éticas.",
+                      "explanation": "O texto não menciona a criação de plataforma digital."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Um documento anexo ao código com perguntas e respostas sobre os artigos.",
+                      "explanation": "O texto não menciona perguntas e respostas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O uso de textos e vídeos educativos sobre ética profissional.",
+                      "explanation": "O texto não menciona vídeos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A apresentação de casos concretos, dilemas e situações-limite para a reflexão:",
+                      "explanation": "Para ampliar a discussão, o CFP utilizou a apresentação de casos concretos, dilemas e situações-limite para a reflexão, por meio de seminários e oficinas."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_EeL_L6_Q10",
+                  "statement": "O Princípio Fundamental III do CEPP de 2005 estabelece que o psicólogo atuará com responsabilidade social, analisando criticamente a realidade política, econômica, social e cultural. De onde esse princípio se originou?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Das discussões sobre a responsabilidade do psicólogo na luta contra a ditadura militar.",
+                      "explanation": "A análise crítica da realidade surge nas discussões dos anos 80, no contexto da redemocratização e da \"Psicologia Social Comunitária\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Da necessidade de se alinhar à Declaração Universal dos Direitos Humanos.",
+                      "explanation": "O Princípio I se alinha à Declaração Universal, não o Princípio III."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Das críticas à postura \"neutra\" da Psicologia durante a ditadura militar, especialmente na atuação clínica:",
+                      "explanation": "Esse princípio se originou das críticas à postura \"neutra\" da Psicologia, especialmente na atuação clínica, diante da ditadura militar, e da emergência de uma \"Psicologia Social Comunitária\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Das exigências da Organização Mundial da Saúde (OMS) para as profissões da área da saúde.",
+                      "explanation": "O texto não menciona a OMS."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Da pressão de profissionais das áreas de Psicologia Organizacional e do Trabalho.",
+                      "explanation": "A crítica se originou da postura \"neutra\" da Psicologia."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q11",
+                  "statement": "A introdução do texto faz uma crítica à \"práxis clínica hegemônica\". Qual foi a consequência dessa hegemonia?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A ampliação da Psicologia como ciência e profissão.",
+                      "explanation": "A hegemonia limitou o desenvolvimento da psicologia em outras áreas, não o contrário."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A falta de visibilidade para as demais áreas da Psicologia, como a comunitária e a escolar:",
+                      "explanation": "A hegemonia da clínica causou uma falta de visibilidade para as demais áreas da psicologia, como a comunitária e a escolar, que foram consideradas \"alternativas\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O desenvolvimento de um código de ética centrado nos princípios fundamentais.",
+                      "explanation": "A hegemonia da clínica resultou em códigos de ética mais focados na prática clínica, não nos princípios fundamentais."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O reconhecimento da Psicologia como profissão legalmente regulamentada.",
+                      "explanation": "O reconhecimento legal ocorreu com a Lei de 1962, não com a hegemonia da clínica."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A valorização da inserção do psicólogo em contextos institucionais, como escolas e hospitais.",
+                      "explanation": "A crítica é que o caráter clínico hegemônico limitou a atuação em outras áreas."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q12",
+                  "statement": "O texto menciona que a construção do Código de Ética de 2005 foi um processo democrático. Qual o principal objetivo dessa abordagem?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Garantir a total liberdade de expressão aos psicólogos na formulação do código.",
+                      "explanation": "A abordagem visou a um debate crítico e participativo, mas não uma liberdade total."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Estabelecer uma única visão sobre a prática profissional, eliminando as ambiguidades.",
+                      "explanation": "O texto busca o contrário, aceitar a diversidade do agir profissional."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Garantir a autonomia profissional do psicólogo, sem a necessidade de um código de ética.",
+                      "explanation": "A construção democrática busca fortalecer o código, não eliminá-lo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Transformar o Código de Ética em um instrumento de reflexão e não apenas um conjunto de normas:",
+                      "explanation": "O processo democrático teve como principal objetivo transformar o Código de Ética em um instrumento de reflexão, mais do que um conjunto de normas."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Assegurar que o código de ética fosse aprovado apenas por uma comissão de especialistas.",
+                      "explanation": "O processo foi democrático, visando a participação ampla."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_EeL_L6_Q13",
+                  "statement": "A Lei Federal nº 5.766, de 20 de dezembro de 1971, mencionada no texto, foi responsável por qual marco na história da Psicologia brasileira?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A regulamentação da profissão de psicólogo.",
+                      "explanation": "A profissão foi regulamentada pela Lei nº 4.119/62."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A criação do Código de Ética Profissional.",
+                      "explanation": "A Lei 5.766 criou o CFP, não o código de ética."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A criação do Conselho Federal de Psicologia (CFP) e dos Conselhos Regionais (CRPs):",
+                      "explanation": "A Lei Federal nº 5.766, de 20 de dezembro de 1971, foi responsável pela criação do Conselho Federal de Psicologia (CFP) e dos Conselhos Regionais (CRPs)."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A obrigatoriedade do registro profissional para atuar como psicólogo.",
+                      "explanation": "A obrigatoriedade do registro é uma consequência da criação dos Conselhos, mas a Lei 5.766 não a criou."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O reconhecimento da Psicologia como ciência.",
+                      "explanation": "A Psicologia foi reconhecida como ciência em 1962."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q14",
+                  "statement": "O texto menciona que o debate para a criação do Código de 2005 considerou que os códigos anteriores (1975 e 1987) não respondiam à crescente inserção do psicólogo em contextos institucionais e coletivos. Qual foi a razão para isso?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Eles foram redigidos durante um período de recessão econômica, que limitou a expansão profissional.",
+                      "explanation": "O contexto histórico é a ditadura e o caráter predominantemente clínico."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Eles não contemplavam a diversidade do fazer profissional da Psicologia, focando na clínica:",
+                      "explanation": "O texto afirma que os códigos anteriores \"não contemplavam a diversidade do fazer profissional da psicologia, já que sua redação tinha o eco predominantemente clínico\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Eles se baseavam em um modelo de trabalho multiprofissional, que não se aplicava a todas as áreas de atuação.",
+                      "explanation": "O foco era na clínica individual, não no trabalho multiprofissional."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Eles não consideravam a Declaração Universal dos Direitos Humanos como referência.",
+                      "explanation": "A Declaração Universal é a base do CEPP de 2005, não dos anteriores."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Eles não tinham mecanismos de fiscalização para garantir a ética profissional.",
+                      "explanation": "A fiscalização é uma função dos Conselhos, não do código em si."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q15",
+                  "statement": "A partir de 1980, com o processo de redemocratização, houve uma mudança na Psicologia brasileira. Qual foi essa mudança?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O reforço da prática clínica como a principal atuação do psicólogo.",
+                      "explanation": "A mudança foi na direção contrária, de valorização das demais áreas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Uma maior ênfase na prática individual, com o objetivo de valorizar o trabalho em consultório.",
+                      "explanation": "A mudança foi na direção contrária, de valorização das demais áreas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A desvalorização da Psicologia Social e Comunitária.",
+                      "explanation": "O processo de redemocratização foi marcado pela emergência da Psicologia Social Comunitária."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A emergência de um novo modo de fazer psicologia, mais alinhado com as demandas sociais e coletivas:",
+                      "explanation": "A partir de 1980, emergiu um novo modo de fazer psicologia, mais alinhado com as demandas sociais e coletivas, o que se refletiu na construção de um novo código de ética."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A criação de novos Conselhos Regionais de Psicologia em todas as capitais do país.",
+                      "explanation": "O texto não menciona a criação de novos CRPs neste período."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_EeL_L6_Q16",
+                  "statement": "O texto afirma que a história da Psicologia no Brasil é inseparável de sua dimensão ético-política. Qual é a principal implicação disso para a profissão?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que a Psicologia deve se restringir ao debate acadêmico, sem se envolver em questões práticas.",
+                      "explanation": "A dimensão ético-política implica um forte envolvimento com a realidade."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que a prática do psicólogo está intrinsecamente ligada à realidade social, econômica e política do país:",
+                      "explanation": "A inseparabilidade da dimensão ético-política significa que a prática do psicólogo está intrinsecamente ligada à realidade social, econômica e política do país."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que os Conselhos de Psicologia devem se concentrar apenas na fiscalização técnica, sem se envolver em questões políticas.",
+                      "explanation": "O texto indica que os Conselhos têm um papel político e de engajamento social."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que a Psicologia deve atuar de forma neutra em relação a questões de classe social e poder.",
+                      "explanation": "A dimensão ético-política exige um posicionamento crítico."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que o Código de Ética deve ser um documento técnico e rígido, sem espaço para a reflexão.",
+                      "explanation": "O texto defende que o código seja um instrumento de reflexão."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q17",
+                  "statement": "A discussão sobre a necessidade de um novo código de ética se intensificou no final dos anos 90 e início dos anos 2000. Qual foi o principal motivo para isso?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O Código de 1987 era considerado muito abrangente, com excesso de princípios fundamentais.",
+                      "explanation": "O código de 1987 era considerado predominantemente clínico, não abrangente o suficiente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O aumento da judicialização da profissão, com um grande número de denúncias éticas.",
+                      "explanation": "O texto não menciona o aumento de denúncias como o principal motivo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A crítica de que os códigos de 1975 e 1987 não respondiam à complexidade e diversidade do fazer profissional da Psicologia:",
+                      "explanation": "A crítica principal era que os códigos anteriores não respondiam à complexidade e diversidade do fazer profissional, já que tinham um caráter predominantemente clínico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A falta de artigos que regulamentassem o sigilo profissional.",
+                      "explanation": "Os códigos anteriores já tratavam do sigilo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O sucesso do Código de 1987, que precisava de pequenas atualizações.",
+                      "explanation": "O movimento era para uma reformulação completa, devido às críticas."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q18",
+                  "statement": "O texto descreve um processo de \"mutação social\" que afetou a Psicologia. O que esse processo envolveu?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A migração de profissionais para as grandes cidades e o aumento da prática clínica.",
+                      "explanation": "O texto não menciona a migração, mas a expansão das áreas de atuação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A expansão de áreas de atuação e a inserção em novos espaços, como hospitais e escolas públicas:",
+                      "explanation": "A mutação social da Psicologia envolveu a expansão de áreas de atuação e a inserção em novos espaços, como hospitais, escolas públicas, empresas e outras organizações, o que o texto chama de \"multiplicidade de fazeres\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O fechamento de consultórios privados e o aumento do desemprego na profissão.",
+                      "explanation": "O processo foi de expansão, não de fechamento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A consolidação da Psicologia como uma profissão liberal, centrada no atendimento individual.",
+                      "explanation": "O texto defende a superação dessa visão individualista e liberal."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A especialização do psicólogo apenas em uma área de atuação, como a clínica ou a organizacional.",
+                      "explanation": "O processo foi de expansão e diversidade, não de especialização."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q19",
+                  "statement": "O texto afirma que o CEPP de 2005 valorizou a \"práxis do psicólogo\". O que essa valorização implica?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas a aplicação de técnicas e instrumentos psicológicos.",
+                      "explanation": "A práxis é uma forma de agir que articula teoria e prática, não apenas a aplicação de técnicas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A reflexão crítica sobre o agir profissional, articulando teoria e prática, em diferentes contextos:",
+                      "explanation": "A valorização da práxis implica na reflexão crítica sobre o agir profissional, articulando teoria e prática, em diferentes contextos, e considerando a relação com a realidade social."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O desenvolvimento de um conjunto de normas rígidas e inflexíveis para a atuação.",
+                      "explanation": "O CEPP de 2005 é um instrumento de reflexão, não um conjunto de normas rígidas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O reforço da ética da obediência, em detrimento da ética da responsabilidade.",
+                      "explanation": "O texto defende a ética da responsabilidade, que exige reflexão crítica."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A priorização do sigilo profissional sobre todos os outros princípios do código.",
+                      "explanation": "O código de 2005 busca equilibrar o sigilo com outros princípios, como a proteção da vida."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q20",
+                  "statement": "O texto menciona que o CEPP de 2005 foi formulado com base em sete Princípios Fundamentais. Qual a função desses princípios?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Servir como uma lista exaustiva de regras para a atuação profissional.",
+                      "explanation": "A função é orientar, não ser uma lista exaustiva."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Garantir a autonomia profissional do psicólogo, dispensando a consulta aos Conselhos de Psicologia.",
+                      "explanation": "A autonomia é importante, mas os Conselhos ainda têm o papel de fiscalização e orientação."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Delinear um caminho a ser seguido pelo profissional, servindo como eixos norteadores de sua prática:",
+                      "explanation": "Os Princípios Fundamentais servem como \"eixos norteadores da prática e da reflexão sobre o fazer profissional\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Proporcionar um código de ética que fosse imutável no tempo, dada a sua relevância.",
+                      "explanation": "O texto afirma que o código é um instrumento de reflexão e não imutável."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Estabelecer uma hierarquia entre as diferentes áreas da Psicologia.",
+                      "explanation": "Os princípios buscam valorizar todas as áreas, não hierarquizá-las."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q21",
+                  "statement": "De acordo com o texto, qual é a principal diferença entre o Código de Ética de 1987 e o de 2005?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O de 1987 era um instrumento de reflexão, e o de 2005 um conjunto de normas fixas.",
+                      "explanation": "É o contrário: o de 1987 era um conjunto de normas e o de 2005 um instrumento de reflexão."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O de 1987 era predominantemente clínico, enquanto o de 2005 passou a valorizar a diversidade da práxis:",
+                      "explanation": "O de 1987 era predominantemente clínico, e o de 2005 passou a valorizar a diversidade da práxis, a inserção social, a responsabilidade social e a promoção da saúde e da qualidade de vida."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O de 1987 foi elaborado de forma democrática, enquanto o de 2005 foi redigido por uma comissão de especialistas.",
+                      "explanation": "É o contrário: o de 2005 foi elaborado de forma democrática."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O de 1987 não tratava de sigilo, enquanto o de 2005 dedicou um capítulo inteiro ao tema.",
+                      "explanation": "Os códigos anteriores já tratavam do sigilo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O de 1987 era apenas um conjunto de princípios, enquanto o de 2005 era um conjunto de artigos.",
+                      "explanation": "O de 1987 tinha artigos e princípios."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q22",
+                  "statement": "O texto afirma que o processo de construção do CEPP de 2005 foi um \"discurso-prática\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que a construção do código ocorreu de forma isolada do exercício profissional.",
+                      "explanation": "A construção foi inseparável da práxis dos psicólogos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que a reflexão sobre o código foi separada da prática profissional, para garantir a imparcialidade.",
+                      "explanation": "A construção foi um processo de articulação entre discurso e prática."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que a construção do código foi um processo de articulação entre o debate teórico (discurso) e a prática profissional (práxis):",
+                      "explanation": "O processo de construção do CEPP de 2005 é descrito como um \"discurso-prática\", ou seja, uma articulação entre o debate teórico (discurso) e a prática profissional (práxis)."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que o código se baseou em uma visão puramente teórica e acadêmica da Psicologia.",
+                      "explanation": "A construção se baseou na articulação entre teoria e prática."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que o código foi um discurso vazio, sem implicação na prática dos psicólogos.",
+                      "explanation": "O processo foi uma articulação de discurso e prática."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q23",
+                  "statement": "A introdução do CEPP de 2005 afirma que o psicólogo deve se pautar na \"ética da responsabilidade\". O que isso significa?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A obediência estrita a todas as normas do Código de Ética.",
+                      "explanation": "O texto defende que o código é um instrumento de reflexão, não apenas um conjunto de normas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O agir profissional de forma a privilegiar os interesses individuais do psicólogo.",
+                      "explanation": "A ética da responsabilidade exige um agir em benefício da sociedade e dos indivíduos, não em benefício próprio."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O reconhecimento da importância de seu trabalho para a sociedade, mas sem a necessidade de engajamento político.",
+                      "explanation": "A ética da responsabilidade exige um engajamento político e social."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O agir profissional de forma a considerar as consequências sociais de sua ação, para além das normas e artigos do código:",
+                      "explanation": "A ética da responsabilidade é a ética do agir que considera as consequências sociais da ação, para além das normas e artigos, e que se alinha aos princípios éticos fundamentais."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A garantia de que o psicólogo é responsável apenas por sua atuação individual, sem responsabilidade coletiva.",
+                      "explanation": "O texto enfatiza a responsabilização pessoal e coletiva."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_EeL_L6_Q24",
+                  "statement": "O texto menciona a Resolução CFP n° 002/87 como um marco na história da Psicologia. Qual era o seu nome oficial?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Novo Código de Ética Profissional.",
+                      "explanation": "Este não é o nome oficial."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Código de Ética Profissional do Psicólogo.",
+                      "explanation": "Este é o nome do Código de 2005."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Código de Ética Profissional do Psicólogo.",
+                      "explanation": "O nome oficial é \"Código de Ética Profissional\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Novo Código de Ética.",
+                      "explanation": "Não é o nome oficial."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Não tinha nome oficial, era apenas conhecido como a Resolução n° 002/87.",
+                      "explanation": "A Resolução CFP n° 002/87 foi o \"Código de Ética Profissional\"."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q25",
+                  "statement": "Qual é a principal função do Conselho Federal de Psicologia (CFP) e dos Conselhos Regionais (CRPs), de acordo com a Lei Federal nº 5.766/71?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Organizar e fiscalizar o exercício da profissão:",
+                      "explanation": "A Lei Federal nº 5.766/71 atribui ao CFP e aos CRPs a função de \"orientar, disciplinar e fiscalizar o exercício da profissão de Psicólogo\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Criar as escolas de formação em Psicologia.",
+                      "explanation": "A criação de escolas é função do Ministério da Educação."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Estabelecer as remunerações e os honorários do psicólogo.",
+                      "explanation": "A fixação de remuneração é uma decisão do profissional, que deve se basear na tabela de honorários do CFP."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Definir as áreas de atuação da profissão, como clínica e escolar.",
+                      "explanation": "As áreas de atuação são definidas pela prática profissional, não pelos Conselhos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Arbitrar conflitos entre psicólogos e clientes, sem a necessidade de um código de ética.",
+                      "explanation": "O código de ética é o principal instrumento para mediar conflitos éticos."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L6_Q26",
+                  "statement": "O texto menciona que o primeiro Código de Ética (1975) foi influenciado por um documento da Associação Brasileira de Psicólogos (ABP). Qual era esse documento?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "As \"Normas para a Formação de Psicólogos no Brasil\".",
+                      "explanation": "O documento que influenciou o primeiro código foi o \"Código de Ética dos Profissionais de Psicologia\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O \"Código de Ética dos Profissionais de Psicologia\", de 1968:",
+                      "explanation": "O primeiro código foi influenciado por um \"anteprojeto de código elaborado pela ABP em 1968, chamado Código de Ética dos Profissionais de Psicologia\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O \"Manifesto dos Psicólogos Brasileiros\".",
+                      "explanation": "O texto não menciona um manifesto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A \"Carta de Goiânia\", que definiu as diretrizes para a atuação profissional.",
+                      "explanation": "O texto não menciona a \"Carta de Goiânia\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O \"Regulamento das Atribuições do Psicólogo\".",
+                      "explanation": "O regulamento de atribuições é um documento legal, não um código de ética."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q27",
+                  "statement": "O que o texto afirma sobre o processo de elaboração dos primeiros códigos de ética (1975 e 1987)?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Foram elaborados por meio de um amplo debate com a sociedade civil e com os Conselhos Regionais.",
+                      "explanation": "O debate foi interno, não com a sociedade civil."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Foram elaborados em um período democrático, com ampla participação dos psicólogos.",
+                      "explanation": "Os códigos de 1975 e 1987 foram elaborados em um período de ditadura e redemocratização, respectivamente, sem ampla participação dos psicólogos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Foram elaborados de forma centralizada e sem a participação democrática dos psicólogos:",
+                      "explanation": "Os primeiros códigos de ética foram elaborados de forma centralizada, sem a participação democrática dos psicólogos e sem contemplar a diversidade da prática."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Foram resultados de seminários e oficinas de ética realizados em todos os estados do país.",
+                      "explanation": "Essa metodologia foi usada na construção do código de 2005."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas o de 1987 foi elaborado com a participação dos psicólogos, por meio de um plebiscito.",
+                      "explanation": "O plebiscito não foi o método utilizado."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q28",
+                  "statement": "O texto menciona que o debate sobre a ética da profissão deve se pautar na \"ética da responsabilidade\". O que essa ética exige do profissional?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas a observância de normas e regras.",
+                      "explanation": "A ética da responsabilidade vai além das normas e regras, exigindo reflexão crítica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Uma postura de neutralidade, sem envolvimento com as questões sociais e políticas.",
+                      "explanation": "O texto defende o envolvimento e a análise crítica da realidade."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Uma reflexão sobre as consequências sociais de sua ação, para além das normas do código:",
+                      "explanation": "A ética da responsabilidade exige do profissional uma reflexão sobre as consequências sociais de sua ação, para além das normas e artigos do código."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O cumprimento rigoroso da tabela de honorários do CFP.",
+                      "explanation": "O cumprimento da tabela de honorários é uma obrigação, mas não a essência da ética da responsabilidade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A delegação de responsabilidades éticas para o Conselho Federal de Psicologia.",
+                      "explanation": "A ética da responsabilidade exige uma responsabilização pessoal e coletiva."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L6_Q29",
+                  "statement": "O texto afirma que o código de 1975 tinha \"o eco predominantemente clínico\". Qual a implicação disso em relação aos seus princípios fundamentais?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Não havia princípios fundamentais, apenas artigos e normas de conduta.",
+                      "explanation": "O código de 1975 tinha 5 princípios fundamentais."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Os princípios eram predominantemente voltados para a relação terapeuta-paciente, sem abordagem de questões sociais:",
+                      "explanation": "O \"eco predominantemente clínico\" dos códigos anteriores resultou em princípios que eram predominantemente voltados para a relação terapeuta-paciente, sem a necessária abordagem das questões sociais e coletivas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Eles tratavam de questões éticas para todas as áreas de atuação, como a Psicologia Organizacional e Escolar.",
+                      "explanation": "O texto afirma o contrário: os códigos anteriores não contemplavam a diversidade."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Os princípios estavam em conflito com os princípios fundamentais, concentrando-se em normas e artigos.",
+                      "explanation": "O código de 1975 tinha 5 princípios fundamentais."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apresentavam uma redação fraca e imprecisa, que não permitia a sanção do profissional em casos de discriminação.",
+                      "explanation": "A crítica era que eles tinham \"o eco predominantemente clínico\"."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L6_Q30",
+                  "statement": "A partir do caráter referencial e generalista do CEPP de 2005, o que o psicólogo deve considerar para tomar suas decisões, além das próprias normas do Código?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O senso-comum e as suas paixões individuais, para garantir a espontaneidade.",
+                      "explanation": "O psicólogo deve ir além do senso-comum."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Os valores e princípios nutridos ao longo de sua formação pessoal e profissional:",
+                      "explanation": "O psicólogo deve considerar, além do CEPP, \"os valores e princípios nutridos pelo psicólogo ao longo de sua formação pessoal e profissional\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A legislação estrita (Lei Federal), uma vez que o CEPP é apenas uma Resolução.",
+                      "explanation": "Embora o código seja uma Resolução, o texto foca nos valores e princípios nutridos pelo profissional."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas a opinião do juiz ou promotor (em casos judiciários), devido à expressão \"a quem de direito\".",
+                      "explanation": "O psicólogo deve manter sua autonomia e poder de deliberação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "As propostas de ações políticas que não se transformaram em artigos do Código de Ética.",
+                      "explanation": "As ações políticas são importantes, mas o texto foca nos valores e princípios nutridos ao longo da formação."
+                    }
+                  ],
+                  "answer": "b"
+                }
+              ]
             }
           ]
         },
-    
+
         {
           "id": "p4_psicopatologia2",
           "title": "🦆 Psicopatologia II",
