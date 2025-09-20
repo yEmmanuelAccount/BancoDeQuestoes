@@ -1959,6 +1959,972 @@
                   "answer": "B"
                 }
               ]
+            },
+            {
+              "id": "p4_EeL_L3",
+              "title": "Lista 3: Ética e Moral na Formação em Psicologia",
+              "questions": [
+                {
+                  "id": "p4_EeL_L3_Q1",
+                  "statement": "Qual foi a questão central que motivou a pesquisa apresentada no artigo \"Ética e Moral na Formação em Psicologia\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Como os psicólogos recém-formados aplicam o Código de Ética em sua prática clínica.",
+                      "explanation": "Incorreta. A questão central era \"Que lugar ocupam moral e ética na formação do psicólogo?\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A eficácia dos cursos de extensão em psicologia para o desenvolvimento moral dos estudantes.",
+                      "explanation": "Incorreta. Embora atividades extracurriculares sejam mencionadas, não foi a questão central da pesquisa."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O impacto da remuneração na escolha da área de atuação dos psicólogos.",
+                      "explanation": "Incorreta. A pesquisa não abordou a questão da remuneração ou escolha de área."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que lugar ocupam moral e ética na formação do psicólogo.",
+                      "explanation": "Correta! O texto afirma que \"A questão que motivou este trabalho foi: “Que lugar ocupam moral e ética na formação do psicólogo?”\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A influência do mercado de trabalho nos conceitos de ética e moral dos profissionais.",
+                      "explanation": "Incorreta. A pesquisa foca no ambiente acadêmico e na formação do psicólogo, não no mercado de trabalho."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q2",
+                  "statement": "De acordo com o artigo, qual foi a metodologia utilizada para coletar os dados sobre a percepção de ética e moral na formação em psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Entrevistas semiestruturadas com docentes e coordenadores de curso.",
+                      "explanation": "Incorreta. O artigo não menciona o uso de entrevistas com docentes e coordenadores de curso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Análise de documentos curriculares das instituições de ensino.",
+                      "explanation": "Incorreta. A metodologia do estudo não foi a análise de documentos curriculares."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Questionários online com perguntas de múltipla escolha para uma amostra ampla de estudantes.",
+                      "explanation": "Incorreta. Embora a pesquisa tenha usado questionários, eles não foram online e as perguntas não foram de múltipla escolha."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Questionários com questões abertas aplicados a um grupo de alunos de psicologia.",
+                      "explanation": "Correta! O texto descreve o uso de um \"questionário com questões abertas a um grupo de alunos de psicologia de uma universidade pública federal\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Observação participante do comportamento ético dos estudantes em sala de aula.",
+                      "explanation": "Incorreta. O estudo não utilizou a observação participante como metodologia."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q3",
+                  "statement": "Qual foi o principal resultado da pesquisa em relação à percepção dos alunos sobre o papel da universidade no desenvolvimento de sua responsabilidade ética e moral?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A maioria dos alunos percebe que a universidade oferece um ambiente de ampla reflexão sobre ética e moral.",
+                      "explanation": "Incorreta. A pesquisa aponta o contrário, ou seja, que a universidade não oferece um ambiente de ampla reflexão sobre ética e moral."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Os alunos consideram que a universidade não tem qualquer papel na sua formação ética e moral.",
+                      "explanation": "Incorreta. Embora os alunos não percebam a universidade como o principal ambiente de reflexão, eles a consideram importante."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A pesquisa revelou que os alunos percebem a universidade como o principal local de desenvolvimento da responsabilidade ética e moral, superando a família e a sociedade.",
+                      "explanation": "Incorreta. O artigo mostra que a família e a sociedade são percebidas como os principais locais de desenvolvimento da responsabilidade ética e moral."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Os resultados apontam para uma baixa percepção de que a universidade cria oportunidades para a reflexão sobre ética, com a maioria dos alunos sentindo falta de um ambiente que promova esse tipo de debate.",
+                      "explanation": "Correta! O texto afirma que \"Os resultados revelam que a maioria dos alunos não percebe a universidade como um espaço que fomente ou propicie a reflexão e discussão sobre os temas da ética e da moral, o que causa um sentimento de frustração em alguns deles\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A pesquisa não coletou dados sobre a percepção dos alunos sobre o papel da universidade no desenvolvimento de sua responsabilidade ética e moral.",
+                      "explanation": "Incorreta. A pesquisa coletou dados sobre a percepção dos alunos sobre o papel da universidade no desenvolvimento de sua responsabilidade ética e moral."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q4",
+                  "statement": "Qual a principal crítica feita pelo artigo à forma como o Código de Ética Profissional é frequentemente ensinado nas universidades?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais.",
+                      "explanation": "Correta! O texto critica a visão do Código como um \"código de leis e regras\" e defende que \"o conhecimento dos Códigos de Ética deve ser o ponto de partida para a reflexão ética, e não a finalidade da formação\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica é que o Código de Ética é ensinado de forma muito prática, sem a devida fundamentação teórica.",
+                      "explanation": "Incorreta. A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A crítica é que o Código de Ética não é ensinado, sendo deixado para ser aprendido na prática profissional.",
+                      "explanation": "Incorreta. O artigo afirma que o Código de Ética é ensinado, mas de forma descontextualizada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crítica é que o Código de Ética é ensinado de forma muito aprofundada, com excesso de detalhes, o que o torna complexo demais para os alunos.",
+                      "explanation": "Incorreta. A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A crítica é que o Código de Ética é ensinado de forma muito teórica, sem a devida fundamentação prática.",
+                      "explanation": "Incorreta. A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L3_Q5",
+                  "statement": "O artigo argumenta que uma formação ética e moral adequada deve ir além do ensino do Código de Ética. Qual das alternativas abaixo apresenta a principal proposta do artigo para uma abordagem mais eficaz?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A principal proposta é que a formação ética se concentre apenas no estudo de casos práticos, ignorando a teoria.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da teoria."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A principal proposta é que a formação ética se concentre apenas na teoria, ignorando a prática.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da prática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A principal proposta é que a formação ética se concentre em atividades extracurriculares, deixando o ensino em sala de aula para o Código de Ética.",
+                      "explanation": "Incorreta. O artigo defende que a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, não apenas as atividades extracurriculares."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A principal proposta é que a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, com a inclusão de discussões sobre o tema e a criação de oportunidades para a reflexão crítica.",
+                      "explanation": "Correta! O texto defende que \"o conhecimento dos Códigos de Ética deve ser o ponto de partida para a reflexão ética, e não a finalidade da formação\", e que a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A principal proposta é que a formação ética e moral deve ser responsabilidade exclusiva da família e da sociedade.",
+                      "explanation": "Incorreta. O artigo defende que a universidade tem um papel fundamental na formação ética e moral do psicólogo."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q6",
+                  "statement": "De acordo com o artigo, qual a principal razão para os alunos se sentirem frustrados com a falta de oportunidades para discutir ética e moral na universidade?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Os alunos se sentem frustrados porque a universidade não oferece um ambiente de ampla reflexão sobre ética e moral.",
+                      "explanation": "Incorreta. O artigo afirma que a maioria dos alunos não percebe que a universidade oferece um ambiente de ampla reflexão sobre ética e moral, mas não diz que a falta de oportunidades é a principal causa de frustração."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Os alunos se sentem frustrados porque não conseguem aplicar o Código de Ética em sua prática profissional.",
+                      "explanation": "Incorreta. O artigo não menciona que a falta de oportunidades para discutir ética e moral na universidade causa a impossibilidade de aplicar o Código de Ética na prática profissional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Os alunos se sentem frustrados porque a universidade não oferece um ambiente de ampla reflexão sobre ética e moral, o que causa um sentimento de frustração em alguns deles.",
+                      "explanation": "Correta! O texto afirma que \"Os resultados revelam que a maioria dos alunos não percebe a universidade como um espaço que fomente ou propicie a reflexão e discussão sobre os temas da ética e da moral, o que causa um sentimento de frustração em alguns deles\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Os alunos se sentem frustrados porque a universidade não aborda o tema de forma aprofundada, com excesso de detalhes, o que o torna complexo demais para eles.",
+                      "explanation": "Incorreta. A crítica é que a universidade não aborda o tema de forma aprofundada, mas não que a falta de aprofundamento causa frustração."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Os alunos se sentem frustrados porque a universidade não aborda o tema de forma prática, com falta de casos reais.",
+                      "explanation": "Incorreta. O artigo não menciona que a falta de casos reais causa frustração."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q7",
+                  "statement": "Qual é a principal implicação da pesquisa para o ensino de psicologia nas universidades?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A principal implicação é que o ensino de psicologia deve se concentrar em atividades extracurriculares, deixando o ensino em sala de aula para o Código de Ética.",
+                      "explanation": "Incorreta. O artigo defende que a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, não apenas as atividades extracurriculares."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A principal implicação é que o ensino de psicologia deve se concentrar em aulas teóricas, sem a devida fundamentação prática.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da prática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A principal implicação é que o ensino de psicologia deve se concentrar em aulas práticas, sem a devida fundamentação teórica.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da teoria."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A principal implicação é que o ensino de psicologia deve ser repensado para incluir a reflexão crítica e a análise de casos reais, com o objetivo de formar profissionais mais éticos e comprometidos com a sociedade.",
+                      "explanation": "Correta! O texto afirma que \"a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, com a inclusão de discussões sobre o tema e a criação de oportunidades para a reflexão crítica\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A principal implicação é que o ensino de psicologia deve ser responsabilidade exclusiva da família e da sociedade.",
+                      "explanation": "Incorreta. O artigo defende que a universidade tem um papel fundamental na formação ética e moral do psicólogo."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q8",
+                  "statement": "Qual dos seguintes temas é considerado um tabu na formação em psicologia, de acordo com o artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O impacto da remuneração na escolha da área de atuação dos psicólogos.",
+                      "explanation": "Incorreta. O artigo não menciona o impacto da remuneração na escolha da área de atuação dos psicólogos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A eficácia dos cursos de extensão em psicologia para o desenvolvimento moral dos estudantes.",
+                      "explanation": "Incorreta. O artigo não menciona a eficácia dos cursos de extensão em psicologia para o desenvolvimento moral dos estudantes."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O lugar da moral e da ética na formação do psicólogo.",
+                      "explanation": "Correta! O texto afirma que \"a questão que motivou este trabalho foi: 'Que lugar ocupam moral e ética na formação do psicólogo?', e a resposta a essa questão não é fácil de ser obtida, pois é um tema tabu no ambiente acadêmico\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O impacto da remuneração na escolha da área de atuação dos psicólogos.",
+                      "explanation": "Incorreta. O artigo não menciona o impacto da remuneração na escolha da área de atuação dos psicólogos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A influência do mercado de trabalho nos conceitos de ética e moral dos profissionais.",
+                      "explanation": "Incorreta. A pesquisa foca no ambiente acadêmico e na formação do psicólogo, não no mercado de trabalho."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q9",
+                  "statement": "De acordo com os autores do artigo, qual é a principal razão para o tema de ética e moral ser considerado um tabu na formação em psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O tema de ética e moral é considerado um tabu porque os professores não têm conhecimento suficiente sobre o assunto.",
+                      "explanation": "Incorreta. O artigo não menciona que a falta de conhecimento dos professores é a principal razão para o tema ser considerado um tabu."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O tema de ética e moral é considerado um tabu porque os alunos não têm interesse em discutir o assunto.",
+                      "explanation": "Incorreta. O artigo afirma que os alunos sentem falta de um ambiente que promova a reflexão sobre ética e moral."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O tema de ética e moral é considerado um tabu porque os psicólogos já têm um código de ética que regulamenta a profissão.",
+                      "explanation": "Incorreta. O artigo afirma que o Código de Ética não é suficiente para a formação ética e moral do psicólogo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O tema de ética e moral é considerado um tabu porque é um tema complexo e que exige reflexão crítica, e o ambiente acadêmico não oferece um espaço para essa reflexão.",
+                      "explanation": "Correta! O texto afirma que \"o tema de ética e moral é um tema complexo e que exige reflexão crítica, e o ambiente acadêmico não oferece um espaço para essa reflexão, o que causa um sentimento de frustração em alguns deles\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O tema de ética e moral é considerado um tabu porque os alunos não têm tempo para discutir o assunto.",
+                      "explanation": "Incorreta. O artigo não menciona que a falta de tempo é a principal razão para o tema ser considerado um tabu."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q10",
+                  "statement": "Qual a principal crítica feita pelo artigo à visão de que a ética na psicologia se resume apenas ao Código de Ética Profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crítica é que o Código de Ética Profissional é muito antigo e precisa ser atualizado.",
+                      "explanation": "Incorreta. A crítica não é sobre a atualização do Código de Ética, mas sobre a sua interpretação e aplicação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica é que o Código de Ética Profissional é muito complexo e difícil de ser compreendido pelos alunos.",
+                      "explanation": "Incorreta. A crítica não é sobre a complexidade do Código de Ética, mas sobre a sua interpretação e aplicação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A crítica é que o Código de Ética Profissional é um documento inútil, pois não garante a ética na prática profissional.",
+                      "explanation": "Incorreta. O artigo não considera o Código de Ética um documento inútil, mas defende que ele deve ser o ponto de partida para a reflexão ética, e não a finalidade da formação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crítica é que a ética na psicologia é um processo contínuo e que deve permear todas as disciplinas do curso, com a inclusão de discussões sobre o tema e a criação de oportunidades para a reflexão crítica, não se limitando a um conjunto de \"leis e regras\" a serem memorizadas.",
+                      "explanation": "Correta! O texto afirma que \"a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, com a inclusão de discussões sobre o tema e a criação de oportunidades para a reflexão crítica\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A crítica é que o Código de Ética Profissional é muito prático, com falta de fundamentação teórica.",
+                      "explanation": "Incorreta. A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q11",
+                  "statement": "De acordo com Leite (2004), a falta de um ambiente de reflexão e o foco em um ensino puramente técnico leva a qual tipo de profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um profissional tecnicista, que sabe o 'como-fazer' mas não o 'por que fazer', sendo um mero executor de técnicas sem senso crítico.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Um profissional humanista, que sabe o 'por que fazer' mas não o 'como-fazer', sendo um mero teórico sem prática.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional humanista sem prática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Um profissional crítico, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional crítico completo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um profissional reflexivo, que sabe o 'por que fazer' e o 'como-fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional reflexivo completo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um profissional ético, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional ético completo."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L3_Q12",
+                  "statement": "O que o artigo sugere como \"ferramenta\" para a promoção da reflexão ética na formação em psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas o estudo aprofundado do Código de Ética.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da prática."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O uso de testes psicológicos para avaliar o nível de desenvolvimento moral dos alunos.",
+                      "explanation": "Incorreta. O artigo não menciona o uso de testes psicológicos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A participação em grupos de discussão sobre dilemas éticos, com o objetivo de promover a reflexão crítica e a análise de casos reais.",
+                      "explanation": "Correta! O texto sugere o uso de \"grupos de discussão sobre dilemas éticos\" como ferramenta para a promoção da reflexão ética."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A participação em atividades extracurriculares, sem a devida fundamentação teórica.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da teoria."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A participação em aulas teóricas, sem a devida fundamentação prática.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da prática."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q13",
+                  "statement": "Qual a principal crítica feita pelos autores à falta de estímulo à responsabilidade e reflexão na formação em psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional que sabe o 'como-fazer' mas não o 'por que fazer', sendo um mero executor de técnicas sem senso crítico.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional humanista, que sabe o 'por que fazer' mas não o 'como-fazer', sendo um mero teórico sem prática.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional humanista sem prática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional crítico, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional crítico completo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional reflexivo, que sabe o 'por que fazer' e o 'como-fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional reflexivo completo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional ético, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional ético completo."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L3_Q14",
+                  "statement": "Qual a principal implicação do estudo sobre a falta de estímulo à responsabilidade e reflexão, e a visão dos alunos sobre a importância de competências pessoais não trabalhadas, para a crítica de Leite (2004)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de estímulo à responsabilidade e reflexão é uma solução para o tecnicismo de Leite (2004), pois permite que os alunos se concentrem nas técnicas sem se preocupar com a ética.",
+                      "explanation": "Incorreta. A falta de estímulo à responsabilidade e reflexão é o problema, não a solução."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica de Leite (2004) é irrelevante, pois o estudo mostra que as competências pessoais são desenvolvidas de forma autônoma pelos alunos, independentemente da universidade.",
+                      "explanation": "Incorreta. O estudo mostra que a maioria dos alunos sente falta de um ambiente que promova a reflexão e o desenvolvimento de competências pessoais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de estímulo à responsabilidade e reflexão, juntamente com a visão dos alunos sobre a importância de competências pessoais não trabalhadas, é diretamente conectada à crítica de Leite (2004) ao tecnicismo, pois impossibilita o profissional de 'articular o como-fazer ao por que fazer'.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A articulação do \"como-fazer\" ao \"por que fazer\" é uma responsabilidade exclusiva do psicólogo após a formação, não da universidade.",
+                      "explanation": "Incorreta. O artigo defende que o ambiente acadêmico deve proporcionar oportunidades para essa articulação desde a formação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O estudo sugere que as competências pessoais são desenvolvidas por meio de atividades extracurriculares informais, enquanto o tecnicismo é trabalhado em sala de aula, criando um equilíbrio.",
+                      "explanation": "Incorreta. O artigo aponta que as competências pessoais *não são trabalhadas* na formação e que há baixa percepção de oportunidades em atividades extracurriculares."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q15",
+                  "statement": "Qual é a principal implicação do estudo sobre a falta de estímulo à responsabilidade e reflexão, e a visão dos alunos sobre a importância de competências pessoais não trabalhadas, para a crítica de Leite (2004)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de estímulo à responsabilidade e reflexão é uma solução para o tecnicismo de Leite (2004), pois permite que os alunos se concentrem nas técnicas sem se preocupar com a ética.",
+                      "explanation": "Incorreta. A falta de estímulo à responsabilidade e reflexão é o problema, não a solução."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica de Leite (2004) é irrelevante, pois o estudo mostra que as competências pessoais são desenvolvidas de forma autônoma pelos alunos, independentemente da universidade.",
+                      "explanation": "Incorreta. O estudo mostra que a maioria dos alunos sente falta de um ambiente que promova a reflexão e o desenvolvimento de competências pessoais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de estímulo à responsabilidade e reflexão, juntamente com a visão dos alunos sobre a importância de competências pessoais não trabalhadas, é diretamente conectada à crítica de Leite (2004) ao tecnicismo, pois impossibilita o profissional de 'articular o como-fazer ao por que fazer'.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A articulação do \"como-fazer\" ao \"por que fazer\" é uma responsabilidade exclusiva do psicólogo após a formação, não da universidade.",
+                      "explanation": "Incorreta. O artigo defende que o ambiente acadêmico deve proporcionar oportunidades para essa articulação desde a formação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O estudo sugere que as competências pessoais são desenvolvidas por meio de atividades extracurriculares informais, enquanto o tecnicismo é trabalhado em sala de aula, criando um equilíbrio.",
+                      "explanation": "Incorreta. O artigo aponta que as competências pessoais *não são trabalhadas* na formação e que há baixa percepção de oportunidades em atividades extracurriculares."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q16",
+                  "statement": "Qual a principal crítica feita pelos autores à forma como o Código de Ética Profissional é frequentemente ensinado nas universidades?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais.",
+                      "explanation": "Correta! O texto critica a visão do Código como um \"código de leis e regras\" e defende que \"o conhecimento dos Códigos de Ética deve ser o ponto de partida para a reflexão ética, e não a finalidade da formação\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica é que o Código de Ética é ensinado de forma muito prática, sem a devida fundamentação teórica.",
+                      "explanation": "Incorreta. A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A crítica é que o Código de Ética não é ensinado, sendo deixado para ser aprendido na prática profissional.",
+                      "explanation": "Incorreta. O artigo afirma que o Código de Ética é ensinado, mas de forma descontextualizada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crítica é que o Código de Ética é ensinado de forma muito aprofundada, com excesso de detalhes, o que o torna complexo demais para os alunos.",
+                      "explanation": "Incorreta. A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A crítica é que o Código de Ética é ensinado de forma muito teórica, sem a devida fundamentação prática.",
+                      "explanation": "Incorreta. A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L3_Q17",
+                  "statement": "O artigo argumenta que uma formação ética e moral adequada deve ir além do ensino do Código de Ética. Qual das alternativas abaixo apresenta a principal proposta do artigo para uma abordagem mais eficaz?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A principal proposta é que a formação ética se concentre apenas no estudo de casos práticos, ignorando a teoria.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da teoria."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A principal proposta é que a formação ética se concentre apenas na teoria, ignorando a prática.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da prática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A principal proposta é que a formação ética se concentre em atividades extracurriculares, deixando o ensino em sala de aula para o Código de Ética.",
+                      "explanation": "Incorreta. O artigo defende que a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, não apenas as atividades extracurriculares."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A principal proposta é que a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, com a inclusão de discussões sobre o tema e a criação de oportunidades para a reflexão crítica.",
+                      "explanation": "Correta! O texto defende que \"o conhecimento dos Códigos de Ética deve ser o ponto de partida para a reflexão ética, e não a finalidade da formação\", e que a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A principal proposta é que a formação ética e moral deve ser responsabilidade exclusiva da família e da sociedade.",
+                      "explanation": "Incorreta. O artigo defende que a universidade tem um papel fundamental na formação ética e moral do psicólogo."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q18",
+                  "statement": "Qual a principal razão para os alunos se sentirem frustrados com a falta de oportunidades para discutir ética e moral na universidade?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Os alunos se sentem frustrados porque a universidade não oferece um ambiente de ampla reflexão sobre ética e moral.",
+                      "explanation": "Incorreta. O artigo afirma que a maioria dos alunos não percebe que a universidade oferece um ambiente de ampla reflexão sobre ética e moral, mas não diz que a falta de oportunidades é a principal causa de frustração."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Os alunos se sentem frustrados porque não conseguem aplicar o Código de Ética em sua prática profissional.",
+                      "explanation": "Incorreta. O artigo não menciona que a falta de oportunidades para discutir ética e moral na universidade causa a impossibilidade de aplicar o Código de Ética na prática profissional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Os alunos se sentem frustrados porque a universidade não oferece um ambiente de ampla reflexão sobre ética e moral, o que causa um sentimento de frustração em alguns deles.",
+                      "explanation": "Correta! O texto afirma que \"Os resultados revelam que a maioria dos alunos não percebe a universidade como um espaço que fomente ou propicie a reflexão e discussão sobre os temas da ética e da moral, o que causa um sentimento de frustração em alguns deles\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Os alunos se sentem frustrados porque a universidade não aborda o tema de forma aprofundada, com excesso de detalhes, o que o torna complexo demais para eles.",
+                      "explanation": "Incorreta. A crítica é que a universidade não aborda o tema de forma aprofundada, mas não que a falta de aprofundamento causa frustração."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Os alunos se sentem frustrados porque a universidade não aborda o tema de forma prática, com falta de casos reais.",
+                      "explanation": "Incorreta. O artigo não menciona que a falta de casos reais causa frustração."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q19",
+                  "statement": "Qual é a principal implicação da pesquisa para o ensino de psicologia nas universidades?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A principal implicação é que o ensino de psicologia deve se concentrar em atividades extracurriculares, deixando o ensino em sala de aula para o Código de Ética.",
+                      "explanation": "Incorreta. O artigo defende que a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, não apenas as atividades extracurriculares."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A principal implicação é que o ensino de psicologia deve se concentrar em aulas teóricas, sem a devida fundamentação prática.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da prática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A principal implicação é que o ensino de psicologia deve se concentrar em aulas práticas, sem a devida fundamentação teórica.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da teoria."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A principal implicação é que o ensino de psicologia deve ser repensado para incluir a reflexão crítica e a análise de casos reais, com o objetivo de formar profissionais mais éticos e comprometidos com a sociedade.",
+                      "explanation": "Correta! O texto afirma que \"a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, com a inclusão de discussões sobre o tema e a criação de oportunidades para a reflexão crítica\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A principal implicação é que o ensino de psicologia deve ser responsabilidade exclusiva da família e da sociedade.",
+                      "explanation": "Incorreta. O artigo defende que a universidade tem um papel fundamental na formação ética e moral do psicólogo."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q20",
+                  "statement": "Qual dos seguintes temas é considerado um tabu na formação em psicologia, de acordo com o artigo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O impacto da remuneração na escolha da área de atuação dos psicólogos.",
+                      "explanation": "Incorreta. O artigo não menciona o impacto da remuneração na escolha da área de atuação dos psicólogos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A eficácia dos cursos de extensão em psicologia para o desenvolvimento moral dos estudantes.",
+                      "explanation": "Incorreta. O artigo não menciona a eficácia dos cursos de extensão em psicologia para o desenvolvimento moral dos estudantes."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O lugar da moral e da ética na formação do psicólogo.",
+                      "explanation": "Correta! O texto afirma que \"a questão que motivou este trabalho foi: 'Que lugar ocupam moral e ética na formação do psicólogo?', e a resposta a essa questão não é fácil de ser obtida, pois é um tema tabu no ambiente acadêmico\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O impacto da remuneração na escolha da área de atuação dos psicólogos.",
+                      "explanation": "Incorreta. O artigo não menciona o impacto da remuneração na escolha da área de atuação dos psicólogos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A influência do mercado de trabalho nos conceitos de ética e moral dos profissionais.",
+                      "explanation": "Incorreta. A pesquisa foca no ambiente acadêmico e na formação do psicólogo, não no mercado de trabalho."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q21",
+                  "statement": "De acordo com os autores do artigo, qual é a principal razão para o tema de ética e moral ser considerado um tabu na formação em psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O tema de ética e moral é considerado um tabu porque os professores não têm conhecimento suficiente sobre o assunto.",
+                      "explanation": "Incorreta. O artigo não menciona que a falta de conhecimento dos professores é a principal razão para o tema ser considerado um tabu."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O tema de ética e moral é considerado um tabu porque os alunos não têm interesse em discutir o assunto.",
+                      "explanation": "Incorreta. O artigo afirma que os alunos sentem falta de um ambiente que promova a reflexão sobre ética e moral."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O tema de ética e moral é considerado um tabu porque os psicólogos já têm um código de ética que regulamenta a profissão.",
+                      "explanation": "Incorreta. O artigo afirma que o Código de Ética não é suficiente para a formação ética e moral do psicólogo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O tema de ética e moral é considerado um tabu porque é um tema complexo e que exige reflexão crítica, e o ambiente acadêmico não oferece um espaço para essa reflexão.",
+                      "explanation": "Correta! O texto afirma que \"o tema de ética e moral é um tema complexo e que exige reflexão crítica, e o ambiente acadêmico não oferece um espaço para essa reflexão, o que causa um sentimento de frustração em alguns deles\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O tema de ética e moral é considerado um tabu porque os alunos não têm tempo para discutir o assunto.",
+                      "explanation": "Incorreta. O artigo não menciona que a falta de tempo é a principal razão para o tema ser considerado um tabu."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q22",
+                  "statement": "Qual a principal crítica feita pelo artigo à visão de que a ética na psicologia se resume apenas ao Código de Ética Profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crítica é que o Código de Ética Profissional é muito antigo e precisa ser atualizado.",
+                      "explanation": "Incorreta. A crítica não é sobre a atualização do Código de Ética, mas sobre a sua interpretação e aplicação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica é que o Código de Ética Profissional é muito complexo e difícil de ser compreendido pelos alunos.",
+                      "explanation": "Incorreta. A crítica não é sobre a complexidade do Código de Ética, mas sobre a sua interpretação e aplicação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A crítica é que o Código de Ética Profissional é um documento inútil, pois não garante a ética na prática profissional.",
+                      "explanation": "Incorreta. O artigo não considera o Código de Ética um documento inútil, mas defende que ele deve ser o ponto de partida para a reflexão ética, e não a finalidade da formação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crítica é que a ética na psicologia é um processo contínuo e que deve permear todas as disciplinas do curso, com a inclusão de discussões sobre o tema e a criação de oportunidades para a reflexão crítica, não se limitando a um conjunto de \"leis e regras\" a serem memorizadas.",
+                      "explanation": "Correta! O texto afirma que \"a formação ética e moral deve ser um processo contínuo e que deve permear todas as disciplinas do curso, com a inclusão de discussões sobre o tema e a criação de oportunidades para a reflexão crítica\"."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A crítica é que o Código de Ética Profissional é muito prático, com falta de fundamentação teórica.",
+                      "explanation": "Incorreta. A crítica é que o Código de Ética é ensinado de forma descontextualizada, como um conjunto de \"leis e regras\" a serem memorizadas, sem incentivar a reflexão crítica e a análise de casos reais."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_EeL_L3_Q23",
+                  "statement": "De acordo com Leite (2004), a falta de um ambiente de reflexão e o foco em um ensino puramente técnico leva a qual tipo de profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um profissional tecnicista, que sabe o 'como-fazer' mas não o 'por que fazer', sendo um mero executor de técnicas sem senso crítico.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Um profissional humanista, que sabe o 'por que fazer' mas não o 'como-fazer', sendo um mero teórico sem prática.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional humanista sem prática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Um profissional crítico, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional crítico completo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um profissional reflexivo, que sabe o 'por que fazer' e o 'como-fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional reflexivo completo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um profissional ético, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional ético completo."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L3_Q24",
+                  "statement": "O que o artigo sugere como \"ferramenta\" para a promoção da reflexão ética na formação em psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas o estudo aprofundado do Código de Ética.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da prática."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O uso de testes psicológicos para avaliar o nível de desenvolvimento moral dos alunos.",
+                      "explanation": "Incorreta. O artigo não menciona o uso de testes psicológicos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A participação em grupos de discussão sobre dilemas éticos, com o objetivo de promover a reflexão crítica e a análise de casos reais.",
+                      "explanation": "Correta! O texto sugere o uso de \"grupos de discussão sobre dilemas éticos\" como ferramenta para a promoção da reflexão ética."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A participação em atividades extracurriculares, sem a devida fundamentação teórica.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da teoria."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A participação em aulas teóricas, sem a devida fundamentação prática.",
+                      "explanation": "Incorreta. O artigo defende a articulação entre a teoria e a prática, não a exclusão da prática."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q25",
+                  "statement": "Qual a principal crítica feita pelos autores à falta de estímulo à responsabilidade e reflexão na formação em psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional que sabe o 'como-fazer' mas não o 'por que fazer', sendo um mero executor de técnicas sem senso crítico.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional humanista, que sabe o 'por que fazer' mas não o 'como-fazer', sendo um mero teórico sem prática.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional humanista sem prática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional crítico, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional crítico completo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional reflexivo, que sabe o 'por que fazer' e o 'como-fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional reflexivo completo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional ético, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional ético completo."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L3_Q26",
+                  "statement": "Qual a principal implicação do estudo sobre a falta de estímulo à responsabilidade e reflexão, e a visão dos alunos sobre a importância de competências pessoais não trabalhadas, para a crítica de Leite (2004)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de estímulo à responsabilidade e reflexão é uma solução para o tecnicismo de Leite (2004), pois permite que os alunos se concentrem nas técnicas sem se preocupar com a ética.",
+                      "explanation": "Incorreta. A falta de estímulo à responsabilidade e reflexão é o problema, não a solução."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica de Leite (2004) é irrelevante, pois o estudo mostra que as competências pessoais são desenvolvidas de forma autônoma pelos alunos, independentemente da universidade.",
+                      "explanation": "Incorreta. O estudo mostra que a maioria dos alunos sente falta de um ambiente que promova a reflexão e o desenvolvimento de competências pessoais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de estímulo à responsabilidade e reflexão, juntamente com a visão dos alunos sobre a importância de competências pessoais não trabalhadas, é diretamente conectada à crítica de Leite (2004) ao tecnicismo, pois impossibilita o profissional de 'articular o como-fazer ao por que fazer'.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A articulação do \"como-fazer\" ao \"por que fazer\" é uma responsabilidade exclusiva do psicólogo após a formação, não da universidade.",
+                      "explanation": "Incorreta. O artigo defende que o ambiente acadêmico deve proporcionar oportunidades para essa articulação desde a formação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O estudo sugere que as competências pessoais são desenvolvidas por meio de atividades extracurriculares informais, enquanto o tecnicismo é trabalhado em sala de aula, criando um equilíbrio.",
+                      "explanation": "Incorreta. O artigo aponta que as competências pessoais *não são trabalhadas* na formação e que há baixa percepção de oportunidades em atividades extracurriculares."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q27",
+                  "statement": "Qual a principal crítica feita pelos autores à falta de estímulo à responsabilidade e reflexão na formação em psicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional que sabe o 'como-fazer' mas não o 'por que fazer', sendo um mero executor de técnicas sem senso crítico.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional humanista, que sabe o 'por que fazer' mas não o 'como-fazer', sendo um mero teórico sem prática.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional humanista sem prática."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional crítico, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional crítico completo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional reflexivo, que sabe o 'por que fazer' e o 'como-fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional reflexivo completo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A crítica é que a falta de estímulo à responsabilidade e reflexão leva a um profissional ético, que sabe o 'como-fazer' e o 'por que fazer', sendo um profissional completo e comprometido com a sociedade.",
+                      "explanation": "Incorreta. O artigo não menciona um profissional ético completo."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_EeL_L3_Q28",
+                  "statement": "Qual a principal implicação do estudo sobre a falta de estímulo à responsabilidade e reflexão, e a visão dos alunos sobre a importância de competências pessoais não trabalhadas, para a crítica de Leite (2004)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de estímulo à responsabilidade e reflexão é uma solução para o tecnicismo de Leite (2004), pois permite que os alunos se concentrem nas técnicas sem se preocupar com a ética.",
+                      "explanation": "Incorreta. A falta de estímulo à responsabilidade e reflexão é o problema, não a solução."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica de Leite (2004) é irrelevante, pois o estudo mostra que as competências pessoais são desenvolvidas de forma autônoma pelos alunos, independentemente da universidade.",
+                      "explanation": "Incorreta. O estudo mostra que a maioria dos alunos sente falta de um ambiente que promova a reflexão e o desenvolvimento de competências pessoais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de estímulo à responsabilidade e reflexão, juntamente com a visão dos alunos sobre a importância de competências pessoais não trabalhadas, é diretamente conectada à crítica de Leite (2004) ao tecnicismo, pois impossibilita o profissional de 'articular o como-fazer ao por que fazer'.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A articulação do \"como-fazer\" ao \"por que fazer\" é uma responsabilidade exclusiva do psicólogo após a formação, não da universidade.",
+                      "explanation": "Incorreta. O artigo defende que o ambiente acadêmico deve proporcionar oportunidades para essa articulação desde a formação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O estudo sugere que as competências pessoais são desenvolvidas por meio de atividades extracurriculares informais, enquanto o tecnicismo é trabalhado em sala de aula, criando um equilíbrio.",
+                      "explanation": "Incorreta. O artigo aponta que as competências pessoais *não são trabalhadas* na formação e que há baixa percepção de oportunidades em atividades extracurriculares."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q29",
+                  "statement": "Qual é a principal implicação do estudo sobre a falta de estímulo à responsabilidade e reflexão, e a visão dos alunos sobre a importância de competências pessoais não trabalhadas, para a crítica de Leite (2004)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de estímulo à responsabilidade e reflexão é uma solução para o tecnicismo de Leite (2004), pois permite que os alunos se concentrem nas técnicas sem se preocupar com a ética.",
+                      "explanation": "Incorreta. A falta de estímulo à responsabilidade e reflexão é o problema, não a solução."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica de Leite (2004) é irrelevante, pois o estudo mostra que as competências pessoais são desenvolvidas de forma autônoma pelos alunos, independentemente da universidade.",
+                      "explanation": "Incorreta. O estudo mostra que a maioria dos alunos sente falta de um ambiente que promova a reflexão e o desenvolvimento de competências pessoais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de estímulo à responsabilidade e reflexão, juntamente com a visão dos alunos sobre a importância de competências pessoais não trabalhadas, é diretamente conectada à crítica de Leite (2004) ao tecnicismo, pois impossibilita o profissional de 'articular o como-fazer ao por que fazer'.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A articulação do \"como-fazer\" ao \"por que fazer\" é uma responsabilidade exclusiva do psicólogo após a formação, não da universidade.",
+                      "explanation": "Incorreta. O artigo defende que o ambiente acadêmico deve proporcionar oportunidades para essa articulação desde a formação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O estudo sugere que as competências pessoais são desenvolvidas por meio de atividades extracurriculares informais, enquanto o tecnicismo é trabalhado em sala de aula, criando um equilíbrio.",
+                      "explanation": "Incorreta. O artigo aponta que as competências pessoais *não são trabalhadas* na formação e que há baixa percepção de oportunidades em atividades extracurriculares."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_EeL_L3_Q30",
+                  "statement": "Qual a principal implicação do estudo sobre a falta de estímulo à responsabilidade e reflexão, e a visão dos alunos sobre a importância de competências pessoais não trabalhadas, para a crítica de Leite (2004)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de estímulo à responsabilidade e reflexão é uma solução para o tecnicismo de Leite (2004), pois permite que os alunos se concentrem nas técnicas sem se preocupar com a ética.",
+                      "explanation": "Incorreta. A falta de estímulo à responsabilidade e reflexão é o problema, não a solução."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crítica de Leite (2004) é irrelevante, pois o estudo mostra que as competências pessoais são desenvolvidas de forma autônoma pelos alunos, independentemente da universidade.",
+                      "explanation": "Incorreta. O estudo mostra que a maioria dos alunos sente falta de um ambiente que promova a reflexão e o desenvolvimento de competências pessoais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de estímulo à responsabilidade e reflexão, juntamente com a visão dos alunos sobre a importância de competências pessoais não trabalhadas, é diretamente conectada à crítica de Leite (2004) ao tecnicismo, pois impossibilita o profissional de 'articular o como-fazer ao por que fazer'.",
+                      "explanation": "Correta! A crítica de Leite (2004) é que o tecnicismo impossibilita o profissional de \"articular o como-fazer ao por que fazer\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A articulação do \"como-fazer\" ao \"por que fazer\" é uma responsabilidade exclusiva do psicólogo após a formação, não da universidade.",
+                      "explanation": "Incorreta. O artigo defende que o ambiente acadêmico deve proporcionar oportunidades para essa articulação desde a formação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O estudo sugere que as competências pessoais são desenvolvidas por meio de atividades extracurriculares informais, enquanto o tecnicismo é trabalhado em sala de aula, criando um equilíbrio.",
+                      "explanation": "Incorreta. O artigo aponta que as competências pessoais *não são trabalhadas* na formação e que há baixa percepção de oportunidades em atividades extracurriculares."
+                    }
+                  ],
+                  "answer": "C"
+                }
+              ]
             }
           ]
         },
