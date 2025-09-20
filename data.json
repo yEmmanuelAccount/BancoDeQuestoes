@@ -2925,6 +2925,972 @@
                   "answer": "C"
                 }
               ]
+            },
+            {
+              "id": "p4_EeL_L4",
+              "title": "Lista 4: Estudos de Caso",
+              "questions": [
+                {
+                  "id": "p4_EeL_L4_Q1",
+                  "statement": "Ana, psicóloga clínica recém-formada, atende Mariana, adolescente de 15 anos, que apresenta isolamento, queda no rendimento escolar e tristeza constante. Durante uma sessão, Mariana revela episódios de automutilação e ideação suicida,indo sigilo absoluto. O dilema ético central de Ana envolve a colisão entre dois princípios fundamentais da prática psicológica.",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A necessidade de obter o consentimento dos pais para a continuidade do tratamento versus o dever de sigilo",
+                      "explanation": "O dilema principal é a proteção da vida de Mariana versus a manutenção do sigilo profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O princípio fundamental do sigilo profissional versus o dever de zelar pela integridade e segurança da paciente, dado o risco à vida e à saúde",
+                      "explanation": "Ana se depara com o impasse entre o sigilo profissional, que é um princípio fundamental da prática psicológica, e o dever de zelar pela integridade e segurança da paciente, considerando o risco à vida e à saúde."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A pressão da escola por atualizações versus a confidencialidade das sessões",
+                      "explanation": "Embora a escola solicite informações, o dilema crucial envolve a vida da paciente e o sigilo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A responsabilidade legal de psicólogos recém-formados versus a experiência necessária para lidar com crises",
+                      "explanation": "O texto não aborda a responsabilidade legal diferenciada para recém-formados, mas sim o dilema ético inerente à situação de risco."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O atendimento exclusivo a adolescentes sem o acompanhamento dos pais",
+                      "explanation": "Os pais de Mariana acompanham de perto, mas o dilema ético central não está na ausência de consentimento, e sim na segurança de vida da paciente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q2",
+                  "statement": "O dilema ético de Ana, descrito no Caso 1, é mais bem compreendido à luz da Resolução CFP nº 010/2005 (Código de Ética Profissional do Psicólogo). Qual o princípio fundamental mais relevante para a decisão de Ana de quebrar o sigilo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O psicólogo deve primar pela liberdade de escolha da paciente",
+                      "explanation": "Embora a autonomia seja um princípio ético, o risco à vida e à saúde de Mariana se sobrepõe ao sigilo, tornando a intervenção de Ana não uma violação, mas uma obrigação ética."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A segurança da paciente em risco é o princípio ético prioritário, de acordo com o Art. 9 do Código de Ética",
+                      "explanation": "O Art. 9 do Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005) dispõe que “É dever do psicólogo respeitar o sigilo profissional a fim de proteger, por meio da confidencialidade, a intimidade das pessoas, grupos ou organizações, a que tenha acesso no exercício profissional”. No entanto, o Art. 10 abre uma exceção a esse dever quando a quebra de sigilo é necessária para proteger o paciente, dada a ameaça à vida de Mariana."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve manter o sigilo absoluto, mesmo em caso de risco à vida, pois a confidencialidade é inegociável",
+                      "explanation": "O Código de Ética prevê exceções ao sigilo, especialmente em situações de risco à vida do paciente ou de terceiros."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga não deve quebrar o sigilo sem uma ordem judicial",
+                      "explanation": "A quebra de sigilo pode ocorrer sem ordem judicial quando houver risco de vida do paciente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve buscar o apoio da escola para tomar a decisão, uma vez que se trata de uma situação de conflito",
+                      "explanation": "Embora a escola possa ser uma fonte de apoio, a decisão final é de Ana."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q3",
+                  "statement": "A decisão de Ana de quebrar o sigilo profissional para proteger a vida de Mariana exige que ela considere a forma como essa comunicação deve ser feita. Qual a melhor estratégia para Ana, de acordo com o Código de Ética (Resolução CFP nº 010/2005)?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Ligar imediatamente para o pai de Mariana e contar tudo o que a paciente relatou na sessão, como forma de protegê-la",
+                      "explanation": "A quebra de sigilo deve ser feita de forma cautelosa, e não de forma a expor a paciente ou violar o sigilo de forma desnecessária."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Revelar a menor quantidade de informações possível e quebrar o sigilo apenas para as pessoas que efetivamente possam ajudar, sem expor a paciente ou o sigilo de forma desnecessária",
+                      "explanation": "O Art. 10 do Código de Ética dispõe que a quebra de sigilo deve ser feita com a menor quantidade de informações possível, e que a revelação deve ser feita apenas para as pessoas que possam efetivamente ajudar a paciente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Quebrar o sigilo com toda a equipe da escola, já que eles se preocupam com a queda de rendimento",
+                      "explanation": "A quebra de sigilo deve ser feita para as pessoas que podem ajudar a paciente, e não para todos que se preocupam com ela. A escola é uma parte interessada, mas a revelação de informações sobre a saúde mental de Mariana a todos os funcionários da escola seria uma violação de sigilo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ignorar o pedido de sigilo de Mariana, pois os pais têm o direito de saber de tudo o que acontece com a filha",
+                      "explanation": "A autonomia de Mariana deve ser respeitada, e a quebra de sigilo deve ser feita de forma cautelosa, e não de forma a violar o sigilo de forma desnecessária."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Discutir o caso abertamente com a mãe de Mariana, que é a principal preocupação da psicóloga",
+                      "explanation": "O Art. 10 do Código de Ética dispõe que a quebra de sigilo deve ser feita com a menor quantidade de informações possível, e que a revelação deve ser feita apenas para as pessoas que possam efetivamente ajudar a paciente. A mãe pode ser uma dessas pessoas, mas a discussão aberta com ela, sem a consideração de outras alternativas, pode ser uma violação de sigilo."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q4",
+                  "statement": "No Caso 1, Ana também enfrenta o desafio de comunicar a situação de Mariana à família. Que abordagem é a mais adequada para Ana, à luz das orientações éticas?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Informar a família sobre o estado de Mariana, sem revelar detalhes específicos da sessão, e propor um plano de ação conjunto",
+                      "explanation": "A quebra de sigilo deve ser feita com a menor quantidade de informações possível, e a revelação deve ser feita para as pessoas que possam efetivamente ajudar a paciente. A família é uma parte interessada, mas a revelação de detalhes específicos da sessão pode ser uma violação de sigilo. A proposta de um plano de ação conjunto com a família demonstra que a psicóloga está trabalhando para proteger a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ignorar a comunicação com a família, pois o sigilo da paciente é inegociável",
+                      "explanation": "A quebra de sigilo é permitida em situações de risco à vida do paciente, e a comunicação com a família é uma forma de proteger a paciente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ameaçar a família de Mariana de denunciá-los à polícia, caso não colaborem no tratamento",
+                      "explanation": "A ameaça de denúncia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar a colaboração da família, e não a ameaça."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Esperar que a família de Mariana procure a psicóloga, para que ela possa revelar o que a paciente relatou",
+                      "explanation": "A psicóloga deve agir de forma proativa para proteger a paciente, e não esperar que a família a procure. A espera pode ser fatal para Mariana."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Revelar todos os detalhes da sessão à família, para que eles possam ajudar a paciente",
+                      "explanation": "A revelação de todos os detalhes da sessão seria uma violação desnecessária do sigilo de Mariana, e pode prejudicar a relação de confiança entre a psicóloga e a paciente."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q5",
+                  "statement": "No Caso 1, Ana, como psicóloga, precisa lidar com a quebra de confiança de Mariana. Qual a melhor maneira de Ana manejar a situação, a fim de não prejudicar o processo terapêutico?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve fingir que nada aconteceu, para que a paciente não se sinta traída",
+                      "explanation": "A psicóloga deve abordar a situação de forma transparente e honesta, para que a paciente possa compreender os motivos da quebra de sigilo. A omissão de informações pode prejudicar a relação de confiança."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve explicar a Mariana a necessidade da quebra de sigilo para protegê-la, e reafirmar o compromisso com a sua segurança e bem-estar, a fim de restaurar a confiança",
+                      "explanation": "A psicóloga deve ser transparente com a paciente, e explicar que a quebra de sigilo foi uma medida para protegê-la. A psicóloga deve reafirmar o compromisso com a sua segurança e bem-estar, para que a paciente possa compreender que a quebra de sigilo não foi uma traição, mas uma medida de proteção."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve encerrar o tratamento, pois a confiança de Mariana foi quebrada e a relação não pode ser restaurada",
+                      "explanation": "O encerramento do tratamento não é a melhor solução, pois a paciente ainda precisa de ajuda. A psicóloga deve buscar a restauração da confiança, e não o encerramento do tratamento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve justificar a quebra de sigilo para a paciente, culpando a família pela situação",
+                      "explanation": "A psicóloga deve assumir a responsabilidade pela sua decisão, e não culpar a família pela situação. A culpa pode prejudicar a relação da paciente com a família, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve pedir desculpas a Mariana por quebrar o sigilo e prometer que não o fará novamente, mesmo em caso de risco à vida",
+                      "explanation": "A psicóloga não deve prometer que não quebrará o sigilo novamente, pois isso pode colocar a paciente em risco de vida. A psicóloga deve ser transparente com a paciente, e explicar que a quebra de sigilo foi uma medida para protegê-la."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q6",
+                  "statement": "No Caso 2, Laura, uma adolescente de 16 anos, se autoidentifica como transgênero e pede à psicóloga Patrícia que utilize seu nome social. Patrícia, ao dialogar com os pais, descobre que eles são inflexíveis e contrários à identidade de gênero da filha. O dilema ético central de Patrícia envolve a colisão entre a autonomia da adolescente e as demandas dos pais. De acordo com a Resolução CFP nº 010/2005 (Código de Ética Profissional do Psicólogo), qual a principal diretriz para a psicóloga Patrícia, neste caso?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve acatar o pedido dos pais e se dirigir a Laura pelo nome de registro, para não prejudicar a relação terapêutica",
+                      "explanation": "O psicólogo deve respeitar a autonomia do paciente, independentemente das demandas dos pais."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve atuar de forma a garantir a dignidade e os direitos humanos da adolescente, mesmo que isso entre em conflito com a opinião dos pais",
+                      "explanation": "O Código de Ética Profissional do Psicólogo (Resolução CFP nº 010/2005) dispõe que o psicólogo deve atuar com base no respeito e na promoção da liberdade, da dignidade, da igualdade e da integridade do ser humano, apoiado nos valores que embasam a Declaração Universal dos Direitos Humanos. A decisão de Patrícia de usar o nome social de Laura é uma forma de garantir sua dignidade e seus direitos humanos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve encaminhar a paciente para outro profissional, já que não é possível conciliar as demandas dos pais com a identidade de gênero da filha",
+                      "explanation": "O encaminhamento para outro profissional só deve ser feito quando a psicóloga não se sentir apta a lidar com a situação, o que não é o caso."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve forçar a paciente a aceitar sua identidade de registro para que ela possa se encaixar na família",
+                      "explanation": "A psicóloga deve respeitar a autonomia da paciente, e não forçá-la a aceitar sua identidade de registro. A coerção pode prejudicar a relação terapêutica e a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve convencer os pais de que eles estão errados e que devem aceitar a identidade de gênero da filha",
+                      "explanation": "A psicóloga deve buscar o diálogo com os pais, mas não deve forçá-los a aceitar a identidade de gênero da filha. O diálogo deve ser feito de forma a respeitar a autonomia dos pais e a buscar uma solução que beneficie a paciente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q7",
+                  "statement": "No Caso 2, Patrícia precisa manejar a comunicação com os pais de Laura, que são inflexíveis. Qual a estratégia mais adequada para a psicóloga?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve ignorar a comunicação com os pais, já que eles não estão dispostos a colaborar",
+                      "explanation": "A psicóloga deve buscar o diálogo com os pais, para que eles possam compreender a situação da filha e a importância de seu apoio. A omissão de informações pode prejudicar o processo terapêutico e a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve mediar o conflito, com o objetivo de conscientizar os pais sobre a importância de respeitar a identidade de gênero da filha, e de proteger a saúde mental e o bem-estar da adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar os pais sobre a importância de respeitar a identidade de gênero da filha. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve revelar todos os detalhes da sessão aos pais, para que eles possam compreender a situação da filha",
+                      "explanation": "A revelação de todos os detalhes da sessão seria uma violação desnecessária do sigilo de Laura, e pode prejudicar a relação de confiança entre a psicóloga e a paciente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve apoiar a paciente e aconselhá-la a cortar laços com os pais",
+                      "explanation": "A psicóloga deve buscar a reconciliação da paciente com os pais, e não o rompimento de laços. O rompimento de laços pode prejudicar a saúde mental da paciente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve forçar os pais a aceitarem a identidade de gênero da filha, sob pena de denúncia",
+                      "explanation": "A ameaça de denúncia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com os pais, e não a ameaça."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q8",
+                  "statement": "No Caso 2, Laura revela à psicóloga Patrícia que sofre bullying na escola por conta de sua identidade de gênero. Patrícia, além de atuar junto à família, precisa se posicionar em relação à escola. Qual a melhor abordagem para a psicóloga, à luz do Código de Ética (Resolução CFP nº 010/2005)?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q9",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar junto à escola, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q10",
+                  "statement": "No Caso 2, Patrícia se depara com a inflexibilidade dos pais de Laura em aceitar a identidade de gênero da filha. O que a psicóloga deve fazer, de acordo com as orientações éticas?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve apoiar a paciente e aconselhá-la a cortar laços com os pais, pois eles são a fonte de seu sofrimento",
+                      "explanation": "A psicóloga deve buscar a reconciliação da paciente com os pais, e não o rompimento de laços. O rompimento de laços pode prejudicar a saúde mental da paciente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve atuar como mediadora, buscando conscientizar os pais sobre a importância de se respeitar a identidade de gênero da filha, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar os pais sobre a importância de se respeitar a identidade de gênero da filha. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve encaminhar a paciente para outro profissional, já que não é possível conciliar as demandas dos pais com a identidade de gênero da filha",
+                      "explanation": "O encaminhamento para outro profissional só deve ser feito quando a psicóloga não se sentir apta a lidar com a situação, o que não é o caso."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve ignorar a comunicação com os pais, já que eles não estão dispostos a colaborar",
+                      "explanation": "A psicóloga deve buscar o diálogo com os pais, para que eles possam compreender a situação da filha e a importância de seu apoio. A omissão de informações pode prejudicar o processo terapêutico e a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve forçar os pais a aceitarem a identidade de gênero da filha, sob pena de denúncia",
+                      "explanation": "A ameaça de denúncia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com os pais, e não a ameaça."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q11",
+                  "statement": "No Caso 2, Patrícia tem o desafio de manter a confidencialidade das sessões, enquanto tenta lidar com a inflexibilidade dos pais de Laura. De acordo com o Código de Ética (Resolução CFP nº 010/2005), qual a melhor maneira de a psicóloga lidar com a situação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve revelar todos os detalhes da sessão aos pais, para que eles possam compreender a situação da filha",
+                      "explanation": "A revelação de todos os detalhes da sessão seria uma violação desnecessária do sigilo de Laura, e pode prejudicar a relação de confiança entre a psicóloga e a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve buscar o diálogo com os pais, sem revelar detalhes específicos da sessão, e propor um plano de ação conjunto",
+                      "explanation": "A psicóloga deve buscar o diálogo com os pais, sem revelar detalhes específicos da sessão. A revelação de informações sobre a identidade de gênero de Laura seria uma violação de sigilo. A psicóloga deve propor um plano de ação conjunto com a família, para que eles possam ajudar a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve ignorar a comunicação com os pais, pois eles não estão dispostos a colaborar",
+                      "explanation": "A psicóloga deve buscar o diálogo com os pais, para que eles possam compreender a situação da filha e a importância de seu apoio. A omissão de informações pode prejudicar o processo terapêutico e a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve forçar os pais a aceitarem a identidade de gênero da filha, sob pena de denúncia",
+                      "explanation": "A ameaça de denúncia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com os pais, e não a ameaça."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a cortar laços com os pais, pois eles são a fonte de seu sofrimento",
+                      "explanation": "A psicóloga deve buscar a reconciliação da paciente com os pais, e não o rompimento de laços. O rompimento de laços pode prejudicar a saúde mental da paciente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q12",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar junto à escola, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q13",
+                  "statement": "No Caso 2, Patrícia também precisa se posicionar em relação à escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q14",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar junto à escola, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q15",
+                  "statement": "No Caso 2, Patrícia também precisa se posicionar em relação à escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q16",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar junto à escola, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q17",
+                  "statement": "No Caso 2, Patrícia também precisa se posicionar em relação à escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q18",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar junto à escola, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q19",
+                  "statement": "No Caso 2, Patrícia também precisa se posicionar em relação à escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q20",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar junto à escola, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q21",
+                  "statement": "No Caso 2, Patrícia também precisa se posicionar em relação à escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q22",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar junto à escola, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q23",
+                  "statement": "No Caso 2, Patrícia também precisa se posicionar em relação à escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q24",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar junto à escola, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q25",
+                  "statement": "No Caso 2, Patrícia também precisa se posicionar em relação à escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q26",
+                  "statement": "No Caso 2, Patrícia também precisa se posicionar em relação à escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q27",
+                  "statement": "No Caso 2, Patrícia também precisa se posicionar em relação à escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q28",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar junto à escola, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve atuar de forma a conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente",
+                      "explanation": "A psicóloga deve atuar como mediadora do conflito, buscando conscientizar a equipe escolar sobre a importância de se combater o bullying, e de se criar um ambiente mais acolhedor para a adolescente. O diálogo deve ser feito de forma a proteger a saúde mental e o bem-estar de Laura, e a buscar uma solução que beneficie a paciente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve ignorar a situação, pois não é sua responsabilidade lidar com o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a ignorar a situação. A omissão de informações pode prejudicar a saúde mental da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve aconselhar a paciente a se defender dos agressores, para que eles possam parar de praticar o bullying",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de se defender dos agressores pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve denunciar os agressores à polícia, para que eles possam ser punidos",
+                      "explanation": "A denúncia dos agressores à polícia não é a melhor solução, pois pode prejudicar a relação da paciente com os agressores, e não resolver o problema de bullying. A psicóloga deve buscar o diálogo com a escola e com a paciente, para que a situação possa ser resolvida de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L4_Q29",
+                  "statement": "No Caso 2, Patrícia se depara com a situação de bullying contra Laura na escola. Qual a melhor forma de a psicóloga atuar, a fim de garantir a segurança e o bem-estar da adolescente?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicóloga deve contatar a escola e revelar que Laura é transgênero, para que a escola possa intervir no bullying",
+                      "explanation": "A psicóloga deve respeitar o sigilo de Laura, e não revelar sua identidade de gênero sem a sua autorização. A revelação de informações pode colocar a paciente em risco, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente",
+                      "explanation": "A psicóloga deve respeitar a autonomia de Laura, e não revelar sua identidade de gênero sem a sua autorização. A psicóloga deve conversar com a paciente sobre a importância de relatar o bullying, e, com sua autorização, contatar a escola para que ela possa intervir de forma a proteger a adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicóloga deve denunciar a escola à polícia, já que ela não está fazendo nada para proteger a adolescente",
+                      "explanation": "A denúncia da escola à polícia não é uma estratégia ética ou profissional para lidar com a situação. A psicóloga deve buscar o diálogo com a escola, e não a denúncia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicóloga deve aconselhar a paciente a abandonar a escola, pois ela não está segura no ambiente escolar",
+                      "explanation": "A psicóloga deve buscar a solução para o problema, e não a fuga. O abandono da escola pode prejudicar a saúde mental e o futuro da adolescente, e não é uma estratégia ética ou profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicóloga deve orientar Laura a ignorar o bullying, pois isso faz parte do processo de aceitação de sua identidade de gênero",
+                      "explanation": "A psicóloga deve atuar de forma a proteger a paciente, e não a expô-la a situações de risco. A orientação de ignorar o bullying pode prejudicar a saúde mental e o bem-estar da adolescente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L4_Q30",
+                  "statement": "Ao considerar as estratégias éticas e técnicas para o Caso 2 (Rafael/Laura), é fundamental que a psicóloga, ao respeitar a autonomia de Laura, garanta:",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A satisfação das demandas da família e da escola, independente do sofrimento da adolescente",
+                      "explanation": "O objetivo é atuar sem desrespeitar a autonomia."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O direito de Laura de ser tratada de acordo com sua identidade de gênero e nome social no setting terapêutico",
+                      "explanation": "Laura pede que a psicóloga respeite seu nome social e identidade de gênero nas sessões, e o caso questiona como respeitar a autonomia e dignidade da adolescente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que Laura utilize pronomes femininos apenas se a psicóloga obtiver a autorização formal dos pais",
+                      "explanation": "O dilema é sobre atender ao pedido sem o consentimento dos pais."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A intervenção contrária ao desejo de Laura, conforme a pressão parental",
+                      "explanation": "Isso violaria a autonomia e a dignidade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que a escola não seja informada de forma alguma sobre o bullying",
+                      "explanation": "A psicóloga precisa intervir de forma a proteger a adolescente, se ela autorizar."
+                    }
+                  ],
+                  "answer": "b"
+                }
+              ]
             }
           ]
         },
