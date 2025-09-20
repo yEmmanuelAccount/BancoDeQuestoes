@@ -3891,6 +3891,972 @@
                   "answer": "b"
                 }
               ]
+            },
+            {
+              "id": "p4_EeL_L5",
+              "title": "Lista 5: Código de Ética Profissional do Psicólogo (2005)",
+              "questions": [
+                {
+                  "id": "p4_EeL_L5_Q1",
+                  "statement": "Qual é a missão primordial de um código de ética profissional, segundo a Apresentação do Código de Ética Profissional do Psicólogo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Normatizar a natureza técnica do trabalho do psicólogo, garantindo a excelência científica.",
+                      "explanation": "A missão primordial do código não é de normatizar a natureza técnica do trabalho, e, sim, a de assegurar um padrão de conduta que fortaleça o reconhecimento social da categoria."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Assegurar, dentro de valores relevantes para a sociedade e para as práticas desenvolvidas, um padrão de conduta que fortaleça o reconhecimento social daquela categoria",
+                      "explanation": "A missão primordial de um código de ética profissional é a de assegurar, dentro de valores relevantes para a sociedade e para as práticas desenvolvidas, um padrão de conduta que fortaleça o reconhecimento social daquela categoria."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Fomentar exclusivamente a reflexão individual do profissional acerca de sua práxis.",
+                      "explanation": "O código procura fomentar a auto-reflexão exigida de cada indivíduo acerca da sua práxis, de modo a responsabilizá-lo, pessoal e coletivamente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Delinear para a sociedade apenas as atribuições técnicas do psicólogo.",
+                      "explanation": "A expectativa é de que ele seja um instrumento capaz de delinear para a sociedade as responsabilidades e deveres do psicólogo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ser um conjunto fixo de normas imutáveis no tempo.",
+                      "explanation": "Um código de ética não pode ser visto como um conjunto fixo de normas e imutável no tempo."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q2",
+                  "statement": "De acordo com o Art. 1º, alínea \"b\", qual é um dos deveres fundamentais do psicólogo em relação à sua atuação profissional?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Assumir responsabilidades profissionais por quaisquer atividades, desde que supervisionadas.",
+                      "explanation": "O dever é assumir responsabilidades profissionais somente por atividades para as quais esteja capacitado pessoal, teórica e tecnicamente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Prestar serviços visando o aprimoramento contínuo da ciência psicológica, mesmo sem plena capacitação inicial.",
+                      "explanation": "A prioridade é assumir responsabilidades profissionais somente por atividades para as quais esteja capacitado pessoal, teórica e tecnicamente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Assumir responsabilidades profissionais somente por atividades para as quais esteja capacitado pessoal, teórica e tecnicamente:",
+                      "explanation": "É um dever fundamental assumir responsabilidades profissionais somente por atividades para as quais esteja capacitado pessoal, teórica e tecnicamente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Utilizar exclusivamente conhecimentos e técnicas reconhecidas pelo Conselho Federal de Psicologia.",
+                      "explanation": "Deve utilizar princípios, conhecimentos e técnicas reconhecidamente fundamentados na ciência psicológica, na ética e na legislação profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Garantir que todo material privativo do psicólogo seja divulgado apenas com autorização do Conselho Federal de Psicologia.",
+                      "explanation": "O psicólogo deve zelar para que a comercialização, aquisição, doação, empréstimo, guarda e forma de divulgação do material privativo sejam feitas conforme os princípios deste Código."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q3",
+                  "statement": "O Princípio Fundamental I estabelece que o psicólogo deve basear o seu trabalho no respeito e na promoção da liberdade, da dignidade, da igualdade e da integridade do ser humano. Em quais valores esse princípio se apoia?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Nos valores estipulados pela legislação vigente do Conselho Federal de Psicologia.",
+                      "explanation": "O princípio se apoia nos valores que embasam a Declaração Universal dos Direitos Humanos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Nos valores definidos pela Assembléia de Políticas Administrativas e Financeiras (APAF).",
+                      "explanation": "O princípio se apoia nos valores que embasam a Declaração Universal dos Direitos Humanos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Nos valores que embasam a Constituição Cidadã de 1988.",
+                      "explanation": "Embora a Constituição Cidadã seja mencionada como contexto, o Princípio I se apoia nos valores que embasam a Declaração Universal dos Direitos Humanos."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Nos valores que embasam a Declaração Universal dos Direitos Humanos:",
+                      "explanation": "O psicólogo baseará o seu trabalho no respeito e na promoção da liberdade, da dignidade, da igualdade e da integridade do ser humano, apoiado nos valores que embasam a Declaração Universal dos Direitos Humanos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Nos valores socioculturais que refletem a realidade do país.",
+                      "explanation": "Embora valores socioculturais sejam refletidos no Código, o Princípio I é especificamente apoiado na Declaração Universal dos Direitos Humanos."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_EeL_L5_Q4",
+                  "statement": "Conforme o Art. 2º, alínea \"a\", é vedado ao psicólogo praticar ou ser conivente com quaisquer atos que caracterizem:",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Prolongar, desnecessariamente, a prestação de serviços profissionais.",
+                      "explanation": "Prolongar desnecessariamente é vedado pela alínea \"n\"."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Negligência, discriminação, exploração, violência, crueldade ou opressão:",
+                      "explanation": "É vedado praticar ou ser conivente com quaisquer atos que caracterizem negligência, discriminação, exploração, violência, crueldade ou opressão."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Utilização de instrumentos não regulamentados pela legislação profissional.",
+                      "explanation": "Esta é uma vedação da alínea \"f\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Falta ética por acumpliciar-se com outros profissionais em trabalhos multiprofissionais.",
+                      "explanation": "É vedado acumpliciar-se com pessoas ou organizações que exerçam ou favoreçam o exercício ilegal da profissão."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Interferir na fidedignidade de instrumentos psicológicos, exceto se for em pesquisa científica.",
+                      "explanation": "É vedado interferir na validade e fidedignidade de instrumentos e técnicas psicológicas."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q5",
+                  "statement": "Qual é o dever do psicólogo em relação à utilização de conhecimento e práticas psicológicas, conforme a alínea \"c\" do Art. 2º?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "É vedado utilizar ou favorecer o uso de conhecimento e a utilização de práticas psicológicas como instrumentos de castigo, tortura ou qualquer forma de violência:",
+                      "explanation": "Ao psicólogo é vedado utilizar ou favorecer o uso de conhecimento e a utilização de práticas psicológicas como instrumentos de castigo, tortura ou qualquer forma de violência."
+                    },
+                    {
+                      "id": "b",
+                      "text": "É permitido utilizar práticas psicológicas como instrumentos de persuasão em contextos judiciais, desde que sob sigilo.",
+                      "explanation": "É vedado utilizá-las como instrumentos de castigo, tortura ou violência."
+                    },
+                    {
+                      "id": "c",
+                      "text": "É permitido o uso de práticas psicológicas como instrumento de contenção em situações de emergência, desde que autorizado legalmente.",
+                      "explanation": "O texto proíbe expressamente o uso como castigo, tortura ou violência."
+                    },
+                    {
+                      "id": "d",
+                      "text": "É dever do psicólogo utilizar práticas psicológicas para induzir convicções morais ou filosóficas que visem ao benefício do paciente.",
+                      "explanation": "É vedado induzir a convicções políticas, filosóficas, morais, ideológicas, religiosas, de orientação sexual ou a qualquer tipo de preconceito."
+                    },
+                    {
+                      "id": "e",
+                      "text": "É vedado apenas o uso que configure tortura ou castigo físico, sendo o uso psicológico permitido em casos extremos.",
+                      "explanation": "A vedação se estende a qualquer forma de violência."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L5_Q6",
+                  "statement": "De acordo com o Art. 1º, alínea \"d\", qual é a condição especial para a prestação de serviços profissionais em situações de calamidade pública ou de emergência?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Garantir o direito de escolha do usuário ou beneficiário de serviços de Psicologia.",
+                      "explanation": "A condição especial é prestar serviços sem visar benefício pessoal."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Priorizar os atendimentos mediante remuneração pré-acordada.",
+                      "explanation": "Deve prestar serviços sem visar benefício pessoal."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Prestar serviços psicológicos de qualidade, em condições apropriadas, visando benefício pessoal.",
+                      "explanation": "Deve prestar serviços sem visar benefício pessoal."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Prestar serviços em situações de calamidade pública ou de emergência, sem visar benefício pessoal:",
+                      "explanation": "É um dever fundamental prestar serviços profissionais em situações de calamidade pública ou de emergência, sem visar benefício pessoal."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Solicitar autorização prévia do Conselho Regional de Psicologia para atuar.",
+                      "explanation": "Esta condição não está listada no texto."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_EeL_L5_Q7",
+                  "statement": "Em relação à divulgação de instrumentos e técnicas psicológicas, o que o Art. 18 veda ao psicólogo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Vender a leigos instrumentos e técnicas psicológicas, desde que sejam sob supervisão.",
+                      "explanation": "É vedado divulgar, ensinar, ceder, emprestar ou vender a leigos instrumentos e técnicas que permitam ou facilitem o exercício ilegal da profissão."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Utilizar instrumentos e técnicas psicológicas que não estejam reconhecidas pela profissão.",
+                      "explanation": "O Art. 18 trata de divulgar, ensinar, ceder, emprestar ou vender a leigos instrumentos e técnicas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Divulgar, ensinar, ceder, emprestar ou vender a leigos instrumentos e técnicas psicológicas que permitam ou facilitem o exercício ilegal da profissão:",
+                      "explanation": "O psicólogo não divulgará, ensinará, cederá, emprestará ou venderá a leigos instrumentos e técnicas psicológicas que permitam ou facilitem o exercício ilegal da profissão."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Divulgar os resultados de serviços psicológicos em meios de comunicação sem a devida autorização do CFP.",
+                      "explanation": "Esta é uma vedação do Art. 2º, alínea \"q\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Emprestar materiais privativos do psicólogo a colegas de profissão que não estejam com o registro ativo.",
+                      "explanation": "O foco do Art. 18 é a vedação de compartilhar com leigos."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q8",
+                  "statement": "Qual é a responsabilidade do psicólogo em relação à atuação social e análise da realidade, conforme o Princípio Fundamental III?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O psicólogo atuará com responsabilidade social, abstendo-se de análises críticas sobre a realidade política.",
+                      "explanation": "O psicólogo atuará com responsabilidade social, analisando crítica e historicamente a realidade política, econômica, social e cultural."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O psicólogo atuará visando promover o conhecimento da ciência psicológica, independente da realidade social e cultural.",
+                      "explanation": "O Princípio III exige a atuação com responsabilidade social, analisando crítica e historicamente a realidade política, econômica, social e cultural."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O psicólogo atuará com responsabilidade social, analisando crítica e historicamente a realidade política, econômica, social e cultural:",
+                      "explanation": "O psicólogo atuará com responsabilidade social, analisando crítica e historicamente a realidade política, econômica, social e cultural."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O psicólogo atuará para promover a universalização do acesso da população aos serviços, priorizando o desenvolvimento científico.",
+                      "explanation": "Esta descrição se relaciona ao Princípio V e não ao III."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O psicólogo zelará para que o exercício profissional seja efetuado com dignidade, rejeitando situações de aviltamento.",
+                      "explanation": "Esta descrição se relaciona ao Princípio VI."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q9",
+                  "statement": "Ao promover publicamente seus serviços, o que o Art. 20 exige que o psicólogo informe sobre sua identidade profissional?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas seu nome completo e o número do registro profissional.",
+                      "explanation": "Deve informar seu nome completo, o CRP e seu número de registro."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Nome completo, o CRP e seu número de registro:",
+                      "explanation": "O psicólogo deve informar o seu nome completo, o CRP e seu número de registro."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O número do registro profissional e a previsão taxativa de resultados.",
+                      "explanation": "É vedado fazer previsão taxativa de resultados."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Seu nome e os títulos que pretende adquirir futuramente, visando a autopromoção.",
+                      "explanation": "Deve fazer referência apenas a títulos ou qualificações profissionais que possua."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O preço do serviço, desde que não seja a única forma de propaganda.",
+                      "explanation": "Não utilizará o preço do serviço como forma de propaganda."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q10",
+                  "statement": "Qual é a vedação relacionada à divulgação de procedimentos ou resultados de serviços psicológicos em meios de comunicação? (Art. 2º, alínea \"q\")",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação, desde que não haja exposição de pessoas.",
+                      "explanation": "A vedação é realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação, de forma a expor pessoas, grupos ou organizações."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação, apenas se forem em congressos científicos.",
+                      "explanation": "O texto proíbe a divulgação em meios de comunicação de forma a expor pessoas, grupos ou organizações."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação, de forma a expor pessoas, grupos ou organizações:",
+                      "explanation": "É vedado realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação, de forma a expor pessoas, grupos ou organizações."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Divulgar, ensinar, ceder, emprestar ou vender a leigos instrumentos e técnicas psicológicas.",
+                      "explanation": "Esta é a vedação do Art. 18."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Interferir na validade e fidedignidade de instrumentos e técnicas psicológicas.",
+                      "explanation": "Esta é a vedação do Art. 2º, alínea \"h\"."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q11",
+                  "statement": "Sobre a relação do psicólogo com profissionais não psicólogos (Art. 6º), o que ele deve fazer com demandas que extrapolem seu campo de atuação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Compartilhar todas as informações relevantes com o profissional não psicólogo, sem resguardar o sigilo.",
+                      "explanation": "Deve compartilhar somente informações relevantes para qualificar o serviço prestado, resguardando o caráter confidencial das comunicações."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Encaminhar a profissionais ou entidades habilitados e qualificados:",
+                      "explanation": "O psicólogo deve encaminhar a profissionais ou entidades habilitados e qualificados demandas que extrapolem seu campo de atuação."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Intervir na demanda, buscando aprimoramento profissional contínuo.",
+                      "explanation": "Deve encaminhar demandas que extrapolem seu campo de atuação."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Recusar-se a prestar informações, devido ao sigilo profissional.",
+                      "explanation": "Deve compartilhar informações relevantes, resguardando o sigilo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Informar aos Conselhos Regionais de Psicologia sobre a inadequação da demanda.",
+                      "explanation": "A ação prevista é o encaminhamento a profissionais ou entidades habilitados e qualificados."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q12",
+                  "statement": "O Art. 2º, alínea \"i\", proíbe o psicólogo de realizar qual ação em relação aos seus serviços?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Induzir qualquer pessoa ou organização a recorrer a seus serviços:",
+                      "explanation": "Ao psicólogo é vedado induzir qualquer pessoa ou organização a recorrer a seus serviços."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Oferecer serviços de Psicologia em condições de trabalho indignas.",
+                      "explanation": "O Art. 1º, alínea \"c\", impõe o dever de prestar serviços em condições dignas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Prolongar a prestação de serviços profissionais apenas se houver comprovação científica de ineficácia.",
+                      "explanation": "É vedado prolongar, desnecessariamente, a prestação de serviços profissionais."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Estabelecer comissões, empréstimos ou vantagens de qualquer espécie além dos honorários contratados.",
+                      "explanation": "Esta é a vedação da alínea \"o\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Sugerir serviços de outros psicólogos, quando houver motivos justificáveis.",
+                      "explanation": "Sugerir serviços de outros psicólogos em casos justificáveis é um dever fundamental (Art. 1º, alínea \"k\")."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L5_Q13",
+                  "statement": "Em qual data o Código de Ética Profissional do Psicólogo (Resolução CFP Nº 010/05) entrou em vigor?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "21 de julho de 2005.",
+                      "explanation": "Esta foi a data da decisão do Plenário."
+                    },
+                    {
+                      "id": "b",
+                      "text": "17 de junho de 1977.",
+                      "explanation": "Esta é a data do Decreto mencionado no preâmbulo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "27 de agosto de 2005:",
+                      "explanation": "A presente Resolução entrará em vigor no dia 27 de agosto de 2005."
+                    },
+                    {
+                      "id": "d",
+                      "text": "20 de dezembro de 1971.",
+                      "explanation": "Esta é a data da Lei que confere atribuições ao CFP."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Agosto de 2003.",
+                      "explanation": "O processo de debates ocorreu entre 2003 e 2005."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q14",
+                  "statement": "O Princípio Fundamental VI estabelece que o psicólogo zelará para que o exercício profissional seja efetuado com dignidade. O que este princípio exige que o psicólogo faça?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Contribuir para o desenvolvimento da Psicologia como campo científico de conhecimento e de prática.",
+                      "explanation": "Esta é a descrição do Princípio IV."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Rejeitar situações em que a Psicologia esteja sendo aviltada:",
+                      "explanation": "O psicólogo zelará para que o exercício profissional seja efetuado com dignidade, rejeitando situações em que a Psicologia esteja sendo aviltada."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Considerar as relações de poder nos contextos em que atua.",
+                      "explanation": "Esta é a descrição do Princípio VII."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Levar ao conhecimento das instâncias competentes o exercício ilegal da profissão.",
+                      "explanation": "Esta é uma descrição do Art. 1º, alínea \"l\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Promover a universalização do acesso da população às informações da ciência psicológica.",
+                      "explanation": "Esta é a descrição do Princípio V."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q15",
+                  "statement": "Em relação aos documentos que embasam as atividades em equipe multiprofissional, o Art. 12 determina que o psicólogo deve registrar apenas quais informações?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Todas as informações confidenciais do usuário ou beneficiário, garantindo a integralidade do registro.",
+                      "explanation": "O psicólogo registrará apenas as informações necessárias para o cumprimento dos objetivos do trabalho."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas as informações necessárias para o cumprimento dos objetivos do trabalho:",
+                      "explanation": "O psicólogo registrará apenas as informações necessárias para o cumprimento dos objetivos do trabalho."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Informações concernentes ao trabalho a ser realizado e ao seu objetivo profissional, repassando ao substituto em caso de interrupção.",
+                      "explanation": "O Art. 12 trata especificamente da equipe multiprofissional."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Somente informações que não configurem quebra de sigilo profissional.",
+                      "explanation": "O critério é a necessidade para o cumprimento dos objetivos do trabalho."
+                    },
+                    {
+                      "id": "e",
+                      "text": "As informações solicitadas pelo Conselho Regional de Psicologia, em caso de dúvida.",
+                      "explanation": "O critério é a necessidade para o cumprimento dos objetivos do trabalho."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q16",
+                  "statement": "Durante a construção democrática do Código de Ética de 2005, que ocorreu ao longo de três anos, qual princípio geral orientou a sua formulação em relação à sua função normativa?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O código deve ser visto como um conjunto fixo de normas e imutável no tempo, dada a sua importância social.",
+                      "explanation": "O código não pode ser visto como um conjunto fixo de normas e imutável no tempo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Abrir espaço para a discussão, pelo psicólogo, dos limites e interseções relativos aos direitos individuais e coletivos.",
+                      "explanation": "Este foi um dos objetivos específicos da construção, mas não o princípio geral orientador."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Aproximar-se mais de um instrumento de reflexão do que de um conjunto de normas a serem seguidas pelo psicólogo:",
+                      "explanation": "Este Código de Ética pautou-se pelo princípio geral de aproximar-se mais de um instrumento de reflexão do que de um conjunto de normas a serem seguidas pelo psicólogo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Contemplar a diversidade que configura o exercício da profissão e a crescente inserção do psicólogo em contextos institucionais.",
+                      "explanation": "Este foi um dos objetivos específicos da construção, não o princípio geral."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Valorizar os princípios fundamentais como eixos que orientam a relação do psicólogo com as entidades e a ciência.",
+                      "explanation": "Este é um objetivo específico para a construção, mas o princípio geral foi ser um instrumento de reflexão."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q17",
+                  "statement": "Conforme o Art. 2º, alínea \"k\", o psicólogo é vedado de atuar como perito, avaliador ou parecerista em situações específicas. Quais são as circunstâncias que geram essa vedação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Quando houver vínculos financeiros atuais, mas não anteriores, que possam afetar a fidelidade dos resultados.",
+                      "explanation": "A vedação ocorre quando os vínculos pessoais ou profissionais, atuais ou anteriores, possam afetar a qualidade do trabalho a ser realizado ou a fidelidade aos resultados da avaliação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas quando os vínculos pessoais, atuais ou anteriores, comprometam a qualidade do trabalho a ser realizado.",
+                      "explanation": "A vedação se aplica a vínculos pessoais ou profissionais, atuais ou anteriores."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Situações nas quais seus vínculos pessoais ou profissionais, atuais ou anteriores, possam afetar a qualidade do trabalho a ser realizado ou a fidelidade aos resultados da avaliação:",
+                      "explanation": "É vedado ser perito, avaliador ou parecerista em situações nas quais seus vínculos pessoais ou profissionais, atuais ou anteriores, possam afetar a qualidade do trabalho a ser realizado ou a fidelidade aos resultados da avaliação."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Quando a intervenção fizer parte de uma metodologia de trabalho multiprofissional.",
+                      "explanation": "Este é um caso em que a intervenção em serviço de outro profissional é permitida (Art. 7º, d)."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas em casos de emergência ou risco ao beneficiário, quando o psicólogo deve dar ciência imediata ao profissional responsável.",
+                      "explanation": "Esta situação não se relaciona ao papel de perito/avaliador."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q18",
+                  "statement": "Em que situações, além dos casos previstos em lei, o psicólogo poderá decidir pela quebra do sigilo profissional, conforme o Art. 10, e qual critério ele deve utilizar para tal decisão?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Quando houver conflito entre o sigilo (Art. 9º) e os princípios fundamentais, baseando a decisão na busca da maior celeridade processual.",
+                      "explanation": "O critério é basear sua decisão na busca do menor prejuízo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Quando requisitado a depor em juízo, considerando o previsto neste Código, prestando todas as informações solicitadas.",
+                      "explanation": "Requisitar a depor é tratado no Art. 11, mas o Art. 10 trata do conflito entre sigilo e princípios."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Quando se configurar conflito entre as exigências do sigilo profissional e as afirmações dos princípios fundamentais deste Código, baseando sua decisão na busca do menor prejuízo:",
+                      "explanation": "O psicólogo poderá decidir pela quebra de sigilo quando se configure conflito entre as exigências decorrentes do Art. 9º e as afirmações dos princípios fundamentais, baseando sua decisão na busca do menor prejuízo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Quando o usuário ou beneficiário manifestar interesse em ter seu anonimato revelado em pesquisa científica.",
+                      "explanation": "Esta situação é tratada no contexto de pesquisa (Art. 16, c)."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Em caso de emergência ou risco ao beneficiário, dando ciência imediata às autoridades competentes.",
+                      "explanation": "Embora seja um caso de quebra de sigilo implícita em casos de risco, o Art. 10 trata especificamente do conflito com os princípios fundamentais."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q19",
+                  "statement": "No caso de atendimento não eventual de criança, adolescente ou interdito, o que o psicólogo deve obter, conforme o Art. 8º?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A autorização de ambos os responsáveis legais, observadas as determinações da legislação vigente.",
+                      "explanation": "Deverá obter autorização de ao menos um de seus responsáveis, observadas as determinações da legislação vigente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Autorização de ao menos um de seus responsáveis, observadas as determinações da legislação vigente:",
+                      "explanation": "O psicólogo deverá obter autorização de ao menos um de seus responsáveis, observadas as determinações da legislação vigente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Autorização do Conselho Tutelar ou autoridade competente, mesmo que se apresente um responsável legal.",
+                      "explanation": "A comunicação às autoridades competentes é prevista somente no caso de não se apresentar um responsável legal (§1°)."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A autorização de ambos os responsáveis legais ou, na falta deles, de uma autoridade judicial.",
+                      "explanation": "É suficiente a autorização de ao menos um."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A anuência do próprio atendido, independentemente da idade ou condição, desde que tenha capacidade de discernimento.",
+                      "explanation": "O Art. 8º exige autorização de ao menos um dos responsáveis."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q20",
+                  "statement": "O psicólogo pode intervir na prestação de serviços psicológicos que estejam sendo efetuados por outro profissional em quatro situações específicas (Art. 7º). Qual das alternativas lista corretamente essas situações?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A pedido do profissional responsável, em caso de emergência ou risco ao beneficiário, a pedido do Conselho Regional de Psicologia, ou quando houver interrupção definitiva do serviço.",
+                      "explanation": "A intervenção não inclui o pedido do CRP."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A pedido do profissional responsável, em caso de emergência ou risco ao beneficiário, quando informado expressamente da interrupção voluntária e definitiva, ou quando se tratar de trabalho multiprofissional e a intervenção fizer parte da metodologia adotada:",
+                      "explanation": "O Art. 7º lista as quatro situações: a pedido do profissional responsável; em caso de emergência ou risco; quando informado expressamente... da interrupção voluntária e definitiva do serviço; e quando se tratar de trabalho multiprofissional."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A pedido da família do beneficiário, em caso de risco iminente, ou quando o pagamento estiver em atraso.",
+                      "explanation": "O texto não prevê o pedido da família como gatilho, nem o atraso no pagamento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Quando o serviço for de longa duração e a intervenção fizer parte da metodologia adotada, ou quando o psicólogo substituto solicitar as informações.",
+                      "explanation": "A intervenção é prevista no contexto multiprofissional, não apenas em longa duração."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas em situações de risco ao beneficiário, dando imediata ciência ao profissional substituto.",
+                      "explanation": "O psicólogo deve dar imediata ciência ao profissional responsável, não necessariamente ao substituto."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q21",
+                  "statement": "De acordo com o Parágrafo único do Art. 10, se o psicólogo decidir pela quebra do sigilo por configurar conflito entre o sigilo e os princípios fundamentais, como ele deverá proceder na prestação das informações?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Ele deverá prestar todas as informações que forem necessárias para garantir a proteção integral do atendido.",
+                      "explanation": "O psicólogo deverá restringir-se a prestar as informações estritamente necessárias."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ele deverá obter a autorização do Conselho Regional de Psicologia antes de quebrar o sigilo.",
+                      "explanation": "A decisão baseia-se na busca do menor prejuízo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ele deverá restringir-se a prestar as informações estritamente necessárias:",
+                      "explanation": "Em caso de quebra do sigilo previsto no caput deste artigo, o psicólogo deverá restringir-se a prestar as informações estritamente necessárias."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ele deverá comunicar a quebra de sigilo aos responsáveis legais, mas não às autoridades competentes.",
+                      "explanation": "O foco é na restrição da informação prestada."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ele deverá registrar nos documentos que embasam a equipe multiprofissional apenas o essencial.",
+                      "explanation": "O Art. 12 trata dos documentos de equipe multiprofissional, não da quebra de sigilo geral."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q22",
+                  "statement": "Qual é a conduta ética esperada do psicólogo (Art. 3º) quando ele constata que a missão, a filosofia, as políticas, as normas e as práticas de uma organização são incompatíveis com os princípios e regras do Código?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Assumir o cargo e tentar alterar as políticas internas da organização por meio de negociação.",
+                      "explanation": "Cabe ao psicólogo recusar-se a prestar serviços e, se pertinente, apresentar denúncia ao órgão competente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Recusar-se a prestar serviços e, se pertinente, apresentar denúncia ao órgão competente:",
+                      "explanation": "Existindo incompatibilidade, cabe ao psicólogo recusar-se a prestar serviços e, se pertinente, apresentar denúncia ao órgão competente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Prestar os serviços, mas informar o usuário ou beneficiário sobre a incompatibilidade ética.",
+                      "explanation": "A recusa de prestação de serviços e a denúncia são obrigatórias."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Prestar serviços profissionais de acordo com as normas da organização, desde que o sigilo seja respeitado.",
+                      "explanation": "A prestação deve ser recusada em caso de incompatibilidade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apresentar a denúncia somente ao Conselho Federal de Psicologia, abstendo-se de recusar os serviços.",
+                      "explanation": "A denúncia é apresentada ao órgão competente (geralmente o Regional) e os serviços devem ser recusados."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q23",
+                  "statement": "Em relação à guarda de arquivos confidenciais em caso de interrupção do trabalho por demissão ou exoneração (Art. 15, § 1°), qual é o procedimento correto a ser seguido pelo psicólogo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O psicólogo deve incinerar os arquivos para proteger a confidencialidade das informações.",
+                      "explanation": "Ele deverá repassar todo o material ao psicólogo que vier a substituí-lo, ou lacrá-lo para posterior utilização pelo psicólogo substituto."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ele deverá repassar todo o material ao Conselho Regional de Psicologia, que providenciará a destinação.",
+                      "explanation": "A destinação ao CRP é prevista somente em caso de extinção do serviço de Psicologia (§ 2°)."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Repassar todo o material ao psicólogo que vier a substituí-lo, ou lacrá-lo para posterior utilização pelo psicólogo substituto:",
+                      "explanation": "Em caso de demissão ou exoneração, o psicólogo deverá repassar todo o material ao psicólogo que vier a substituí-lo, ou lacrá-lo para posterior utilização pelo psicólogo substituto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Informar o usuário ou beneficiário para que este solicite a guarda dos arquivos.",
+                      "explanation": "O psicólogo tem o dever de zelar pelo destino dos seus arquivos confidenciais."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Lacrar o material e guardar em sua residência particular, devido ao caráter confidencial.",
+                      "explanation": "O material deve ser repassado ou lacrado para uso do substituto."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q24",
+                  "statement": "Ao fixar a remuneração pelo seu trabalho (Art. 4º), o que o psicólogo deve assegurar, independentemente do valor acordado?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A justa retribuição pelos serviços prestados.",
+                      "explanation": "Levar em conta a justa retribuição é um critério para fixar o valor, mas não o que deve ser assegurado independentemente do valor."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A qualidade dos serviços oferecidos:",
+                      "explanation": "O psicólogo deve assegurar a qualidade dos serviços oferecidos independentemente do valor acordado."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que o valor seja estipulado de acordo com a tabela de honorários do Conselho Federal de Psicologia.",
+                      "explanation": "O texto estabelece que o valor deve ser estipulado de acordo com as características da atividade e comunicado ao usuário."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que os encaminhamentos apropriados sejam fornecidos sempre que solicitados.",
+                      "explanation": "Este é um dever fundamental (Art. 1º, h)."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A divulgação clara dos recursos relativos a técnicas e práticas reconhecidas pela profissão.",
+                      "explanation": "Esta é uma regra de publicidade (Art. 20, c)."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q25",
+                  "statement": "Conforme o Art. 2º, alínea \"l\", qual é a vedação específica em relação ao desvio de pessoas ou organizações atendidas?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Desviar para serviço particular ou de outra instituição, visando benefício próprio, pessoas ou organizações atendidas por instituição com a qual mantenha qualquer tipo de vínculo profissional:",
+                      "explanation": "É vedado desviar para serviço particular ou de outra instituição, visando benefício próprio, pessoas ou organizações atendidas por instituição com a qual mantenha qualquer tipo de vínculo profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Desviar para serviço particular ou de outra instituição apenas se o desvio não for em detrimento do trabalho de outros profissionais.",
+                      "explanation": "O desvio é vedado quando visa benefício próprio e se refere a pessoas atendidas pela instituição vinculada."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Receber, pagar remuneração ou porcentagem por encaminhamento de serviços.",
+                      "explanation": "Esta é a vedação da alínea \"p\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Prolongar, desnecessariamente, a prestação de serviços profissionais para obter benefício.",
+                      "explanation": "Esta é a vedação da alínea \"n\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Realizar diagnósticos, divulgar procedimentos ou apresentar resultados de serviços psicológicos em meios de comunicação.",
+                      "explanation": "Esta é a vedação da alínea \"q\"."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L5_Q26",
+                  "statement": "Na realização de estudos, pesquisas e atividades voltadas para a produção de conhecimento, o psicólogo deve garantir o caráter voluntário da participação. Em que condição essa garantia pode ser excepcionada? (Art. 16, b)",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Salvo nas situações previstas em legislação específica e respeitando os princípios deste Código:",
+                      "explanation": "O psicólogo deve garantir o caráter voluntário da participação, mediante consentimento livre e esclarecido, salvo nas situações previstas em legislação específica e respeitando os princípios deste Código."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Salvo nos casos em que a pesquisa tiver financiamento público e visar o benefício da coletividade.",
+                      "explanation": "A exceção deve estar prevista em legislação específica."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Salvo nos casos em que a garantia de anonimato das pessoas não for possível.",
+                      "explanation": "A garantia de anonimato é uma exigência separada (Art. 16, c)."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Salvo se houver prévia comunicação da paralisação aos usuários, em casos de greve.",
+                      "explanation": "Esta regra se refere a greves e paralisações (Art. 5º)."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Salvo em pesquisas realizadas por estudantes, desde que haja supervisão de docente.",
+                      "explanation": "A exceção deve estar prevista em legislação específica."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L5_Q27",
+                  "statement": "Em caso de extinção do serviço de Psicologia de uma instituição (Art. 15, § 2°), qual órgão deve ser informado e quem providenciará a destinação dos arquivos confidenciais?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O Conselho Federal de Psicologia, que informará ao profissional substituto.",
+                      "explanation": "O psicólogo responsável informará ao Conselho Regional de Psicologia, que providenciará a destinação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A Assembléia de Políticas Administrativas e Financeiras (APAF), que determinará a guarda pelo Conselho Federal.",
+                      "explanation": "A informação é dada ao Conselho Regional de Psicologia."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O psicólogo responsável informará ao Conselho Regional de Psicologia, que providenciará a destinação dos arquivos confidenciais:",
+                      "explanation": "Em caso de extinção do serviço de Psicologia, o psicólogo responsável informará ao Conselho Regional de Psicologia, que providenciará a destinação dos arquivos confidenciais."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O Conselho Federal de Psicologia, que providenciará o repasse do material lacrado.",
+                      "explanation": "A informação é dada ao Conselho Regional de Psicologia."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O psicólogo responsável deve repassar o material ao psicólogo que vier a substituí-lo.",
+                      "explanation": "O repasse ao substituto é para casos de demissão/exoneração (§ 1°), não de extinção do serviço (§ 2°)."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q28",
+                  "statement": "O Princípio Fundamental VII direciona o psicólogo a considerar as relações de poder nos contextos em que atua. De que forma ele deve se posicionar em relação a essas relações?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Posicionando-se de forma neutra, visando à promoção da liberdade e da dignidade do ser humano.",
+                      "explanation": "Deve se posicionar de forma crítica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Posicionando-se de forma crítica e em consonância com os demais princípios deste Código:",
+                      "explanation": "O psicólogo deve posicionar-se de forma crítica e em consonância com os demais princípios deste Código."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Analisando histórica e criticamente a realidade política, econômica e social.",
+                      "explanation": "Embora a análise crítica seja um princípio (Princípio III), o Princípio VII se refere ao posicionamento em relação às relações de poder."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Trabalhando visando promover a saúde e a qualidade de vida das pessoas.",
+                      "explanation": "Esta é a descrição do Princípio II."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Levando em conta apenas a justa retribuição pelos serviços prestados e as condições do usuário ou beneficiário.",
+                      "explanation": "Este ponto trata da remuneração (Art. 4º)."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L5_Q29",
+                  "statement": "O Art. 5º trata da participação do psicólogo em greves ou paralisações. Quais são as duas garantias que o psicólogo deve assegurar durante esses movimentos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que haja prévia comunicação ao Conselho Federal e que a qualidade dos serviços seja mantida.",
+                      "explanation": "Deve garantir que as atividades de emergência não sejam interrompidas e que haja prévia comunicação da paralisação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que a paralisação seja comunicada ao Conselho Regional e que os serviços de emergência funcionem em regime de plantão.",
+                      "explanation": "A comunicação é aos usuários ou beneficiários."
+                    },
+                    {
+                      "id": "c",
+                      "text": "As atividades de emergência não sejam interrompidas e haja prévia comunicação da paralisação aos usuários ou beneficiários dos serviços atingidos pela mesma:",
+                      "explanation": "O psicólogo garantirá que as atividades de emergência não sejam interrompidas e que haja prévia comunicação da paralisação aos usuários ou beneficiários dos serviços atingidos pela mesma."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O direito de greve seja exercido sem visar benefício pessoal.",
+                      "explanation": "Embora o não visar benefício pessoal seja um dever em calamidades (Art. 1º, d), as garantias específicas para greve são a emergência e a comunicação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que os arquivos confidenciais sejam lacrados para posterior utilização pelo substituto.",
+                      "explanation": "Esta regra se aplica a demissão/exoneração."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L5_Q30",
+                  "statement": "Em relação ao Art. 1º, alínea \"g\", sobre a informação de resultados decorrentes da prestação de serviços psicológicos, o que o psicólogo deve transmitir?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Somente o que for estritamente essencial para se promoverem medidas em benefício de crianças, adolescentes ou interditos.",
+                      "explanation": "Esta regra se aplica ao atendimento a crianças, adolescentes ou interditos (Art. 13)."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Somente o que for necessário para a tomada de decisões que afetem o usuário ou beneficiário:",
+                      "explanation": "É dever fundamental transmitir somente o que for necessário para a tomada de decisões que afetem o usuário ou beneficiário."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Todas as informações, desde que o usuário ou beneficiário, desde o início, tenha sido informado sobre os meios de registro.",
+                      "explanation": "Deve transmitir somente o que for necessário para a tomada de decisões."
+                    },
+                    {
+                      "id": "d",
+                      "text": "As informações requeridas pelo Conselho Federal de Psicologia ou pelos Conselhos Regionais de Psicologia, em caso de fiscalização.",
+                      "explanation": "O Art. 1º, g, trata da informação \"a quem de direito\" sobre os resultados."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas o diagnóstico, resguardando os demais detalhes técnicos sob sigilo profissional.",
+                      "explanation": "O critério é o que é necessário para a tomada de decisões."
+                    }
+                  ],
+                  "answer": "b"
+                }
+              ]
             }
           ]
         },
