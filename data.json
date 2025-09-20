@@ -26,11 +26,11 @@
       "subjects": [
         {
           "id": "p4_Etica_e_Legislacao",
-          "title": "📖 Ética e Legislação",
+          "title": "📜 Ética e Legislação",
           "lists": [
             {
               "id": "p4_EeL_L1",
-              "title": "Lista 1",
+              "title": "Lista 1: Geral",
               "questions": [
                 {
                   "id": "p4_EeL_L1_Q1",
@@ -5821,6 +5821,972 @@
                     }
                   ],
                   "answer": "b"
+                }
+              ]
+            },
+            {
+              "id": "p4_EeL_L7",
+              "title": "Lista 7: Resolução de 1964",
+              "questions": [
+                {
+                  "id": "p4_EeL_L7_Q1",
+                  "statement": "De acordo com o Título I do Decreto nº 53.464/64, qual é o requisito indispensável para o exercício legal da profissão de Psicólogo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Obtenção prévia do diploma de Bacharel em Psicologia",
+                      "explanation": "Incorreta. Embora o diploma seja necessário para a formação, a condição indispensável para o exercício legal é o registro profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Comprovação de, no mínimo, dois anos de experiência em Psicologia Aplicada",
+                      "explanation": "Incorreta. Este é um critério de exceção para quem exercia a atividade antes de 1962, mas não é a condição indispensável geral para o exercício legal."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Registro do diploma no Conselho Federal de Educação",
+                      "explanation": "Incorreta. O registro profissional deve ser obtido na Diretoria do Ensino Superior do Ministério da Educação e Cultura (MEC)."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ser possuidor de diploma de Doutor em Filosofia",
+                      "explanation": "Incorreta. Esta é uma das formas de habilitação, mas não a condição indispensável e geral para o exercício legal da profissão."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Obtenção prévia do registro profissional de Psicólogo na Diretoria do Ensino Superior do Ministério da Educação e Cultura (MEC)",
+                      "explanation": "Correta! O Art. 3º do Decreto estabelece que a condição indispensável para o exercício legal é a obtenção prévia do registro profissional no MEC."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_EeL_L7_Q2",
+                  "statement": "O Art. 5º do Decreto nº 53.464/64 estipula que a formação do psicólogo seria de quanto tempo, em sua duração mínima?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "4 anos",
+                      "explanation": "Incorreta. A duração mínima era de 5 anos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "5 anos",
+                      "explanation": "Correta! O Art. 5º do Decreto nº 53.464/64 estabelece a duração mínima de 5 anos para a formação em psicologia."
+                    },
+                    {
+                      "id": "c",
+                      "text": "3 anos",
+                      "explanation": "Incorreta. A duração era maior."
+                    },
+                    {
+                      "id": "d",
+                      "text": "8 semestres",
+                      "explanation": "Incorreta. A duração mínima era de 5 anos, ou 10 semestres."
+                    },
+                    {
+                      "id": "e",
+                      "text": "10 semestres",
+                      "explanation": "Correta! O Art. 5º do Decreto nº 53.464/64 estabelece a duração mínima de 5 anos, que corresponde a 10 semestres, para a formação em psicologia."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L7_Q3",
+                  "statement": "Segundo o Art. 5º do Decreto nº 53.464/64, o curso de Psicologia deveria ser integrado a qual tipo de instituição de ensino superior?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A uma faculdade de Filosofia, Ciências e Letras",
+                      "explanation": "Correta! O Art. 5º do Decreto determina que o curso de Psicologia deve ser integrado a uma Faculdade de Filosofia, Ciências e Letras."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A uma faculdade de Medicina",
+                      "explanation": "Incorreta. Embora haja ligação, a estrutura formal era com a filosofia."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A uma universidade federal de Psicologia",
+                      "explanation": "Incorreta. Não existiam universidades exclusivas de psicologia na época."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A um instituto de pesquisa em Psicologia",
+                      "explanation": "Incorreta. O curso seria em uma faculdade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A um curso de Pedagogia",
+                      "explanation": "Incorreta. O curso de Psicologia era associado a um campo distinto."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L7_Q4",
+                  "statement": "O Art. 6º do Decreto detalha a estrutura do curso de Psicologia. Qual disciplina era obrigatória no primeiro ano do curso?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Psicologia da Criança",
+                      "explanation": "Incorreta. Esta era uma disciplina do terceiro ano."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Psicologia Social",
+                      "explanation": "Incorreta. Esta era uma disciplina do terceiro ano."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Estatística Aplicada à Psicologia",
+                      "explanation": "Incorreta. Esta era uma disciplina do terceiro ano."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Introdução à Psicologia",
+                      "explanation": "Incorreta. Esta era uma disciplina do primeiro ano, mas junto com Biologia."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Biologia",
+                      "explanation": "Correta! Justificativa: O Art. 6º do Decreto nº 53.464/64 estabelece que a Biologia seria uma das disciplinas obrigatórias do primeiro ano do curso de Psicologia, junto com a Introdução à Psicologia."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_EeL_L7_Q5",
+                  "statement": "Qual a principal função do “título de Doutor em Filosofia (Seção de Psicologia)” e do “Diploma de Especialista em Psicologia”, segundo o Art. 12 do Decreto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Conceder privilégios acadêmicos aos psicólogos.",
+                      "explanation": "Incorreta. A finalidade é a habilitação para o exercício profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Habilitar para o exercício da profissão de Psicólogo.",
+                      "explanation": "Correta! O Art. 12 do Decreto estabelece que o título de Doutor e o Diploma de Especialista habilitam para o exercício da profissão de Psicólogo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Isentar o profissional da necessidade de registro profissional.",
+                      "explanation": "Incorreta. Mesmo com estes títulos, era necessária a obtenção do registro no MEC."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Permitir a atuação em qualquer área, independentemente da especialidade.",
+                      "explanation": "Incorreta. O Decreto estabelece as habilitações de acordo com a formação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Substituir o diploma de curso superior em Psicologia.",
+                      "explanation": "Incorreta. O Decreto estabelece as habilitações, mas não que um substitui o outro."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L7_Q6",
+                  "statement": "De acordo com o Art. 13 do Decreto, qual era a exigência para quem, antes da Lei, exercia a profissão de psicólogo, por um período mínimo de dois anos, para poder obter o registro profissional?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Realizar uma prova teórica e prática.",
+                      "explanation": "Incorreta. O decreto não menciona a obrigatoriedade de uma prova, mas sim a necessidade de um atestado de idoneidade e competência."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Possuir diploma de curso superior de Psicologia.",
+                      "explanation": "Incorreta. O Art. 13 se aplicava a quem já exercia a profissão antes da lei."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Apresentar uma tese de doutorado sobre o tema.",
+                      "explanation": "Incorreta. A tese era uma forma de habilitação para quem tinha o título de doutor."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apresentar um atestado de idoneidade e competência profissional emitido por uma banca examinadora.",
+                      "explanation": "Correta! O Art. 13 do Decreto nº 53.464/64 estabelece que aqueles que exerciam a profissão por no mínimo 2 anos antes da lei, poderiam obter o registro, se obtivessem um atestado de idoneidade e competência profissional emitido por uma banca examinadora."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Inscrever-se no Conselho Regional de Psicologia.",
+                      "explanation": "Incorreta. Os Conselhos Regionais ainda não existiam nesta época."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_EeL_L7_Q7",
+                  "statement": "Qual a principal diferença entre os Art. 12 e Art. 13 do Decreto nº 53.464/64?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O Art. 12 trata da formação acadêmica, enquanto o Art. 13 trata da experiência profissional.",
+                      "explanation": "Incorreta. Ambos os artigos tratam da habilitação para o exercício profissional, mas de formas diferentes."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O Art. 12 trata da habilitação de quem possui diplomas ou títulos específicos, e o Art. 13, de quem já exercia a profissão antes da lei de regulamentação.",
+                      "explanation": "Correta! O Art. 12 trata dos títulos e diplomas que habilitavam o exercício profissional, enquanto o Art. 13 trata da situação transitória de quem já exercia a profissão antes da Lei nº 4.119/62."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O Art. 12 se refere àqueles que obtiveram o registro profissional, e o Art. 13, àqueles que o perderam.",
+                      "explanation": "Incorreta. O Art. 13 também trata da obtenção do registro profissional em caráter de exceção."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O Art. 12 se refere aos psicólogos estrangeiros, e o Art. 13, aos brasileiros.",
+                      "explanation": "Incorreta. O Decreto trata das condições para o exercício da profissão no Brasil, não distinguindo nacionalidade nos artigos 12 e 13."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O Art. 12 é sobre a formação em Psicologia Escolar, e o Art. 13, sobre a formação em Psicologia Clínica.",
+                      "explanation": "Incorreta. Os artigos abordam a habilitação para o exercício profissional de forma geral."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L7_Q8",
+                  "statement": "Qual era a finalidade da Comissão Examinadora a que se refere o Art. 13 do Decreto nº 53.464/64?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Expedir diplomas e títulos de psicólogo.",
+                      "explanation": "Incorreta. Esta não era a função da Comissão, mas sim dos órgãos competentes de ensino."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Avaliar e emitir um atestado de idoneidade e competência profissional.",
+                      "explanation": "Correta! A Comissão Examinadora tinha a finalidade de avaliar a idoneidade e competência profissional daqueles que já exerciam a profissão antes da lei."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Realizar o registro profissional diretamente no MEC.",
+                      "explanation": "Incorreta. A Comissão emitia um parecer, que seria homologado pela Diretoria do Ensino Superior."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Fiscalizar o exercício ilegal da profissão.",
+                      "explanation": "Incorreta. A fiscalização era uma função do órgão competente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Oferecer cursos de especialização para os profissionais.",
+                      "explanation": "Incorreta. Esta não era a função da Comissão."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L7_Q9",
+                  "statement": "O Art. 21 do Decreto nº 53.464/64 define as competências do psicólogo. Qual das seguintes atividades é explicitamente mencionada como competência profissional?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A aplicação de testes de personalidade",
+                      "explanation": "Correta! O Art. 21, alínea \"a\", menciona explicitamente a aplicação e interpretação de testes psicológicos, entre eles os de personalidade."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A prescrição de medicamentos",
+                      "explanation": "Incorreta. A prescrição de medicamentos não é uma atribuição do psicólogo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A realização de cirurgias psiquiátricas",
+                      "explanation": "Incorreta. Esta é uma atribuição médica."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A realização de terapias com base em terapias não convencionais",
+                      "explanation": "Incorreta. O Decreto foca em atribuições científicas."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A orientação sobre a nutrição e dietas",
+                      "explanation": "Incorreta. Esta é uma atribuição de nutricionistas."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L7_Q10",
+                  "statement": "O Art. 21, alínea “b”, do Decreto nº 53.464/64, inclui em suas competências a orientação de profissionais sobre questões psicológicas. Quais profissionais são mencionados?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Educadores, médicos e outros profissionais",
+                      "explanation": "Correta! O Art. 21, alínea \"b\", menciona a orientação “de educadores, de médicos e de outros profissionais, sôbre questões psicológicas”."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas educadores e psicólogos",
+                      "explanation": "Incorreta. A lista de profissionais mencionados é mais ampla."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Advogados e juízes",
+                      "explanation": "Incorreta. Estes profissionais não são mencionados neste artigo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Somente médicos",
+                      "explanation": "Incorreta. A lista de profissionais é mais ampla."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Psicólogos e terapeutas ocupacionais",
+                      "explanation": "Incorreta. Os terapeutas ocupacionais não são mencionados."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L7_Q11",
+                  "statement": "O Art. 21 do Decreto nº 53.464/64 inclui em suas competências a orientação psicopedagógica. O que isso envolve?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O estudo da biologia do aluno.",
+                      "explanation": "Incorreta. Embora a Biologia seja uma disciplina obrigatória, a orientação psicopedagógica não é apenas o estudo da biologia."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O estudo e a orientação dos problemas do comportamento do professor.",
+                      "explanation": "Incorreta. O foco é nos alunos, não nos professores."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O estudo e a orientação dos problemas de aprendizagem e de ajustamento do aluno, em colaboração com os professores e a família.",
+                      "explanation": "Correta! O Art. 21, alínea \"c\", estabelece a competência do psicólogo para a “orientação psicopedagógica, que compreende o estudo e a orientação dos problemas de ajustamento e aprendizagem de escolares e a colaboração com os professores e as famílias, na solução desses problemas”."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A realização de cursos de aperfeiçoamento para professores.",
+                      "explanation": "Incorreta. O foco é na orientação e estudo de problemas."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A coordenação de projetos pedagógicos na escola.",
+                      "explanation": "Incorreta. O foco é na orientação de problemas de ajustamento e aprendizagem."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q12",
+                  "statement": "De acordo com o Art. 21 do Decreto, em quais áreas o psicólogo tem competência para a psicoterapia?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Somente em psicoterapia individual e de grupo.",
+                      "explanation": "Incorreta. O Art. 21 não limita as formas de psicoterapia."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Somente em psicoterapia familiar.",
+                      "explanation": "Incorreta. O Art. 21 não limita as formas de psicoterapia."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Exclusivamente em psicoterapia de casal.",
+                      "explanation": "Incorreta. O Art. 21 não limita as formas de psicoterapia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Em qualquer forma de psicoterapia.",
+                      "explanation": "Correta! O Art. 21, alínea \"d\", afirma que é competência do psicólogo a \"psicoterapia, em qualquer de suas formas ou ramos, sempre que se propuser a recuperação ou ajustamento de casos individuais ou coletivos\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Em psicoterapia, mas não em análise junguiana.",
+                      "explanation": "Incorreta. O Decreto não faz distinção entre as abordagens teóricas."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_EeL_L7_Q13",
+                  "statement": "O Art. 21, alínea 'e', do Decreto nº 53.464/64, afirma que é uma competência do psicólogo a assistência a comunidades. O que essa assistência inclui?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A organização de hospitais psiquiátricos.",
+                      "explanation": "Incorreta. O foco do artigo é na assistência para o ajustamento social."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A assistência em situações de calamidade pública.",
+                      "explanation": "Incorreta. Embora seja uma área de atuação, não é o que este artigo específico descreve."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A assistência aos grupos sociais, no sentido de sua organização para a realização de ajustamento social.",
+                      "explanation": "Correta! O Art. 21, alínea \"e\", estabelece que é competência do psicólogo a “assistência aos grupos sociais, no sentido de sua organização para a realização do ajustamento social”."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A mediação de conflitos diplomáticos.",
+                      "explanation": "Incorreta. O foco é em grupos sociais."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A aplicação de testes psicológicos em larga escala.",
+                      "explanation": "Incorreta. A aplicação de testes é outra competência do psicólogo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q14",
+                  "statement": "De acordo com o Art. 21 do Decreto nº 53.464/64, o psicólogo pode atuar em diversas áreas. Qual das seguintes opções não é uma área de competência mencionada?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Psicologia da Indústria e do Trabalho",
+                      "explanation": "Incorreta. Esta é uma área de atuação mencionada no Art. 21."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Psicologia da Educação",
+                      "explanation": "Incorreta. Esta é uma área de atuação mencionada no Art. 21."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Psicologia Clínica",
+                      "explanation": "Incorreta. Esta é uma área de atuação mencionada no Art. 21."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Psicologia Jurídica",
+                      "explanation": "Correta! O Art. 21 não menciona a Psicologia Jurídica como área de atuação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Psicologia Militar e Aeronáutica",
+                      "explanation": "Incorreta. Esta é uma área de atuação mencionada no Art. 21."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_EeL_L7_Q15",
+                  "statement": "De acordo com o Art. 22 do Decreto nº 53.464/64, a quem cabia homologar o parecer da Comissão Examinadora a que se refere o Art. 13?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Ao Conselho Federal de Psicologia",
+                      "explanation": "Incorreta. O CFP não existia na época."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ao Ministro da Educação e Cultura",
+                      "explanation": "Correta! O Art. 22 estabelece que o parecer seria “submetido à homologação do Ministro da Educação e Cultura”."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ao Presidente da República",
+                      "explanation": "Incorreta. A homologação cabia ao Ministro da Educação e Cultura."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A um juiz federal",
+                      "explanation": "Incorreta. Esta é uma atribuição do poder executivo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ao Presidente da Comissão Examinadora",
+                      "explanation": "Incorreta. A Comissão emitia o parecer, mas não o homologava."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L7_Q16",
+                  "statement": "O Decreto nº 53.464/64 regulamenta a Lei nº 4.119/62. Qual das seguintes áreas é abordada pelo Decreto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas o exercício profissional",
+                      "explanation": "Incorreta. O Decreto aborda mais áreas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas a formação e a vida escolar",
+                      "explanation": "Incorreta. O Decreto aborda mais áreas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O exercício profissional, a formação, a vida escolar e as disposições transitórias",
+                      "explanation": "Correta! O Decreto estabelece as normas para o exercício profissional, a formação, a vida escolar e as disposições transitórias."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas o Código de Ética Profissional",
+                      "explanation": "Incorreta. O Decreto não trata especificamente do Código de Ética, mas das normas para o exercício da profissão."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas a fiscalização da profissão",
+                      "explanation": "Incorreta. Embora a fiscalização esteja contemplada, o Decreto é mais abrangente."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q17",
+                  "statement": "O Art. 13 estabelece uma condição para a obtenção de registro profissional para aqueles que já exerciam a profissão antes da lei. Qual era essa condição?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Comprovação de, no mínimo, dois anos de experiência em Psicologia Aplicada",
+                      "explanation": "Correta! O Art. 13 do Decreto nº 53.464/64 exige a comprovação do exercício da profissão por, no mínimo, dois anos em Psicologia Aplicada."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Conclusão de um curso de pós-graduação",
+                      "explanation": "Incorreta. Esta não era a condição para a concessão do registro."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Participação em um curso de aprimoramento profissional",
+                      "explanation": "Incorreta. Esta não era a condição."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aprovação em um concurso público",
+                      "explanation": "Incorreta. Esta não era a condição."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Afiliação a uma associação profissional",
+                      "explanation": "Incorreta. Esta não era a condição."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L7_Q18",
+                  "statement": "De acordo com o Art. 13, quais títulos ou diplomas permitiam a obtenção do registro profissional?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas o título de Mestre em Psicologia",
+                      "explanation": "Incorreta. O Decreto mencionava outros títulos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas o diploma de bacharel",
+                      "explanation": "Incorreta. O Decreto mencionava outros títulos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Diploma de Doutor em Filosofia, Diploma de Especialista e Diploma de Psicólogo",
+                      "explanation": "Correta! O Art. 13 do Decreto lista estes diplomas e títulos como aptos a conferir a habilitação para o registro profissional."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas o diploma de técnico em Psicologia",
+                      "explanation": "Incorreta. Não havia esta categoria."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O diploma de qualquer curso da área de humanas",
+                      "explanation": "Incorreta. O Decreto era específico sobre os títulos."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q19",
+                  "statement": "Qual era o órgão responsável pela emissão dos atestados de idoneidade e competência, conforme o Art. 13?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A Diretoria do Ensino Superior do MEC",
+                      "explanation": "Incorreta. A Diretoria homologava o parecer, mas não o emitia."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Uma Comissão Examinadora designada pelo Ministro da Educação e Cultura",
+                      "explanation": "Correta! O § 1º do Art. 13 estabelece que a avaliação da idoneidade e competência seria feita por “uma Comissão Examinadora, de no mínimo, 3 (três) membros, designada pelo Ministro da Educação e Cultura”."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O Conselho Federal de Psicologia",
+                      "explanation": "Incorreta. O CFP não existia na época."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A Associação Brasileira de Psicólogos",
+                      "explanation": "Incorreta. A Associação não tinha esta prerrogativa."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O Conselho Regional de Educação",
+                      "explanation": "Incorreta. Não era o órgão responsável."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L7_Q20",
+                  "statement": "De acordo com o Art. 15, qual era a exigência para o registro de um diploma de psicólogo expedido por uma faculdade estrangeira?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apresentar o diploma original sem necessidade de revalidação.",
+                      "explanation": "Incorreta. A revalidação era uma exigência."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ser brasileiro, nato ou naturalizado.",
+                      "explanation": "Incorreta. O Decreto não faz menção a esta exigência."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A revalidação do diploma de acordo com a legislação em vigor.",
+                      "explanation": "Correta! O Art. 15 do Decreto nº 53.464/64 exige a “revalidação do diploma, na forma da legislação em vigor”."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apresentar uma tese de doutorado no Brasil.",
+                      "explanation": "Incorreta. Esta não era a exigência."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ter pelo menos 10 anos de experiência profissional.",
+                      "explanation": "Incorreta. Não havia esta exigência."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q21",
+                  "statement": "O Art. 21 do Decreto nº 53.464/64 especifica as competências dos profissionais. Qual das seguintes é uma atribuição do psicólogo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Coletar e interpretar dados para diagnóstico e avaliação.",
+                      "explanation": "Incorreta. A coleta e interpretação de dados é uma atribuição, mas não o foco do artigo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Realizar exames psicotécnicos.",
+                      "explanation": "Correta! O Art. 21, alínea \"f\", inclui a realização de exames psicotécnicos como competência profissional."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Acompanhar o cliente em cirurgias.",
+                      "explanation": "Incorreta. Esta não é uma atribuição do psicólogo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Emitir laudos sobre a capacidade de trabalho de um indivíduo.",
+                      "explanation": "Incorreta. O decreto não inclui esta atribuição."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Prescrever medicamentos para distúrbios de humor.",
+                      "explanation": "Incorreta. Esta é uma atribuição de médicos."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L7_Q22",
+                  "statement": "O Art. 21, alínea “h”, do Decreto nº 53.464/64, estabelece que é competência do psicólogo a orientação de profissionais da saúde. Qual a finalidade dessa orientação?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Ensinar técnicas de relaxamento para os profissionais.",
+                      "explanation": "Incorreta. A orientação é sobre questões psicológicas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Aconselhamento sobre a gestão de equipes.",
+                      "explanation": "Incorreta. A orientação é sobre questões psicológicas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Orientar sobre questões psicológicas ligadas à saúde e a higiene mental.",
+                      "explanation": "Correta! O Art. 21, alínea \"h\", inclui a “orientação de profissionais sôbre questões psicológicas ligadas à saúde e à higiene mental”."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas o aconselhamento para a aposentadoria.",
+                      "explanation": "Incorreta. O foco é mais amplo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A realização de cursos sobre nutrição.",
+                      "explanation": "Incorreta. O tema é a saúde mental."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q23",
+                  "statement": "De acordo com o Art. 22 do Decreto, qual era a primeira etapa do processo de obtenção do registro profissional para aqueles que se encaixavam no Art. 13?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A apresentação de uma tese de doutorado.",
+                      "explanation": "Incorreta. Esta era uma das formas de habilitação, não uma etapa do processo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O encaminhamento do requerimento e documentação à Diretoria do Ensino Superior do MEC.",
+                      "explanation": "Correta! O Art. 22 estabelece que os requerimentos “serão encaminhados à Diretoria do Ensino Superior do Ministério da Educação e Cultura”."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A realização de uma prova de seleção.",
+                      "explanation": "Incorreta. O decreto não menciona esta etapa."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A homologação do parecer pelo Ministro da Educação e Cultura.",
+                      "explanation": "Incorreta. A homologação era a última etapa."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A apresentação do atestado de idoneidade à banca examinadora.",
+                      "explanation": "Incorreta. A banca examinadora é que emitia o atestado."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L7_Q24",
+                  "statement": "O Art. 22 menciona que os requerimentos e a documentação seriam encaminhados a uma comissão para a emissão de parecer. Quem compunha esta comissão?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Membros do Conselho Federal de Psicologia",
+                      "explanation": "Incorreta. O CFP não existia na época."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Membros da Associação Brasileira de Psicólogos",
+                      "explanation": "Incorreta. A Associação não tinha esta prerrogativa."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Membros da Comissão de Ensino de Psicologia do Conselho Federal de Educação",
+                      "explanation": "Correta! O Art. 22 estabelece que os requerimentos seriam “encaminhados à comissão de Ensino de Psicologia do Conselho Federal de Educação” para emissão de parecer."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Membros da Diretoria do Ensino Superior do MEC",
+                      "explanation": "Incorreta. A Diretoria encaminhava o processo à Comissão."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Uma comissão mista de professores e alunos",
+                      "explanation": "Incorreta. A comissão era do Conselho Federal de Educação."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q25",
+                  "statement": "Segundo o Art. 22, o que aconteceria se o parecer da Comissão de Ensino de Psicologia fosse desfavorável?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O requerimento seria arquivado, cabendo recurso ao Ministro da Educação e Cultura.",
+                      "explanation": "Correta! O § 1º do Art. 22 estabelece que, em caso de parecer desfavorável, o requerimento seria “arquivado, cabendo, da decisão, recurso, no prazo de 30 dias, para o Ministro da Educação e Cultura”."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O requerente teria que realizar uma nova prova.",
+                      "explanation": "Incorreta. Não havia esta etapa."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O processo seria encaminhado ao Conselho Regional de Psicologia.",
+                      "explanation": "Incorreta. O processo era conduzido pelo MEC."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O requerente seria impedido de atuar na área.",
+                      "explanation": "Incorreta. O recurso era uma opção."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O processo seria encaminhado ao Ministério da Saúde.",
+                      "explanation": "Incorreta. O processo era conduzido pelo MEC."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_EeL_L7_Q26",
+                  "statement": "O Art. 22 determina que, em caso de parecer favorável e homologado, a Diretoria do Ensino Superior do MEC providenciaria o efetivo registro profissional. Qual a finalidade disso?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas para fins estatísticos.",
+                      "explanation": "Incorreta. O registro é para que o profissional possa exercer a profissão legalmente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Para que o requerente possa se inscrever em um curso de pós-graduação.",
+                      "explanation": "Incorreta. O objetivo do registro é o exercício da profissão."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Para que o registro produza seus efeitos legais.",
+                      "explanation": "Correta! O § 2º do Art. 22 estabelece que a providência do registro é tomada para que o registro “produza os seus efeitos legais”."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Para que o profissional possa se associar à Associação Brasileira de Psicólogos.",
+                      "explanation": "Incorreta. Esta não era a finalidade do registro."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas para fins de pesquisa acadêmica.",
+                      "explanation": "Incorreta. O registro é para o exercício profissional."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q27",
+                  "statement": "O que era a “Comissão de Ensino de Psicologia”, a que se refere o Art. 22 do Decreto nº 53.464/64?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Uma comissão de ex-alunos de psicologia.",
+                      "explanation": "Incorreta. A comissão era um órgão oficial."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Uma comissão interna da Diretoria do Ensino Superior do MEC.",
+                      "explanation": "Incorreta. A comissão era do Conselho Federal de Educação."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Uma comissão do Conselho Federal de Educação para a qual os processos eram encaminhados.",
+                      "explanation": "Correta! O Art. 22 estabelece que os requerimentos e a documentação seriam “encaminhados à comissão de Ensino de Psicologia do Conselho Federal de Educação”."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Um grupo de psicólogos que avaliava a idoneidade dos requerentes.",
+                      "explanation": "Incorreta. A comissão não era um grupo de psicólogos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O grupo de psicólogos da Associação Brasileira de Psicólogos.",
+                      "explanation": "Incorreta. A comissão era um órgão governamental."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q28",
+                  "statement": "Qual era a atribuição da Diretoria do Ensino Superior do Ministério da Educação e Cultura, conforme o Art. 22 do Decreto?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas homologar o parecer da Comissão de Ensino de Psicologia do CFE.",
+                      "explanation": "Incorreta. A Diretoria também encaminhava os requerimentos e documentação."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Receber os requerimentos de registro e encaminhá-los à Comissão de Ensino de Psicologia do Conselho Federal de Educação para emissão de parecer.",
+                      "explanation": "Correta! O Art. 22 determina que a Diretoria do Ensino Superior encaminhará os requerimentos e a documentação a esta Comissão para a emissão de parecer justificado."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Apenas expedir o registro profissional sem a necessidade de um parecer.",
+                      "explanation": "Incorreta. O parecer era uma etapa necessária."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Apenas fiscalizar o exercício ilegal da profissão.",
+                      "explanation": "Incorreta. A fiscalização era uma atribuição posterior."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas avaliar a idoneidade dos requerentes.",
+                      "explanation": "Incorreta. A avaliação era da Comissão Examinadora."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_EeL_L7_Q29",
+                  "statement": "De acordo com o Art. 22 do Decreto, qual era o órgão responsável pela emissão de um parecer justificado sobre o processo de registro de psicólogos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O Conselho Federal de Psicologia (CFP)",
+                      "explanation": "Incorreta. O CFP foi criado em 1971, posterior ao Decreto."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A Diretoria do Ensino Superior do MEC",
+                      "explanation": "Incorreta. O processo era conduzido pela Diretoria do Ensino Superior do Ministério da Educação e Cultura (MEC)."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A Comissão de Ensino de Psicologia do Conselho Federal de Educação, instituída pela Lei nº 4.119",
+                      "explanation": "Correta! O Art. 22 determina que a Diretoria do Ensino Superior encaminhará os requerimentos e a documentação a esta Comissão para a emissão de parecer justificado."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ao Presidente da República",
+                      "explanation": "Incorreta. O processo era conduzido pelo MEC."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ao Conselho Regional de Psicologia",
+                      "explanation": "Incorreta. O Decreto é anterior à criação dos Conselhos Regionais (informação externa para contexto, mas o órgão citado no Decreto é a Comissão)."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_EeL_L7_Q30",
+                  "statement": "O § 2º do Art. 22 determina que, após a homologação do parecer (no caso de ser favorável à concessão do registro), qual providência seria tomada pela Diretoria do Ensino Superior?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A expedição do diploma de Psicólogo ao requerente",
+                      "explanation": "Incorreta. O requerente já possuía título de Doutor."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O encaminhamento do processo ao Conselho Federal de Educação para registro final",
+                      "explanation": "Incorreta. O registro é efetivado pela Diretoria do Ensino Superior."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A providência do efetivo registro profissional de Psicólogo do requerente, a fim de que produza seus efeitos legais",
+                      "explanation": "Correta! O § 2º estabelece que, homologado o parecer favorável, a Diretoria do Ensino Superior providenciará o efetivo registro profissional de Psicólogo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A realização de uma perícia técnica para verificar a competência",
+                      "explanation": "Incorreta. A perícia não é mencionada como etapa após a homologação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A convocação do requerente para um curso de adaptação",
+                      "explanation": "Incorreta. A ação imediata é o registro."
+                    }
+                  ],
+                  "answer": "c"
                 }
               ]
             }
