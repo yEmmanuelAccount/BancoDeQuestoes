@@ -18416,8 +18416,2581 @@
           "lists": [
             {
               "id": "p4_RG_L1",
-              "title": "Lista 1",
-              "questions": []
+              "title": "Lista 01",
+              "questions": [
+                {
+                  "id": "p4_RG_L1_Q1",
+                  "statement": "Qual é o nome da autora do material \"Psicologia dos Grupos - Unidade 1\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Alessandra Ferreira",
+                      "explanation": "Incorreta. Alessandra Ferreira é a Gerente Editorial do material."
+                    },
+                    {
+                      "id": "b",
+                      "text": "David Lira",
+                      "explanation": "Incorreta. David Lira é o Diretor Executivo do material."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Joana Áurea Cordeiro Barbosa",
+                      "explanation": "Correta! Joana Áurea Cordeiro Barbosa é a autora do material \"Psicologia dos Grupos - Unidade 1\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Tiago da Rocha",
+                      "explanation": "Incorreta. Tiago da Rocha é o responsável pelo Projeto Gráfico do material."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Stephen Barros",
+                      "explanation": "Incorreta. Stephen Barros é o Diretor Executivo do material, junto com David Lira."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L1_Q2",
+                  "statement": "Segundo o material, qual ícone indica a necessidade de apresentar um novo conceito?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "NOTA",
+                      "explanation": "Incorreta. O ícone NOTA é utilizado para observações ou complementações."
+                    },
+                    {
+                      "id": "b",
+                      "text": "IMPORTANTE",
+                      "explanation": "Incorreta. O ícone IMPORTANTE indica que observações escritas foram priorizadas para o leitor."
+                    },
+                    {
+                      "id": "c",
+                      "text": "OBJETIVO",
+                      "explanation": "Incorreta. O ícone OBJETIVO sinaliza o início do desenvolvimento de uma nova competência."
+                    },
+                    {
+                      "id": "d",
+                      "text": "DEFINIÇÃO",
+                      "explanation": "Correta! O ícone DEFINIÇÃO aparece sempre que há a necessidade de apresentar um novo conceito."
+                    },
+                    {
+                      "id": "e",
+                      "text": "ATENÇÃO",
+                      "explanation": "Incorreta. O ícone ATENÇÃO destaca pontos importantes."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L1_Q3",
+                  "statement": "Qual dos seguintes temas NÃO faz parte dos objetivos de competência profissional da Unidade 1?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Compreender o comportamento psicossocial das massas em contraponto à análise do Eu",
+                      "explanation": "Incorreta. Este é um dos objetivos, como mostrado no conteúdo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Identificar os desafios da pesquisa qualitativa e quantitativa na área da Psicologia dos Grupos",
+                      "explanation": "Incorreta. Este é um dos objetivos, como mostrado no conteúdo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Aplicar os modelos de atuação do psicólogo em contextos grupais, como em instituições e na clínica",
+                      "explanation": "Correta! A aplicação de modelos de atuação não está listada como um dos objetivos de competência da Unidade 1."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Refletir sobre o histórico conceitual da psicologia dos grupos",
+                      "explanation": "Incorreta. Este é um dos objetivos, como mostrado no conteúdo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Compreender a diferença entre a psicologia dos grupos e a clínica individual",
+                      "explanation": "Incorreta. Este é um dos objetivos, como mostrado no conteúdo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L1_Q4",
+                  "statement": "Segundo o material, quem foi o principal autor a fazer uma crítica ao individualismo da psicanálise?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sigmund Freud",
+                      "explanation": "Incorreta. Freud é o autor da psicanálise clássica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Joseph H. Pratt",
+                      "explanation": "Incorreta. Joseph H. Pratt é o precursor da psicoterapia de grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "J. L. Moreno",
+                      "explanation": "Correta! Justificativa. Moreno foi um dos principais autores a fazer uma crítica ao individualismo da psicanálise, introduzindo conceitos como a espontaneidade."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Wilhelm Wundt",
+                      "explanation": "Incorreta. Wundt é considerado o pai da psicologia moderna e fundou o primeiro laboratório de psicologia experimental."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Alfred Adler",
+                      "explanation": "Incorreta. Adler foi um dos discípulos de Freud, mas a crítica ao individualismo da psicanálise no contexto do texto é atribuída a Moreno."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L1_Q5",
+                  "statement": "Qual dos seguintes autores, que faz parte da Psicologia Social, se destaca por utilizar os conceitos da física para criar uma teoria que explicasse as dinâmicas de grupo, incluindo um campo de forças?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sigmund Freud",
+                      "explanation": "Incorreta. Freud não se baseou na física para suas teorias de grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Joseph H. Pratt",
+                      "explanation": "Incorreta. Pratt é o precursor da psicoterapia de grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "J. L. Moreno",
+                      "explanation": "Incorreta. Moreno utilizou conceitos como a espontaneidade e a terapia em grupo, mas não a física."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Kurt Lewin",
+                      "explanation": "Correta! Justificativa. O material destaca Kurt Lewin como o autor que utilizou a física para explicar as dinâmicas de grupo, criando o conceito de campo de forças."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Wilhelm Wundt",
+                      "explanation": "Incorreta. Wundt não se encaixa nessa descrição."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L1_Q6",
+                  "statement": "No contexto da teoria de Kurt Lewin, qual dos seguintes conceitos não está relacionado ao espaço de vida ou campo de forças?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Região: Incorreta. A região é um conceito fundamental na teoria de Lewin, referente a um local físico ou psicológico que o indivíduo ocupa no campo de forças.",
+                      "explanation": "A região é um conceito fundamental na teoria de Lewin, referente a um local físico ou psicológico que o indivíduo ocupa no campo de forças."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Vetor: Incorreta. O vetor é a força que impulsiona o indivíduo para a satisfação ou não de uma necessidade, sendo parte do campo de forças.",
+                      "explanation": "O vetor é a força que impulsiona o indivíduo para a satisfação ou não de uma necessidade, sendo parte do campo de forças."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Locomoção: Incorreta. A locomoção é a movimentação do indivíduo no espaço de vida, sendo um conceito central na teoria de Lewin.",
+                      "explanation": "A locomoção é a movimentação do indivíduo no espaço de vida, sendo um conceito central na teoria de Lewin."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Barreira: Incorreta. A barreira é o que impede a locomoção do indivíduo, sendo parte do campo de forças.",
+                      "explanation": "A barreira é o que impede a locomoção do indivíduo, sendo parte do campo de forças."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Mais-valia: Correta! Justificativa. Mais-valia é um conceito da teoria marxista, não se relacionando com a teoria de campo de forças de Kurt Lewin.",
+                      "explanation": "Mais-valia é um conceito da teoria marxista, não se relacionando com a teoria de campo de forças de Kurt Lewin."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_RG_L1_Q7",
+                  "statement": "No que consiste a Terapia Psicanalítica de Grupo de Sigmund Freud, de acordo com o material?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas na análise dos desejos inconscientes dos indivíduos, sem a interação com o grupo: Incorreta. Freud não ignorou a interação com o grupo.",
+                      "explanation": "Freud não ignorou a interação com o grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Uma técnica que visa a superação do individualismo da psicanálise: Incorreta. A superação do individualismo foi o objetivo de outros autores como Moreno.",
+                      "explanation": "A superação do individualismo foi o objetivo de outros autores como Moreno."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O foco na análise dos fenômenos inconscientes de cada indivíduo dentro do ambiente grupal: Correta! Justificativa. A terapia de grupo freudiana se baseia na análise dos fenômenos inconscientes de cada indivíduo, aproveitando o grupo como um catalisador de material inconsciente.",
+                      "explanation": "A terapia de grupo freudiana se baseia na análise dos fenômenos inconscientes de cada indivíduo, aproveitando o grupo como um catalisador de material inconsciente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A análise das relações entre os indivíduos de forma não-psicanalítica: Incorreta. O foco é na psicanálise.",
+                      "explanation": "O foco é na psicanálise."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O desenvolvimento de um campo de forças para entender as dinâmicas de grupo: Incorreta. Essa é a teoria de Kurt Lewin.",
+                      "explanation": "Essa é a teoria de Kurt Lewin."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L1_Q8",
+                  "statement": "Qual a principal crítica feita à aplicação da Teoria do Campo de Forças de Lewin no estudo das dinâmicas de grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A teoria não é capaz de gerar dados relevantes sobre a dinâmica de grupo: Incorreta. A teoria de Lewin foi fundamental para o estudo de grupos.",
+                      "explanation": "A teoria de Lewin foi fundamental para o estudo de grupos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A teoria é focada demais no indivíduo: Incorreta. A teoria de Lewin superou o foco no indivíduo para a compreensão da totalidade unificada do grupo.",
+                      "explanation": "A teoria de Lewin superou o foco no indivíduo para a compreensão da totalidade unificada do grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A teoria não tem relevância para o estudo da dinâmica de grupo: Incorreta. A teoria de Lewin é considerada um marco no estudo de grupos.",
+                      "explanation": "A teoria de Lewin é considerada um marco no estudo de grupos."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A teoria é muito abstrata e complexa: Correta! Justificativa. O material destaca que a Teoria do Campo de Forças de Lewin é criticada por ser muito abstrata e difícil de aplicar em casos clínicos e práticos.",
+                      "explanation": "O material destaca que a Teoria do Campo de Forças de Lewin é criticada por ser muito abstrata e difícil de aplicar em casos clínicos e práticos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A teoria não considera a totalidade unificada do grupo: Incorreta. A teoria de Lewin é focada justamente na totalidade unificada do grupo.",
+                      "explanation": "A teoria de Lewin é focada justamente na totalidade unificada do grupo."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L1_Q9",
+                  "statement": "No contexto da psicoterapia de grupo, a abordagem de J. L. Moreno se destaca por introduzir qual conceito fundamental?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A análise dos fenômenos inconscientes de cada indivíduo: Incorreta. Esta é a abordagem de Freud.",
+                      "explanation": "Esta é a abordagem de Freud."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A aplicação do conceito de campo de forças: Incorreta. Esta é a abordagem de Lewin.",
+                      "explanation": "Esta é a abordagem de Lewin."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A espontaneidade e a criação de algo novo: Correta! Justificativa. Moreno introduz o conceito de espontaneidade, que se manifesta na capacidade de criar algo novo em uma situação dada, e a terapia em grupo é a sua expressão prática, auxiliando a espontaneidade.",
+                      "explanation": "Moreno introduz o conceito de espontaneidade, que se manifesta na capacidade de criar algo novo em uma situação dada, e a terapia em grupo é a sua expressão prática, auxiliando a espontaneidade."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A análise dos aspectos sociológicos do grupo: Incorreta. A análise dos aspectos sociológicos do grupo é importante, mas a contribuição de Moreno é a espontaneidade.",
+                      "explanation": "A análise dos aspectos sociológicos do grupo é importante, mas a contribuição de Moreno é a espontaneidade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O tratamento de tuberculose em um hospital: Incorreta. Essa é a atuação de Joseph H. Pratt.",
+                      "explanation": "Essa é a atuação de Joseph H. Pratt."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L1_Q10",
+                  "statement": "Em relação à \"pesquisa-ação\" de Kurt Lewin, qual a principal contribuição para o estudo de grupos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A separação total entre teoria e prática: Incorreta. A pesquisa-ação de Lewin mostra a integração entre teoria e prática.",
+                      "explanation": "A pesquisa-ação de Lewin mostra a integração entre teoria e prática."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A superação do foco no indivíduo para a compreensão da totalidade unificada do grupo: Correta! Justificativa. Um dos principais focos da pesquisa-ação de Kurt Lewin era a superação do foco no indivíduo para a compreensão da totalidade unificada do grupo, o que foi essencial para o desenvolvimento da psicologia de grupos.",
+                      "explanation": "Um dos principais focos da pesquisa-ação de Kurt Lewin era a superação do foco no indivíduo para a compreensão da totalidade unificada do grupo, o que foi essencial para o desenvolvimento da psicologia de grupos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A criação de um modelo de pesquisa unicamente quantitativo: Incorreta. A pesquisa-ação de Lewin utiliza métodos qualitativos e quantitativos.",
+                      "explanation": "A pesquisa-ação de Lewin utiliza métodos qualitativos e quantitativos."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A exclusão do pesquisador do processo de mudança: Incorreta. O pesquisador de Lewin é ativo no processo de mudança.",
+                      "explanation": "O pesquisador de Lewin é ativo no processo de mudança."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O desenvolvimento da psicanálise de grupo: Incorreta. Essa é a abordagem de Freud.",
+                      "explanation": "Essa é a abordagem de Freud."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L1_Q11",
+                  "statement": "No contexto da história da Psicologia dos Grupos, qual autor é considerado um precursor da psicoterapia de grupo, utilizando a técnica para tratar pacientes com tuberculose em um hospital?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sigmund Freud: Incorreta. Freud se destacou pela análise dos fenômenos inconscientes de cada indivíduo, mas não por essa atuação específica.",
+                      "explanation": "Freud se destacou pela análise dos fenômenos inconscientes de cada indivíduo, mas não por essa atuação específica."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Joseph H. Pratt: Correta! Justificativa. Joseph H. Pratt é considerado o precursor da psicoterapia de grupo, utilizando a técnica para tratar pacientes com tuberculose em um hospital, o que foi um marco para a área.",
+                      "explanation": "Joseph H. Pratt é considerado o precursor da psicoterapia de grupo, utilizando a técnica para tratar pacientes com tuberculose em um hospital, o que foi um marco para a área."
+                    },
+                    {
+                      "id": "c",
+                      "text": "J. L. Moreno: Incorreta. Moreno introduziu conceitos como a espontaneidade e o psicodrama, mas não a atuação de Pratt.",
+                      "explanation": "Moreno introduziu conceitos como a espontaneidade e o psicodrama, mas não a atuação de Pratt."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Kurt Lewin: Incorreta. Lewin é o autor da teoria do campo de forças e da pesquisa-ação.",
+                      "explanation": "Lewin é o autor da teoria do campo de forças e da pesquisa-ação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Wilhelm Wundt: Incorreta. Wundt não se encaixa nessa descrição.",
+                      "explanation": "Wundt não se encaixa nessa descrição."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L1_Q12",
+                  "statement": "O que o material aponta como a principal diferença entre a Psicologia de Grupos e a Psicologia Clínica Individual?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A Psicologia de Grupos não se preocupa com o indivíduo: Incorreta. A Psicologia de Grupos se preocupa com o indivíduo, mas dentro do contexto de grupo.",
+                      "explanation": "A Psicologia de Grupos se preocupa com o indivíduo, mas dentro do contexto de grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A Psicologia de Grupos foca apenas em questões coletivas, ignorando o individual: Incorreta. A Psicologia de Grupos se preocupa com a relação entre o coletivo e o individual.",
+                      "explanation": "A Psicologia de Grupos se preocupa com a relação entre o coletivo e o individual."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A Psicologia de Grupos considera a relação entre o indivíduo e o coletivo como indissociável: Correta! Justificativa. O material destaca que a principal diferença é que a Psicologia de Grupos considera a relação entre o indivíduo e o coletivo como indissociável, o que não acontece na psicologia individual, que foca no indivíduo isoladamente.",
+                      "explanation": "O material destaca que a principal diferença é que a Psicologia de Grupos considera a relação entre o indivíduo e o coletivo como indissociável, o que não acontece na psicologia individual, que foca no indivíduo isoladamente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A Psicologia de Grupos é mais eficaz para qualquer tipo de problema: Incorreta. A eficácia depende do problema e do indivíduo.",
+                      "explanation": "A eficácia depende do problema e do indivíduo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A Psicologia de Grupos não é uma área de atuação do psicólogo: Incorreta. A Psicologia de Grupos é uma área de atuação do psicólogo.",
+                      "explanation": "A Psicologia de Grupos é uma área de atuação do psicólogo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L1_Q13",
+                  "statement": "Qual dos seguintes modelos de atuação do psicólogo em contextos grupais é o mais indicado para a compreensão de um fenômeno que leva em conta a totalidade unificada, o campo de forças e a dinâmica de grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O modelo individual e clínico, focado no diagnóstico de transtornos: Incorreta. Este modelo foca no indivíduo, não na totalidade do grupo.",
+                      "explanation": "Este modelo foca no indivíduo, não na totalidade do grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O modelo comportamental, focado na modificação do comportamento: Incorreta. Este modelo não considera a totalidade unificada do grupo.",
+                      "explanation": "Este modelo não considera a totalidade unificada do grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O modelo analítico, focado na psicanálise de grupo: Incorreta. Este modelo foca nos fenômenos inconscientes de cada indivíduo, não no campo de forças.",
+                      "explanation": "Este modelo foca nos fenômenos inconscientes de cada indivíduo, não no campo de forças."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O modelo sistêmico, que considera o grupo como um sistema: Correta! Justificativa. O material destaca que o modelo sistêmico, que considera o grupo como um sistema, é o mais indicado para a compreensão de um fenômeno que leva em conta a totalidade unificada, o campo de forças e a dinâmica de grupo.",
+                      "explanation": "O material destaca que o modelo sistêmico, que considera o grupo como um sistema, é o mais indicado para a compreensão de um fenômeno que leva em conta a totalidade unificada, o campo de forças e a dinâmica de grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O modelo humanista, focado na autorrealização do indivíduo: Incorreta. Este modelo foca no indivíduo, não na totalidade do grupo.",
+                      "explanation": "Este modelo foca no indivíduo, não na totalidade do grupo."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L1_Q14",
+                  "statement": "No contexto da Psicologia dos Grupos, qual a principal contribuição da psicanálise?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A superação do individualismo: Incorreta. A superação do individualismo foi o objetivo de outros autores como Moreno.",
+                      "explanation": "A superação do individualismo foi o objetivo de outros autores como Moreno."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O foco na análise dos fenômenos inconscientes de cada indivíduo: Correta! Justificativa. O material destaca que a principal contribuição da psicanálise para a Psicologia dos Grupos é o foco na análise dos fenômenos inconscientes de cada indivíduo, o que auxiliou o entendimento das dinâmicas de grupo.",
+                      "explanation": "O material destaca que a principal contribuição da psicanálise para a Psicologia dos Grupos é o foco na análise dos fenômenos inconscientes de cada indivíduo, o que auxiliou o entendimento das dinâmicas de grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A aplicação do conceito de campo de forças: Incorreta. Esta é a abordagem de Lewin.",
+                      "explanation": "Esta é a abordagem de Lewin."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O desenvolvimento da pesquisa-ação: Incorreta. Esta é a abordagem de Lewin.",
+                      "explanation": "Esta é a abordagem de Lewin."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A criação de algo novo em uma situação dada: Incorreta. Esta é a abordagem de Moreno.",
+                      "explanation": "Esta é a abordagem de Moreno."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L1_Q15",
+                  "statement": "Qual a principal crítica feita à psicanálise de grupo de Freud, de acordo com o material?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A teoria é muito abstrata e complexa: Incorreta. Esta é a crítica à teoria de Lewin.",
+                      "explanation": "Esta é a crítica à teoria de Lewin."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A teoria não é capaz de gerar dados relevantes sobre a dinâmica de grupo: Incorreta. A teoria de Freud foi fundamental para o estudo de grupos.",
+                      "explanation": "A teoria de Freud foi fundamental para o estudo de grupos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A teoria é focada demais no indivíduo e não na totalidade do grupo: Correta! Justificativa. O material destaca que a principal crítica à psicanálise de grupo de Freud é que a teoria é focada demais no indivíduo, ignorando a totalidade do grupo.",
+                      "explanation": "O material destaca que a principal crítica à psicanálise de grupo de Freud é que a teoria é focada demais no indivíduo, ignorando a totalidade do grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A teoria não tem relevância para o estudo da dinâmica de grupo: Incorreta. A teoria de Freud é considerada um marco no estudo de grupos.",
+                      "explanation": "A teoria de Freud é considerada um marco no estudo de grupos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A teoria não considera a relação entre o indivíduo e o coletivo: Incorreta. A teoria de Freud considera a relação entre o indivíduo e o coletivo.",
+                      "explanation": "A teoria de Freud considera a relação entre o indivíduo e o coletivo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L1_Q16",
+                  "statement": "De acordo com o material, qual foi a principal influência do movimento da Psicoterapia de Grupo no desenvolvimento da Psicologia dos Grupos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Focou na doença e no sofrimento psíquico, deixando de lado o desenvolvimento e a saúde: Incorreta. O material indica que a psicologia de grupos não deve focar apenas na doença e no sofrimento, mas também no desenvolvimento e na saúde.",
+                      "explanation": "O material indica que a psicologia de grupos não deve focar apenas na doença e no sofrimento, mas também no desenvolvimento e na saúde."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Focou na pesquisa de fenômenos individuais: Incorreta. O movimento da psicoterapia de grupo se opunha ao foco no indivíduo.",
+                      "explanation": "O movimento da psicoterapia de grupo se opunha ao foco no indivíduo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Focou no estudo dos fenômenos coletivos, ignorando o individual: Incorreta. O movimento da psicoterapia de grupo se preocupava com a relação entre o coletivo e o individual.",
+                      "explanation": "O movimento da psicoterapia de grupo se preocupava com a relação entre o coletivo e o individual."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Focou no estudo dos fenômenos psíquicos de forma individual e não grupal: Incorreta. O movimento da psicoterapia de grupo se opunha ao foco individual.",
+                      "explanation": "O movimento da psicoterapia de grupo se opunha ao foco individual."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Focou na saúde e no desenvolvimento do ser humano, superando a visão da patologia: Correta! Justificativa. O material aponta que o movimento da Psicoterapia de Grupo foi importante para o desenvolvimento da Psicologia dos Grupos ao focar na saúde e no desenvolvimento, superando a visão da patologia.",
+                      "explanation": "O material aponta que o movimento da Psicoterapia de Grupo foi importante para o desenvolvimento da Psicologia dos Grupos ao focar na saúde e no desenvolvimento, superando a visão da patologia."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_RG_L1_Q17",
+                  "statement": "O que o texto sugere ser a principal diferença entre a Psicologia de Grupos e o Movimento da Terapia de Grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A Psicologia de Grupos se ocupa apenas com a pesquisa de grupos: Incorreta. A Psicologia de Grupos também se ocupa com a intervenção.",
+                      "explanation": "A Psicologia de Grupos também se ocupa com a intervenção."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A Psicologia de Grupos se ocupa com o desenvolvimento e o movimento do grupo: Incorreta. Esta é a descrição da Terapia de Grupo.",
+                      "explanation": "Esta é a descrição da Terapia de Grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O Movimento da Terapia de Grupo foca apenas no diagnóstico e na patologia: Incorreta. O material aponta que a Terapia de Grupo foi importante para a superação da visão da patologia.",
+                      "explanation": "O material aponta que a Terapia de Grupo foi importante para a superação da visão da patologia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A Psicologia de Grupos se ocupa com o estudo e a intervenção, focando nas dinâmicas e situações: Correta! Justificativa. O material sugere que a Psicologia de Grupos é mais ampla, se ocupando com o estudo e a intervenção, focando nas dinâmicas e situações, enquanto a Terapia de Grupo é uma forma de intervenção que se ocupa com o desenvolvimento e o movimento do grupo.",
+                      "explanation": "O material sugere que a Psicologia de Grupos é mais ampla, se ocupando com o estudo e a intervenção, focando nas dinâmicas e situações, enquanto a Terapia de Grupo é uma forma de intervenção que se ocupa com o desenvolvimento e o movimento do grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Não há diferença entre as duas abordagens: Incorreta. O material diferencia as duas abordagens.",
+                      "explanation": "O material diferencia as duas abordagens."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L1_Q18",
+                  "statement": "O texto sugere que a Psicologia de Grupos está focada nas dinâmicas e situações que ocorrem no grupo, e que o estudo do grupo de desenvolvimento é fundamental. Qual é o principal motivo disso?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O grupo de desenvolvimento foca apenas no diagnóstico de doenças mentais: Incorreta. O grupo de desenvolvimento foca na saúde e no desenvolvimento, e não apenas no diagnóstico.",
+                      "explanation": "O grupo de desenvolvimento foca na saúde e no desenvolvimento, e não apenas no diagnóstico."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O grupo de desenvolvimento foca apenas no sofrimento psíquico, excluindo a saúde e o desenvolvimento: Incorreta. O grupo de desenvolvimento foca na saúde e no desenvolvimento, e não apenas no sofrimento psíquico.",
+                      "explanation": "O grupo de desenvolvimento foca na saúde e no desenvolvimento, e não apenas no sofrimento psíquico."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O grupo de desenvolvimento foca no estudo das dinâmicas de grupo, incluindo a percepção, a expressão de sentimentos e a criatividade: Correta! Justificativa. O grupo de desenvolvimento tem como foco o estudo das dinâmicas e situações do grupo, auxiliando na percepção, expressão de sentimentos e criatividade.",
+                      "explanation": "O grupo de desenvolvimento tem como foco o estudo das dinâmicas e situações do grupo, auxiliando na percepção, expressão de sentimentos e criatividade."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O grupo de desenvolvimento não tem relevância para a Psicologia dos Grupos: Incorreta. O grupo de desenvolvimento é fundamental para a Psicologia dos Grupos.",
+                      "explanation": "O grupo de desenvolvimento é fundamental para a Psicologia dos Grupos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O grupo de desenvolvimento se limita a ambientes clínicos: Incorreta. O grupo de desenvolvimento também pode ser utilizado em instituições.",
+                      "explanation": "O grupo de desenvolvimento também pode ser utilizado em instituições."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L1_Q19",
+                  "statement": "No contexto da Psicologia de Grupos, a pesquisa é fundamental para a área. Qual a principal função da pesquisa na Psicologia dos Grupos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas o desenvolvimento de novas teorias, sem a aplicação prática: Incorreta. A pesquisa também tem a função de auxiliar a prática.",
+                      "explanation": "A pesquisa também tem a função de auxiliar a prática."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas a comprovação de teorias existentes: Incorreta. A pesquisa também tem a função de gerar novas teorias.",
+                      "explanation": "A pesquisa também tem a função de gerar novas teorias."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Apenas a descrição de fenômenos de grupo: Incorreta. A pesquisa também tem a função de auxiliar a intervenção.",
+                      "explanation": "A pesquisa também tem a função de auxiliar a intervenção."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A geração de novos conhecimentos e a validação de teorias e intervenções: Correta! Justificativa. A pesquisa em Psicologia dos Grupos tem como principal função a geração de novos conhecimentos, a validação de teorias e a comprovação de intervenções, o que auxilia a prática do psicólogo e o desenvolvimento da área.",
+                      "explanation": "A pesquisa em Psicologia dos Grupos tem como principal função a geração de novos conhecimentos, a validação de teorias e a comprovação de intervenções, o que auxilia a prática do psicólogo e o desenvolvimento da área."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Apenas a coleta de dados estatísticos: Incorreta. A pesquisa pode utilizar dados qualitativos e quantitativos.",
+                      "explanation": "A pesquisa pode utilizar dados qualitativos e quantitativos."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L1_Q20",
+                  "statement": "O material sugere que a construção do conhecimento em Psicologia de Grupos envolve várias etapas e tipos de dados. Qual a principal conclusão que se pode tirar sobre a relação entre pesquisa qualitativa e quantitativa?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A pesquisa quantitativa é sempre a única e mais fácil de realizar para qualquer objetivo: Incorreta. O material compara os tipos de pesquisa e destaca a dificuldade de misturar os objetivos, não afirmando que a quantitativa é sempre a única ou mais fácil.",
+                      "explanation": "O material compara os tipos de pesquisa e destaca a dificuldade de misturar os objetivos, não afirmando que a quantitativa é sempre a única ou mais fácil."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A pesquisa qualitativa não é capaz de gerar dados relevantes em nenhum cenário: Incorreta. A pesquisa qualitativa tem o objetivo de entender o cenário subjetivo, significado e efeito dos dados, o que é relevante em muitos cenários.",
+                      "explanation": "A pesquisa qualitativa tem o objetivo de entender o cenário subjetivo, significado e efeito dos dados, o que é relevante em muitos cenários."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Os dados estatísticos são desnecessários na área da psicologia de grupos: Incorreta. A pesquisa quantitativa, que usa dados estatísticos, é mencionada como importante para comprovação.",
+                      "explanation": "A pesquisa quantitativa, que usa dados estatísticos, é mencionada como importante para comprovação."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O modelo exploratório é o único tipo de pesquisa reconhecido para dados subjetivos: Incorreta. O modelo exploratório é um *tipo* de pesquisa qualitativa, mas o material não afirma que seja o único reconhecido.",
+                      "explanation": "O modelo exploratório é um *tipo* de pesquisa qualitativa, mas o material não afirma que seja o único reconhecido."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A efetividade de se encontrar uma estratégia correta para buscar resultados quantitativos através de uma pesquisa qualitativa se tornava mais difícil, reforçando que a construção do conhecimento envolve várias etapas e tipos de dados.",
+                      "explanation": "Correta! O material ressalta que, para os casos de busca de resultados quantitativos através de uma pesquisa qualitativa, a efetividade de se encontrar uma estratégia correta se tornava mais difícil, o que reforça que a construção do conhecimento envolve várias etapas e tipos de dados."
+                    }
+                  ],
+                  "answer": "e"
+                }
+              ]
+            },
+            {
+              "id": "p4_RG_L2",
+              "title": "Lista 2",
+              "questions": [
+                {
+                  "id": "p4_RG_L2_Q1",
+                  "statement": "De acordo com a introdução da Unidade 1, qual é uma das capacidades que o grupo sensibiliza, possibilita, amplia e estimula nos participantes?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A minimização das vivências emocionais",
+                      "explanation": "Incorreta. O grupo sensibiliza os participantes quanto às **vivências emocionais**."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A restrição da percepção",
+                      "explanation": "Incorreta. O grupo amplia a percepção."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O estímulo à criatividade",
+                      "explanation": "Correta! Justificativa. O grupo **sensibiliza os participantes quanto às vivências emocionais, possibilita a expressão das tensões e sentimentos, amplia a percepção e estimula a criatividade**."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O desenvolvimento exclusivo de habilidades clínicas",
+                      "explanation": "Incorreta. O foco é na expressão de sentimentos, percepção e criatividade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A absorção de conteúdos financeiros",
+                      "explanation": "Incorreta. O foco é em vivências emocionais."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q2",
+                  "statement": "Qual indivíduo é considerado o precursor da psicoterapia de grupo, devido à sua prática importante nos Estados Unidos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sigmund Freud",
+                      "explanation": "Incorreta. Embora seja figura de destaque na área, o precursor citado é Joseph H. Pratt."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Kurt Lewin",
+                      "explanation": "Incorreta. O material não o menciona como precursor."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Joseph H. Pratt",
+                      "explanation": "Correta! Justificativa. **Joseph H. Pratt** é considerado o precursor da psicoterapia de grupo, uma vez que sua prática nos Estados Unidos foi de grande importância para o desenvolvimento da área."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Carl Jung",
+                      "explanation": "Incorreta. Não é mencionado como precursor."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Alfred Adler",
+                      "explanation": "Incorreta. Não é mencionado como precursor."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q3",
+                  "statement": "Em qual década a Psicologia Organizacional e do Trabalho se expandiu no Brasil, de acordo com o texto, influenciada por abordagens humanistas, como a Teoria das Relações Humanas e os estudos de dinâmica de grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "1940",
+                      "explanation": "Incorreta. As abordagens citadas se desenvolveram nos Estados Unidos no período entre 1920 e 1930."
+                    },
+                    {
+                      "id": "b",
+                      "text": "1950",
+                      "explanation": "Correta! Justificativa. A Psicologia Organizacional e do Trabalho se expande no Brasil na década de **1950**, sob a influência de abordagens humanistas, como a Teoria das Relações Humanas e os estudos de dinâmica de grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "1960",
+                      "explanation": "Incorreta. A disciplina já havia se expandido na década anterior."
+                    },
+                    {
+                      "id": "d",
+                      "text": "1970",
+                      "explanation": "Incorreta. A disciplina já havia se expandido nas décadas anteriores."
+                    },
+                    {
+                      "id": "e",
+                      "text": "1980",
+                      "explanation": "Incorreta. A disciplina já havia se expandido há várias décadas."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L2_Q4",
+                  "statement": "Quem é considerado o criador da dinâmica de grupo, de acordo com o material?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sigmund Freud",
+                      "explanation": "Incorreta. Freud foi um dos primeiros a teorizar sobre grupos, mas não é considerado o criador da dinâmica de grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Joseph H. Pratt",
+                      "explanation": "Incorreta. Pratt é o precursor da psicoterapia de grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Kurt Lewin",
+                      "explanation": "Correta! Justificativa. **Kurt Lewin** é considerado o criador da dinâmica de grupo devido a sua obra e pesquisa sobre o tema."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Carl Jung",
+                      "explanation": "Incorreta. O material não o menciona como criador da dinâmica de grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Alfred Adler",
+                      "explanation": "Incorreta. O material não o menciona como criador da dinâmica de grupo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q5",
+                  "statement": "Qual dos seguintes modelos de grupos é descrito como um grupo de discussão sobre assuntos gerais da vida, onde o psicólogo tem um papel de facilitador, não de terapeuta?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Grupos de desenvolvimento",
+                      "explanation": "Incorreta. O grupo de desenvolvimento foca no desenvolvimento do psicólogo, na clínica e nas instituições."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Grupos de convivência ou encontros",
+                      "explanation": "Correta! Justificativa. O grupo de **convivência ou encontros** é descrito como um grupo de discussão sobre assuntos gerais da vida, onde o psicólogo tem um papel de facilitador, não de terapeuta."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Grupo de psicoterapia de grupo",
+                      "explanation": "Incorreta. Este grupo tem como objetivo a psicoterapia."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Grupo de trabalho",
+                      "explanation": "Incorreta. O grupo de trabalho tem como objetivo a solução de problemas de trabalho."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Grupo de estudo",
+                      "explanation": "Incorreta. O grupo de estudo tem como objetivo a troca de conhecimento."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L2_Q6",
+                  "statement": "De acordo com o texto, qual é a principal diferença entre os grupos de apoio, de autoajuda e de ajuda mútua?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O grupo de autoajuda e de ajuda mútua não tem a presença de um coordenador profissional",
+                      "explanation": "Correta! Justificativa. O grupo de autoajuda e de ajuda mútua não tem a presença de um coordenador profissional, e o grupo de apoio tem a presença de um coordenador profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O grupo de apoio não tem a presença de um coordenador profissional",
+                      "explanation": "Incorreta. O grupo de apoio tem a presença de um coordenador profissional."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O grupo de apoio e de autoajuda não tem a presença de um coordenador profissional",
+                      "explanation": "Incorreta. O grupo de apoio tem a presença de um coordenador profissional."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O grupo de autoajuda e de ajuda mútua tem a presença de um coordenador profissional",
+                      "explanation": "Incorreta. O grupo de autoajuda e de ajuda mútua não tem a presença de um coordenador profissional."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Não há diferença entre eles",
+                      "explanation": "Incorreta. A principal diferença é a presença ou não de um coordenador profissional."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_RG_L2_Q7",
+                  "statement": "Qual dos seguintes modelos de grupo tem como objetivo a troca de experiências, informações e reflexões sobre temas de interesse comum entre os participantes, sem a necessidade de um coordenador profissional?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Grupo de convivência ou encontros",
+                      "explanation": "Incorreta. O grupo de convivência tem um coordenador profissional."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Grupo de estudo",
+                      "explanation": "Incorreta. O grupo de estudo tem como objetivo a troca de conhecimento."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Grupo de autoajuda e de ajuda mútua",
+                      "explanation": "Correta! Justificativa. O grupo de **autoajuda e de ajuda mútua** tem como objetivo a troca de experiências, informações e reflexões sobre temas de interesse comum entre os participantes, sem a necessidade de um coordenador profissional."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Grupo de psicoterapia de grupo",
+                      "explanation": "Incorreta. O grupo de psicoterapia de grupo tem como objetivo a psicoterapia."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Grupo de trabalho",
+                      "explanation": "Incorreta. O grupo de trabalho tem como objetivo a solução de problemas de trabalho."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q8",
+                  "statement": "Qual dos seguintes modelos de grupo tem como objetivo a solução de problemas de trabalho, a tomada de decisões, a elaboração de projetos e a troca de conhecimento sobre um tema específico?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Grupo de convivência ou encontros",
+                      "explanation": "Incorreta. O grupo de convivência tem como objetivo a discussão sobre assuntos gerais da vida."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Grupo de estudo",
+                      "explanation": "Incorreta. O grupo de estudo tem como objetivo a troca de conhecimento sobre um tema específico."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Grupo de autoajuda e de ajuda mútua",
+                      "explanation": "Incorreta. O grupo de autoajuda tem como objetivo a troca de experiências."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Grupo de trabalho",
+                      "explanation": "Correta! Justificativa. O grupo de **trabalho** tem como objetivo a solução de problemas de trabalho, a tomada de decisões, a elaboração de projetos e a troca de conhecimento sobre um tema específico."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Grupo de psicoterapia de grupo",
+                      "explanation": "Incorreta. O grupo de psicoterapia de grupo tem como objetivo a psicoterapia."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L2_Q9",
+                  "statement": "Qual dos seguintes modelos de grupo tem como objetivo a promoção de uma experiência de crescimento pessoal, onde a tarefa está em segundo plano, e a vivência de cada participante é o foco da atenção?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Grupo de convivência ou encontros",
+                      "explanation": "Incorreta. O grupo de convivência tem como objetivo a discussão sobre assuntos gerais da vida."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Grupo de estudo",
+                      "explanation": "Incorreta. O grupo de estudo tem como objetivo a troca de conhecimento sobre um tema específico."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Grupo de autoajuda e de ajuda mútua",
+                      "explanation": "Incorreta. O grupo de autoajuda tem como objetivo a troca de experiências."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Grupo de trabalho",
+                      "explanation": "Incorreta. O grupo de trabalho tem como objetivo a solução de problemas de trabalho."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Grupo de crescimento ou vivencial",
+                      "explanation": "Correta! Justificativa. O grupo de **crescimento ou vivencial** tem como objetivo a promoção de uma experiência de crescimento pessoal, onde a tarefa está em segundo plano, e a vivência de cada participante é o foco da atenção."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_RG_L2_Q10",
+                  "statement": "No contexto da dinâmica de grupo, de acordo com o texto, o que significa a \"rede de comunicações\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A forma como as informações circulam dentro de um grupo",
+                      "explanation": "Correta! Justificativa. A **rede de comunicações** se refere à forma como as informações circulam dentro de um grupo, ou seja, quem se comunica com quem."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A capacidade de o grupo se comunicar com o exterior",
+                      "explanation": "Incorreta. A rede de comunicações se refere à comunicação interna do grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A capacidade de o grupo se comunicar com o líder",
+                      "explanation": "Incorreta. A rede de comunicações se refere à forma como as informações circulam dentro de um grupo, e não apenas com o líder."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A capacidade de o líder se comunicar com o grupo",
+                      "explanation": "Incorreta. A rede de comunicações se refere à forma como as informações circulam dentro de um grupo, e não apenas com o líder."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A capacidade de o grupo se comunicar com a sociedade",
+                      "explanation": "Incorreta. A rede de comunicações se refere à comunicação interna do grupo."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_RG_L2_Q11",
+                  "statement": "De acordo com o material, qual é o tipo de liderança que permite ao líder tomar decisões de forma democrática, a partir da opinião dos participantes, e onde o líder é um facilitador da discussão?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Liderança democrática",
+                      "explanation": "Correta! Justificativa. A **liderança democrática** permite ao líder tomar decisões de forma democrática, a partir da opinião dos participantes, e onde o líder é um facilitador da discussão."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Liderança autoritária",
+                      "explanation": "Incorreta. A liderança autoritária é aquela em que o líder toma decisões sozinho, sem a opinião dos participantes."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Liderança liberal ou laissez-faire",
+                      "explanation": "Incorreta. A liderança liberal é aquela em que o líder não se envolve nas decisões, deixando o grupo agir de forma autônoma."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Liderança carismática",
+                      "explanation": "Incorreta. A liderança carismática se baseia na capacidade de o líder inspirar e motivar os participantes."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Liderança situacional",
+                      "explanation": "Incorreta. A liderança situacional é aquela em que o líder adapta seu estilo de liderança de acordo com a situação."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_RG_L2_Q12",
+                  "statement": "Qual dos seguintes conceitos se refere ao conjunto de papéis e comportamentos esperados dos membros de um grupo, que são influenciados pela cultura e pelos valores da sociedade?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A rede de comunicações",
+                      "explanation": "Incorreta. A rede de comunicações se refere à forma como as informações circulam dentro de um grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A coesão do grupo",
+                      "explanation": "Incorreta. A coesão do grupo se refere à força das ligações entre os membros do grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "As normas do grupo",
+                      "explanation": "Incorreta. As normas do grupo se referem às regras de conduta do grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A estrutura do grupo",
+                      "explanation": "Correta! Justificativa. A **estrutura do grupo** se refere ao conjunto de papéis e comportamentos esperados dos membros de um grupo, que são influenciados pela cultura e pelos valores da sociedade."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O clima do grupo",
+                      "explanation": "Incorreta. O clima do grupo se refere ao ambiente emocional do grupo."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L2_Q13",
+                  "statement": "Qual dos seguintes conceitos se refere à força das ligações entre os membros do grupo, que faz com que os membros queiram continuar fazendo parte do grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A rede de comunicações",
+                      "explanation": "Incorreta. A rede de comunicações se refere à forma como as informações circulam dentro de um grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A coesão do grupo",
+                      "explanation": "Correta! Justificativa. A **coesão do grupo** se refere à força das ligações entre os membros do grupo, que faz com que os membros queiram continuar fazendo parte do grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "As normas do grupo",
+                      "explanation": "Incorreta. As normas do grupo se referem às regras de conduta do grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A estrutura do grupo",
+                      "explanation": "Incorreta. A estrutura do grupo se refere ao conjunto de papéis e comportamentos esperados dos membros de um grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O clima do grupo",
+                      "explanation": "Incorreta. O clima do grupo se refere ao ambiente emocional do grupo."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L2_Q14",
+                  "statement": "Qual dos seguintes conceitos se refere ao ambiente emocional do grupo, que pode ser percebido pelos participantes como amigável, hostil, tenso, etc.?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A rede de comunicações",
+                      "explanation": "Incorreta. A rede de comunicações se refere à forma como as informações circulam dentro de um grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A coesão do grupo",
+                      "explanation": "Incorreta. A coesão do grupo se refere à força das ligações entre os membros do grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "As normas do grupo",
+                      "explanation": "Incorreta. As normas do grupo se referem às regras de conduta do grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A estrutura do grupo",
+                      "explanation": "Incorreta. A estrutura do grupo se refere ao conjunto de papéis e comportamentos esperados dos membros de um grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O clima do grupo",
+                      "explanation": "Correta! Justificativa. O **clima do grupo** se refere ao ambiente emocional do grupo, que pode ser percebido pelos participantes como amigável, hostil, tenso, etc."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_RG_L2_Q15",
+                  "statement": "De acordo com o material, qual é o principal objetivo da \"sociometria\" no estudo de grupos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A medição da coesão do grupo",
+                      "explanation": "Incorreta. A sociometria mede as relações de atração e repulsão entre os membros do grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A medição da popularidade do líder",
+                      "explanation": "Incorreta. A sociometria mede as relações de atração e repulsão entre os membros do grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A medição das relações de atração e repulsão entre os membros do grupo",
+                      "explanation": "Correta! Justificativa. A **sociometria** tem como principal objetivo a medição das relações de atração e repulsão entre os membros do grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A medição da produtividade do grupo",
+                      "explanation": "Incorreta. A sociometria não mede a produtividade do grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A medição do clima do grupo",
+                      "explanation": "Incorreta. A sociometria não mede o clima do grupo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q16",
+                  "statement": "O que a Teoria dos Campos de Kurt Lewin postula sobre o comportamento dos indivíduos no grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O comportamento dos indivíduos é determinado exclusivamente por suas características pessoais.",
+                      "explanation": "Incorreta. A teoria de Lewin foca na interação entre o indivíduo e o ambiente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O comportamento dos indivíduos no grupo é uma função da interação entre as características pessoais e as características do ambiente.",
+                      "explanation": "Correta! Justificativa. A Teoria dos Campos de **Kurt Lewin** postula que o comportamento dos indivíduos no grupo é uma função da interação entre as características pessoais e as características do ambiente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O comportamento dos indivíduos no grupo é determinado exclusivamente pelas características do ambiente.",
+                      "explanation": "Incorreta. A teoria de Lewin foca na interação entre o indivíduo e o ambiente."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O comportamento dos indivíduos no grupo é determinado por fatores inconscientes.",
+                      "explanation": "Incorreta. A teoria de Lewin foca na interação entre o indivíduo e o ambiente, e não em fatores inconscientes."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O comportamento dos indivíduos no grupo é aleatório e imprevisível.",
+                      "explanation": "Incorreta. A teoria de Lewin postula que o comportamento é previsível, uma vez que é uma função da interação entre as características pessoais e do ambiente."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L2_Q17",
+                  "statement": "No contexto da dinâmica de grupo, o que significa \"força propulsora\" e \"força restritiva\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A força propulsora é a força que impulsiona o grupo em direção aos seus objetivos, e a força restritiva é a força que impede o grupo de alcançar seus objetivos.",
+                      "explanation": "Correta! Justificativa. A **força propulsora** é a força que impulsiona o grupo em direção aos seus objetivos, e a **força restritiva** é a força que impede o grupo de alcançar seus objetivos."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A força propulsora é a força que impede o grupo de alcançar seus objetivos, e a força restritiva é a força que impulsiona o grupo em direção aos seus objetivos.",
+                      "explanation": "Incorreta. A definição está invertida."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A força propulsora é a força que impulsiona o grupo em direção aos seus objetivos, e a força restritiva é a força que não se relaciona com o objetivo do grupo.",
+                      "explanation": "Incorreta. A força restritiva impede o grupo de alcançar seus objetivos."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ambas as forças impulsionam o grupo em direção aos seus objetivos.",
+                      "explanation": "Incorreta. Uma força impulsiona e a outra impede."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ambas as forças impedem o grupo de alcançar seus objetivos.",
+                      "explanation": "Incorreta. Uma força impulsiona e a outra impede."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_RG_L2_Q18",
+                  "statement": "Qual dos seguintes conceitos se refere ao \"sentimento de pertencimento\" que os membros do grupo têm em relação ao grupo, que faz com que eles se sintam parte de algo maior?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A rede de comunicações",
+                      "explanation": "Incorreta. A rede de comunicações se refere à forma como as informações circulam dentro de um grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A coesão do grupo",
+                      "explanation": "Correta! Justificativa. A **coesão do grupo** se refere ao sentimento de pertencimento que os membros do grupo têm em relação ao grupo, que faz com que eles se sintam parte de algo maior."
+                    },
+                    {
+                      "id": "c",
+                      "text": "As normas do grupo",
+                      "explanation": "Incorreta. As normas do grupo se referem às regras de conduta do grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A estrutura do grupo",
+                      "explanation": "Incorreta. A estrutura do grupo se refere ao conjunto de papéis e comportamentos esperados dos membros de um grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O clima do grupo",
+                      "explanation": "Incorreta. O clima do grupo se refere ao ambiente emocional do grupo."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L2_Q19",
+                  "statement": "No contexto da dinâmica de grupo, o que significa \"papel\" e \"função\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O papel se refere ao comportamento esperado do indivíduo, e a função se refere ao comportamento real do indivíduo.",
+                      "explanation": "Correta! Justificativa. O **papel** se refere ao comportamento esperado do indivíduo, e a **função** se refere ao comportamento real do indivíduo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O papel se refere ao comportamento real do indivíduo, e a função se refere ao comportamento esperado do indivíduo.",
+                      "explanation": "Incorreta. A definição está invertida."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ambos se referem ao comportamento esperado do indivíduo.",
+                      "explanation": "Incorreta. O papel e a função se referem a conceitos diferentes."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ambos se referem ao comportamento real do indivíduo.",
+                      "explanation": "Incorreta. O papel e a função se referem a conceitos diferentes."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Não há diferença entre eles.",
+                      "explanation": "Incorreta. A principal diferença é que o papel se refere ao comportamento esperado, e a função se refere ao comportamento real."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_RG_L2_Q20",
+                  "statement": "Qual dos seguintes conceitos se refere à \"capacidade do grupo de se manter unido, mesmo diante de conflitos e pressões externas\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A rede de comunicações",
+                      "explanation": "Incorreta. A rede de comunicações se refere à forma como as informações circulam dentro de um grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A coesão do grupo",
+                      "explanation": "Correta! Justificativa. A **coesão do grupo** se refere à capacidade do grupo de se manter unido, mesmo diante de conflitos e pressões externas."
+                    },
+                    {
+                      "id": "c",
+                      "text": "As normas do grupo",
+                      "explanation": "Incorreta. As normas do grupo se referem às regras de conduta do grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A estrutura do grupo",
+                      "explanation": "Incorreta. A estrutura do grupo se refere ao conjunto de papéis e comportamentos esperados dos membros de um grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O clima do grupo",
+                      "explanation": "Incorreta. O clima do grupo se refere ao ambiente emocional do grupo."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L2_Q21",
+                  "statement": "Qual dos seguintes é um dos principais pressupostos da \"abordagem psicossocial\" de Freud sobre os grupos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A existência de um \"ideal de ego\" no líder",
+                      "explanation": "Correta! Justificativa. Um dos principais pressupostos da **abordagem psicossocial** de Freud sobre os grupos é a existência de um \"ideal de ego\" no líder, que é internalizado pelos participantes."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O grupo é uma \"soma\" das partes",
+                      "explanation": "Incorreta. A abordagem de Freud sobre os grupos não se baseia na soma das partes."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A existência de um inconsciente coletivo",
+                      "explanation": "Incorreta. O conceito de \"inconsciente coletivo\" é de Carl Jung."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O grupo é uma \"entidade\" que existe independentemente dos indivíduos",
+                      "explanation": "Incorreta. A abordagem de Freud sobre os grupos não se baseia na ideia de uma \"entidade\"."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A existência de um \"ideal de ego\" nos participantes",
+                      "explanation": "Incorreta. O \"ideal de ego\" se encontra no líder, e é internalizado pelos participantes."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_RG_L2_Q22",
+                  "statement": "Qual dos seguintes autores se dedicou a uma \"abordagem sistêmica\" no estudo de grupos, destacando a importância da \"análise dos papéis\" e da \"dinâmica dos grupos\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sigmund Freud",
+                      "explanation": "Incorreta. A abordagem de Freud é psicossocial."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Kurt Lewin",
+                      "explanation": "Correta! Justificativa. **Kurt Lewin** se dedicou a uma \"abordagem sistêmica\" no estudo de grupos, destacando a importância da \"análise dos papéis\" e da \"dinâmica dos grupos\"."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Joseph H. Pratt",
+                      "explanation": "Incorreta. Pratt é o precursor da psicoterapia de grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Carl Jung",
+                      "explanation": "Incorreta. O material não o menciona como autor da abordagem sistêmica."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Alfred Adler",
+                      "explanation": "Incorreta. O material não o menciona como autor da abordagem sistêmica."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L2_Q23",
+                  "statement": "Qual dos seguintes modelos de grupo se refere a uma modalidade de \"atendimento psicoterapêutico\" que envolve um grupo de pessoas, e que busca a resolução de conflitos e a promoção da saúde mental?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Grupo de convivência ou encontros",
+                      "explanation": "Incorreta. O grupo de convivência tem como objetivo a discussão sobre assuntos gerais da vida."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Grupo de estudo",
+                      "explanation": "Incorreta. O grupo de estudo tem como objetivo a troca de conhecimento sobre um tema específico."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Grupo de psicoterapia de grupo",
+                      "explanation": "Correta! Justificativa. O grupo de **psicoterapia de grupo** se refere a uma modalidade de \"atendimento psicoterapêutico\" que envolve um grupo de pessoas, e que busca a resolução de conflitos e a promoção da saúde mental."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Grupo de trabalho",
+                      "explanation": "Incorreta. O grupo de trabalho tem como objetivo a solução de problemas de trabalho."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Grupo de autoajuda e de ajuda mútua",
+                      "explanation": "Incorreta. O grupo de autoajuda tem como objetivo a troca de experiências."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q24",
+                  "statement": "No contexto da dinâmica de grupo, o que significa \"sinergia\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A capacidade de o grupo produzir mais do que a soma das partes",
+                      "explanation": "Correta! Justificativa. A **sinergia** se refere à capacidade de o grupo produzir mais do que a soma das partes, ou seja, de gerar um resultado maior do que a soma dos esforços individuais."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A capacidade de o grupo produzir menos do que a soma das partes",
+                      "explanation": "Incorreta. A sinergia é o oposto disso."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A capacidade de o grupo produzir exatamente a soma das partes",
+                      "explanation": "Incorreta. A sinergia é o oposto disso."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A capacidade de o grupo se manter unido",
+                      "explanation": "Incorreta. A capacidade de o grupo se manter unido se refere à coesão do grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A capacidade de o grupo se comunicar",
+                      "explanation": "Incorreta. A capacidade de o grupo se comunicar se refere à rede de comunicações."
+                    }
+                  ],
+                  "answer": "a"
+                },
+                {
+                  "id": "p4_RG_L2_Q25",
+                  "statement": "Qual dos seguintes conceitos se refere às \"regras de conduta\" do grupo, que definem os comportamentos aceitáveis e inaceitáveis dos membros?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A rede de comunicações",
+                      "explanation": "Incorreta. A rede de comunicações se refere à forma como as informações circulam dentro de um grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A coesão do grupo",
+                      "explanation": "Incorreta. A coesão do grupo se refere à força das ligações entre os membros do grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "As normas do grupo",
+                      "explanation": "Correta! Justificativa. As **normas do grupo** se referem às regras de conduta do grupo, que definem os comportamentos aceitáveis e inaceitáveis dos membros."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A estrutura do grupo",
+                      "explanation": "Incorreta. A estrutura do grupo se refere ao conjunto de papéis e comportamentos esperados dos membros de um grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O clima do grupo",
+                      "explanation": "Incorreta. O clima do grupo se refere ao ambiente emocional do grupo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q26",
+                  "statement": "No contexto da dinâmica de grupo, o que significa \"conflito\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Uma situação em que os membros do grupo têm opiniões diferentes sobre um tema",
+                      "explanation": "Incorreta. Conflito é uma situação de oposição ou incompatibilidade."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Uma situação de oposição ou incompatibilidade entre os membros do grupo",
+                      "explanation": "Correta! Justificativa. O **conflito** é uma situação de oposição ou incompatibilidade entre os membros do grupo, que pode ser gerada por diferenças de opinião, valores, interesses, etc."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Uma situação em que os membros do grupo têm as mesmas opiniões sobre um tema",
+                      "explanation": "Incorreta. Conflito é uma situação de oposição ou incompatibilidade."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Uma situação em que os membros do grupo trabalham juntos para alcançar um objetivo comum",
+                      "explanation": "Incorreta. Esta é a definição de cooperação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Uma situação em que os membros do grupo se sentem bem uns com os outros",
+                      "explanation": "Incorreta. Esta é a definição de coesão."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L2_Q27",
+                  "statement": "De acordo com o material, qual é o principal benefício da \"análise dos papéis\" no estudo de grupos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A identificação de quem é o líder do grupo",
+                      "explanation": "Incorreta. A análise dos papéis não se limita à identificação do líder."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A identificação dos membros mais populares do grupo",
+                      "explanation": "Incorreta. A análise dos papéis não se limita à identificação dos membros mais populares."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A compreensão da estrutura e da dinâmica do grupo, e a identificação de possíveis problemas de comunicação e de relacionamento entre os membros",
+                      "explanation": "Correta! Justificativa. A **análise dos papéis** no estudo de grupos permite a compreensão da estrutura e da dinâmica do grupo, e a identificação de possíveis problemas de comunicação e de relacionamento entre os membros."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A medição da produtividade do grupo",
+                      "explanation": "Incorreta. A análise dos papéis não mede a produtividade do grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A medição da coesão do grupo",
+                      "explanation": "Incorreta. A análise dos papéis não mede a coesão do grupo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q28",
+                  "statement": "Qual das seguintes alternativas é uma das principais \"habilidades do terapeuta de grupo\"?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A capacidade de se manter em silêncio durante todo o processo",
+                      "explanation": "Incorreta. A capacidade de se manter em silêncio durante todo o processo não é uma habilidade do terapeuta de grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A capacidade de monopolizar a discussão, controlando o que pode ou não ser dito",
+                      "explanation": "Incorreta. A capacidade de monopolizar a discussão, controlando o que pode ou não ser dito, não é uma habilidade do terapeuta de grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A capacidade de intervir de forma a facilitar a comunicação e a resolução de conflitos, sem se colocar como detentor da verdade",
+                      "explanation": "Correta! Justificativa. A capacidade de intervir de forma a facilitar a comunicação e a resolução de conflitos, sem se colocar como detentor da verdade, é uma das principais \"habilidades do terapeuta de grupo\"."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A capacidade de ditar as regras do grupo, sem ouvir a opinião dos participantes",
+                      "explanation": "Incorreta. A capacidade de ditar as regras do grupo, sem ouvir a opinião dos participantes, não é uma habilidade do terapeuta de grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A capacidade de julgar e criticar o comportamento dos participantes",
+                      "explanation": "Incorreta. A capacidade de julgar e criticar o comportamento dos participantes não é uma habilidade do terapeuta de grupo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q29",
+                  "statement": "Considerando o estudo dos grupos e a sobre as dinâmicas e situações relacionadas ao estudo de grupos, em qual cenário este tipo de serviço se mostra importante para os usuários?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas em instituições acadêmicas",
+                      "explanation": "Incorreta. É importante na clínica e nas instituições."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas na clínica psicanalítica",
+                      "explanation": "Incorreta. É importante na clínica e nas instituições."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Na clínica e nas instituições",
+                      "explanation": "Correta! Justificativa. O estudo do grupo de desenvolvimento e sua importância aplica-se tanto para o desenvolvimento do psicólogo quanto para os usuários deste serviço **na clínica e nas instituições**."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Exclusivamente em consultórios particulares",
+                      "explanation": "Incorreta. É importante na clínica e nas instituições."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Em ambientes de isolamento total",
+                      "explanation": "Incorreta. É focado em grupos."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L2_Q30",
+                  "statement": "Além do cuidado com o sofrimento psíquico, para que mais a técnica grupal se mostra uma forma muito produtiva de intervenção?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A piora das relações humanas",
+                      "explanation": "Incorreta. Auxilia na melhora das relações humanas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A exclusão de vivências emocionais",
+                      "explanation": "Incorreta. Sensibiliza quanto às vivências emocionais."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O diagnóstico de necessidades financeiras",
+                      "explanation": "Incorreta. O foco é na melhora das relações humanas e sofrimento psíquico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A melhora das relações humanas",
+                      "explanation": "Correta! Justificativa. A técnica grupal pode auxiliar na **melhora das relações humanas**, além de ser produtiva para o cuidado com o sofrimento psíquico."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A negação de atitudes positivas em relação ao tratamento",
+                      "explanation": "Incorreta. Auxilia na melhora das relações."
+                    }
+                  ],
+                  "answer": "d"
+                }
+              ]
+            },
+            {
+              "id": "p4_RG_L3",
+              "title": "Lista 3",
+              "questions": [
+                {
+                  "id": "p4_RG_L3_Q1",
+                  "statement": "De acordo com os objetivos de competência profissional da Unidade 1, qual aspecto deve ser compreendido em relação ao comportamento psicossocial das massas?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A análise da sociologia pura",
+                      "explanation": "Incorreta. O objetivo é a compreensão em contraponto à análise do Eu."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A história da psicoterapia individual",
+                      "explanation": "Incorreta. O foco é nas massas e no Eu."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A análise do Eu",
+                      "explanation": "Correta! Justificativa. Um dos objetivos é compreender o comportamento psicossocial das massas em contraponto à análise do Eu."
+                    },
+                    {
+                      "id": "d",
+                      "text": "As técnicas exclusivas da pesquisa quantitativa",
+                      "explanation": "Incorreta. O foco é na análise do Eu e das massas."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O desenvolvimento exclusivo de métodos comportamentais",
+                      "explanation": "Incorreta. O foco é nas massas e no Eu."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q2",
+                  "statement": "Quem é considerado o precursor da psicoterapia de grupo, sendo fundamental para o início do desenvolvimento presente hoje na atuação dos profissionais da saúde?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Sigmund Freud",
+                      "explanation": "Incorreta. Embora seja uma figura central, o precursor citado é Joseph H. Pratt."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Joseph H. Pratt",
+                      "explanation": "Correta! Justificativa. Joseph H. Pratt é considerado o precursor da psicoterapia de grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "J. L. Moreno",
+                      "explanation": "Incorreta. Moreno contribuiu com a análise de grupos e a espontaneidade, mas não é citado como precursor nesse material."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Carl Rogers",
+                      "explanation": "Incorreta. Carl Rogers é uma figura importante na área da psicologia humanista, mas não é o precursor da psicoterapia de grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Kurt Lewin",
+                      "explanation": "Incorreta. Kurt Lewin é associado à dinâmica de grupo e pesquisa-ação, mas não é o precursor da psicoterapia de grupo."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L3_Q3",
+                  "statement": "Em qual cenário, em especial, a contribuição de W. R. Bion e suas teorias sobre a dinâmica de grupo, como os pressupostos básicos, é importante?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Na área da medicina clínica geral",
+                      "explanation": "Incorreta. A contribuição de Bion é mais aplicada à psicoterapia de grupo e à psicanálise de grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "No ambiente da engenharia de produção",
+                      "explanation": "Incorreta. O foco é nas dinâmicas psicossociais dos grupos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Na psicanálise de grupo",
+                      "explanation": "Correta! Justificativa. A teoria dos pressupostos básicos de Bion e suas contribuições são importantes para a psicanálise de grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "No estudo da matemática avançada",
+                      "explanation": "Incorreta. Não há relação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Na ciência da computação",
+                      "explanation": "Incorreta. Não há relação."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q4",
+                  "statement": "O que o modelo de pesquisa-ação de Kurt Lewin buscava como um de seus principais objetivos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Separar a teoria da prática",
+                      "explanation": "Incorreta. A pesquisa-ação busca unir a teoria e a prática."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Aumentar a distância entre o pesquisador e o objeto de estudo",
+                      "explanation": "Incorreta. O modelo busca uma participação mais ativa e colaborativa."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Unir a teoria e a prática para gerar mudanças sociais significativas",
+                      "explanation": "Correta! Justificativa. O modelo de pesquisa-ação busca unir a teoria e a prática para gerar mudanças sociais significativas."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Reduzir o engajamento dos participantes do grupo",
+                      "explanation": "Incorreta. O modelo de Lewin busca um engajamento ativo dos participantes."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ignorar a dimensão social do comportamento",
+                      "explanation": "Incorreta. O modelo foca na dimensão social e nas mudanças sociais."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q5",
+                  "statement": "Qual é a principal característica da abordagem de J. L. Moreno que a diferencia de outras teorias de grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O foco na análise do inconsciente coletivo",
+                      "explanation": "Incorreta. O foco de Moreno é na espontaneidade e na ação, e não no inconsciente coletivo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O uso de testes psicométricos",
+                      "explanation": "Incorreta. Moreno não é conhecido pelo uso de testes psicométricos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A ênfase na espontaneidade, na ação e na dramatização",
+                      "explanation": "Correta! Justificativa. A principal característica da abordagem de Moreno é a ênfase na espontaneidade, na ação e na dramatização (psicodrama)."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A aplicação exclusiva de teorias comportamentais",
+                      "explanation": "Incorreta. O foco é na espontaneidade e na ação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A passividade do terapeuta no processo",
+                      "explanation": "Incorreta. A abordagem de Moreno é baseada na ação e na participação ativa."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q6",
+                  "statement": "Para que se utiliza o sociograma, uma ferramenta desenvolvida por J. L. Moreno?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Para medir o nível de inteligência dos membros do grupo",
+                      "explanation": "Incorreta. O sociograma mede as relações interpessoais."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Para mapear as relações interpessoais e as redes de atração e repulsão em um grupo",
+                      "explanation": "Correta! Justificativa. O sociograma é usado para mapear as relações interpessoais e as redes de atração e repulsão dentro de um grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Para analisar os traços de personalidade dos indivíduos",
+                      "explanation": "Incorreta. O foco é nas relações, e não nos traços de personalidade."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Para diagnosticar transtornos mentais em grupo",
+                      "explanation": "Incorreta. Não é o objetivo do sociograma."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Para prever o futuro do grupo",
+                      "explanation": "Incorreta. Não é o objetivo do sociograma."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L3_Q7",
+                  "statement": "Qual dos seguintes é um conceito central na teoria de Kurt Lewin que descreve o conjunto de forças que atuam no ambiente de um indivíduo ou grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Id",
+                      "explanation": "Incorreta. O conceito de Id é da psicanálise de Freud."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Inconsciente coletivo",
+                      "explanation": "Incorreta. O conceito de inconsciente coletivo é da psicologia analítica de Jung."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Espaço vital",
+                      "explanation": "Correta! Justificativa. O conceito de espaço vital (ou 'life space') é central na teoria de Kurt Lewin e descreve o conjunto de forças que atuam no ambiente de um indivíduo ou grupo."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Zona de desenvolvimento proximal",
+                      "explanation": "Incorreta. Este é um conceito de Vigotski."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Matriz social",
+                      "explanation": "Incorreta. A matriz social é um conceito de J.L. Moreno."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q8",
+                  "statement": "Qual a principal crítica que a abordagem sociológica faz à análise psicológica de grupos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A falta de rigor metodológico",
+                      "explanation": "Incorreta. A crítica é sobre o foco excessivo no indivíduo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O foco excessivo em fatores individuais e inconscientes, ignorando o contexto social",
+                      "explanation": "Correta! Justificativa. A principal crítica da sociologia à psicologia de grupos é o foco excessivo em fatores individuais e inconscientes, ignorando o contexto social mais amplo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A ausência de instrumentos de pesquisa",
+                      "explanation": "Incorreta. Há instrumentos, como o sociograma."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A ênfase na pesquisa quantitativa",
+                      "explanation": "Incorreta. Ambas as abordagens utilizam métodos quantitativos e qualitativos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A falta de atenção aos aspectos emocionais",
+                      "explanation": "Incorreta. A psicologia de grupos é conhecida por sua ênfase nos aspectos emocionais."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L3_Q9",
+                  "statement": "O que caracteriza a perspectiva interacionista no estudo de grupos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O estudo do comportamento individual isolado",
+                      "explanation": "Incorreta. A perspectiva interacionista foca nas interações, não no indivíduo isolado."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A priorização das estruturas sociais sobre as interações",
+                      "explanation": "Incorreta. A abordagem interacionista prioriza as interações."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A ênfase nas interações entre os membros do grupo e a construção de significados compartilhados",
+                      "explanation": "Correta! Justificativa. A perspectiva interacionista foca na ênfase nas interações entre os membros do grupo e a construção de significados compartilhados."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O uso exclusivo de teorias marxistas",
+                      "explanation": "Incorreta. Não há relação direta com o uso exclusivo de teorias marxistas."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A negação da existência de papéis sociais",
+                      "explanation": "Incorreta. O interacionismo foca em como os papéis sociais são construídos e negociados nas interações."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q10",
+                  "statement": "De acordo com o material, qual é uma das principais utilidades do estudo dos 'fenômenos de grupo' para a atuação do psicólogo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A reprodução de comportamentos individuais",
+                      "explanation": "Incorreta. O estudo de grupo foca em como a dinâmica do grupo influencia o indivíduo, não em reprodução."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A aplicação de técnicas de hipnose coletiva",
+                      "explanation": "Incorreta. Não é o objetivo do estudo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O entendimento dos processos de liderança, comunicação e tomada de decisão em diversos contextos",
+                      "explanation": "Correta! Justificativa. O estudo dos fenômenos de grupo é útil para o entendimento dos processos de liderança, comunicação e tomada de decisão em diversos contextos."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A negação da importância do contexto social",
+                      "explanation": "Incorreta. O estudo de grupo enfatiza a importância do contexto social."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A criação de conflitos entre os membros do grupo",
+                      "explanation": "Incorreta. O objetivo não é criar conflitos, mas entender como lidar com eles."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q11",
+                  "statement": "Para que a técnica grupal se mostra uma forma muito produtiva de intervenção, além do cuidado com o sofrimento psíquico?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A piora das relações humanas",
+                      "explanation": "Incorreta. Auxilia na melhora das relações humanas."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A exclusão de vivências emocionais",
+                      "explanation": "Incorreta. Sensibiliza quanto às vivências emocionais."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O diagnóstico de necessidades financeiras",
+                      "explanation": "Incorreta. O foco é na melhora das relações humanas e sofrimento psíquico."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A melhora das relações humanas",
+                      "explanation": "Correta! Justificativa. A técnica grupal pode auxiliar na melhora das relações humanas, além de ser produtiva para o cuidado com o sofrimento psíquico."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A negação de atitudes positivas em relação ao tratamento",
+                      "explanation": "Incorreta. Auxilia na melhora das relações."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L3_Q12",
+                  "statement": "Em qual cenário, de acordo com o estudo sobre as dinâmicas e situações relacionadas ao estudo de grupos, este tipo de serviço se mostra importante para os usuários?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas em instituições acadêmicas",
+                      "explanation": "Incorreta. É importante na clínica e nas instituições."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Apenas na clínica psicanalítica",
+                      "explanation": "Incorreta. É importante na clínica e nas instituições."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Na clínica e nas instituições",
+                      "explanation": "Correta! Justificativa. O estudo do grupo de desenvolvimento e sua importância aplica-se tanto para o desenvolvimento do psicólogo quanto para os usuários deste serviço na clínica e nas instituições."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Exclusivamente em consultórios particulares",
+                      "explanation": "Incorreta. É importante na clínica e nas instituições."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Em ambientes de isolamento total",
+                      "explanation": "Incorreta. É focado em grupos."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q13",
+                  "statement": "Qual dos seguintes aspectos não é um dos objetivos de competência profissional da Unidade 1, conforme o material?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Compreender o comportamento psicossocial das massas em contraponto à análise do Eu.",
+                      "explanation": "Incorreta. Este é um dos objetivos de competência profissional da Unidade 1."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Analisar as principais teorias sobre a dinâmica de grupo.",
+                      "explanation": "Incorreta. Este é um dos objetivos de competência profissional da Unidade 1."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Desenvolver a capacidade de realizar intervenções grupais eficazes na clínica e nas instituições.",
+                      "explanation": "Incorreta. Este é um dos objetivos de competência profissional da Unidade 1."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aperfeiçoar o raciocínio clínico para entender a dinâmica de grupo.",
+                      "explanation": "Incorreta. Este é um dos objetivos de competência profissional da Unidade 1."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Dominar exclusivamente a técnica de psicoterapia individual.",
+                      "explanation": "Correta! Justificativa. O foco da unidade é na dinâmica e técnica de grupo, não na psicoterapia individual."
+                    }
+                  ],
+                  "answer": "e"
+                },
+                {
+                  "id": "p4_RG_L3_Q14",
+                  "statement": "De acordo com o material, qual é o principal objetivo da teoria dos 'pressupostos básicos' de W. R. Bion?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Aumentar a produtividade do grupo em um ambiente corporativo.",
+                      "explanation": "Incorreta. O foco de Bion era na psicanálise de grupo, e não na produtividade corporativa."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Analisar as tensões inconscientes que podem impedir o grupo de realizar sua tarefa.",
+                      "explanation": "Correta! Justificativa. A teoria dos 'pressupostos básicos' de Bion foca na análise das tensões inconscientes que podem impedir o grupo de realizar sua tarefa, como dependência, luta e acasalamento."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Promover a competição entre os membros do grupo.",
+                      "explanation": "Incorreta. O foco é na análise de tensões e não na promoção de competição."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O desenvolvimento de um modelo de terapia familiar.",
+                      "explanation": "Incorreta. A teoria de Bion é sobre a dinâmica de grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ignorar o papel do líder no grupo.",
+                      "explanation": "Incorreta. O papel do líder é relevante na teoria de Bion, especialmente em relação ao pressuposto de dependência."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L3_Q15",
+                  "statement": "O que a teoria de Kurt Lewin sobre a dinâmica de grupo, especialmente o conceito de 'espaço vital', enfatiza?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A importância da hereditariedade para a definição do comportamento humano.",
+                      "explanation": "Incorreta. A teoria de Lewin foca na interação entre indivíduo e ambiente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O estudo do indivíduo de forma isolada do seu ambiente.",
+                      "explanation": "Incorreta. A teoria de Lewin enfatiza a relação entre indivíduo e ambiente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A interação entre o indivíduo e seu ambiente psicológico para entender o comportamento.",
+                      "explanation": "Correta! Justificativa. A teoria de Kurt Lewin enfatiza a interação entre o indivíduo e seu ambiente psicológico (espaço vital) para entender o comportamento."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A análise das estruturas sociais como o único fator de influência.",
+                      "explanation": "Incorreta. Embora considere o ambiente, o foco é na interação entre indivíduo e ambiente."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O papel exclusivo das emoções no comportamento humano.",
+                      "explanation": "Incorreta. O foco é na interação entre indivíduo e ambiente, e não nas emoções."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q16",
+                  "statement": "O texto menciona que o psicólogo, ao trabalhar com grupos, deve ter uma atitude de 'escuta flutuante' ou 'atenção flutuante'. Qual o significado dessa atitude, inspirada na psicanálise?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Focar apenas no líder do grupo e ignorar os demais membros.",
+                      "explanation": "Incorreta. A escuta flutuante envolve a atenção a todos os elementos do grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Prestar atenção apenas aos conflitos manifestos no grupo.",
+                      "explanation": "Incorreta. A escuta flutuante abrange tanto o manifesto quanto o latente."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Manter uma atenção distribuída e não se fixar em um único aspecto, permitindo a captação de elementos conscientes e inconscientes da dinâmica grupal.",
+                      "explanation": "Correta! Justificativa. A atitude de 'escuta flutuante' consiste em manter uma atenção distribuída para captar os elementos conscientes e inconscientes da dinâmica do grupo, sem se fixar em um único aspecto."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Fazer anotações detalhadas de tudo o que é dito na sessão.",
+                      "explanation": "Incorreta. O foco é na atenção fluida, e não nas anotações detalhadas."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ignorar o que é dito e focar apenas no comportamento não verbal.",
+                      "explanation": "Incorreta. A escuta flutuante abrange todos os elementos, verbais e não verbais."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q17",
+                  "statement": "Qual é a principal função da fase de 'diagnóstico' ou 'análise' em uma intervenção grupal, de acordo com as teorias?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Gerar um relatório de resultados imediatos para os participantes.",
+                      "explanation": "Incorreta. A fase de diagnóstico visa a compreensão da dinâmica do grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Identificar os problemas e as necessidades do grupo, servindo de base para o planejamento da intervenção.",
+                      "explanation": "Correta! Justificativa. A fase de 'diagnóstico' ou 'análise' é fundamental para identificar os problemas e as necessidades do grupo, servindo de base para o planejamento da intervenção."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Aplicar as técnicas de intervenção sem um plano prévio.",
+                      "explanation": "Incorreta. O diagnóstico é prévio à intervenção."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ignorar a história do grupo e focar apenas no presente.",
+                      "explanation": "Incorreta. O diagnóstico deve considerar a história do grupo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O desenvolvimento de um plano de tratamento individualizado para cada membro.",
+                      "explanation": "Incorreta. O foco é na intervenção grupal, e não no tratamento individual."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L3_Q18",
+                  "statement": "O que o conceito de 'espaço vital' de Kurt Lewin implica para a compreensão do comportamento humano?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O comportamento é um produto exclusivo da genética.",
+                      "explanation": "Incorreta. O conceito de espaço vital foca na interação entre indivíduo e ambiente."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O comportamento é uma função da interação entre a pessoa e o ambiente psicológico.",
+                      "explanation": "Correta! Justificativa. O conceito de 'espaço vital' implica que o comportamento é uma função da interação entre a pessoa e seu ambiente psicológico."
+                    },
+                    {
+                      "id": "c",
+                      "text": "O comportamento é predeterminado por forças sociais.",
+                      "explanation": "Incorreta. Embora as forças sociais sejam importantes, o conceito de espaço vital inclui a percepção individual e os fatores psicológicos."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O comportamento é sempre imprevisível.",
+                      "explanation": "Incorreta. O objetivo do modelo é justamente compreender e prever o comportamento a partir da análise do espaço vital."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O ambiente físico é o único fator que influencia o comportamento.",
+                      "explanation": "Incorreta. O conceito de espaço vital é psicológico, e não apenas físico."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L3_Q19",
+                  "statement": "Qual é a crítica central da sociologia em relação à aplicação da psicanálise aos grupos, segundo o material?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A psicanálise ignora o papel do líder no grupo.",
+                      "explanation": "Incorreta. A psicanálise de grupo, como a de Bion, foca no papel do líder."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A psicanálise não possui conceitos para entender as emoções.",
+                      "explanation": "Incorreta. A psicanálise é centrada nas emoções."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A psicanálise tenta explicar a dinâmica social com categorias individuais e inconscientes, desconsiderando a especificidade do fenômeno social.",
+                      "explanation": "Correta! Justificativa. A crítica sociológica é que a psicanálise tenta explicar a dinâmica social com categorias individuais e inconscientes, desconsiderando a especificidade do fenômeno social."
+                    },
+                    {
+                      "id": "d",
+                      "text": "A psicanálise é muito focada no presente, ignorando a história do grupo.",
+                      "explanation": "Incorreta. A psicanálise foca na história e no passado."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A psicanálise não tem relevância para o estudo de grupos.",
+                      "explanation": "Incorreta. A psicanálise tem sua própria abordagem para o estudo de grupos."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q20",
+                  "statement": "Segundo o material, qual é o papel do psicólogo no processo de intervenção em grupos, em contraste com um líder autoritário?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Impor soluções prontas para os problemas do grupo.",
+                      "explanation": "Incorreta. O papel do psicólogo é facilitar o processo, e não impor soluções."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Agir como um especialista que detém todo o conhecimento e a verdade.",
+                      "explanation": "Incorreta. O papel do psicólogo é de mediador e facilitador."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Facilitar o processo de autoconhecimento e de resolução de conflitos, estimulando a participação e a autonomia dos membros.",
+                      "explanation": "Correta! Justificativa. O papel do psicólogo é de facilitar o processo, estimulando a participação e a autonomia dos membros."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Focar apenas no diagnóstico, sem intervir.",
+                      "explanation": "Incorreta. O papel do psicólogo é diagnosticar e intervir."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ignorar a dinâmica de poder no grupo.",
+                      "explanation": "Incorreta. O psicólogo deve estar atento à dinâmica de poder e como ela influencia o grupo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q21",
+                  "statement": "A prática de J. H. Pratt é vista como o precursor da psicoterapia de grupo por qual motivo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Ele foi o primeiro a usar o termo 'psicoterapia de grupo'.",
+                      "explanation": "Incorreta. A prática dele é considerada precursora, mas não é afirmado que ele foi o primeiro a usar o termo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Ele aplicou o modelo de grupos para fins exclusivamente econômicos.",
+                      "explanation": "Incorreta. O foco de Pratt era na área da saúde e não em fins econômicos."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Ele uniu o tratamento individual com a dinâmica de grupo, criando um modelo híbrido.",
+                      "explanation": "Incorreta. Ele utilizava o grupo como um suporte para o tratamento de tuberculose, não para um modelo híbrido."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Ele utilizou grupos de pacientes para fins de educação e apoio emocional, como parte do tratamento da tuberculose, no Ambulatório de Boston.",
+                      "explanation": "Correta! Justificativa. Pratt é considerado o precursor por sua prática com grupos de pacientes com tuberculose, nos quais ele usava a dinâmica de grupo como forma de apoio emocional e educação, no Ambulatório de Boston."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ele publicou o primeiro manual de intervenção em grupo.",
+                      "explanation": "Incorreta. Não há menção a isso."
+                    }
+                  ],
+                  "answer": "d"
+                },
+                {
+                  "id": "p4_RG_L3_Q22",
+                  "statement": "Qual é a diferença entre a abordagem de Kurt Lewin e a de J. L. Moreno?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Lewin foca na ação e na dramatização, enquanto Moreno foca na teoria e no ambiente.",
+                      "explanation": "Incorreta. A abordagem de Moreno foca na ação e na dramatização (psicodrama)."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Lewin foca na análise das relações interpessoais (sociometria), enquanto Moreno foca na pesquisa-ação.",
+                      "explanation": "Incorreta. Moreno é o criador da sociometria."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Lewin foca na dinâmica de grupo e na pesquisa-ação, enquanto Moreno foca na ação, na espontaneidade e na sociometria.",
+                      "explanation": "Correta! Justificativa. A principal diferença é que Lewin foca na dinâmica de grupo e na pesquisa-ação, enquanto Moreno foca na ação, na espontaneidade e na sociometria."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Lewin foca em grupos institucionais, enquanto Moreno foca apenas na clínica.",
+                      "explanation": "Incorreta. Ambas as abordagens podem ser aplicadas em contextos institucionais e clínicos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Ambos têm a mesma abordagem teórica.",
+                      "explanation": "Incorreta. As abordagens são distintas, embora ambas lidem com a dinâmica de grupo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q23",
+                  "statement": "Qual dos seguintes aspectos é central na abordagem de J. L. Moreno e distingue seu trabalho na área da dinâmica de grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "O foco na análise do inconsciente individual para entender a dinâmica de grupo.",
+                      "explanation": "Incorreta. O foco de Moreno é na ação e nas relações sociais, e não no inconsciente individual."
+                    },
+                    {
+                      "id": "b",
+                      "text": "O uso de técnicas como o psicodrama e a sociometria, com ênfase na espontaneidade e na ação.",
+                      "explanation": "Correta! Justificativa. O uso de técnicas como o psicodrama e a sociometria, com ênfase na espontaneidade e na ação, é central na abordagem de Moreno e distingue seu trabalho."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A crença de que os conflitos de grupo são apenas manifestações de problemas individuais.",
+                      "explanation": "Incorreta. A abordagem de Moreno foca no grupo como uma entidade social."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O desenvolvimento da teoria do 'espaço vital' para explicar a dinâmica de grupo.",
+                      "explanation": "Incorreta. O conceito de 'espaço vital' é de Kurt Lewin."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A aplicação da psicanálise de Freud para o estudo de grupos.",
+                      "explanation": "Incorreta. A abordagem de Moreno é distinta da psicanálise de Freud."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L3_Q24",
+                  "statement": "Qual é a principal função da 'matriz grupal' na teoria de Foulkes, no contexto da análise de grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Funcionar como um espelho para as individualidades dos participantes.",
+                      "explanation": "Incorreta. A matriz grupal é o substrato das comunicações e interações no grupo, e não um espelho para as individualidades."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Permitir a análise dos pressupostos básicos de Bion.",
+                      "explanation": "Incorreta. A matriz grupal é um conceito de Foulkes, não de Bion."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Atuar como a base ou substrato subjacente das comunicações e interações do grupo, servindo como referência para a interpretação dos fenômenos grupais.",
+                      "explanation": "Correta! Justificativa. A matriz grupal, na teoria de Foulkes, atua como a base ou substrato das comunicações e interações do grupo, servindo como referência para a interpretação dos fenômenos grupais."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aumentar a dependência dos membros do grupo em relação ao terapeuta.",
+                      "explanation": "Incorreta. O objetivo é a análise dos fenômenos de grupo, e não o aumento da dependência."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Separar a experiência individual da experiência grupal.",
+                      "explanation": "Incorreta. A matriz grupal integra as experiências individuais e grupais."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q25",
+                  "statement": "O que o modelo de pesquisa-ação de Kurt Lewin implica para a relação entre teoria e prática na dinâmica de grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A teoria deve ser desenvolvida de forma isolada da prática, para garantir a objetividade.",
+                      "explanation": "Incorreta. A pesquisa-ação busca a união entre teoria e prática."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A prática deve ser priorizada, e a teoria deve ser abandonada.",
+                      "explanation": "Incorreta. O modelo busca a união entre teoria e prática."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A teoria e a prática são interligadas e se influenciam mutuamente, com a teoria informando a prática e a prática, por sua vez, modificando a teoria.",
+                      "explanation": "Correta! Justificativa. A pesquisa-ação de Lewin implica que a teoria e a prática são interligadas e se influenciam mutuamente, com a teoria informando a prática e a prática modificando a teoria."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O pesquisador deve ser um observador passivo, sem intervir na realidade estudada.",
+                      "explanation": "Incorreta. O pesquisador é um agente de mudança no modelo de pesquisa-ação."
+                    },
+                    {
+                      "id": "e",
+                      "text": "O conhecimento é apenas teórico e não se aplica à realidade social.",
+                      "explanation": "Incorreta. O modelo de Lewin busca a aplicabilidade do conhecimento à realidade social."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q26",
+                  "statement": "Qual dos seguintes exemplos representa uma atuação do psicólogo com base na perspectiva sociológica no estudo de grupos?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Analisar as resistências inconscientes de um grupo de pacientes em terapia.",
+                      "explanation": "Incorreta. Esta é uma atuação baseada na psicanálise de grupo."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Fazer um sociograma para mapear as relações de poder em um grupo de trabalho.",
+                      "explanation": "Incorreta. Esta é uma atuação baseada na sociometria de Moreno."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Estudar como as normas sociais e as hierarquias institucionais influenciam o comportamento de um grupo de alunos em uma escola.",
+                      "explanation": "Correta! Justificativa. A perspectiva sociológica foca em como as normas sociais e as hierarquias institucionais influenciam o comportamento do grupo, em contraste com o foco em fatores individuais e inconscientes."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Aplicar uma técnica de dramatização para liberar a espontaneidade do grupo.",
+                      "explanation": "Incorreta. Esta é uma atuação baseada no psicodrama de Moreno."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Focar na história de vida individual de cada membro do grupo para entender seus problemas.",
+                      "explanation": "Incorreta. Esta é uma atuação focada no indivíduo, e não no grupo."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q27",
+                  "statement": "O que a abordagem de Bion sobre os 'pressupostos básicos' nos grupos de trabalho sugere sobre o comportamento do grupo?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Que o grupo sempre se comporta de forma racional e produtiva.",
+                      "explanation": "Incorreta. A teoria de Bion mostra que o grupo pode ser irracional e improdutivo por conta de emoções inconscientes."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Que o grupo opera em dois níveis: o grupo de trabalho (consciente e racional) e o grupo de suposições básicas (inconsciente e irracional).",
+                      "explanation": "Correta! Justificativa. A teoria de Bion sugere que o grupo opera em dois níveis: o 'grupo de trabalho', que é a parte consciente e racional, e os 'pressupostos básicos', que são as emoções inconscientes e irracionais que impedem o grupo de realizar sua tarefa."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Que o líder do grupo é sempre o responsável por todos os problemas.",
+                      "explanation": "Incorreta. O líder pode ser influenciado pela dinâmica do grupo, e não é o único responsável."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Que as emoções não têm influência sobre o desempenho do grupo.",
+                      "explanation": "Incorreta. O foco de Bion é justamente na influência das emoções inconscientes."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Que o grupo é uma entidade puramente individual.",
+                      "explanation": "Incorreta. O foco de Bion é na dinâmica grupal."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L3_Q28",
+                  "statement": "Qual dos seguintes é um dos principais desafios para o psicólogo que trabalha com a dinâmica de grupo, conforme o material?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "A impossibilidade de utilizar a teoria na prática.",
+                      "explanation": "Incorreta. A pesquisa-ação de Lewin mostra a integração entre teoria e prática."
+                    },
+                    {
+                      "id": "b",
+                      "text": "A superação do foco no indivíduo para a compreensão da totalidade unificada do grupo.",
+                      "explanation": "Correta! Justificativa. Um dos principais desafios para o psicólogo que trabalha com a dinâmica de grupo é superar o foco no indivíduo para a compreensão da totalidade unificada do grupo."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A falta de teorias sobre grupos.",
+                      "explanation": "Incorreta. Há diversas teorias sobre grupos."
+                    },
+                    {
+                      "id": "d",
+                      "text": "O uso exclusivo de métodos quantitativos de pesquisa.",
+                      "explanation": "Incorreta. O psicólogo pode usar métodos quantitativos e qualitativos."
+                    },
+                    {
+                      "id": "e",
+                      "text": "A negação da existência de grupos.",
+                      "explanation": "Incorreta. O estudo é focado em grupos."
+                    }
+                  ],
+                  "answer": "b"
+                },
+                {
+                  "id": "p4_RG_L3_Q29",
+                  "statement": "Qual foi a contribuição principal de Freud para a dinâmica de grupo, de acordo com o material?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Desenvolver a técnica do psicodrama para análise de grupos.",
+                      "explanation": "Incorreta. O psicodrama é uma técnica de J. L. Moreno."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Mapear o espaço vital para o entendimento da totalidade unificada.",
+                      "explanation": "Incorreta. Essa era a teoria de Lewin."
+                    },
+                    {
+                      "id": "c",
+                      "text": "A abordagem psicanalítica para a compreensão das relações e da dinâmica de grupo, com foco no inconsciente, na pulsão, na fantasia e nas identificações.",
+                      "explanation": "Correta! Justificativa. A principal contribuição de Freud para a dinâmica de grupo foi a abordagem psicanalítica para a compreensão das relações e da dinâmica de grupo, com foco no inconsciente, na pulsão, na fantasia e nas identificações, o que permitiu uma abordagem psicanalítica sobre o conteúdo absorvido."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Garantir a ausência de diálogos sobre a experiência após a dinâmica.",
+                      "explanation": "Incorreta. Os pacientes se mantinham no diálogo."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Atuar como clínico geral no Ambulatório de Boston.",
+                      "explanation": "Incorreta. Essa era a atuação de Pratt."
+                    }
+                  ],
+                  "answer": "c"
+                },
+                {
+                  "id": "p4_RG_L3_Q30",
+                  "statement": "A escolha do modelo de investigação (quantitativo, qualitativo ou misto) para o estudo de fenômenos grupais dependerá fundamentalmente de quê?",
+                  "options": [
+                    {
+                      "id": "a",
+                      "text": "Apenas da relevância do histórico conceitual",
+                      "explanation": "Incorreta. Depende do tipo de dado e do aspecto a ser analisado."
+                    },
+                    {
+                      "id": "b",
+                      "text": "Da aptidão pessoal do psicólogo ou pesquisador para a atividade",
+                      "explanation": "Incorreta. Depende do tipo de dado e do aspecto a ser analisado."
+                    },
+                    {
+                      "id": "c",
+                      "text": "Do tipo de dado que ele precisa adquirir e sob o aspecto a que se propõe a analisar",
+                      "explanation": "Correta! Justificativa. A escolha do modelo de investigação dependerá claramente do tipo de dado que ele precisa adquirir antes mesmo de criar a pesquisa, e do fenômeno e aspecto a analisar."
+                    },
+                    {
+                      "id": "d",
+                      "text": "Da concordância com a teoria da Topologia de Lewin",
+                      "explanation": "Incorreta. Depende do tipo de dado e do aspecto a ser analisado."
+                    },
+                    {
+                      "id": "e",
+                      "text": "Exclusivamente da necessidade de atuar na clínica e não nas instituições",
+                      "explanation": "Incorreta. Depende do tipo de dado e do aspecto a ser analisado."
+                    }
+                  ],
+                  "answer": "c"
+                }
+              ]
             }
           ]
         },
