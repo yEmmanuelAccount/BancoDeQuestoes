@@ -1,11 +1,15 @@
 function getQuery(){ 
-  const s=new URLSearchParams(location.search); 
-  return {period:s.get('period'), subject:s.get('subject'), list:s.get('list')}; 
+  const s = new URLSearchParams(location.search);
+  return {
+    period: s.get('period'),
+    subject: s.get('subject'),
+    list: s.get('list')
+  };
 }
 
 let currentIndex = 0;
 let questions = [];
-let answered = {}; 
+let answered = {}; // { [questionId]: { selection: 'A', correct: true } }
 const qparams = getQuery();
 
 const metaDiv = document.getElementById('meta');
@@ -15,162 +19,240 @@ const nextBtn = document.getElementById('nextBtn');
 const confirmBtn = document.getElementById('confirmBtn');
 const backLink = document.getElementById('backLink');
 
-fetch('data.json').then(r=>r.json()).then(data=>{
-  const period = (data.periods||[]).find(p=>p.id===qparams.period);
-  if(!period) return qa.innerHTML = '<p>Período não encontrado</p>';
-  const subject = (period.subjects||[]).find(s=>s.id===qparams.subject);
-  if(!subject) return qa.innerHTML = '<p>Matéria não encontrada</p>';
-  const list = (subject.lists||[]).find(l=>l.id===qparams.list);
-  if(!list) return qa.innerHTML = '<p>Lista não encontrada</p>';
+function showError(msg){
+  qa.innerHTML = `<div class="q-card"><p class="muted">${msg}</p></div>`;
+  prevBtn.style.display = "none";
+  nextBtn.style.display = "none";
+  confirmBtn.style.display = "none";
+}
 
-  metaDiv.innerHTML = `<h3>${period.title} › ${subject.title} › ${list.title}</h3>`;
-  backLink.href = `lists.html?period=${encodeURIComponent(period.id)}&subject=${encodeURIComponent(subject.id)}`;
-  questions = list.questions || [];
-  if(questions.length === 0) qa.innerHTML = '<p>Nenhuma questão nessa lista.</p>';
-  renderQuestion(currentIndex);
-  updateButtons();
-}).catch(err => {
-  console.error(err);
-  qa.innerHTML = '<p>Erro ao carregar questões.</p>';
-});
+// build back link to lists
+function setBackLink(){
+  if(!backLink) return;
+  const href = `lists.html?period=${encodeURIComponent(qparams.period||'')}&subject=${encodeURIComponent(qparams.subject||'')}`;
+  backLink.href = href;
+}
 
+// render meta header
+function setMeta(title){
+  if(!metaDiv) return;
+  metaDiv.innerHTML = `<h1>${title}</h1>`;
+}
+
+// helper function to apply pre-selection style (blue border)
+function applyPreSelection(selectedId){
+  const options = qa.querySelectorAll('.option');
+  options.forEach(label => {
+    label.classList.remove('pre-selected');
+    if (label.getAttribute('data-optid') === selectedId) {
+      label.classList.add('pre-selected');
+    }
+  });
+}
+
+// render a single question by index
 function renderQuestion(i){
-  qa.innerHTML = '';
+  if(!questions || questions.length===0){
+    showError('Nenhuma questão nessa lista.');
+    return;
+  }
+  if(i < 0) i = 0;
+  if(i >= questions.length) i = questions.length - 1;
+  currentIndex = i;
+
   const q = questions[i];
-  if(!q) return;
+  const qnum = i + 1;
 
-  const card = document.createElement('div');
-  card.className = 'q-card';
+  // build card
+  const wasAnswered = !!answered[q.id];
+  const prevSelection = wasAnswered ? answered[q.id].selection : null;
 
-  // enunciado
-  const st = document.createElement('div');
-  st.className = 'q-statement';
-  st.innerText = `${i+1}. ${q.statement}`;
-  card.appendChild(st);
+  let html = `<div class="q-card">`;
+  html += `<div class="q-statement">${qnum}. ${q.statement || ''}</div>`;
 
-  // alternativas
-  const opts = document.createElement('div');
-  opts.className = 'options';
-  q.options.forEach(o=>{
-    const opt = document.createElement('label');
-    opt.className = 'option';
-    opt.dataset.optid = o.id;
+  // choices (fallback to alternatives)
+  const choices = q.options || q.alternatives || [];
+  if(!choices || choices.length === 0){
+    html += `<p class="muted">Esta questão não tem alternativas cadastradas.</p>`;
+    html += `</div>`;
+    qa.innerHTML = html;
+    // Visibilidade dos botões ajustada
+    prevBtn.style.display = (currentIndex>0) ? "" : "none";
+    nextBtn.style.display = (currentIndex < questions.length - 1) ? "" : "none";
+    confirmBtn.style.display = "none";
+    return;
+  }
 
-    const radio = document.createElement('input');
-    radio.type = 'radio';
-    radio.name = 'choice';
-    radio.value = o.id;
-    if(answered[q.id] && answered[q.id].selection === o.id) radio.checked = true;
+  html += `<div class="options">`;
+  choices.forEach(o=>{
+    // each option: ensure id and text exist
+    const oid = o.id || '';
+    const checked = (prevSelection && prevSelection === oid) ? 'checked' : '';
+    
+    // Adiciona a classe 'pre-selected' se for a opção marcada (mas ainda não confirmada)
+    const preSelectedClass = !wasAnswered && prevSelection === oid ? 'pre-selected' : '';
 
-    const header = document.createElement('div');
-    header.className = 'option-header';
+    // Adiciona classes para feedback visual se a questão foi respondida
+    let optionClass = '';
+    let explanationHTML = ''; // Novo: container para explicação
+    
+    if (wasAnswered) {
+        const correctAns = answered[q.id].correct;
+        const correctId = q.answer || q.correct || null;
+        
+        // Determina a classe de cor (correct/wrong)
+        if (oid === prevSelection && !correctAns) {
+            optionClass = 'wrong'; // Selecionada e errada
+        } else if (oid === correctId) {
+            optionClass = 'correct'; // Certa
+        } else if (oid === prevSelection && correctAns) {
+            optionClass = 'selected correct'; // Selecionada e certa
+        } else if (oid !== correctId && oid === prevSelection) {
+            optionClass = 'wrong'; // Selecionada e errada
+        }
+        
+        // Gera o HTML da justificativa individual
+        const explanationText = o.explanation || '';
+        if (explanationText) {
+            // A cor da borda será determinada pela classe 'correct' ou 'incorrect'
+            const expClass = oid === correctId ? 'correct' : 'incorrect';
+            explanationHTML = `<div class="option-explanation ${expClass}">
+                ${explanationText}
+            </div>`;
+        }
+    }
 
-    const idBox = document.createElement('div'); 
-    idBox.className='opt-id'; 
-    idBox.innerText = o.id;
 
-    const text = document.createElement('div'); 
-    text.className='opt-text'; 
-    text.innerText = o.text;
+    html += `<label class="option ${optionClass} ${preSelectedClass}" data-optid="${oid}">
+      <input type="radio" name="choice" value="${oid}" ${checked} ${wasAnswered ? 'disabled' : ''}>
+      <span class="opt-id">${oid}</span>
+      <span class="opt-text">${o.text || ''}</span>
+      ${wasAnswered ? explanationHTML : ''} </label>`;
+  });
+  html += `</div>`; // options
 
-    header.appendChild(radio);
-    header.appendChild(idBox);
-    header.appendChild(text);
+  // Não há mais área de explicação geral (#exp-placeholder)
+  html += `</div>`; // q-card
 
-    opt.appendChild(header);
+  qa.innerHTML = html;
 
-    // explicação associada à alternativa (inicialmente escondida)
-    const expl = document.createElement('div');
-    expl.className = 'explanation';
-    expl.innerText = o.explanation;
-    opt.appendChild(expl);
-
-    opt.addEventListener('click', ()=>{
-      if(opt.classList.contains('confirmed')) return;
-      opt.querySelector('input').checked = true;
+  // wire events to radios (only if not answered)
+  if(!wasAnswered){
+    const radios = qa.querySelectorAll('input[type=radio][name=choice]');
+    radios.forEach(r=>{
+      r.addEventListener('change', ()=> {
+        // enable confirm button when selection exists
+        confirmBtn.disabled = !qa.querySelector('input[type=radio][name=choice]:checked');
+        
+        // Aplica o highlight de pré-seleção
+        applyPreSelection(r.value);
+      });
     });
-
-    opts.appendChild(opt);
-  });
-  card.appendChild(opts);
-
-  qa.appendChild(card);
-
-  // se já foi confirmada antes, reaplica feedback
-  if(answered[q.id] && answered[q.id].confirmed){
-    applyFeedback(q, answered[q.id].selection, card);
+    // Garante que o estado inicial de highlight é aplicado se já houver uma seleção
+    if (prevSelection) {
+        applyPreSelection(prevSelection);
+    }
+    confirmBtn.disabled = !qa.querySelector('input[type=radio][name=choice]:checked');
+  } else {
+    confirmBtn.disabled = true;
   }
+
+  // prev/next buttons visibility
+  // Apenas ajusta a visibilidade aqui para quando está sendo renderizado, o confirmSelection faz o resto.
+  prevBtn.style.display = (currentIndex>0) ? "" : "none";
+  nextBtn.style.display = wasAnswered ? ((currentIndex < questions.length - 1) ? "" : "none") : "none";
+  confirmBtn.style.display = wasAnswered ? "none" : "";
 }
 
-function getSelectedOption(){
-  const sel = document.querySelector('input[name="choice"]:checked');
-  return sel ? sel.value : null;
-}
-
-confirmBtn.addEventListener('click', ()=>{
+// confirm current selection
+function confirmSelection(){
   const q = questions[currentIndex];
-  if(!q) return;
-  const sel = getSelectedOption();
-  if(!sel){ alert('Escolha uma alternativa antes de confirmar.'); return; }
+  const choices = q.options || q.alternatives || [];
+  const selectedInput = qa.querySelector('input[type=radio][name=choice]:checked');
+  if(!selectedInput){
+    alert('Selecione uma alternativa antes de confirmar.');
+    return;
+  }
+  const sel = selectedInput.value;
+  const correctAnswer = q.answer || q.correct || null;
+  const isCorrect = correctAnswer ? (sel === correctAnswer) : false;
 
-  answered[q.id] = { selection: sel, confirmed: true };
-  const card = document.querySelector('.q-card');
-  applyFeedback(q, sel, card);
-});
+  // store
+  answered[q.id] = { selection: sel, correct: isCorrect };
 
-function applyFeedback(question, selection, cardElem){
-  const optionElems = cardElem.querySelectorAll('.option');
-  optionElems.forEach(el=>{
-    el.classList.remove('correct','wrong');
+  // Novo: Mapeia as opções da questão para fácil acesso à explicação
+  const optionsMap = choices.reduce((acc, c) => {
+    acc[c.id] = c;
+    return acc;
+  }, {});
+  
+  // update option visual feedback and inject explanations
+  const optionLabels = qa.querySelectorAll('.option');
+  
+  optionLabels.forEach(label => {
+    const optId = label.getAttribute('data-optid');
+    const correctId = correctAnswer;
+    const optionObj = optionsMap[optId] || {};
+    const isThisCorrect = optId === correctId;
+    
+    // Remove o highlight de pré-seleção
+    label.classList.remove('pre-selected');
+    
+    // Adiciona a classe 'confirmed'
+    label.classList.add('confirmed'); // desabilita hover, etc
 
-    const id = el.dataset.optid;
-    const expl = el.querySelector('.explanation');
-    expl.style.display = "block"; // mostrar explicação
-
-    if(id === question.answer){
-      el.classList.add('correct');
+    // Aplica as classes de feedback de cor
+    if (optId === sel && !isCorrect) {
+      label.classList.add('wrong');
+    } else if (isThisCorrect) {
+      label.classList.add('correct');
+    } else if (optId === sel && isCorrect) {
+      label.classList.add('selected', 'correct');
     }
-    if(id === selection && selection !== question.answer){
-      el.classList.add('wrong');
+
+    // INJETA A JUSTIFICATIVA DENTRO DE CADA LABEL
+    const explanationText = optionObj.explanation || '';
+    if (explanationText) {
+      const expClass = isThisCorrect ? 'correct' : 'incorrect';
+      const explanationHtml = `<div class="option-explanation ${expClass}">
+        ${explanationText}
+      </div>`;
+      // Injeta no final do label
+      label.insertAdjacentHTML('beforeend', explanationHtml);
     }
-    el.classList.add('confirmed');
+    
   });
+
+  // disable inputs
+  const inputs = qa.querySelectorAll('input[type=radio][name=choice]');
+  inputs.forEach(i => i.disabled = true);
+
+  // BUGFIX: hide confirm, show navigation (especially 'next')
+  confirmBtn.style.display = "none";
+  nextBtn.style.display = (currentIndex < questions.length - 1) ? "" : "none";
+  prevBtn.style.display = (currentIndex > 0) ? "" : "none"; // Garante que o prev também aparece
 }
 
-prevBtn.addEventListener('click', ()=>{
-  if(currentIndex>0){ 
-    currentIndex--; 
-    renderQuestion(currentIndex); 
-    updateButtons(); 
-  }
-});
-
-nextBtn.addEventListener('click', ()=>{
-  if(currentIndex < questions.length -1){ 
-    currentIndex++; 
-    renderQuestion(currentIndex); 
-    updateButtons(); 
+// navigate
+function goNext(){
+  if(currentIndex < questions.length - 1){
+    renderQuestion(currentIndex + 1);
   } else {
-    showScore();
+    showResults();
   }
-});
-
-function updateButtons(){
-  prevBtn.disabled = currentIndex === 0;
-  if(currentIndex === questions.length - 1){
-    nextBtn.textContent = "Finalizar";
-  } else {
-    nextBtn.textContent = "Próxima";
+}
+function goPrev(){
+  if(currentIndex > 0){
+    renderQuestion(currentIndex - 1);
   }
 }
 
-function showScore(){
+// show final results
+function showResults(){
   const total = questions.length;
   let correct = 0;
   questions.forEach(q=>{
-    if(answered[q.id] && answered[q.id].selection === q.answer){
-      correct++;
-    }
+    if(answered[q.id] && answered[q.id].correct) correct++;
   });
 
   qa.innerHTML = `
@@ -185,3 +267,62 @@ function showScore(){
   nextBtn.style.display = "none";
   confirmBtn.style.display = "none";
 }
+
+// load data.json and initialize
+function init(){
+  setBackLink();
+
+  if(!qparams.period || !qparams.subject || !qparams.list){
+    setMeta('Lista de questões');
+    showError('Parâmetros insuficientes na URL. Esperado: period, subject, list.');
+    return;
+  }
+
+  fetch('data.json').then(r=>{
+    if(!r.ok) throw new Error('Erro ao carregar data.json');
+    return r.json();
+  }).then(data=>{
+    const period = (data.periods || []).find(p => p.id === qparams.period);
+    if(!period) { setMeta('Período não encontrado'); showError('Período não encontrado'); return; }
+    // A busca por subject pode ser um pouco mais flexível: id ou title
+    const subject = (period.subjects || []).find(s => s.id === qparams.subject || (s.id && s.id.toLowerCase() === (qparams.subject||'').toLowerCase() || (s.title && s.title.toLowerCase() === (qparams.subject||'').toLowerCase())));
+    if(!subject) { setMeta('Matéria não encontrada'); showError('Matéria não encontrada'); return; }
+    // A busca por list pode ser um pouco mais flexível: id ou title
+    const list = (subject.lists || []).find(l => l.id === qparams.list || (l.id && l.id.toLowerCase() === (qparams.list||'').toLowerCase() || (l.title && l.title.toLowerCase() === (qparams.list||'').toLowerCase())));
+    if(!list) { setMeta('Lista não encontrada'); showError('Lista não encontrada'); return; }
+
+    setMeta(`${period.title} — ${subject.title} — ${list.title}`);
+
+    // questions could be under list.questions or list.items or list.questionsList
+    questions = list.questions || list.items || list.questionsList || [];
+
+    // normalize each question (ensure id, statement, answer)
+    questions = questions.map(q => ({
+      id: q.id || q._id || `q_${Math.random().toString(36).slice(2,9)}`,
+      statement: q.statement || q.title || q.prompt || '',
+      options: q.options || q.alternatives || [],
+      answer: q.answer || q.correct || q.resposta || null,
+      explanation: q.explanation || q.note || ''
+    }));
+
+    if(questions.length === 0){
+      showError('Nenhuma questão cadastrada nesta lista.');
+      return;
+    }
+
+    // initial render
+    renderQuestion(0);
+
+  }).catch(err=>{
+    console.error(err);
+    showError('Erro ao carregar as questões. Veja o console para mais detalhes.');
+  });
+
+  // wire buttons
+  if(prevBtn) prevBtn.addEventListener('click', goPrev);
+  if(nextBtn) nextBtn.addEventListener('click', goNext);
+  if(confirmBtn) confirmBtn.addEventListener('click', confirmSelection);
+}
+
+// start
+init();

@@ -7,7 +7,12 @@ const q = getQuery();
 fetch('data.json').then(r=>r.json()).then(data=>{
   const period = (data.periods||[]).find(p=>p.id===q.period);
   if(!period) return document.getElementById('list').innerText = 'Período não encontrado';
-  const subject = (period.subjects||[]).find(s=>s.id===q.subject);
+  const subject = (period.subjects||[]).find(s=>{
+    const qsub = (q.subject||'').toString().toLowerCase();
+    return s.id === q.subject
+      || (s.id && s.id.toLowerCase() === qsub)
+      || (s.title && s.title.toLowerCase() === qsub);
+  });
   const title = document.getElementById('page-title');
   if(!subject) return title.innerText = 'Matéria não encontrada';
   title.innerText = `${period.title} — ${subject.title}`;

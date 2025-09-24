@@ -221,46 +221,124 @@ ol li {
   cursor: pointer;
   transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out;
   border: 2px solid transparent;
+  display: flex; 
+  flex-direction: column; 
+  align-items: flex-start; 
+  gap: 12px; 
 }
 
-.option:hover {
+/* Estilo para esconder o radio button original e alinhar o conteúdo */
+.option input[type="radio"] {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  margin-right: 8px;
+}
+.option > input[type="radio"], 
+.option > .opt-id, 
+.option > .opt-text {
+  display: inline-block;
+}
+
+
+.option:hover:not(.confirmed) {
   background: #333;
   transform: translateY(-2px);
 }
 
-.option.selected {
-  border-color: #a371f7;
+/* Borda azul para a opção pré-selecionada (antes de confirmar) */
+.option.pre-selected {
+  border-color: #a371f7; 
   background: #2e2e2e;
-}
-
-.option.correct {
-  border-color: #4CAF50;
-  background: #2e3d2e;
-}
-
-.option.wrong {
-  border-color: #F44336;
-  background: #422d2d;
 }
 
 .option.confirmed {
   pointer-events: none;
 }
 
-.explanation {
-  background: #222;
-  border-left: 4px solid #a371f7;
-  padding: 16px;
-  margin-top: 12px;
-  border-radius: 0 8px 8px 0;
-  display: none;
-  font-size: 0.95rem;
-  line-height: 1.5;
+/* Detalhes de cores PÓS-CONFIRMAÇÃO */
+
+/* Estilo Base para todas as alternativas confirmadas (neutro escuro) */
+.option.confirmed {
+    background: #222222; 
+    border-color: transparent;
+    color: #e0e0e0;
+}
+/* ID em roxo padrão para todas as confirmadas, exceto a errada escolhida */
+.option.confirmed .opt-id {
+    color: #a371f7; 
 }
 
-.option b {
-  color: #a371f7;
+
+/* 1. Alternativa CERTA (Escolhida ou Não) - APENAS JUSTIFICATIVA VERDE */
+/* Usa o estilo neutro base de .confirmed */
+.option.correct {
+  background: #222222;
+  border-color: transparent;
 }
+.option.correct .opt-text {
+    color: #e0e0e0; /* Cor do texto padrão */
+}
+.option.correct .opt-id {
+    color: #a371f7; /* ID em roxo padrão */
+}
+
+
+/* 2. Alternativa ERRADA ESCOLHIDA - Detalhes em VERMELHO */
+.option.wrong {
+  /* Sobrescreve o fundo para vermelho mais intenso */
+  background: #5c3030;
+  border-color: #F44336;
+}
+.option.wrong .opt-id,
+.option.wrong .opt-text {
+    color: #FFCDD2; /* Texto em vermelho claro */
+}
+.option.wrong .opt-id {
+    color: #F44336; /* ID em vermelho forte */
+}
+
+
+/* 3. Alternativas ERRADAS NÃO ESCOLHIDAS - Detalhes em VERMELHO MAIS ESCURO/Neutro */
+/* Apenas escurece o ID e texto */
+.option.confirmed:not(.correct):not(.wrong) .opt-id,
+.option.confirmed:not(.correct):not(.wrong) .opt-text {
+    color: #888; /* Texto e ID mais apagados */
+}
+
+/* Garante que a alternativa certa não tenha o texto apagado */
+.option.correct .opt-id,
+.option.correct .opt-text {
+    color: #e0e0e0;
+}
+.option.correct .opt-id {
+    color: #a371f7; /* Volta a roxo para o ID da correta */
+}
+
+
+/* Estilo para a justificativa DENTRO da alternativa */
+.option-explanation {
+  background: #282828; 
+  padding: 12px;
+  margin-top: 12px; 
+  border-left: 4px solid #a371f7; 
+  border-radius: 0 8px 8px 0;
+  font-size: 0.9em;
+  line-height: 1.4;
+  color: #c0c0c0;
+  width: calc(100% - 24px); 
+  box-sizing: border-box; 
+}
+
+/* A cor da borda da justificativa segue o status (Este é o único lugar que fica verde) */
+.option-explanation.correct {
+  border-left-color: #4CAF50;
+}
+
+.option-explanation.incorrect {
+  border-left-color: #F44336;
+}
+
 
 /* ====== OUTROS ESTILOS UTEIS ====== */
 #page-title {
@@ -270,5 +348,7 @@ ol li {
 }
 .muted {
   color: #888;
-  text-align: center;
+  text-align: left; 
+  font-size: 0.9em;
+  margin-top: 8px;
 }
