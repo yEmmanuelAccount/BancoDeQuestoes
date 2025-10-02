@@ -18,7 +18,6 @@
       "meta": "Disciplinas avançadas",
       "subjects": []
     },
-
     {
       "id": "p4",
       "title": "4º Período",
@@ -7758,7 +7757,6 @@
             }
           ]
         },
-
         {
           "id": "p4_psicopatologia2",
           "title": "🦆 Psicopatologia II",
@@ -11629,7 +11627,6 @@
             }
           ]
         },
-
         {
           "id": "p4_psicologia_escolar_e_educacional",
           "title": "🎒 Psicologia Escolar e Educacional",
@@ -20680,8 +20677,1940 @@
           "lists": [
             {
               "id": "p4_PeI_L1",
-              "title": "Lista 1",
+              "title": "Lista 1: vazio",
               "questions": []
+            },
+            {
+              "id": "p4_PeI_L2",
+              "title": "Lista 2: Inclusão v1 - (História e Legislação da Educação Inclusiva)",
+              "questions": [
+                {
+                  "id": "p4_PeI_L2_Q1",
+                  "statement": "Durante o período da Antiguidade Clássica, especificamente em Esparta, qual era a prática comum adotada em relação às crianças que nasciam com deficiências físicas ou mentais?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "As crianças eram imediatamente acolhidas em instituições especializadas criadas pelo Estado",
+                      "explanation": "Incorreta. Justificativa. As crianças não recebiam atendimento e eram consideradas subumanas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "As crianças passavam por uma inspeção do Estado para verificar se eram saudáveis e fortes e, se apresentassem problemas, eram eliminadas ou abandonadas até a morte",
+                      "explanation": "Correta! Justificativa. Em Esparta, as crianças passavam por inspeção do Estado e, se não fossem saudáveis ou fortes, eram eliminadas ou abandonadas, pois eram consideradas subumanas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A decisão de abandono era tomada exclusivamente pelo pai, sem intervenção do Estado",
+                      "explanation": "Incorreta. Justificativa. Em Esparta, a inspeção era feita pelo Estado. A decisão do pai era a regra em Atenas e Roma Antiga."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Recebiam atenção especial e eram treinadas para funções específicas na sociedade",
+                      "explanation": "Incorreta. Justificativa. Não recebiam qualquer tipo de atendimento e eram negligenciadas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Eram valorizadas por desenvolverem suas atividades juntamente com as outras pessoas",
+                      "explanation": "Incorreta. Justificativa. As crianças com deficiência eram consideradas subumanas e negligenciadas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q2",
+                  "statement": "Qual era a característica principal da abordagem adotada em Roma Antiga e na Grécia (Atenas) em relação às crianças com deficiência, em contraste com a prática espartana de eliminação imediata?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A decisão de abandono ou eliminação ficava a critério exclusivo do Estado, sem interferência da família",
+                      "explanation": "Incorreta. Justificativa. A decisão era dada ao pai."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O abandono era comum, mas as crianças eram frequentemente resgatadas e acolhidas em lares públicos de caridade",
+                      "explanation": "Incorreta. Justificativa. As crianças eram abandonadas e a caridade só surgiu no cristianismo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As crianças eram imediatamente integradas à sociedade após o nascimento",
+                      "explanation": "Incorreta. Justificativa. As crianças com deficiência eram consideradas subumanas e negligenciadas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A responsabilidade pela eliminação ou abandono era primariamente do pai, não do Estado, e o abandono era frequentemente praticado",
+                      "explanation": "Correta! Justificativa. Em Atenas e Roma, a decisão de abandono ou eliminação cabia ao pai e não ao Estado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Estado fornecia apoio financeiro para que as famílias pudessem cuidar de seus filhos com deficiência",
+                      "explanation": "Incorreta. Justificativa. A caridade e o cuidado surgem na Idade Média."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_L2_Q3",
+                  "statement": "O que a ascensão do Cristianismo representou para as pessoas com deficiência na Idade Média, no que diz respeito às práticas sociais da Antiguidade Clássica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O retorno às práticas de eliminação e abandono controladas pelo Estado",
+                      "explanation": "Incorreta. Justificativa. O Cristianismo altera as práticas de abandono, surgindo a caridade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A transição do abandono e eliminação para a caridade e segregação, onde a deficiência passou a ser vista como um sinal divino que incitava a piedade e a esmola",
+                      "explanation": "Correta! Justificativa. A deficiência passou a ser vista como um sinal divino, o que incitava a caridade. Com isso, houve uma transição do abandono para a caridade e a segregação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O início da integração social e educacional das pessoas com deficiência nas escolas regulares",
+                      "explanation": "Incorreta. Justificativa. A integração só ocorre na Idade Contemporânea."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A criação de leis que garantiam a plena cidadania às pessoas com deficiência",
+                      "explanation": "Incorreta. Justificativa. As leis de cidadania e direitos humanos surgem na Idade Contemporânea."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A institucionalização em hospitais psiquiátricos com fins de tratamento e cura",
+                      "explanation": "Incorreta. Justificativa. Os hospitais psiquiátricos surgem na Idade Moderna."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q4",
+                  "statement": "No período da Idade Média, as pessoas com deficiência eram mantidas longe da sociedade, mas recebiam caridade. Qual foi a consequência negativa dessa \"caridade\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A diminuição da influência religiosa no tratamento da deficiência",
+                      "explanation": "Incorreta. Justificativa. O tratamento era totalmente influenciado pela religião."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A eliminação completa das práticas de abandono da Antiguidade Clássica",
+                      "explanation": "Incorreta. Justificativa. As práticas de abandono continuaram a existir, mas em menor escala."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A medicalização da deficiência, que passou a ser vista apenas como doença",
+                      "explanation": "Incorreta. Justificativa. A medicalização só surge na Idade Moderna."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A institucionalização forçada em mosteiros e conventos para fins de tratamento",
+                      "explanation": "Incorreta. Justificativa. A institucionalização forçada surge na Idade Moderna."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A segregação social e a manutenção da exclusão, reforçando a ideia de que a deficiência era um problema individual a ser 'escondido' e cuidado em ambientes separados",
+                      "explanation": "Correta! Justificativa. A caridade leva à segregação e exclusão, reforçando a ideia de que a deficiência era um problema individual a ser 'escondido' e cuidado em ambientes separados."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_L2_Q5",
+                  "statement": "A Idade Moderna (séculos XVI a XVIII) foi marcada por profundas mudanças sociais. Qual fenômeno histórico desse período teve um impacto negativo significativo na vida das pessoas com deficiência, levando à segregação em grandes instituições?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O Renascimento, que valorizou a razão e a perfeição física",
+                      "explanation": "Incorreta. Justificativa. O Renascimento não teve um impacto significativo na segregação das pessoas com deficiência. O impacto negativo se relaciona com o advento da razão e o controle social."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Revolução Francesa, com seus ideais de liberdade e igualdade",
+                      "explanation": "Incorreta. Justificativa. A Revolução Francesa influenciou as leis de inclusão, mas não foi o marco da grande segregação institucional desse período."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O Iluminismo e a \"Grande Internação\" (Foucault), onde a deficiência foi classificada como desrazão, sendo as pessoas com deficiência marginalizadas e encarceradas em grandes hospitais e asilos",
+                      "explanation": "Correta! Justificativa. O Iluminismo leva à 'Grande Internação' (Foucault), onde a deficiência é classificada como desrazão, sendo as pessoas com deficiência marginalizadas e encarceradas em grandes hospitais e asilos. Esse é o marco da grande segregação institucional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A descoberta da América, que levou à migração em massa das pessoas com deficiência",
+                      "explanation": "Incorreta. Justificativa. A descoberta da América não teve um impacto significativo na segregação das pessoas com deficiência."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Reforma Protestante, que promoveu a integração das pessoas com deficiência nas igrejas",
+                      "explanation": "Incorreta. Justificativa. A Reforma Protestante não teve um impacto significativo na integração das pessoas com deficiência."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q6",
+                  "statement": "A Idade Moderna marca o surgimento de duas vertentes de intervenção em relação às pessoas com deficiência. Quais eram essas vertentes, e qual era a sua finalidade principal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A eliminação social e o abandono, visando a purificação da raça",
+                      "explanation": "Incorreta. Justificativa. As práticas de eliminação e abandono diminuíram com o Iluminismo, mas a segregação se intensificou."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O atendimento clínico especializado e a integração social, visando a autonomia das pessoas com deficiência",
+                      "explanation": "Incorreta. Justificativa. A integração só surge na Idade Contemporânea. O foco era na correção e na cura."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A segregação em instituições totais (asilos e hospitais) e o início de um atendimento 'especializado' para a educação, visando a modificação da deficiência para inserção no mundo do trabalho",
+                      "explanation": "Correta! Justificativa. A segregação em instituições totais e o início de um atendimento 'especializado' para a educação (com foco na correção/cura) surgem na Idade Moderna, visando a modificação da deficiência para inserção no mundo do trabalho e adequação social."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A punição religiosa e a cura pela fé, visando a salvação da alma",
+                      "explanation": "Incorreta. Justificativa. O foco passa a ser na razão e na ciência, e não mais na religião."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A criação de leis que garantiam o direito à educação e o atendimento médico universal",
+                      "explanation": "Incorreta. Justificativa. As leis de direito à educação e atendimento médico universal surgem na Idade Contemporânea."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q7",
+                  "statement": "Qual é a principal diferença entre a abordagem da Idade Média e a abordagem da Idade Moderna em relação à deficiência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Na Idade Média, a deficiência era vista como castigo divino, e na Moderna, como resultado da má alimentação",
+                      "explanation": "Incorreta. Justificativa. A Idade Moderna foca na desrazão e na patologia, e não na má alimentação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Na Idade Média, a solução era a caridade e a segregação, enquanto na Moderna, a eliminação social",
+                      "explanation": "Incorreta. Justificativa. A caridade e a segregação continuam na Idade Moderna, e a eliminação social não é o foco principal."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Na Idade Média, a deficiência era um sinal divino que incitava a caridade, e na Moderna, a deficiência foi classificada como desrazão/patologia, que exigia institucionalização e tratamento especializado para a \"cura\" ou adequação",
+                      "explanation": "Correta! Justificativa. A Idade Média se caracteriza pela caridade e a segregação, e a Idade Moderna pela institucionalização e tratamento 'especializado' para a correção/cura, classificando a deficiência como desrazão/patologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Na Idade Média, o foco era na integração social, e na Moderna, na exclusão total",
+                      "explanation": "Incorreta. Justificativa. O foco em ambos os períodos era na segregação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Na Idade Média, a responsabilidade era do Estado, e na Moderna, da família",
+                      "explanation": "Incorreta. Justificativa. A responsabilidade do Estado só surge na Idade Contemporânea."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q8",
+                  "statement": "A Idade Contemporânea (a partir do século XIX) é o período que marca o surgimento das ações mais organizadas de atendimento às pessoas com deficiência. O que motivou o início do atendimento especializado em Educação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desejo dos pais de que seus filhos fossem integrados em escolas regulares",
+                      "explanation": "Incorreta. Justificativa. A integração só surge no final do século XX."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O sucesso das grandes internações em hospitais psiquiátricos",
+                      "explanation": "Incorreta. Justificativa. As grandes internações foram um fracasso e levaram à crítica da segregação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A necessidade de adequar os indivíduos à força de trabalho e aos padrões sociais de \"normalidade\", por meio de ações de correção e cura, especialmente em relação aos \"anormais\" (Foucault)",
+                      "explanation": "Correta! Justificativa. A necessidade de adequar os indivíduos à força de trabalho e aos padrões sociais de 'normalidade' (por meio de ações de correção e cura, especialmente em relação aos 'anormais') é o que motivou o início do atendimento especializado em Educação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A pressão da Organização das Nações Unidas (ONU) para a criação de escolas inclusivas",
+                      "explanation": "Incorreta. Justificativa. A ONU só atua nessa área no final do século XX."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento da Psicologia, que comprovou a ineficácia da segregação",
+                      "explanation": "Incorreta. Justificativa. A Psicologia só atua nessa área no final do século XX."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q9",
+                  "statement": "No início do século XX, o modelo predominante de atendimento à pessoa com deficiência no Brasil era o da segregação. Qual tipo de instituição era responsável por esse atendimento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Escolas regulares de ensino público",
+                      "explanation": "Incorreta. Justificativa. As escolas regulares não atendiam pessoas com deficiência no início do século XX."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Associações de pais e amigos (APAEs) e instituições especializadas como o Instituto Benjamin Constant e o Instituto Nacional de Educação de Surdos (INES)",
+                      "explanation": "Correta! Justificativa. As APAEs e os Institutos (IBC e INES) eram as principais instituições de atendimento segregado às pessoas com deficiência no início do século XX, baseadas no modelo clínico-pedagógico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Hospitais psiquiátricos e asilos com fins de cura",
+                      "explanation": "Incorreta. Justificativa. Embora a institucionalização em hospitais psiquiátricos existisse, o foco da Educação Especial eram as associações e institutos especializados."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Centros de reabilitação e treinamento para o trabalho",
+                      "explanation": "Incorreta. Justificativa. Os centros de reabilitação só surgem no final do século XX."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Organizações não governamentais (ONGs) de defesa dos direitos humanos",
+                      "explanation": "Incorreta. Justificativa. As ONGs de defesa dos direitos humanos só surgem no final do século XX."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q10",
+                  "statement": "O que caracteriza o modelo Clínico-Pedagógico, que foi o motor da Educação Especial segregada no Brasil?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A visão de que a deficiência é um problema social e que a escola deve se adaptar ao aluno",
+                      "explanation": "Incorreta. Justificativa. Essa é a visão da Educação Inclusiva."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O foco no diagnóstico, na correção/cura da deficiência e na separação do aluno em classes e escolas especiais",
+                      "explanation": "Correta! Justificativa. O modelo Clínico-Pedagógico foca no diagnóstico, na correção/cura da deficiência (por meio de técnicas e métodos) e na separação do aluno em classes e escolas especiais, com o objetivo de 'adequá-lo' à sociedade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A integração do aluno com deficiência no ensino regular, com apoio de professores especializados",
+                      "explanation": "Incorreta. Justificativa. Essa é a visão da Educação Integrada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A defesa do direito de todos à educação, independentemente de sua condição",
+                      "explanation": "Incorreta. Justificativa. Essa é a visão da Educação Inclusiva."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A atuação do psicólogo como mediador da relação professor-aluno",
+                      "explanation": "Incorreta. Justificativa. A atuação do psicólogo como mediador surge na Psicologia Escolar Crítica."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q11",
+                  "statement": "No Brasil, a Lei de Diretrizes e Bases da Educação Nacional (LDB) de 1971 (Lei nº 5.692/71) foi a primeira a incluir a Educação Especial. Qual era a principal característica dessa legislação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ela obrigava a matrícula de todos os alunos com deficiência no ensino regular",
+                      "explanation": "Incorreta. Justificativa. A LDB de 1971 não obrigava a matrícula no ensino regular, mas a \"possibilidade\" de integração."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ela focava na integração do aluno \"deficiente\" no ensino regular, desde que fosse \"capaz de se beneficiar\" dessa integração (Integração Escolar)",
+                      "explanation": "Correta! Justificativa. A LDB de 1971 introduziu o termo 'integração' e estabeleceu que a Educação Especial deveria ser dada preferencialmente na rede regular de ensino, desde que o aluno fosse 'capaz de se beneficiar' dessa integração, mantendo a responsabilidade na adaptação do aluno (e não da escola)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ela estabelecia o modelo de Educação Inclusiva, com o fim das classes e escolas especiais",
+                      "explanation": "Incorreta. Justificativa. O modelo de Educação Inclusiva surge na LDB de 1996."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ela separava a Educação Especial da Educação Regular, como um sistema totalmente à parte",
+                      "explanation": "Incorreta. Justificativa. A LDB de 1971 buscava a integração, e não a separação total."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ela garantia o Atendimento Educacional Especializado (AEE) a todos os alunos com deficiência",
+                      "explanation": "Incorreta. Justificativa. O AEE só surge na LDB de 1996 e é regulamentado em 2008."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q12",
+                  "statement": "O movimento mundial pela Inclusão ganhou força com a Declaração de Salamanca (1994). Qual foi a principal inovação deste documento em relação à Integração Escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A defesa de que os alunos com deficiência devem ser educados em escolas especiais, com currículos adaptados",
+                      "explanation": "Incorreta. Justificativa. A Declaração de Salamanca defende a escola regular como o local de aprendizagem."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A mudança de foco da adaptação do aluno para a **adaptação da escola e do sistema educacional**, de modo a atender à diversidade",
+                      "explanation": "Correta! Justificativa. A Declaração de Salamanca inverte a lógica: em vez de o aluno se adaptar à escola (Integração), a escola deve se adaptar ao aluno (Inclusão), reconhecendo a diversidade como valor."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A criação de um currículo único e padronizado para todos os alunos, independentemente de sua condição",
+                      "explanation": "Incorreta. Justificativa. O documento defende a adequação do currículo à diversidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O foco na eliminação das escolas e classes especiais de forma imediata",
+                      "explanation": "Incorreta. Justificativa. O documento defende o fim gradual da segregação, mas não a eliminação imediata."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A exclusão de alunos com Transtornos Globais do Desenvolvimento (TGD) do ensino regular",
+                      "explanation": "Incorreta. Justificativa. O documento defende a inclusão de todos os alunos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q13",
+                  "statement": "Qual é o principal desafio do modelo de **Integração Escolar** (vigente na LDB de 1971), que o modelo de **Educação Inclusiva** (vigente na LDB de 1996 e Declaração de Salamanca) busca superar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O foco na adaptação da escola para receber os alunos com deficiência",
+                      "explanation": "Incorreta. Justificativa. A adaptação da escola é o princípio da Inclusão, não da Integração."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A segregação total dos alunos com deficiência em instituições especializadas",
+                      "explanation": "Incorreta. Justificativa. A Integração já é um avanço em relação à segregação total, mas mantém a exclusão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A exigência de que o aluno se adapte à estrutura e ao currículo da escola regular, resultando na exclusão de muitos que \"não se beneficiavam\" do ensino comum",
+                      "explanation": "Correta! Justificativa. A Integração exigia a adaptação do aluno, o que resultava na exclusão dos que \"não se beneficiavam\". A Inclusão busca superar isso, adaptando a escola ao aluno."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A falta de apoio financeiro do governo para a Educação Especial",
+                      "explanation": "Incorreta. Justificativa. O desafio é de ordem pedagógica e filosófica, não apenas financeira."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A resistência dos pais em matricular seus filhos no ensino regular",
+                      "explanation": "Incorreta. Justificativa. O desafio era estrutural e não apenas de resistência dos pais."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q14",
+                  "statement": "O que estabelece a Lei de Diretrizes e Bases da Educação Nacional (LDB) de 1996 (Lei nº 9.394/96) sobre a Educação Especial?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Educação Especial deve ocorrer exclusivamente em escolas e classes especiais (Modelo Segregado)",
+                      "explanation": "Incorreta. Justificativa. A LDB de 1996 estabelece a preferência pelo ensino regular."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Educação Especial deve ser oferecida **preferencialmente na rede regular de ensino**, para alunos com necessidades especiais, adotando o conceito de Inclusão",
+                      "explanation": "Correta! Justificativa. A LDB de 1996, em seu Art. 58, estabelece que a Educação Especial deve ser oferecida **preferencialmente na rede regular de ensino**, para alunos com necessidades especiais. Este é o marco legal do modelo de Inclusão no Brasil."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A matrícula no ensino regular é obrigatória para todos os alunos com deficiência, sem exceção",
+                      "explanation": "Incorreta. Justificativa. A LDB de 1996 estabelece a preferência, mas não a obrigatoriedade absoluta."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Educação Especial é responsabilidade exclusiva das associações de pais e amigos (APAEs)",
+                      "explanation": "Incorreta. Justificativa. A responsabilidade é do Estado, por meio da União, Estados, DF e Municípios."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Atendimento Educacional Especializado (AEE) deve ocorrer exclusivamente dentro da sala de aula comum",
+                      "explanation": "Incorreta. Justificativa. O AEE é um serviço complementar ou suplementar, geralmente realizado em salas de recursos multifuncionais."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q15",
+                  "statement": "A **Convenção sobre os Direitos das Pessoas com Deficiência (ONU, 2006)** e a Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (Brasil, 2008) são os marcos legais mais recentes. Qual é o seu principal foco e princípio filosófico?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O modelo de reabilitação, que visa a cura e a adequação do indivíduo para a sociedade",
+                      "explanation": "Incorreta. Justificativa. O foco é no modelo social/direitos humanos, não na cura e adequação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O **modelo social e dos direitos humanos**, que reconhece a **deficiência como resultado da interação entre a pessoa e as barreiras** impostas pela sociedade, e foca na eliminação dessas barreiras e na garantia de direitos",
+                      "explanation": "Correta! Justificativa. O marco mais recente é o modelo social e dos direitos humanos, que reconhece a deficiência como resultado da interação entre a pessoa e as barreiras impostas pela sociedade, e foca na eliminação dessas barreiras e na garantia de direitos e autonomia (Desenho Universal)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O modelo clínico, que foca no diagnóstico e tratamento da doença que causa a deficiência",
+                      "explanation": "Incorreta. Justificativa. O foco não é na doença, mas nas barreiras sociais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O modelo de integração, que exige a adaptação do aluno para o ensino regular",
+                      "explanation": "Incorreta. Justificativa. A integração é um modelo anterior e ultrapassado pelo conceito de Inclusão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O modelo de segregação, que defende a educação em ambientes separados e especializados",
+                      "explanation": "Incorreta. Justificativa. O modelo de segregação é o mais antigo e deve ser superado."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q16",
+                  "statement": "O que a **Educação Especial** na perspectiva da Educação Inclusiva (PNEEPEI/2008) **NÃO** prevê como um dos seus objetivos principais em relação ao sistema de ensino regular?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir o acesso ao ensino regular",
+                      "explanation": "Incorreta. Justificativa. O acesso é um dos objetivos principais da PNEEPEI/2008."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Promover a participação e a aprendizagem dos alunos com deficiência, Transtornos Globais do Desenvolvimento (TGD) e Altas Habilidades/Superdotação",
+                      "explanation": "Incorreta. Justificativa. A participação e a aprendizagem são objetivos principais da PNEEPEI/2008."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Assegurar a transversalidade da Educação Especial no ensino regular, ou seja, que as necessidades especiais sejam consideradas em todas as etapas e modalidades de ensino",
+                      "explanation": "Incorreta. Justificativa. A transversalidade é um dos objetivos principais da PNEEPEI/2008."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Oferecer classes especiais e escolas segregadas para alunos com deficiência que não se adaptem ao ensino regular (mantendo o modelo de Integração)",
+                      "explanation": "Correta! Justificativa. A PNEEPEI/2008 se baseia no modelo da Educação Inclusiva, que busca a transformação do sistema regular para receber a todos, superando a lógica de classes e escolas especiais segregadas (Integração/Segregação)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Oferecer o Atendimento Educacional Especializado (AEE) como um serviço complementar ou suplementar à formação do aluno",
+                      "explanation": "Incorreta. Justificativa. O AEE é um dos eixos centrais da PNEEPEI/2008."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_L2_Q17",
+                  "statement": "O **Atendimento Educacional Especializado (AEE)** é o principal instrumento de apoio à inclusão no Brasil. Qual é o papel central do AEE e onde ele deve ser realizado, segundo a legislação atual?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substituir a escolarização dos alunos com deficiência em escolas especiais, com aulas de reforço",
+                      "explanation": "Incorreta. Justificativa. O AEE não substitui o ensino regular, é complementar/suplementar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ser realizado por psicólogos na sala de aula comum, para auxiliar o professor regente a dar aulas mais atrativas",
+                      "explanation": "Incorreta. Justificativa. O AEE é realizado por professores especializados e não é na sala de aula comum, e sim em Sala de Recursos Multifuncional (SRM)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Identificar, elaborar e organizar recursos pedagógicos e de acessibilidade, eliminando barreiras para a plena participação, sendo realizado preferencialmente em Salas de Recursos Multifuncionais (SRM)",
+                      "explanation": "Correta! Justificativa. O AEE tem como função identificar, elaborar e organizar recursos, eliminando barreiras, sendo realizado preferencialmente em Sala de Recursos Multifuncional (SRM), no contraturno do ensino regular."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Garantir a assistência médica e terapêutica (fisioterapia, fonoaudiologia, etc.) ao aluno com deficiência",
+                      "explanation": "Incorreta. Justificativa. O AEE tem foco pedagógico e não médico/terapêutico (embora o acesso a esses serviços seja um direito)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ser uma atividade obrigatória para todos os alunos, independentemente da sua condição",
+                      "explanation": "Incorreta. Justificativa. O AEE é destinado exclusivamente ao público-alvo da Educação Especial."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q18",
+                  "statement": "O **Transtorno do Espectro Autista (TEA)**, de acordo com a PNEEPEI/2008, faz parte de qual grupo de público-alvo da Educação Especial?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Deficiência Intelectual",
+                      "explanation": "Incorreta. Justificativa. O TEA tem critérios diagnósticos diferentes da Deficiência Intelectual."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Transtornos Funcionais Específicos (TFE)",
+                      "explanation": "Incorreta. Justificativa. TFE se refere a dislexia, discalculia, etc."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Altas Habilidades/Superdotação",
+                      "explanation": "Incorreta. Justificativa. Altas Habilidades/Superdotação é um grupo separado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Transtornos Globais do Desenvolvimento (TGD)",
+                      "explanation": "Correta! Justificativa. O público-alvo da Educação Especial é composto por alunos com Deficiência, Transtornos Globais do Desenvolvimento (TGD) – onde se enquadra o TEA – e Altas Habilidades/Superdotação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Deficiência Múltipla",
+                      "explanation": "Incorreta. Justificativa. Deficiência Múltipla é a associação de duas ou mais deficiências."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_L2_Q19",
+                  "statement": "Qual dos seguintes grupos **NÃO** é considerado público-alvo da Educação Especial na perspectiva da Educação Inclusiva (PNEEPEI/2008)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Alunos com Altas Habilidades/Superdotação",
+                      "explanation": "Incorreta. Justificativa. Altas Habilidades/Superdotação é público-alvo do AEE."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Alunos com Transtorno do Espectro Autista (TEA)",
+                      "explanation": "Incorreta. Justificativa. TEA faz parte do grupo TGD, público-alvo do AEE."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Alunos com Deficiência Múltipla",
+                      "explanation": "Incorreta. Justificativa. Deficiência Múltipla é público-alvo do AEE."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Alunos com **dificuldade de aprendizagem não relacionada a uma deficiência**, como o baixo rendimento escolar por problemas socioeconômicos ou falta de base pedagógica",
+                      "explanation": "Correta! Justificativa. Dificuldades de aprendizagem não relacionadas a deficiência (baixo rendimento, desinteresse, falta de base) não são público-alvo da Educação Especial, mas sim de ações pedagógicas da escola comum."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Alunos com Deficiência Visual",
+                      "explanation": "Incorreta. Justificativa. Deficiência Visual é público-alvo do AEE."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_L2_Q20",
+                  "statement": "Qual é a principal **diferença** entre a abordagem do **psicólogo** na **Integração Escolar** (modelo antigo) e na **Educação Inclusiva** (modelo atual)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Na Integração, o psicólogo focava na **transformação da escola**; na Inclusão, ele foca na **adaptação do aluno**",
+                      "explanation": "Incorreta. Justificativa. A atuação é o oposto: o modelo Inclusivo foca na transformação da escola e o Integrador, na adaptação do aluno."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Na Integração, o psicólogo atuava **apenas na clínica**; na Inclusão, ele atua **apenas na escola**",
+                      "explanation": "Incorreta. Justificativa. O psicólogo pode atuar em ambos os contextos nos dois modelos, mas o foco da atuação é diferente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Na Integração, o psicólogo atuava com uma **perspectiva clínico-individual, focando no déficit** do aluno e no diagnóstico para encaminhamento; na Inclusão, ele atua com uma **perspectiva sistêmica e crítica, focando na eliminação das barreiras** pedagógicas e atitudinais na escola",
+                      "explanation": "Correta! Justificativa. A atuação na Integração era clínico-individual (foco no déficit), e na Inclusão é sistêmica e crítica (foco nas barreiras e na transformação da escola)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Na Integração, o psicólogo era um profissional de saúde; na Inclusão, ele é um professor",
+                      "explanation": "Incorreta. Justificativa. O psicólogo é sempre um profissional de psicologia, com atuação pedagógica na Inclusão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Na Integração, o psicólogo trabalhava com os pais; na Inclusão, ele trabalha apenas com os professores",
+                      "explanation": "Incorreta. Justificativa. O psicólogo deve trabalhar com todos os envolvidos (pais, professores, comunidade) em ambos os modelos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q21",
+                  "statement": "No que consiste a **Política de Matrícula de 2018 (Nota Técnica nº 28/2018)** no Brasil, em relação à Educação Especial?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É uma política que permite a criação de novas escolas especiais e classes segregadas",
+                      "explanation": "Incorreta. Justificativa. A política de 2018 reitera a inclusão e o fim da segregação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É uma política que torna a matrícula de alunos com deficiência no ensino regular facultativa, dependendo da avaliação do professor",
+                      "explanation": "Incorreta. Justificativa. A matrícula é um direito garantido por lei e não depende da avaliação do professor."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É uma política que **reitera o direito de todos à educação no ensino regular**, proibindo as escolas de negar a matrícula ou exigir taxa extra por motivo de deficiência (lei federal) e enfatizando que a **matrícula em instituições especializadas (APAEs) é opcional e não substitui o ensino regular**",
+                      "explanation": "Correta! Justificativa. A política de 2018 reitera o direito de todos à educação no ensino regular (Lei 13.146/2015), proibindo a recusa de matrícula (Lei 7.853/89) e enfatizando que a matrícula em instituições especializadas é opcional e não substitui o ensino regular."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É uma política que obriga a matrícula de alunos com deficiência no AEE no contraturno",
+                      "explanation": "Incorreta. Justificativa. O AEE é um direito, mas a matrícula não é obrigatória. A matrícula obrigatória é no ensino regular."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É uma política que permite que as escolas cobrem taxa extra dos pais para custear o Atendimento Educacional Especializado (AEE)",
+                      "explanation": "Incorreta. Justificativa. A cobrança de taxa extra por motivo de deficiência é proibida por lei."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q22",
+                  "statement": "A **Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência - Lei nº 13.146/2015)** é um marco legal fundamental. Qual é o seu principal foco e a sua contribuição central para o entendimento da deficiência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O foco na cura e na reabilitação clínica do indivíduo, mantendo a visão de que a deficiência é uma doença a ser tratada",
+                      "explanation": "Incorreta. Justificativa. A LBI adota o modelo social e dos direitos humanos, superando o modelo clínico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A definição da deficiência como o resultado da interação entre impedimentos de natureza física, mental, intelectual ou sensorial e as **barreiras** impostas pela sociedade, com foco na eliminação dessas barreiras (Modelo Social)",
+                      "explanation": "Correta! Justificativa. A LBI adota o modelo social, definindo a deficiência como o resultado da interação entre impedimentos e barreiras, e foca na eliminação dessas barreiras para garantir a participação plena."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A defesa da educação em escolas especiais, com currículos adaptados e professores especializados",
+                      "explanation": "Incorreta. Justificativa. A LBI proíbe a recusa de matrícula e defende a inclusão no ensino regular."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A determinação de que a avaliação da deficiência seja feita exclusivamente por um médico perito do INSS",
+                      "explanation": "Incorreta. Justificativa. A avaliação da deficiência pela LBI é biopsicossocial, feita por equipe multiprofissional e interdisciplinar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A criação de cotas de emprego para pessoas com deficiência no serviço público, sem outras ações de inclusão",
+                      "explanation": "Incorreta. Justificativa. A LBI é muito mais ampla, tratando de todos os aspectos da vida da pessoa com deficiência (acessibilidade, educação, saúde, trabalho, etc.)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q23",
+                  "statement": "Qual a principal mudança trazida pela **Lei Brasileira de Inclusão (LBI)** em relação à avaliação da deficiência no Brasil?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A avaliação passou a ser exclusivamente médica, focada no diagnóstico da doença",
+                      "explanation": "Incorreta. Justificativa. A avaliação passou a ser biopsicossocial, superando o modelo médico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A avaliação passou a ser feita exclusivamente por psicólogos escolares",
+                      "explanation": "Incorreta. Justificativa. A avaliação é feita por uma equipe multiprofissional e interdisciplinar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A avaliação deixou de considerar os impedimentos do indivíduo, focando apenas nas barreiras sociais",
+                      "explanation": "Incorreta. Justificativa. A LBI considera tanto os impedimentos quanto as barreiras, em uma visão biopsicossocial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A avaliação passou a ser **biopsicossocial**, feita por equipe **multiprofissional e interdisciplinar**, considerando impedimentos, barreiras e fatores ambientais, sociais, econômicos e culturais",
+                      "explanation": "Correta! Justificativa. A LBI estabeleceu a avaliação biopsicossocial, que é feita por equipe multiprofissional e interdisciplinar, e que considera a interação entre os impedimentos e as barreiras (Modelo Social)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A avaliação passou a ser feita por um único perito, sem a necessidade de equipe multidisciplinar",
+                      "explanation": "Incorreta. Justificativa. A LBI exige equipe multiprofissional e interdisciplinar."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_L2_Q24",
+                  "statement": "O **Desenho Universal (DU)** é um conceito central no modelo de Inclusão. Qual é a sua definição e finalidade principal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um desenho arquitetônico que visa criar rampas e elevadores em prédios antigos, para pessoas em cadeiras de rodas",
+                      "explanation": "Incorreta. Justificativa. O DU é muito mais amplo do que rampas e elevadores."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O desenho de produtos e ambientes que são utilizáveis por todas as pessoas, na medida do possível, **sem necessidade de adaptação ou desenho especializado**",
+                      "explanation": "Correta! Justificativa. O DU é o desenho de produtos, ambientes, programas e serviços que são utilizáveis por todas as pessoas, na maior extensão possível, sem necessidade de adaptação ou desenho especializado, a fim de eliminar barreiras de forma proativa."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A adaptação de materiais didáticos para alunos com deficiência visual e auditiva",
+                      "explanation": "Incorreta. Justificativa. A adaptação de materiais é uma ação de acessibilidade, mas não é a definição de Desenho Universal, que é um conceito de desenho universalizado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um programa de treinamento para professores sobre como lidar com alunos com deficiência",
+                      "explanation": "Incorreta. Justificativa. O DU é um princípio de design, não um programa de treinamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A criação de escolas especiais com currículos e métodos pedagógicos altamente especializados",
+                      "explanation": "Incorreta. Justificativa. O DU defende a inclusão no ensino regular."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q25",
+                  "statement": "Qual dos seguintes princípios do Desenho Universal (DU) busca evitar a segregação ou o estigma social no uso de produtos ou ambientes?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Uso Simples e Intuitivo",
+                      "explanation": "Incorreta. Justificativa. Este princípio visa a facilidade de compreensão, independentemente da experiência ou nível de concentração do usuário."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Uso Equitativo, que garante que o projeto seja útil e vendável a pessoas com diversas capacidades, evitando a segregação",
+                      "explanation": "Correta! Justificativa. O princípio do Uso Equitativo garante que o projeto seja útil e vendável a pessoas com diversas capacidades, evitando a segregação ou o estigma social no uso. Por exemplo, uma rampa que é usada por todos, e não apenas por pessoas em cadeiras de rodas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Tolerância ao Erro",
+                      "explanation": "Incorreta. Justificativa. Este princípio visa minimizar riscos e consequências adversas de ações acidentais ou não intencionais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Dimensão e Espaço para Abordagem e Uso",
+                      "explanation": "Incorreta. Justificativa. Este princípio visa fornecer dimensão e espaço apropriados para alcance, manipulação e uso, independentemente do tamanho corporal, postura ou mobilidade do usuário."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Informação Perceptível",
+                      "explanation": "Incorreta. Justificativa. Este princípio visa transmitir informações necessárias com eficácia, independentemente das condições ambientais ou das capacidades sensoriais do usuário."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q26",
+                  "statement": "O que a **Lei Brasileira de Inclusão (LBI)** estabelece sobre a **recusa de matrícula** de aluno com deficiência em escolas privadas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A recusa de matrícula é permitida, desde que a escola não tenha condições de oferecer o AEE",
+                      "explanation": "Incorreta. Justificativa. A recusa de matrícula é proibida, e a escola tem o dever de oferecer a acessibilidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A recusa de matrícula é permitida, desde que a escola devolva 50% do valor da anuidade",
+                      "explanation": "Incorreta. Justificativa. A recusa é crime, e a escola deve garantir a vaga."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A recusa de matrícula, a cobrança de valores adicionais ou a suspensão, por motivo de deficiência, **é crime**, sujeito a pena de reclusão de dois a cinco anos e multa",
+                      "explanation": "Correta! Justificativa. A Lei nº 7.853/89, em seu Art. 8º, prevê que a recusa, suspensão, ou cobrança de valores adicionais por motivo de deficiência é crime, com pena de reclusão de dois a cinco anos e multa. A LBI reforça essa proibição."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A recusa de matrícula é permitida, desde que o aluno tenha Transtorno Global do Desenvolvimento (TGD)",
+                      "explanation": "Incorreta. Justificativa. A recusa é proibida para qualquer deficiência ou TGD."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A recusa de matrícula é permitida, desde que a escola tenha mais de 50% de alunos com deficiência",
+                      "explanation": "Incorreta. Justificativa. A recusa é proibida, independentemente do número de alunos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q27",
+                  "statement": "Qual o significado da **Transversalidade da Educação Especial** no sistema de ensino, conforme preconiza a PNEEPEI/2008?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Educação Especial deve ocorrer apenas em escolas especiais, de forma paralela ao ensino regular",
+                      "explanation": "Incorreta. Justificativa. A transversalidade significa que a Educação Especial deve permear todas as etapas e modalidades de ensino."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Educação Especial deve ser um tema transversal apenas na disciplina de Sociologia e Filosofia",
+                      "explanation": "Incorreta. Justificativa. A transversalidade é em todas as etapas e modalidades de ensino, e não apenas em algumas disciplinas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Educação Especial deve ser entendida como um **componente obrigatório da formação docente**, mas sem interferência nas práticas de sala de aula",
+                      "explanation": "Incorreta. Justificativa. A transversalidade significa que as práticas de sala de aula devem ser transformadas pela perspectiva da Inclusão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Educação Especial deve estar **presente em todas as etapas e modalidades de ensino**, orientando as ações pedagógicas e a organização do sistema para atender à diversidade",
+                      "explanation": "Correta! Justificativa. A transversalidade significa que a Educação Especial deve permear todas as etapas e modalidades de ensino, orientando as ações pedagógicas e a organização do sistema para atender à diversidade, e não apenas existir em um momento ou disciplina específica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Educação Especial deve ser oferecida apenas no contraturno, no AEE",
+                      "explanation": "Incorreta. Justificativa. O AEE é uma parte da Educação Especial, mas a transversalidade é mais ampla, envolvendo todo o sistema."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_L2_Q28",
+                  "statement": "Qual o papel do **professor da sala de aula comum** no modelo de Educação Inclusiva, em relação ao aluno com deficiência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Encaminhar o aluno para o AEE, transferindo para o professor especializado a responsabilidade pela aprendizagem do aluno",
+                      "explanation": "Incorreta. Justificativa. O professor da sala de aula comum é corresponsável pela aprendizagem do aluno."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O professor da sala de aula comum é o **responsável pela escolarização e pela eliminação das barreiras pedagógicas** (com apoio do AEE e dos recursos), garantindo a participação e a aprendizagem do aluno com deficiência",
+                      "explanation": "Correta! Justificativa. O professor da sala de aula comum é o principal responsável pela escolarização e pela eliminação das barreiras pedagógicas, em colaboração com o professor do AEE, que oferece o suporte complementar/suplementar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O professor da sala de aula comum deve apenas manter o aluno na sala, sem se preocupar com o conteúdo, pois o AEE é que vai ensinar o conteúdo",
+                      "explanation": "Incorreta. Justificativa. O AEE é complementar/suplementar, e não substitui o ensino regular."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O professor deve adaptar o currículo apenas para os alunos com Deficiência Intelectual",
+                      "explanation": "Incorreta. Justificativa. O professor deve adaptar o currículo para todos os alunos com necessidades educacionais especiais, e não apenas para um grupo específico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O professor da sala de aula comum é o responsável apenas pela socialização, e não pela aprendizagem do aluno com deficiência",
+                      "explanation": "Incorreta. Justificativa. O professor é responsável pela aprendizagem e pela socialização."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L2_Q29",
+                  "statement": "Qual o papel do **psicólogo** na **avaliação biopsicossocial da deficiência** no Brasil, conforme a **Lei Brasileira de Inclusão (LBI)**?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A avaliação do psicólogo deve ser o único critério para a concessão de benefícios sociais",
+                      "explanation": "Incorreta. Justificativa. A avaliação é feita por equipe multiprofissional e interdisciplinar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O psicólogo deve focar apenas nos aspectos clínicos e na doença mental do indivíduo, desconsiderando os aspectos sociais",
+                      "explanation": "Incorreta. Justificativa. O psicólogo deve atuar na perspectiva biopsicossocial, considerando a interação com as barreiras."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O psicólogo deve atuar como membro da **equipe multiprofissional e interdisciplinar**, avaliando os **fatores psicológicos e ambientais**, como as **barreiras sociais e atitudinais**, que limitam a participação plena do indivíduo",
+                      "explanation": "Correta! Justificativa. O psicólogo deve atuar na equipe multiprofissional e interdisciplinar, avaliando os fatores psicológicos e ambientais (barreiras), conforme o Modelo Social e a LBI."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O psicólogo deve apenas aplicar testes de QI para medir a Deficiência Intelectual",
+                      "explanation": "Incorreta. Justificativa. A avaliação é muito mais ampla do que apenas testes de QI."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O psicólogo deve atuar apenas na reabilitação clínica, sem participação na avaliação da deficiência",
+                      "explanation": "Incorreta. Justificativa. O psicólogo é um dos profissionais da equipe de avaliação biopsicossocial."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L2_Q30",
+                  "statement": "A Política Nacional de Educação Especial na perspectiva da Educação Inclusiva e a Convenção da ONU de 2006 ampliaram o conceito de \"Pessoas com necessidades educacionais especiais\" para fins educacionais. Qual grupo essa expressão ampliada abrange, além dos alunos com deficiência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas alunos com deficiência e com transtornos globais do desenvolvimento",
+                      "explanation": "Incorreta. Justificativa. A abrangência se estende a vários grupos em situação de exclusão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Todos os alunos, desde que apresentem dificuldades de aprendizagem não vinculadas a uma causa orgânica",
+                      "explanation": "Incorreta. Justificativa. Inclui dificuldades vinculadas a deficiências e não vinculadas a causas orgânicas, além de outros grupos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Todos os alunos em situação de exclusão escolar, incluindo aqueles com deficiências, que vivem em situação de rua, que trabalham, superdotados, em desvantagem social e que apresentam diferenças linguísticas, étnicas ou culturais",
+                      "explanation": "Correta! Justificativa. A expressão se amplia educacionalmente para incluir todos esses grupos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apenas os alunos que não conseguem se adaptar ao currículo comum, independentemente de sua condição social",
+                      "explanation": "Incorreta. Justificativa. A inclusão é ampla e considera a singularidade das pessoas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Somente alunos com deficiência ou altas habilidades que já estejam matriculados na rede regular de ensino",
+                      "explanation": "Incorreta. Justificativa. Inclui diversos grupos em situação de exclusão escolar, como os em situação de rua."
+                    }
+                  ],
+                  "answer": "C"
+                }
+              ]
+            },
+            {
+              "id": "p4_psicologia-e-inclusao_lista03",
+              "title": "Lista 3: Slides Inclusão v1 - (História e Paradigmas da Inclusão)",
+              "questions": [
+                {
+                  "id": "p4_PeI_L3_Q1",
+                  "statement": "Historicamente, as pessoas com deficiência foram submetidas a diversas formas de exclusão social. De acordo com as fontes, em qual período essas pessoas eram internadas em instituições como orfanatos, manicômios e prisões, sendo excluídas do convívio social?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Século XVIII e início do XIX, quando começou a ser oferecida ajuda assistencial",
+                      "explanation": "Incorreta. A ajuda assistencial (abrigo e alimentação) ocorreu no final do século XVIII e início do século XIX, com o objetivo de afastar essas pessoas da vida em sociedade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Primeira metade do século XX, com o surgimento das escolas especiais",
+                      "explanation": "Incorreta. A criação das escolas especiais ocorreu no século XX."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Século XVII",
+                      "explanation": "Correta! No século XVII, as pessoas com deficiência eram internadas em orfanatos, manicômios, prisões e outros tipos de instituições, sendo excluídas do convívio social."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Década de 1930, quando surgiram as primeiras associações",
+                      "explanation": "Incorreta. As primeiras associações e ações governamentais no Brasil surgiram na década de 1930."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Século XVI, período em que o infanticídio era a única prática conhecida",
+                      "explanation": "Incorreta. As pessoas com deficiência já foram consideradas incapazes, discriminadas, rejeitadas, excluídas e sofreram infanticídio, mas a internação em manicômios e orfanatos citada ocorreu no Século XVII."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q2",
+                  "statement": "O período conhecido como A Segregação (Século XX), no contexto da Educação Especial, marca a separação do aluno com deficiência da escola regular. Qual é a principal característica desse paradigma?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A eliminação de todas as barreiras físicas e atitudinais na escola regular",
+                      "explanation": "Incorreta. Isso caracteriza o paradigma da Inclusão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A luta pelos direitos e pela desinstitucionalização das pessoas com deficiência",
+                      "explanation": "Incorreta. Isso é característico do Movimento de Integração e Inclusão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O agrupamento dos alunos com deficiência em escolas, classes ou salas especiais, com currículo e recursos distintos dos oferecidos na escola regular, com a crença de que eles precisam ser 'normalizados' para serem integrados à sociedade",
+                      "explanation": "Correta! A segregação é marcada pela criação de escolas, classes ou salas especiais para o aluno com deficiência e pela crença na 'normalização'."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O atendimento dos alunos com deficiência na sala de aula comum sem qualquer tipo de apoio pedagógico ou especializado",
+                      "explanation": "Incorreta. Essa é a característica do Mainstreaming (uma vertente da Integração)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O tratamento médico-pedagógico em instituições de caridade e orfanatos",
+                      "explanation": "Incorreta. Isso ocorreu no Século XVII e XVIII, no período da exclusão e assistência."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q3",
+                  "statement": "No paradigma da Segregação, qual era o principal papel esperado da Educação Especial?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir a matrícula de todos os alunos, independentemente de sua condição, na escola regular",
+                      "explanation": "Incorreta. A matrícula era garantida em escolas especiais, separadas da escola regular."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Preparar e 'normalizar' o aluno com deficiência para que ele pudesse, no futuro, ser aceito pela sociedade e, se possível, integrar-se à escola comum",
+                      "explanation": "Correta! O principal objetivo era a 'normalização' do aluno para sua posterior aceitação e integração (que só se daria mediante sua adaptação ao modelo da escola comum)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Eliminar as barreiras existentes na escola regular para acolher a diversidade humana",
+                      "explanation": "Incorreta. Isso é característico do paradigma da Inclusão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Oferecer atendimento educacional especializado em contraturno ao ensino regular",
+                      "explanation": "Incorreta. No paradigma da Segregação, o atendimento era em tempo integral em escolas especiais ou classes especiais, com currículo próprio."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar na adaptação da escola às necessidades do aluno, e não o contrário",
+                      "explanation": "Incorreta. O foco era na adaptação do aluno à escola/sociedade, o oposto do que é proposto pela Inclusão."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q4",
+                  "statement": "O movimento de desinstitucionalização das pessoas com deficiência, impulsionado pela Declaração Universal dos Direitos Humanos, deu origem a qual novo paradigma educacional que visava a entrada dos alunos com deficiência na escola regular?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Exclusão",
+                      "explanation": "Incorreta. A Exclusão é um período anterior, de total alijamento social."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Segregação",
+                      "explanation": "Incorreta. A Segregação é o paradigma anterior, que colocava o aluno em escolas especiais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Inclusão",
+                      "explanation": "Incorreta. A Inclusão é o paradigma que sucede a Integração, e não o que surge imediatamente após a desinstitucionalização."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Integração",
+                      "explanation": "Correta! O Movimento de Integração (ou normalização) surge com a desinstitucionalização e com a busca por inserir o aluno com deficiência na escola regular, mas com o foco ainda no aluno."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Mainstreaming",
+                      "explanation": "Incorreta. O Mainstreaming é uma das vertentes (etapas) do paradigma da Integração, e não o nome do paradigma em si."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_L3_Q5",
+                  "statement": "A Integração, enquanto paradigma, pressupõe a 'normalização' do aluno com deficiência. Nesse contexto, qual é a principal condição para que a Integração seja bem-sucedida?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A adaptação e a 'normalização' da escola para acolher o aluno, eliminando as barreiras",
+                      "explanation": "Incorreta. A adaptação da escola é o foco da Inclusão. Na Integração, o foco é no aluno."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A adaptação e a 'normalização' do aluno para o modelo existente da escola comum",
+                      "explanation": "Correta! Na Integração, o aluno é visto como o portador do 'déficit' e precisa se 'normalizar' ou se adaptar ao modelo da escola. O foco é na adaptação do aluno para o sistema."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O atendimento educacional especializado em tempo integral, com currículo diferenciado",
+                      "explanation": "Incorreta. Isso caracteriza a Segregação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O fim de todas as classes ou salas especiais dentro das escolas comuns",
+                      "explanation": "Incorreta. O paradigma da Integração, em sua etapa parcial, ainda previa classes especiais dentro da escola comum."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A participação plena e incondicional do aluno na sala de aula comum, sem qualquer tipo de apoio",
+                      "explanation": "Incorreta. A Integração é condicional e gradual, exigindo que o aluno atenda a requisitos mínimos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q6",
+                  "statement": "No Brasil, o paradigma da Integração foi influenciado por qual documento internacional, que propôs que as crianças com deficiência fossem educadas 'no mais completo grau possível, juntamente com as demais crianças'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Declaração de Salamanca (1994)",
+                      "explanation": "Incorreta. A Declaração de Salamanca é o marco mundial da Inclusão, não da Integração."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Declaração Universal dos Direitos Humanos (1948)",
+                      "explanation": "Incorreta. Embora tenha impulsionado o movimento de desinstitucionalização, não é o documento específico que influenciou a 'educação juntamente com as demais crianças'."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Declaração dos Direitos da Criança (1959)",
+                      "explanation": "Correta! A Declaração dos Direitos da Criança (ONU, 1959) propôs, no Artigo 5º, que as crianças com deficiência fossem educadas 'no mais completo grau possível, juntamente com as demais crianças', um conceito que embasa a Integração."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Convenção sobre os Direitos das Pessoas com Deficiência (2006)",
+                      "explanation": "Incorreta. A Convenção de 2006 é um marco legal da Inclusão no Brasil."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Lei de Diretrizes e Bases da Educação Nacional (Lei nº 4.024/61)",
+                      "explanation": "Incorreta. A LDB de 1961 é um documento nacional que apenas citava o 'tratamento' e a 'educação' para 'excepcionais', sem o foco na educação 'juntamente com as demais'."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q7",
+                  "statement": "O que o paradigma da Integração (final do século XX) e o da Segregação (início do século XX) têm em comum, em relação à visão sobre o aluno com deficiência e a escola?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ambos focam na eliminação das barreiras físicas e atitudinais na escola",
+                      "explanation": "Incorreta. A eliminação de barreiras é foco da Inclusão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ambos veem o 'déficit' ou o problema como inerente ao aluno, e não ao sistema educacional, exigindo a adaptação do aluno",
+                      "explanation": "Correta! Tanto na Segregação ('normalização') quanto na Integração (condicionalidade), o problema é centrado no aluno, que é quem deve se 'normalizar' ou se adaptar para ser aceito, e não a escola."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ambos defendem a matrícula incondicional do aluno na sala de aula comum",
+                      "explanation": "Incorreta. A Segregação defendia escolas especiais. A Integração defendia a matrícula, mas sob condições (condicionalidade)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ambos defendem o Atendimento Educacional Especializado (AEE) como obrigatório e complementar",
+                      "explanation": "Incorreta. O AEE como obrigatório e complementar é característica da Inclusão e da Política de 2008."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ambos defendem o fim das classes especiais e das instituições filantrópicas",
+                      "explanation": "Incorreta. A Integração (parcial) ainda previa classes especiais, e a Segregação era totalmente baseada em escolas ou classes especiais."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q8",
+                  "statement": "Qual é a principal diferença entre a Integração (Mainstreaming) e a Inclusão (a partir da Declaração de Salamanca, 1994), no que diz respeito à matrícula e à aceitação do aluno?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Integração é incondicional, a Inclusão é condicional",
+                      "explanation": "Incorreta. É o contrário: a Integração é condicional (exige a adaptação do aluno), e a Inclusão é incondicional (exige a adaptação da escola)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Integração aceita apenas alunos com deficiência; a Inclusão aceita apenas alunos com altas habilidades",
+                      "explanation": "Incorreta. A Inclusão é um conceito amplo que abrange a diversidade humana, incluindo ambos os grupos e outros."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Integração é condicional (o aluno se adapta à escola); a Inclusão é incondicional (a escola se adapta ao aluno)",
+                      "explanation": "Correta! A Integração é condicional, pois a aceitação do aluno depende da sua capacidade de se adaptar. A Inclusão é incondicional, pois a escola deve se adaptar para receber a todos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Integração defende a escola especial; a Inclusão defende a escola regular",
+                      "explanation": "Incorreta. A Segregação defendia a escola especial. A Integração defende a escola regular, mas com classes especiais dentro dela (integração parcial)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Integração foca na eliminação de barreiras arquitetônicas; a Inclusão foca nas barreiras atitudinais",
+                      "explanation": "Incorreta. A Inclusão foca na eliminação de todos os tipos de barreiras (físicas, atitudinais, pedagógicas, etc.)."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q9",
+                  "statement": "Qual documento, em 1994, marca a transição global do paradigma da Integração para o paradigma da Inclusão, estabelecendo o princípio de que 'todas as crianças devem aprender juntas, independentemente de quaisquer dificuldades ou diferenças que possam ter'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Declaração de Guadalajara (1988)",
+                      "explanation": "Incorreta. Documento anterior, de âmbito regional (Américas), que tratava da cooperação em Educação Especial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Declaração de Salamanca (1994)",
+                      "explanation": "Correta! A Declaração de Salamanca (Espanha) e o Marco de Ação sobre Necessidades Educacionais Especiais, assinados em 1994, são o marco mundial da Inclusão e do princípio de 'todas as crianças devem aprender juntas...'"
+                    },
+                    {
+                      "id": "C",
+                      "text": "Convenção de Direitos das Pessoas com Deficiência (2006)",
+                      "explanation": "Incorreta. A Convenção de 2006 é um marco legal da Inclusão, mas a Declaração de Salamanca de 1994 é o documento que marca a transição e estabelece o princípio."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/96)",
+                      "explanation": "Incorreta. Documento nacional posterior (1996) que, inicialmente, ainda trazia forte influência do paradigma da Integração."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Relatório Warnock (1978)",
+                      "explanation": "Incorreta. O Relatório Warnock foi um marco do conceito de 'necessidades educacionais especiais', que impulsionou o movimento de Integração (Mainstreaming)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q10",
+                  "statement": "O paradigma da Inclusão se diferencia dos anteriores por deslocar o foco do indivíduo com deficiência para qual elemento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O currículo diferenciado em classes especiais",
+                      "explanation": "Incorreta. Isso é característico da Segregação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A adaptação do aluno para o ambiente escolar",
+                      "explanation": "Incorreta. Isso é característico da Integração."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As barreiras (físicas, atitudinais e pedagógicas) do contexto escolar e social que impedem a participação plena da diversidade humana",
+                      "explanation": "Correta! O foco se desloca do 'déficit' do aluno para as barreiras do sistema. O problema não é o aluno, mas o ambiente que não o acolhe."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Atendimento Educacional Especializado (AEE) como substituto da sala de aula comum",
+                      "explanation": "Incorreta. O AEE é complementar ao ensino comum, e não substituto."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O tratamento médico e terapêutico fora do ambiente escolar",
+                      "explanation": "Incorreta. A Inclusão defende a escola como principal locus do desenvolvimento, com apoio especializado."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q11",
+                  "statement": "Qual lei brasileira (em sua redação de 2013, que incluiu o Art. 4º-A) estabelece a responsabilidade do poder público de garantir a oferta de 'educação bilíngue de surdos, em escolas ou classes bilíngues de educação infantil e de ensinos fundamental e médio'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Lei nº 9.394/96 (LDB)",
+                      "explanation": "Correta! A Lei de Diretrizes e Bases da Educação Nacional (LDB), na redação dada pela Lei nº 12.796/13, incluiu o Art. 4º-A, que trata da oferta de educação bilíngue de surdos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Lei nº 13.146/2015 (Estatuto da Pessoa com Deficiência)",
+                      "explanation": "Incorreta. O Estatuto da Pessoa com Deficiência (ou Lei Brasileira de Inclusão - LBI) é posterior e trata de forma ampla dos direitos, mas a inclusão na LDB é o marco específico da educação bilíngue."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Lei nº 10.436/2002 (Lei de Libras)",
+                      "explanation": "Incorreta. A Lei de Libras reconheceu a Língua Brasileira de Sinais, mas a previsão de escolas/classes bilíngues foi incluída na LDB em 2013."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Lei nº 14.191/2021 (que alterou a LDB)",
+                      "explanation": "Incorreta. Esta lei alterou a LDB para incluir a modalidade de Educação Bilíngue de Surdos como modalidade autônoma de ensino, mas a previsão de escolas ou classes já havia sido incluída em 2013."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Decreto nº 5.626/2005 (que regulamentou a Lei de Libras)",
+                      "explanation": "Incorreta. O decreto regulamentou a Lei de Libras e estabeleceu o sistema educacional bilíngue na educação básica, mas a alteração na LDB é o marco legal principal na hierarquia das normas."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_L3_Q12",
+                  "statement": "Qual documento legal estabelece a 'Educação Especial como modalidade de ensino que perpassa todos os níveis, etapas e modalidades, realiza o atendimento educacional especializado, disponibiliza os recursos e serviços e orienta quanto a sua utilização no processo de ensino e aprendizagem'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Declaração de Salamanca (1994)",
+                      "explanation": "Incorreta. A Declaração é internacional e de 1994, anterior ao marco da política brasileira."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Lei nº 9.394/96 (LDB)",
+                      "explanation": "Incorreta. A LDB de 1996 já trazia a Educação Especial, mas a definição da Educação Especial como modalidade transversal foi estabelecida pela Política de 2008."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (2008)",
+                      "explanation": "Correta! A PNEEPEI de 2008 estabelece essa definição de Educação Especial como modalidade transversal (que perpassa todos os níveis, etapas e modalidades)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Convenção da ONU sobre os Direitos das Pessoas com Deficiência (2006)",
+                      "explanation": "Incorreta. A Convenção de 2006 é um marco legal da Inclusão, mas a definição detalhada da Educação Especial como modalidade no sistema de ensino é um documento da política educacional brasileira."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015)",
+                      "explanation": "Incorreta. O Estatuto, embora posterior, não é o documento que define a Educação Especial como modalidade transversal."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q13",
+                  "statement": "O Atendimento Educacional Especializado (AEE), previsto na Política Nacional de 2008, tem qual característica fundamental em relação ao ensino regular?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É substituto do ensino comum, com currículo diferenciado",
+                      "explanation": "Incorreta. O AEE não é substituto do ensino comum, é complementar/suplementar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É oferecido exclusivamente por instituições filantrópicas e particulares",
+                      "explanation": "Incorreta. O AEE deve ser ofertado prioritariamente na rede regular de ensino."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É complementar ou suplementar à formação dos alunos, realizado prioritariamente nas Salas de Recursos Multifuncionais (SRM) da própria escola ou em Centros de AEE",
+                      "explanation": "Correta! O AEE tem caráter complementar/suplementar e é realizado prioritariamente em Salas de Recursos Multifuncionais (SRM) na escola comum ou em Centros de AEE."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É obrigatório apenas para alunos com deficiência visual",
+                      "explanation": "Incorreta. É obrigatório para o público-alvo da Educação Especial (Deficiência, TGD e Altas Habilidades/Superdotação)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É realizado no mesmo horário do ensino regular para reforçar os conteúdos da sala de aula",
+                      "explanation": "Incorreta. É realizado no contraturno para não substituir a sala de aula comum."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q14",
+                  "statement": "A Lei nº 13.146/2015, conhecida como Estatuto da Pessoa com Deficiência ou Lei Brasileira de Inclusão (LBI), inova ao trazer um conceito de barreiras que vai além das físicas. Qual é o conceito ampliado de barreiras trazido pela LBI?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas barreiras físicas e arquitetônicas",
+                      "explanation": "Incorreta. A LBI amplia o conceito."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas barreiras de comunicação e informação",
+                      "explanation": "Incorreta. A LBI abrange muito mais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Qualquer entrave, obstáculo, atitude ou comportamento que limite ou impeça a participação social da pessoa, incluindo barreiras urbanísticas, arquitetônicas, de transporte, de comunicação, atitudinais e tecnológicas",
+                      "explanation": "Correta! A LBI define as barreiras de forma abrangente, focando em qualquer elemento que limite a participação plena da pessoa com deficiência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apenas as dificuldades pedagógicas intrínsecas ao aluno",
+                      "explanation": "Incorreta. A LBI foca nas barreiras externas, do ambiente, não nas dificuldades internas do indivíduo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O despreparo do professor e a falta de material didático específico",
+                      "explanation": "Incorreta. Embora sejam problemas que geram barreiras, a LBI conceitua a barreira em um sentido mais amplo."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q15",
+                  "statement": "O Modelo Social da deficiência, que embasa a Inclusão, difere-se do Modelo Médico por apresentar qual visão central?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A deficiência é uma patologia que deve ser tratada e curada pelo médico",
+                      "explanation": "Incorreta. Essa é a visão do Modelo Médico (ou Modelo Individual)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O problema reside na pessoa e em seu 'déficit' funcional, que precisa de reabilitação para se adaptar à sociedade",
+                      "explanation": "Incorreta. Essa é a visão do Modelo Médico (ou Modelo Individual)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A deficiência é uma construção social; o problema reside nas barreiras e na falta de adaptação da sociedade, não na pessoa. A solução é a eliminação das barreiras e a adaptação do ambiente",
+                      "explanation": "Correta! O Modelo Social desloca o problema para a sociedade. A 'deficiência' é o resultado da interação entre a condição da pessoa e as barreiras do ambiente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A deficiência é uma questão de caridade e assistência, sem a necessidade de intervenção do Estado",
+                      "explanation": "Incorreta. Essa é a visão da 'caridade' e assistência, anterior ao Modelo Médico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A pessoa com deficiência deve ser educada em escolas especiais, com currículo adaptado",
+                      "explanation": "Incorreta. Essa é a característica da Segregação."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q16",
+                  "statement": "O século XVIII e o início do século XIX foram marcados pela Assistência. Qual é a principal crítica feita a essa abordagem em relação às pessoas com deficiência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Assistência eliminou todas as barreiras arquitetônicas e de comunicação",
+                      "explanation": "Incorreta. A eliminação de barreiras só seria foco no século XX (Inclusão)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O foco era na caridade e na tutela, tratando as pessoas com deficiência como objetos de piedade e dependência, desconsiderando seus direitos e sua autonomia",
+                      "explanation": "Correta! A Assistência é criticada por focar na caridade, na piedade e na tutela, mantendo as pessoas com deficiência em instituições de dependência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Assistência defendia a 'normalização' do aluno, preparando-o para a integração social",
+                      "explanation": "Incorreta. A 'normalização' é uma característica da Segregação e Integração (século XX)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O atendimento era exclusivamente em Salas de Recursos Multifuncionais (SRM)",
+                      "explanation": "Incorreta. As SRM surgiram muito depois (Política de 2008)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A prioridade era a educação bilíngue para surdos",
+                      "explanation": "Incorreta. A educação bilíngue para surdos é uma pauta do século XX/XXI."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q17",
+                  "statement": "Qual dos seguintes eventos é considerado um marco no surgimento do paradigma da Segregação no Brasil (e no mundo), por institucionalizar a educação especial em um formato separado do ensino comum?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Declaração de Salamanca de 1994",
+                      "explanation": "Incorreta. É o marco da Inclusão, posterior à Segregação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A criação do Instituto dos Meninos Cegos (IMC) em 1854 e do Instituto Nacional dos Surdos-Mudos (INSM) em 1857, no Brasil",
+                      "explanation": "Correta! A criação desses institutos no Brasil no século XIX, sob a influência europeia, institucionalizou a educação especial de forma separada, marcando o início da Segregação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A promulgação da Lei de Diretrizes e Bases da Educação Nacional (LDB) em 1961",
+                      "explanation": "Incorreta. A LDB de 1961 apenas citava a educação dos excepcionais; os institutos criados no século XIX são os marcos da institucionalização da segregação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Convenção da ONU sobre os Direitos das Pessoas com Deficiência de 2006",
+                      "explanation": "Incorreta. É um marco da Inclusão, posterior à Segregação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O primeiro Congresso Nacional de Educação de Excepcionais de 1929",
+                      "explanation": "Incorreta. O Congresso é posterior à criação dos institutos e é um marco do avanço da Segregação no Brasil, não do seu surgimento."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q18",
+                  "statement": "Na Segregação (Século XX), a Educação Especial adotou um modelo **médico-pedagógico**. Qual era o foco principal desse modelo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O foco era na interação social e na eliminação das barreiras arquitetônicas",
+                      "explanation": "Incorreta. Isso é foco da Inclusão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O foco era no diagnóstico do 'déficit' individual (visão médica) e na sua 'normalização' por meio de um currículo especial (visão pedagógica), para que o indivíduo se adaptasse à sociedade",
+                      "explanation": "Correta! O modelo médico-pedagógico unia o diagnóstico clínico (o problema está no indivíduo) com a pedagogia especial ('normalização') para a adaptação do aluno."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O foco era na autonomia e no empoderamento da pessoa com deficiência",
+                      "explanation": "Incorreta. Isso é característico do Modelo Social e da Inclusão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O foco era no Atendimento Educacional Especializado (AEE) complementar ao ensino comum",
+                      "explanation": "Incorreta. O AEE complementar é da Inclusão. O atendimento na Segregação era substitutivo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco era na formação de professores especialistas em inclusão",
+                      "explanation": "Incorreta. A formação especializada é uma pauta posterior."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q19",
+                  "statement": "O paradigma da Integração (décadas de 1960-1990) é frequentemente chamado de **'normalização'** ou **'mainstreaming'** em diferentes contextos e etapas. O que significa a 'normalização' nesse contexto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A adaptação total da escola para acolher todas as diferenças",
+                      "explanation": "Incorreta. Isso é o conceito de Inclusão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O processo pelo qual o indivíduo com deficiência deve se comportar o mais próximo possível das normas culturais de sua sociedade para ser aceito e integrado",
+                      "explanation": "Correta! O Princípio de Normalização (Nirje e Bank-Mikkelsen) é a ideia de que a pessoa com deficiência deve ter condições de vida o mais próximas possível das normas da sociedade, o que, na educação, se traduziu na exigência de adaptação do aluno."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A eliminação do conceito de 'deficiência' das políticas públicas",
+                      "explanation": "Incorreta. O conceito de deficiência foi mantido, mas o foco passou a ser na reabilitação e integração."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O atendimento educacional especializado em instituições residenciais",
+                      "explanation": "Incorreta. A 'normalização' surgiu como uma reação à institucionalização (Segregação)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A defesa do direito de viver em comunidade, independentemente do nível de deficiência",
+                      "explanation": "Incorreta. Embora seja um avanço do movimento, a 'normalização' na prática exigia uma adaptação do indivíduo para ser aceito na comunidade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q20",
+                  "statement": "A Declaração de Salamanca (1994) foi um divisor de águas, estabelecendo o conceito de 'Escola Inclusiva'. Qual é a principal característica que define uma Escola Inclusiva?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É uma escola comum que possui uma classe especial para alunos com deficiência",
+                      "explanation": "Incorreta. Isso caracteriza a Integração Parcial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É uma escola que adapta o aluno para o currículo e as normas existentes",
+                      "explanation": "Incorreta. Isso caracteriza a Integração."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É uma escola que acolhe *todas* as crianças da sua comunidade, independentemente de suas condições físicas, intelectuais, sociais, emocionais, linguísticas ou outras, adaptando o ensino para atender a toda a diversidade",
+                      "explanation": "Correta! A Escola Inclusiva se define pela incondicionalidade da matrícula e pela adaptação total da escola (currículo, métodos, ambiente) para atender à diversidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É uma escola que encaminha o aluno com deficiência para instituições especializadas",
+                      "explanation": "Incorreta. Isso é característico da Segregação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É uma escola onde o Atendimento Educacional Especializado (AEE) substitui o ensino comum",
+                      "explanation": "Incorreta. O AEE é complementar."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q21",
+                  "statement": "Qual é a principal responsabilidade do psicólogo escolar e educacional no paradigma da Inclusão, em contraste com sua atuação nos paradigmas de Segregação e Integração?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Focar no diagnóstico e laudo do 'déficit' do aluno para justificar o fracasso escolar",
+                      "explanation": "Incorreta. Essa é a atuação historicamente criticada, ligada ao modelo médico-pedagógico da Segregação/Integração."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Atuar na eliminação das barreiras (atitudinais e pedagógicas) do contexto escolar, promovendo a transformação da escola para acolher a diversidade e focando na acessibilidade, na formação de professores e na construção de um currículo flexível",
+                      "explanation": "Correta! A atuação do psicólogo se desloca do indivíduo para o contexto, com foco na transformação do sistema escolar e na eliminação das barreiras."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Realizar exclusivamente o Atendimento Educacional Especializado (AEE) em contraturno",
+                      "explanation": "Incorreta. O AEE é multifuncional, não sendo atribuição exclusiva do psicólogo escolar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Encaminhar o aluno com dificuldades de aprendizagem para clínicas especializadas",
+                      "explanation": "Incorreta. Isso reforça o modelo clínico-individual e a patologização do fracasso escolar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar apenas no aconselhamento individual dos pais e alunos",
+                      "explanation": "Incorreta. A atuação deve ser sistêmica, abrangendo a escola como um todo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q22",
+                  "statement": "A Lei nº 13.146/2015 (LBI) traz o conceito de **Desenho Universal**. Qual é a definição mais precisa desse conceito?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desenho de ambientes, produtos e serviços que atendam exclusivamente às necessidades das pessoas com deficiência",
+                      "explanation": "Incorreta. O Desenho Universal visa atender a todos, não exclusivamente às pessoas com deficiência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A concepção de produtos, ambientes, programas e serviços a serem utilizados por todas as pessoas, sem necessidade de adaptação ou de projeto especializado, na máxima extensão possível",
+                      "explanation": "Correta! O Desenho Universal visa o uso por todas as pessoas, eliminando a necessidade de adaptações posteriores e projetos segregados."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A adaptação de materiais didáticos para o aluno com deficiência já matriculado",
+                      "explanation": "Incorreta. Isso é uma 'ajuda técnica' ou 'adaptação razoável', não o Desenho Universal em si."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A arquitetura de ambientes que prioriza apenas a locomoção de cadeirantes",
+                      "explanation": "Incorreta. O conceito é muito mais amplo, abrangendo comunicação, informação, etc."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O projeto de salas de aula especiais para diferentes tipos de deficiência",
+                      "explanation": "Incorreta. O Desenho Universal é um princípio da Inclusão, que defende a sala comum."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q23",
+                  "statement": "A **Acessibilidade Pedagógica** é um dos pilares da Inclusão. No que ela consiste?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas na instalação de rampas e elevadores na escola",
+                      "explanation": "Incorreta. Isso é Acessibilidade Arquitetônica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "No desenvolvimento de metodologias, currículos, planos de ensino e avaliação flexíveis e diversificados, que atendam à singularidade de cada aluno, por meio de estratégias como o Plano de Desenvolvimento Individualizado (PDI)",
+                      "explanation": "Correta! A Acessibilidade Pedagógica é a adaptação do processo de ensino-aprendizagem (currículo, metodologia, avaliação) para as necessidades do aluno."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Na garantia de transporte escolar adaptado",
+                      "explanation": "Incorreta. Isso é Acessibilidade no Transporte."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Na oferta de Atendimento Educacional Especializado (AEE) como substituto da sala comum",
+                      "explanation": "Incorreta. O AEE é complementar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Na contratação de médicos para realizar o diagnóstico do aluno",
+                      "explanation": "Incorreta. Isso reforça o modelo médico-individual."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q24",
+                  "statement": "Qual dos seguintes é um **princípio fundamental** do paradigma da Inclusão, que o diferencia claramente da Integração?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Condicionalidade da matrícula (o aluno só é aceito se for capaz de acompanhar a turma)",
+                      "explanation": "Incorreta. Isso é princípio da Integração."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Adaptação do aluno à escola",
+                      "explanation": "Incorreta. Isso é princípio da Integração."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Incondicionalidade da matrícula (a escola deve aceitar e se adaptar a todos)",
+                      "explanation": "Correta! A matrícula incondicional, com a responsabilidade da escola de se transformar, é o princípio central da Inclusão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Segregação dos alunos com deficiência em escolas especializadas",
+                      "explanation": "Incorreta. Isso é o princípio da Segregação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Tratamento exclusivo do 'déficit' individual do aluno",
+                      "explanation": "Incorreta. O tratamento exclusivo do déficit é o foco do modelo médico-pedagógico."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q25",
+                  "statement": "O Decreto nº 5.626/2005 (que regulamentou a Lei de Libras) estabeleceu que as instituições federais de ensino superior e as de ensino médio e de educação profissional devem garantir a inclusão da Libras como disciplina curricular obrigatória. No entanto, qual é a principal condição para que essa obrigatoriedade se aplique?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas para os cursos de Licenciatura",
+                      "explanation": "Correta! O Art. 3º do Decreto nº 5.626/2005 estabelece a obrigatoriedade da Libras como disciplina curricular nos cursos de formação de professores para o exercício do magistério em nível médio e superior, ou seja, nos cursos de Licenciatura e Fonoaudiologia."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas para os cursos de Bacharelado e Tecnólogo",
+                      "explanation": "Incorreta. A obrigatoriedade é para os cursos de formação de professores (Licenciatura) e Fonoaudiologia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Para todos os cursos de nível superior, independentemente da área",
+                      "explanation": "Incorreta. Embora seja opcional em outros cursos, é obrigatório apenas para Licenciatura e Fonoaudiologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Somente para os cursos de Psicologia",
+                      "explanation": "Incorreta. A obrigatoriedade é para Licenciatura e Fonoaudiologia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Somente para as instituições privadas de ensino",
+                      "explanation": "Incorreta. O decreto se refere a instituições federais, mas a obrigatoriedade se estende à rede privada que ministra os cursos citados."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_L3_Q26",
+                  "statement": "Qual dos seguintes elementos é o que **não** faz parte do público-alvo da Educação Especial na Perspectiva da Educação Inclusiva (PNEEPEI, 2008)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Alunos com Transtornos Globais do Desenvolvimento (TGD)",
+                      "explanation": "Incorreta. Alunos com TGD (como o Transtorno do Espectro Autista - TEA) fazem parte do público-alvo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Alunos com Altas Habilidades/Superdotação",
+                      "explanation": "Incorreta. Alunos com Altas Habilidades/Superdotação fazem parte do público-alvo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Alunos com deficiência",
+                      "explanation": "Incorreta. Alunos com deficiência fazem parte do público-alvo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Alunos com dificuldades de aprendizagem decorrentes de problemas socioeconômicos e culturais, sem diagnóstico de deficiência, TGD ou altas habilidades",
+                      "explanation": "Correta! Embora a Inclusão seja ampla, a PNEEPEI (2008) estabelece o público-alvo da Educação Especial de forma específica (Deficiência, TGD, Altas Habilidades). As dificuldades decorrentes de questões socioeconômicas e culturais devem ser atendidas pela escola comum, sem caracterizar AEE."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Alunos com Deficiência Múltipla",
+                      "explanation": "Incorreta. Alunos com Deficiência Múltipla fazem parte do público-alvo (dentro da categoria 'deficiência')."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_L3_Q27",
+                  "statement": "No contexto da Segregação (Século XX), o que era esperado do professor da sala de aula comum em relação ao aluno com deficiência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que ele adaptasse o currículo para o aluno com deficiência",
+                      "explanation": "Incorreta. A adaptação era esperada do professor de Educação Especial na classe especial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que ele se responsabilizasse integralmente pela inclusão do aluno, sem o apoio de especialistas",
+                      "explanation": "Incorreta. No modelo segregacionista, a responsabilidade era da escola ou classe especial."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que ele não se envolvesse com o aluno com deficiência, pois a responsabilidade era da escola ou classe especial",
+                      "explanation": "Correta! O modelo segregacionista retirava a responsabilidade do professor da sala comum, transferindo-a para o professor/escola especial, criando uma dualidade de sistemas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que ele garantisse a matrícula incondicional e o acesso ao Atendimento Educacional Especializado (AEE)",
+                      "explanation": "Incorreta. Isso é exigido pelo paradigma da Inclusão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que ele trabalhasse em parceria com o professor de AEE no contraturno",
+                      "explanation": "Incorreta. O trabalho em parceria é característico da Inclusão."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_L3_Q28",
+                  "statement": "Qual é a principal crítica feita ao paradigma da Integração no que diz respeito ao seu impacto na prática pedagógica da escola comum?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Integração exigia adaptação radical e imediata da escola comum, o que gerou resistência",
+                      "explanation": "Incorreta. A Integração exigia a adaptação do aluno; a adaptação da escola é o foco da Inclusão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Integração mantinha a lógica de que o 'déficit' é do aluno, e a escola comum não precisava se transformar, pois o aluno já vinha 'preparado' ou estava em classes especiais dentro da escola",
+                      "explanation": "Correta! A Integração não alterou a estrutura da escola comum, que permaneceu rígida. O problema continuava sendo do aluno, mesmo que ele estivesse no mesmo espaço físico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Integração eliminou totalmente o financiamento para escolas especiais",
+                      "explanation": "Incorreta. O financiamento continuou, inclusive para a criação de classes especiais dentro da escola comum."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Integração defendia o atendimento em tempo integral no AEE",
+                      "explanation": "Incorreta. O atendimento em tempo integral era na Segregação. O AEE complementar é da Inclusão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Integração focava apenas nas barreiras atitudinais, ignorando as físicas",
+                      "explanation": "Incorreta. A Integração focava na adaptação do aluno, minimizando a discussão sobre barreiras."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_L3_Q29",
+                  "statement": "Em 1854, o governo imperial do Brasil, sob a influência da filosofia de Abbé de l’Épée e Haüy, criou o Instituto dos Meninos Cegos (IMC) e, em 1857, o Instituto Nacional dos Surdos-Mudos (INSM). Qual foi o principal impacto dessa ação governamental na política de Educação Especial?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A oficialização e a institucionalização da Educação Especial no Brasil em um sistema segregado e especializado",
+                      "explanation": "Correta! A criação desses institutos marca a oficialização da Educação Especial no país, mas com o modelo segregacionista (escolas separadas, currículo e professores especializados)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A determinação do Atendimento Educacional Especializado (AEE) nas Salas de Recursos Multifuncionais",
+                      "explanation": "Incorreta. O AEE é da política de 2008."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A criação de um currículo diferenciado para a inclusão na rede de escolas especiais",
+                      "explanation": "Incorreta. O currículo diferenciado é característico da segregação no século XX."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Propor o primeiro projeto de lei para a criação de classes para surdos-mudos",
+                      "explanation": "Incorreta. O projeto de lei foi proposto em 1835."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Determinar que a classificação dos alunos fosse baseada exclusivamente no aproveitamento escolar",
+                      "explanation": "Incorreta. Isso é da vertente psicopedagógica."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_L3_Q30",
+                  "statement": "A Integração, um novo paradigma da Educação Especial que sucedeu a segregação, é descrita como uma tentativa de integrar os alunos com deficiência nas escolas comuns. Em que consistia a primeira etapa, a integração parcial, conforme as fontes?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Na colocação física do aluno na sala comum sem qualquer apoio",
+                      "explanation": "Incorreta. A simples colocação física em várias salas comuns é característica do Mainstreaming."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Na criação de instituições especializadas separadas por tipo de deficiência",
+                      "explanation": "Incorreta. Isso é segregação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Em um espaço específico dentro da escola comum, como classes especiais, antes de uma integração total na classe comum",
+                      "explanation": "Correta! A integração parcial ocorre em classes especiais, que são um espaço específico dentro da escola comum, para depois buscar a integração total na classe comum."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Na adequação total da escola às necessidades do aluno, reformulando o processo de ensino-aprendizagem",
+                      "explanation": "Incorreta. Isso caracteriza a Inclusão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "No atendimento exclusivo em instituições particulares financiadas pelo governo",
+                      "explanation": "Incorreta. O financiamento a particulares estava previsto na LDB de 1961."
+                    }
+                  ],
+                  "answer": "C"
+                }
+              ]
             }
           ]
         }
