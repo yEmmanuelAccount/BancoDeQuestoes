@@ -262,31 +262,30 @@ ol li {
 .option.confirmed {
     background: #222222; 
     border-color: transparent;
-    color: #e0e0e0;
 }
-/* ID em roxo padrão para todas as confirmadas, exceto a errada escolhida */
+/* ID e texto em roxo padrão para todas as confirmadas, exceto as dim e a errada escolhida */
 .option.confirmed .opt-id {
     color: #a371f7; 
 }
 
-
-/* 1. Alternativa CERTA (Escolhida ou Não) - APENAS JUSTIFICATIVA VERDE */
-/* Usa o estilo neutro base de .confirmed */
-.option.correct {
-  background: #222222;
-  border-color: transparent;
+/* 1. Alternativa CERTA ESCOLHIDA - Detalhes em VERDE (Bloco Completo) */
+.option.correct.selected {
+  /* Fundo verde forte */
+  background: #214f24; 
+  border-color: #4CAF50;
 }
-.option.correct .opt-text {
-    color: #e0e0e0; /* Cor do texto padrão */
+.option.correct.selected .opt-id,
+.option.correct.selected .opt-text {
+    color: #C8E6C9; /* Texto em verde claro */
 }
-.option.correct .opt-id {
-    color: #a371f7; /* ID em roxo padrão */
+.option.correct.selected .opt-id {
+    color: #4CAF50; /* ID em verde forte */
 }
 
 
 /* 2. Alternativa ERRADA ESCOLHIDA - Detalhes em VERMELHO */
 .option.wrong {
-  /* Sobrescreve o fundo para vermelho mais intenso */
+  /* Fundo vermelho mais intenso (Errada escolhida) */
   background: #5c3030;
   border-color: #F44336;
 }
@@ -299,20 +298,24 @@ ol li {
 }
 
 
-/* 3. Alternativas ERRADAS NÃO ESCOLHIDAS - Detalhes em VERMELHO MAIS ESCURO/Neutro */
-/* Apenas escurece o ID e texto */
+/* 3. Alternativa CERTA NÃO ESCOLHIDA (Mantém corpo neutro, texto normal) */
+.option.correct:not(.selected) {
+    background: #222222; 
+    border-color: transparent;
+}
+.option.correct:not(.selected) .opt-id,
+.option.correct:not(.selected) .opt-text {
+    color: #e0e0e0; /* Texto normal */
+}
+.option.correct:not(.selected) .opt-id {
+    color: #a371f7; /* ID em roxo padrão */
+}
+
+
+/* 4. Alternativas ERRADAS NÃO ESCOLHIDAS - Diminui o texto */
 .option.confirmed:not(.correct):not(.wrong) .opt-id,
 .option.confirmed:not(.correct):not(.wrong) .opt-text {
     color: #888; /* Texto e ID mais apagados */
-}
-
-/* Garante que a alternativa certa não tenha o texto apagado */
-.option.correct .opt-id,
-.option.correct .opt-text {
-    color: #e0e0e0;
-}
-.option.correct .opt-id {
-    color: #a371f7; /* Volta a roxo para o ID da correta */
 }
 
 
@@ -330,7 +333,7 @@ ol li {
   box-sizing: border-box; 
 }
 
-/* A cor da borda da justificativa segue o status (Este é o único lugar que fica verde) */
+/* A cor da borda da justificativa segue o status */
 .option-explanation.correct {
   border-left-color: #4CAF50;
 }

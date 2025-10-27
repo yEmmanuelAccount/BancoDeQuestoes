@@ -11624,6 +11624,972 @@
                   "answer": "C"
                 }
               ]
+            },
+            {
+              "id": "p4_psicopatologia2_v2_L1",
+              "title": "v2 - Lista 1",
+              "questions": [
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q1",
+                  "statement": "Qual a principal característica do Transtorno de Ansiedade Generalizada (TAG) conforme os sintomas centrais apresentados nos materiais, e quais são os sintomas comuns associados a este transtorno?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Preocupação excessiva e constante hiperatividade física.",
+                      "explanation": "Incorreta. A principal característica é a **inquietação geral** (sensação constante de agitação), mas a hiperatividade física constante não é mencionada como um sintoma principal, sendo a **fadiga** (sensação de cansaço) e a **tensão muscular** sintomas centrais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Inquietação Geral, Fadiga, Tensão Muscular e Problemas de Concentração.",
+                      "explanation": "Correta! Os sintomas da Ansiedade Generalizada incluem Inquietação Geral (sensação constante de agitação), Distúrbios do Sono, Fadiga, Tensão Muscular (rigidez e desconforto) e Problemas de Concentração (dificuldade de focar)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Foco no passado e evitação social.",
+                      "explanation": "Incorreta. O foco dos transtornos de ansiedade é tipicamente o medo sobre o que poderia acontecer no **futuro**."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Flashbacks recorrentes e entorpecimento emocional.",
+                      "explanation": "Incorreta. Estes são sintomas típicos do Transtorno de Estresse Pós-Traumático (TEPT), como observado no caso de Bárbara."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ataques de pânico inesperados e medo de lugares públicos.",
+                      "explanation": "Incorreta. Esta descrição se refere ao Transtorno de Pânico e Agorafobia."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q2",
+                  "statement": "De acordo com o perfil demográfico dos Transtornos de Ansiedade, qual gênero apresenta uma prevalência duas vezes maior de diagnósticos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O gênero masculino (homens).",
+                      "explanation": "Incorreta. O gênero feminino apresenta uma prevalência duas vezes maior."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Não há diferença de prevalência entre os gêneros.",
+                      "explanation": "Incorreta. Há uma diferença significativa, sendo o gênero feminino mais prevalente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A prevalência é igual para homens e mulheres, mas o início é mais tardio em mulheres.",
+                      "explanation": "Incorreta. O gênero feminino tem prevalência duas vezes maior e o início é mais tardio em homens."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O gênero feminino (mulheres).",
+                      "explanation": "Correta! O gênero feminino apresenta uma prevalência duas vezes maior de diagnósticos de Transtornos de Ansiedade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Homens em idade avançada.",
+                      "explanation": "Incorreta. O gênero feminino apresenta uma prevalência duas vezes maior."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q3",
+                  "statement": "No caso de Bárbara, que apresenta flashbacks, hipervigilância e entorpecimento emocional após um episódio de violência sexual, qual transtorno é mais provável?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Transtorno de Pânico.",
+                      "explanation": "Incorreta. Ataques de pânico inesperados e medo de lugares públicos não são o foco principal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Transtorno Obsessivo-Compulsivo (TOC).",
+                      "explanation": "Incorreta. O TOC é caracterizado por obsessões e compulsões, não por reações a trauma, flashbacks e entorpecimento emocional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Transtorno de Ansiedade Generalizada (TAG).",
+                      "explanation": "Incorreta. O TAG foca em preocupação excessiva e inquietação, não em flashbacks ou entorpecimento emocional após trauma."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Transtorno de Estresse Pós-Traumático (TEPT).",
+                      "explanation": "Correta! O TEPT é caracterizado por: Intrusão (flashbacks, sonhos), Evitação de estímulos associados ao trauma, Alterações Cognitivas e de Humor (entorpecimento emocional) e Alterações de Excitação e Reatividade (hipervigilância), sintomas presentes no caso de Bárbara."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Transtorno de Ansiedade Social.",
+                      "explanation": "Incorreta. O foco é no medo de avaliação social negativa, não em reações a trauma."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q4",
+                  "statement": "Qual a principal diferença entre um ataque de pânico e a hipervigilância típica do TEPT?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O ataque de pânico é sempre provocado por um estímulo específico; a hipervigilância é constante.",
+                      "explanation": "Incorreta. O ataque de pânico no Transtorno de Pânico é tipicamente inesperado (não provocado por estímulo específico)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O ataque de pânico é uma onda intensa de medo que atinge um pico em minutos; a hipervigilância é um estado de alerta constante e exagerado, característico de reatividade aumentada.",
+                      "explanation": "Correta! O ataque de pânico é caracterizado por uma onda de medo ou desconforto que atinge o pico em minutos. A hipervigilância é um sintoma do TEPT, um estado de alerta constante e exagerado, que se enquadra nas Alterações de Excitação e Reatividade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A hipervigilância é um sintoma exclusivo do Transtorno Bipolar; o ataque de pânico é da depressão.",
+                      "explanation": "Incorreta. Hipervigilância é sintoma do TEPT; ataque de pânico é do Transtorno de Pânico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O ataque de pânico envolve apenas sintomas físicos; a hipervigilância envolve apenas sintomas cognitivos.",
+                      "explanation": "Incorreta. Ambos envolvem sintomas físicos e cognitivos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Não há diferença, são termos sinônimos.",
+                      "explanation": "Incorreta. São fenômenos distintos com etiologias e características diferentes."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q5",
+                  "statement": "Qual dos seguintes não é um sintoma central do Transtorno Obsessivo-Compulsivo (TOC)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Obsessões (pensamentos, imagens ou impulsos intrusivos e indesejados).",
+                      "explanation": "Incorreta. Obsessões são um sintoma central do TOC."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Compulsões (comportamentos ou atos mentais repetitivos para reduzir a ansiedade).",
+                      "explanation": "Incorreta. Compulsões são um sintoma central do TOC."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Intrusão e Evitação de estímulos associados a um evento traumático.",
+                      "explanation": "Correta! Estes são sintomas centrais do Transtorno de Estresse Pós-Traumático (TEPT), não do TOC. O TOC é caracterizado por Obsessões e Compulsões."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Tentativas de ignorar ou suprimir as obsessões.",
+                      "explanation": "Incorreta. O paciente com TOC frequentemente tenta ignorar ou suprimir as obsessões."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O comportamento compulsivo não está ligado de modo realista ao que se propõe a neutralizar.",
+                      "explanation": "Incorreta. Esta é uma característica definidora da compulsão no TOC."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q6",
+                  "statement": "O que caracteriza a comorbidade no contexto dos Transtornos Mentais?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A existência de um único Transtorno Mental no indivíduo.",
+                      "explanation": "Incorreta. Comorbidade refere-se à coexistência de mais de um transtorno."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A coexistência de dois ou mais Transtornos Mentais no mesmo indivíduo.",
+                      "explanation": "Correta! Comorbidade (ou coocorrência) é a coexistência de dois ou mais Transtornos Mentais no mesmo indivíduo. É uma ocorrência frequente em psicopatologia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O tratamento de um transtorno com dois ou mais medicamentos.",
+                      "explanation": "Incorreta. Comorbidade refere-se ao diagnóstico, não ao tratamento farmacológico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um transtorno que se transforma em outro ao longo do tempo.",
+                      "explanation": "Incorreta. Isso seria a evolução ou progressão do quadro, e não comorbidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A remissão total dos sintomas após o tratamento.",
+                      "explanation": "Incorreta. Remissão é a ausência de sintomas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q7",
+                  "statement": "Qual dos seguintes grupos de sintomas é característico de um Episódio Depressivo Maior?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Humor elevado, irritabilidade e aumento da atividade motora.",
+                      "explanation": "Incorreta. Estes são sintomas típicos de um Episódio Maníaco."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Humor deprimido ou perda de prazer/interesse (anedonia), alterações de peso/apetite e fadiga.",
+                      "explanation": "Correta! Os sintomas centrais de um Episódio Depressivo Maior incluem humor deprimido, perda de prazer/interesse (anedonia), alterações de sono/apetite/peso, fadiga/perda de energia, sentimentos de culpa/inutilidade, dificuldade de concentração e ideação suicida."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Hipervigilância, flashbacks e entorpecimento emocional.",
+                      "explanation": "Incorreta. Estes são sintomas típicos do Transtorno de Estresse Pós-Traumático (TEPT)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Preocupação excessiva incontrolável e tensão muscular.",
+                      "explanation": "Incorreta. Estes são sintomas típicos do Transtorno de Ansiedade Generalizada (TAG)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Obsessões e compulsões.",
+                      "explanation": "Incorreta. Estes são sintomas típicos do Transtorno Obsessivo-Compulsivo (TOC)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q8",
+                  "statement": "Qual a principal diferença entre um Episódio Maníaco e um Episódio Hipomaníaco?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O Episódio Maníaco é de humor deprimido; o Hipomaníaco é de humor elevado.",
+                      "explanation": "Incorreta. Ambos Maníaco e Hipomaníaco envolvem humor elevado/irritável/expansivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Episódio Maníaco dura menos tempo e é menos grave; o Hipomaníaco dura mais e é mais grave.",
+                      "explanation": "Incorreta. O Episódio Maníaco dura mais (pelo menos 1 semana, ou qualquer duração se for hospitalizado) e é mais grave; o Hipomaníaco dura menos (pelo menos 4 dias) e é menos grave, não causando prejuízo acentuado ou psicose."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O Episódio Maníaco causa prejuízo acentuado ou psicose e dura pelo menos 1 semana; o Hipomaníaco não causa prejuízo acentuado ou psicose e dura pelo menos 4 dias.",
+                      "explanation": "Correta! Um Episódio Maníaco é caracterizado por humor e atividade elevados/expansivos/irritáveis que causam prejuízo acentuado ou exigem hospitalização, durando pelo menos 1 semana. O Hipomaníaco tem as mesmas características, mas é menos grave, não causa prejuízo acentuado/psicose e dura pelo menos 4 dias."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Episódio Hipomaníaco requer hospitalização; o Maníaco é tratado ambulatorialmente.",
+                      "explanation": "Incorreta. O Episódio Maníaco é que pode requerer hospitalização; o Hipomaníaco não causa prejuízo acentuado ou psicose."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ambos são sinônimos e usados de forma intercambiável.",
+                      "explanation": "Incorreta. São classificados separadamente devido à diferença de gravidade e duração."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q9",
+                  "statement": "O que a Teoria Biológica dos Transtornos Mentais enfatiza?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Fatores psicossociais e estresse ambiental.",
+                      "explanation": "Incorreta. Esta é a ênfase da Teoria Psicossocial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O papel do inconsciente e dos conflitos internos.",
+                      "explanation": "Incorreta. Esta é a ênfase da Teoria Psicodinâmica (Psicanalítica)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Anormalidades na estrutura cerebral e nos neurotransmissores como serotonina e dopamina.",
+                      "explanation": "Correta! A Teoria Biológica enfatiza anormalidades na estrutura cerebral e nos neurotransmissores (dopamina, serotonina, noradrenalina, GABA, etc.) como a base dos Transtornos Mentais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A aprendizagem de comportamentos desadaptativos.",
+                      "explanation": "Incorreta. Esta é a ênfase das Teorias Comportamentais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Os padrões de pensamento irracional (cognitivos).",
+                      "explanation": "Incorreta. Esta é a ênfase das Teorias Cognitivas."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q10",
+                  "statement": "Qual dos seguintes neurotransmissores está primariamente associado à regulação do humor, apetite e sono, e é um alvo comum de medicamentos antidepressivos (ISRS)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Dopamina.",
+                      "explanation": "Incorreta. A Dopamina está mais associada à recompensa, motivação e psicose (esquizofrenia)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Noradrenalina.",
+                      "explanation": "Incorreta. A Noradrenalina está mais associada ao alerta, foco e resposta de luta ou fuga."
+                    },
+                    {
+                      "id": "C",
+                      "text": "GABA (Ácido Gama-Aminobutírico).",
+                      "explanation": "Incorreta. O GABA é o principal neurotransmissor inibitório, associado à ansiedade (alvo de benzodiazepínicos)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Serotonina.",
+                      "explanation": "Correta! A Serotonina é um neurotransmissor primariamente associado à regulação do humor, apetite e sono, sendo um alvo-chave dos Inibidores Seletivos da Recaptação da Serotonina (ISRS) no tratamento da depressão e ansiedade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Acetilcolina.",
+                      "explanation": "Incorreta. A Acetilcolina está mais associada à função muscular e memória."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q11",
+                  "statement": "Qual tipo de Transtorno Bipolar é definido pela ocorrência de pelo menos um Episódio Maníaco, que pode ser precedido ou seguido por Episódios Hipomaníacos ou Depressivos Maiores?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Transtorno Bipolar Tipo II.",
+                      "explanation": "Incorreta. O Tipo II é definido pela ocorrência de Episódios Hipomaníacos e Episódios Depressivos Maiores, mas **nunca** Episódios Maníacos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Transtorno Ciclotímico.",
+                      "explanation": "Incorreta. O Ciclotímico envolve sintomas leves e crônicos de hipomania e depressão (não atingindo critérios de episódio completo)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Transtorno Bipolar Tipo I.",
+                      "explanation": "Correta! O Transtorno Bipolar Tipo I é definido pela ocorrência de pelo menos um Episódio Maníaco, que pode ser precedido ou seguido por Episódios Hipomaníacos ou Depressivos Maiores."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Transtorno de Humor Induzido por Substância.",
+                      "explanation": "Incorreta. O transtorno é induzido por substância, não sendo o tipo I."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Transtorno Depressivo Maior.",
+                      "explanation": "Incorreta. O Transtorno Depressivo Maior não inclui episódios maníacos ou hipomaníacos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q12",
+                  "statement": "No contexto da esquizofrenia, quais são os sintomas considerados 'positivos'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Redução da expressão emocional (afeto embotado) e da fala (alogia).",
+                      "explanation": "Incorreta. Estes são sintomas 'negativos' (perda de funções normais)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Comportamentos que são um **excesso** ou **distorção** das funções normais, como delírios, alucinações e discurso/comportamento desorganizado.",
+                      "explanation": "Correta! Sintomas Positivos são a presença de comportamentos que não existem normalmente, sendo um **excesso** ou **distorção** das funções normais. Eles incluem delírios, alucinações e discurso/comportamento desorganizado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Dificuldade de concentração e memória.",
+                      "explanation": "Incorreta. Estes são sintomas 'cognitivos'."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Retraimento social e perda de motivação (abulia).",
+                      "explanation": "Incorreta. Estes são sintomas 'negativos' (perda de funções normais)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ausência de movimento (catatonia).",
+                      "explanation": "Incorreta. Catatonia é um sintoma motor (psicomotor)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q13",
+                  "statement": "Qual dos seguintes transtornos de personalidade é caracterizado por um padrão invasivo de **instabilidade de relacionamentos interpessoais, autoimagem, afetos e impulsividade** acentuada?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Transtorno da Personalidade Antissocial.",
+                      "explanation": "Incorreta. O Antissocial é caracterizado por desrespeito e violação dos direitos dos outros (impulsividade e falta de remorso são comuns, mas o foco não é a instabilidade afetiva ou da autoimagem)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Transtorno da Personalidade Narcisista.",
+                      "explanation": "Incorreta. O Narcisista é caracterizado por grandiosidade, necessidade de admiração e falta de empatia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Transtorno da Personalidade Esquiva.",
+                      "explanation": "Incorreta. O Esquiva é caracterizado por inibição social e sentimentos de inadequação (medo de avaliação negativa)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Transtorno da Personalidade *Borderline* (ou *Limítrofe*).",
+                      "explanation": "Correta! O Transtorno da Personalidade *Borderline* é caracterizado por um padrão invasivo de **instabilidade de relacionamentos interpessoais, autoimagem, afetos e impulsividade** acentuada, incluindo esforços desesperados para evitar abandono e instabilidade afetiva (mudanças rápidas de humor)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Transtorno da Personalidade Dependente.",
+                      "explanation": "Incorreta. O Dependente é caracterizado por uma necessidade excessiva de ser cuidado, levando a um comportamento de submissão e apego."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q14",
+                  "statement": "A teoria da **Diátese-Estresse** propõe que os Transtornos Mentais surgem de que interação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas fatores ambientais (estresse).",
+                      "explanation": "Incorreta. A teoria envolve a combinação de diátese e estresse."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas fatores genéticos (diátese).",
+                      "explanation": "Incorreta. A teoria envolve a combinação de diátese e estresse."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A interação entre uma **vulnerabilidade subjacente (diátese)** e eventos de vida **estressores**.",
+                      "explanation": "Correta! A Teoria da Diátese-Estresse (ou Diátese-Vulnerabilidade) propõe que os Transtornos Mentais (particularmente a esquizofrenia) surgem da interação entre uma **vulnerabilidade subjacente (diátese)**, que pode ser genética ou biológica, e **eventos de vida estressores** (ambientais, psicossociais)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A interação entre Dopamina e Serotonina.",
+                      "explanation": "Incorreta. Embora relevante na biologia, não é a definição da Diátese-Estresse."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A interação entre o id e o superego.",
+                      "explanation": "Incorreta. Esta é a teoria psicodinâmica (psicanalítica)."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q15",
+                  "statement": "Qual dos seguintes é um **fator de risco biológico** para o desenvolvimento de Transtornos Mentais?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Baixo *status* socioeconômico e pobreza.",
+                      "explanation": "Incorreta. Este é um fator de risco psicossocial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Conflitos familiares e abuso infantil.",
+                      "explanation": "Incorreta. Estes são fatores de risco psicossociais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Predisposição genética e anormalidades na estrutura cerebral ou neurotransmissores.",
+                      "explanation": "Correta! Fatores de risco biológicos incluem predisposição genética, anormalidades na estrutura cerebral e desregulação de neurotransmissores (como Serotonina, Dopamina, GABA)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Padrões de pensamento irracional e distorções cognitivas.",
+                      "explanation": "Incorreta. Estes são fatores de risco psicológicos/cognitivos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estresse ambiental crônico.",
+                      "explanation": "Incorreta. Este é um fator de risco psicossocial."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q16",
+                  "statement": "Qual é a definição de **delírio** no contexto da esquizofrenia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Uma percepção sensorial que não tem um estímulo externo correspondente.",
+                      "explanation": "Incorreta. Esta é a definição de alucinação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Uma crença falsa e fixa que não é passível de ser alterada por evidências factuais contrárias.",
+                      "explanation": "Correta! Delírio é uma crença falsa e fixa, não passível de ser alterada por evidências factuais contrárias (ex: delírio de perseguição, delírio de grandeza)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A ausência de expressão emocional.",
+                      "explanation": "Incorreta. Esta é a definição de afeto embotado (sintoma negativo)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Comportamento motor bizarro e imprevisível.",
+                      "explanation": "Incorreta. Esta é a definição de comportamento grosseiramente desorganizado ou catatonia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A dificuldade de encadear pensamentos de forma lógica.",
+                      "explanation": "Incorreta. Esta é a definição de discurso desorganizado."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q17",
+                  "statement": "No Transtorno Bipolar Tipo II, qual é a combinação de episódios necessária para o diagnóstico?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Pelo menos um Episódio Maníaco completo.",
+                      "explanation": "Incorreta. Isso define o Transtorno Bipolar Tipo I."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Episódios Hipomaníacos e Episódios Depressivos Maiores, mas nunca um Episódio Maníaco completo.",
+                      "explanation": "Correta! O Transtorno Bipolar Tipo II é caracterizado pela ocorrência de Episódios Hipomaníacos e Episódios Depressivos Maiores, mas **nunca** um Episódio Maníaco completo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas Episódios Depressivos Maiores.",
+                      "explanation": "Incorreta. Isso define o Transtorno Depressivo Maior."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Sintomas depressivos e hipomaníacos crônicos, mas em intensidade menor que um episódio completo.",
+                      "explanation": "Incorreta. Isso define o Transtorno Ciclotímico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Episódios Depressivos e Maníacos ocorrendo no mesmo dia.",
+                      "explanation": "Incorreta. Isso se refere à 'Ciclagem Rápida' com sintomas mistos, mas não à definição do Tipo II."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q18",
+                  "statement": "Qual dos seguintes **não** é um sintoma característico do Transtorno de Ansiedade Social (Fobia Social)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Medo acentuado e persistente de uma ou mais situações sociais onde o indivíduo é exposto à possível avaliação por outras pessoas.",
+                      "explanation": "Incorreta. Este é um sintoma central."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Preocupação excessiva e incontrolável sobre eventos futuros (a maior parte dos dias).",
+                      "explanation": "Correta! Esta é a principal característica do Transtorno de Ansiedade Generalizada (TAG), não da Fobia Social. O foco da Fobia Social é o medo de avaliação social negativa."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Medo de ser embaraçado, humilhado ou rejeitado.",
+                      "explanation": "Incorreta. Este é um medo central da Fobia Social."
+                    },
+                    {
+                      "id": "D",
+                      "text": "As situações sociais são evitadas ou suportadas com intensa ansiedade.",
+                      "explanation": "Incorreta. Este é um sintoma de evitação característico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O medo é desproporcional à ameaça real da situação.",
+                      "explanation": "Incorreta. Esta é uma característica definidora do medo (fobia)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q19",
+                  "statement": "A principal diferença entre **depressão unipolar** (Transtorno Depressivo Maior) e o **Transtorno Bipolar** é:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O Bipolar tem maior risco de suicídio.",
+                      "explanation": "Incorreta. Embora o risco seja alto em ambos, a diferença fundamental é a presença de mania/hipomania no Bipolar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A presença de Episódios Maníacos ou Hipomaníacos no Transtorno Bipolar.",
+                      "explanation": "Correta! A **depressão unipolar** é caracterizada apenas por Episódios Depressivos Maiores, enquanto o **Transtorno Bipolar** é definido pela presença de Episódios Maníacos ou Hipomaníacos (além de Episódios Depressivos Maiores, no caso do Tipo II)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A depressão unipolar só ocorre em mulheres; o Transtorno Bipolar, em homens.",
+                      "explanation": "Incorreta. Ambos ocorrem em ambos os sexos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A depressão unipolar é tratada com lítio; o Bipolar, com antidepressivos.",
+                      "explanation": "Incorreta. O Transtorno Bipolar (mania) é tratado primariamente com estabilizadores de humor (lítio) e antipsicóticos; a depressão unipolar, com antidepressivos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Bipolar dura menos tempo que a depressão unipolar.",
+                      "explanation": "Incorreta. A duração do Bipolar (com as fases de humor) é variável, e o Tipo I dura pelo menos 1 semana."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q20",
+                  "statement": "O que a **Teoria Psicodinâmica (Psicanalítica)** dos Transtornos Mentais enfatiza?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Fatores genéticos e neurobiológicos.",
+                      "explanation": "Incorreta. Esta é a ênfase da Teoria Biológica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O papel dos **conflitos internos** e **experiências na primeira infância** no desenvolvimento dos sintomas.",
+                      "explanation": "Correta! A Teoria Psicodinâmica enfatiza o papel dos **conflitos internos** (inconscientes) e das **experiências na primeira infância** (traumas, relações objetais) no desenvolvimento dos sintomas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Padrões de pensamento irracional e distorções cognitivas.",
+                      "explanation": "Incorreta. Esta é a ênfase das Teorias Cognitivas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A aprendizagem de comportamentos desadaptativos.",
+                      "explanation": "Incorreta. Esta é a ênfase das Teorias Comportamentais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fatores ambientais e sociais.",
+                      "explanation": "Incorreta. Esta é a ênfase da Teoria Psicossocial."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q21",
+                  "statement": "Qual sintoma é considerado 'negativo' na esquizofrenia e refere-se à redução da expressão de emoções no rosto, contato visual, entonação da fala e movimentos da mão?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Alogia (redução da fala).",
+                      "explanation": "Incorreta. Alogia refere-se à redução do discurso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Delírio (crença falsa e fixa).",
+                      "explanation": "Incorreta. Delírio é um sintoma positivo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Anedonia (incapacidade de sentir prazer).",
+                      "explanation": "Incorreta. Anedonia é a incapacidade de sentir prazer (sintoma negativo)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Abulia (perda de motivação).",
+                      "explanation": "Incorreta. Abulia refere-se à perda de motivação (sintoma negativo)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Afeto Embotado (ou Diminuição da Expressão Emocional).",
+                      "explanation": "Correta! Afeto Embotado é a redução da expressão de emoções (fácil, contato visual, entonação, movimentos), sendo um sintoma 'negativo' da esquizofrenia."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q22",
+                  "statement": "Qual é a principal característica do Transtorno Ciclotímico?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Episódios Maníacos completos e Episódios Depressivos Maiores.",
+                      "explanation": "Incorreta. Isso define o Transtorno Bipolar Tipo I."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Episódios Hipomaníacos e Episódios Depressivos Maiores.",
+                      "explanation": "Incorreta. Isso define o Transtorno Bipolar Tipo II."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Períodos de humor e atividade elevados (hipomaníacos) e períodos de humor deprimido (depressivos) de forma crônica (pelo menos 2 anos), mas **sem** atingir critérios de episódio completo.",
+                      "explanation": "Correta! O Transtorno Ciclotímico é uma forma crônica de Transtorno Bipolar, envolvendo períodos de sintomas hipomaníacos e depressivos **por pelo menos 2 anos**, mas os sintomas **não** atingem a gravidade ou duração de um Episódio Hipomaníaco ou Depressivo Maior completo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apenas um Episódio Depressivo Maior.",
+                      "explanation": "Incorreta. Isso define a Depressão Unipolar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ciclos de mania e depressão ocorrendo a cada 3 dias.",
+                      "explanation": "Incorreta. A Ciclagem Rápida é definida por 4 ou mais episódios em 12 meses."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q23",
+                  "statement": "O que caracteriza o Transtorno Dismórfico Corporal (TDC)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Obsessões relacionadas à simetria e compulsões de lavar as mãos.",
+                      "explanation": "Incorreta. Estas são manifestações do TOC."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Preocupação com um defeito imaginado ou leve defeito na aparência que causa sofrimento clinicamente significativo.",
+                      "explanation": "Correta! O TDC é caracterizado pela **preocupação com um ou mais defeitos ou falhas percebidas na aparência física que são ausentes ou leves para outros**, levando a comportamentos repetitivos (como verificar-se no espelho) e a sofrimento significativo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Medo de ganhar peso e comportamentos compensatórios (purgativos).",
+                      "explanation": "Incorreta. Esta é a característica da Bulimia Nervosa."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Recusa em manter peso corporal mínimo e medo de engordar.",
+                      "explanation": "Incorreta. Esta é a característica da Anorexia Nervosa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Episódios recorrentes de compulsão alimentar sem comportamento compensatório.",
+                      "explanation": "Incorreta. Esta é a característica do Transtorno da Compulsão Alimentar."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q24",
+                  "statement": "No contexto do Transtorno de Ansiedade Generalizada (TAG), o que o termo 'inquietação geral' significa?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas tremores físicos e agitação motora.",
+                      "explanation": "Incorreta. A Inquietação Geral é mais do que só agitação motora; é a sensação subjetiva de agitação constante."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Uma preocupação excessiva e incontrolável sobre eventos passados.",
+                      "explanation": "Incorreta. O TAG foca no **futuro**, e Inquietação Geral é um sintoma físico/cognitivo, não a preocupação em si."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Sensação constante de agitação, de estar 'a mil' ou 'ligado', sem conseguir relaxar.",
+                      "explanation": "Correta! A Inquietação Geral é a **sensação constante de agitação, de estar 'a mil' ou 'ligado'**, que faz parte dos sintomas centrais do TAG."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ausência de expressão emocional.",
+                      "explanation": "Incorreta. Esta é a definição de afeto embotado (sintoma negativo)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A redução da expressão da fala (alogia).",
+                      "explanation": "Incorreta. Alogia refere-se à redução do discurso."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q25",
+                  "statement": "O que a **Teoria Cognitiva** dos Transtornos Mentais enfatiza?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O papel dos conflitos internos e do inconsciente.",
+                      "explanation": "Incorreta. Esta é a ênfase da Teoria Psicodinâmica (Psicanalítica)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fatores genéticos e neurobiológicos.",
+                      "explanation": "Incorreta. Esta é a ênfase da Teoria Biológica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O papel dos **padrões de pensamento irracional** e das **distorções cognitivas** (crenças desadaptativas) na gênese dos Transtornos Mentais.",
+                      "explanation": "Correta! A Teoria Cognitiva enfatiza o papel dos **padrões de pensamento irracional** e das **distorções cognitivas** (crenças desadaptativas) na gênese e manutenção dos Transtornos Mentais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A aprendizagem de comportamentos desadaptativos.",
+                      "explanation": "Incorreta. Esta é a ênfase das Teorias Comportamentais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A interação entre diátese e estresse.",
+                      "explanation": "Incorreta. Esta é a ênfase da Teoria da Diátese-Estresse."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q26",
+                  "statement": "Qual é um dos principais fatores que aumenta o risco de suicídio em pacientes com Transtorno Bipolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ocorrência apenas de Episódios Hipomaníacos.",
+                      "explanation": "Incorreta. O risco é maior durante as fases depressivas e de sintomas mistos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Aumento do tempo entre os episódios.",
+                      "explanation": "Incorreta. Aumento do tempo de eutimia (humor normal) reduz o risco."
+                    },
+                    {
+                      "id": "C",
+                      "text": "**Sintomas depressivos** ou **sintomas mistos** (depressão com mania concomitante).",
+                      "explanation": "Correta! Os fatores que aumentam o risco de suicídio no Transtorno Bipolar incluem **sintomas depressivos**, **sintomas mistos** (ex: depressão com agitação/impulsividade maníaca) e histórico de tentativas prévias."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ausência total de medicamentos estabilizadores de humor.",
+                      "explanation": "Incorreta. O tratamento farmacológico, como o lítio, é protetor, mas o fator de risco é a presença de sintomas e não a ausência da medicação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O diagnóstico de Transtorno Bipolar Tipo II.",
+                      "explanation": "Incorreta. Ambos os tipos (I e II) apresentam alto risco, mas os sintomas específicos aumentam o risco."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q27",
+                  "statement": "Qual dos seguintes é um **fator de risco psicossocial** para o desenvolvimento de Transtornos Mentais?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Predisposição genética.",
+                      "explanation": "Incorreta. Este é um fator de risco biológico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Anormalidades em neurotransmissores.",
+                      "explanation": "Incorreta. Este é um fator de risco biológico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "**Baixo *status* socioeconômico, pobreza e conflitos familiares**.",
+                      "explanation": "Correta! Fatores de risco psicossociais incluem **baixo *status* socioeconômico, pobreza, conflitos familiares, abuso infantil e estresse ambiental crônico**."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Padrões de pensamento irracional (cognitivos).",
+                      "explanation": "Incorreta. Estes são fatores de risco psicológicos/cognitivos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ausência de movimento (catatonia).",
+                      "explanation": "Incorreta. Catatonia é um sintoma motor/psicomotor."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q28",
+                  "statement": "O que caracteriza o padrão de 'Ciclagem Rápida' (ou Ciclo Rápido) no Transtorno Bipolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Alternância entre mania e depressão a cada 6 meses, no máximo.",
+                      "explanation": "Incorreta. O critério é de 4 ou mais episódios nos últimos 12 meses."
+                    },
+                    {
+                      "id": "B",
+                      "text": "**Quatro ou mais episódios** de humor (mania, hipomania ou depressão maior) nos últimos 12 meses, e o uso de antidepressivos pode contribuir.",
+                      "explanation": "Correta! O padrão de Ciclagem Rápida é definido por **quatro ou mais episódios** de humor (mania, hipomania ou depressão maior) nos últimos 12 meses, e o uso de antidepressivos pode ser um fator de risco."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Alternância entre mania e depressão a cada semana, sem fatores de risco conhecidos.",
+                      "explanation": "Incorreta. O material indica que a frequência pode ocorrer em 1 semana ou até 1 dia, mas o uso de antidepressivos é um fator de risco."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Dois episódios maníacos completos e um episódio depressivo por ano, com início precoce.",
+                      "explanation": "Incorreta. Exige quatro ou mais episódios nos últimos 12 meses."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Caracterizado apenas pela hipomania, sem episódios depressivos.",
+                      "explanation": "Incorreta. A Ciclagem Rápida envolve episódios de mania, hipomania *ou* depressão maior."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q29",
+                  "statement": "O Transtorno Dismórfico Corporal (TDC) tem uma prevalência atual de 2,5% em mulheres e 2,2% em homens. Qual o risco de suicídio comparado à população geral?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A taxa de suicídio é igual à da população geral, pois é um transtorno focado na aparência.",
+                      "explanation": "Incorreta. A taxa de suicídio é 45 vezes maior."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É 10 vezes maior, focado em homens.",
+                      "explanation": "Incorreta. A taxa é 45x maior."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É 25% mais alta, especialmente quando há comorbidade com TOC.",
+                      "explanation": "Incorreta. A taxa é 45 vezes maior."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A taxa de suicídio é 45 vezes maior quando comparada à população geral.",
+                      "explanation": "Correta! A taxa de suicídio associada ao TDC é **45 vezes maior** quando comparada à população geral, o que ressalta a gravidade do transtorno."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O risco é baixo, pois é facilmente tratado com terapia cognitivo-comportamental.",
+                      "explanation": "Incorreta. O risco de suicídio é extremamente alto (45x maior)."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicopatologia2_v2_L1_Q30",
+                  "statement": "Qual dos seguintes transtornos de personalidade faz parte do 'Cluster B' (dramático, emocional ou errático) e é caracterizado por um padrão de grandiosidade, necessidade de admiração e falta de empatia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Transtorno da Personalidade Esquiva (Cluster C).",
+                      "explanation": "Incorreta. O Esquiva é Cluster C."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Transtorno da Personalidade Esquizóide (Cluster A).",
+                      "explanation": "Incorreta. O Esquizóide é Cluster A."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Transtorno da Personalidade Antissocial (Cluster B).",
+                      "explanation": "Incorreta. O Antissocial é Cluster B, mas é caracterizado por desrespeito e violação dos direitos dos outros, não por grandiosidade/necessidade de admiração."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Transtorno da Personalidade *Borderline* (Cluster B).",
+                      "explanation": "Incorreta. O *Borderline* é Cluster B, mas é caracterizado por instabilidade afetiva, de autoimagem e de relacionamentos, não por grandiosidade/necessidade de admiração."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Transtorno da Personalidade Narcisista (Cluster B).",
+                      "explanation": "Correta! O Transtorno da Personalidade Narcisista faz parte do Cluster B e é caracterizado por um padrão de **grandiosidade**, **necessidade de admiração** e **falta de empatia**."
+                    }
+                  ],
+                  "answer": "E"
+                }
+              ]
             }
           ]
         },
