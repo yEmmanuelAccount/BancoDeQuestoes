@@ -291,7 +291,7 @@ function init(){
     const list = (subject.lists || []).find(l => l.id === qparams.list || (l.id && l.id.toLowerCase() === (qparams.list||'').toLowerCase() || (l.title && l.title.toLowerCase() === (qparams.list||'').toLowerCase())));
     if(!list) { setMeta('Lista não encontrada'); showError('Lista não encontrada'); return; }
 
-    setMeta(`${period.title} — ${subject.title} — ${list.title}`);
+    setMeta(`〖${period.title} — ${subject.title}〗⤏ ${list.title}`);
 
     // questions could be under list.questions or list.items or list.questionsList
     questions = list.questions || list.items || list.questionsList || [];

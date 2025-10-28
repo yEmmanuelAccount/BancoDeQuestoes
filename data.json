@@ -7763,7 +7763,7 @@
           "lists": [
             {
               "id": "p4_psicopatologia2_L1",
-              "title": "Lista 1",
+              "title": "(v1) - Lista 1",
               "questions": [
                 {
                   "id": "p4_psicopatologia2_L1_Q1",
@@ -8729,7 +8729,7 @@
             },
             {
               "id": "p4_psicopatologia_L2",
-              "title": "Lista 2",
+              "title": "(v1) - Lista 2",
               "questions": [
                 {
                   "id": "p4_Psicopatologia_L2_Q1",
@@ -9695,7 +9695,7 @@
             },
             {
               "id": "p4_psicopatologia_L3",
-              "title": "Lista 3",
+              "title": "(v1) - Lista 3",
               "questions": [
                 {
                   "id": "p4_Psicopatologia_L3_Q1",
@@ -10661,7 +10661,7 @@
             },
             {
               "id": "p4_psicopatologia_L4",
-              "title": "Lista 4",
+              "title": "(v1) - Lista 4",
               "questions": [
                 {
                   "id": "p4_Psicopatologia_L4_Q1",
@@ -11627,7 +11627,7 @@
             },
             {
               "id": "p4_psicopatologia2_v2_L1",
-              "title": "v2 - Lista 1",
+              "title": "(v2) - Lista 1: Psicopatologia_V2 e Ansiedade_AV2",
               "questions": [
                 {
                   "id": "p4_psicopatologia2_v2_L1_Q1",
@@ -12599,7 +12599,7 @@
           "lists": [
             {
               "id": "p4_PEeE_L1",
-              "title": "Lista 1",
+              "title": "(v1) - Lista 1",
               "questions": [
                 {
                   "id": "p4_PEeE_L1_Q1",
@@ -13565,7 +13565,7 @@
             },
             {
               "id": "p4_PeE_L2",
-              "title": "Lista 2",
+              "title": "(v1) - Lista 2",
               "questions": [
                 {
                   "id": "p4_PeE_L2_Q1",
@@ -14531,7 +14531,7 @@
             },
             {
               "id": "p4_psicologia_escolar_e_educacional_L3",
-              "title": "Lista 3",
+              "title": "(v1) - Lista 3",
               "questions": [
                 {
                   "id": "p4_psicologia_escolar_e_educacional_L3_Q1",
@@ -15497,7 +15497,7 @@
             },
             {
               "id": "p4_psicologia_escolar_e_educacional_L4",
-              "title": "Lista 4",
+              "title": "(v1) - Lista 4",
               "questions": [
                 {
                   "id": "p4_psicologia_escolar_e_educacional_L4_Q1",
@@ -16463,7 +16463,7 @@
             },
             {
               "id": "p4_psicologia_escolar_e_educacional_L5",
-              "title": "Lista 5",
+              "title": "(v1) - Lista 5",
               "questions": [
                 {
                   "id": "p4_psicologia_escolar_e_educacional_L5_Q1",
@@ -17424,6 +17424,1938 @@
                     }
                   ],
                   "answer": "B"
+                }
+              ]
+            },
+                        {
+              "id": "p4_psicologia_escolar_e_educacional_v2_L1",
+              "title": "(v2) - Lista 1: Contribuições de Henri Wallon no processo ensino-aprendizagem",
+              "questions": [
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q1",
+                  "statement": "Qual é o principal foco da teoria de Henri Wallon, conforme discutido no texto, em relação ao desenvolvimento humano e ao processo de ensino-aprendizagem?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O estudo exclusivo dos aspectos cognitivos, ignorando fatores sociais.",
+                      "explanation": "Incorreta. A teoria walloniana não foca exclusivamente o cognitivo; ela é uma teoria psicogenética que enfatiza a integração dos domínios afetivo, cognitivo e motor."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A análise do processo de ensino-aprendizagem como uma unidade, onde a relação interpessoal professor-aluno é um fator determinante.",
+                      "explanation": "Correta! O processo ensino-aprendizagem pode ser analisado com uma unidade, sendo a relação interpessoal professor-aluno um fator determinante nessa unidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A identificação de estágios de desenvolvimento que ocorrem de maneira totalmente independente das condições ambientais.",
+                      "explanation": "Incorreta. Wallon afirma que o desenvolvimento se dá a partir da interação do potencial genético com uma grande variedade de fatores ambientais, incluindo os socio-culturais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A separação estrita entre Psicologia e Educação, tratando-as como ciências e artes aplicadas distintas.",
+                      "explanation": "Incorreta. Wallon afirma que entre a Psicologia e a Educação há uma relação de dependência mútua."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento motor como o único domínio a ser considerado na psicogênese.",
+                      "explanation": "Incorreta. Wallon foca na integração dos domínios afetivo, cognitivo e motor."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q2",
+                  "statement": "Segundo Wallon, qual a relação entre o potencial genético (biológico) e os fatores socio-culturais no processo de desenvolvimento humano?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desenvolvimento é determinado exclusivamente pelo potencial genético, sendo os fatores socio-culturais irrelevantes.",
+                      "explanation": "Incorreta. Wallon defende a interação entre o potencial genético e os fatores ambientais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O desenvolvimento é determinado exclusivamente pelos fatores socio-culturais, sobrepondo-se ao potencial genético.",
+                      "explanation": "Incorreta. Wallon defende a interação entre o potencial genético e os fatores ambientais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O desenvolvimento se dá a partir da interação do potencial genético com uma grande variedade de fatores ambientais, incluindo os socio-culturais.",
+                      "explanation": "Correta! Wallon afirma que o desenvolvimento se dá a partir da interação do potencial genético com uma grande variedade de fatores ambientais, incluindo os socio-culturais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O potencial genético e os fatores socio-culturais são antagônicos e nunca interagem.",
+                      "explanation": "Incorreta. Wallon defende a interação e a interdependência."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O potencial genético define o desenvolvimento até a infância, e o sociocultural o define a partir da adolescência.",
+                      "explanation": "Incorreta. A interação é contínua."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q3",
+                  "statement": "Qual é a relação entre Psicologia e Educação na perspectiva de Henri Wallon?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "São ciências aplicadas totalmente separadas, sem relação de dependência mútua.",
+                      "explanation": "Incorreta. Wallon afirma que há uma relação de dependência mútua."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Psicologia deve ser vista apenas como ciência pura, e a Educação como arte aplicada, sem cruzamentos de domínio.",
+                      "explanation": "Incorreta. Wallon não separa estritamente os domínios, defendendo a interdependência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Há uma relação de dependência mútua, com a Psicologia funcionando como uma disciplina auxiliar fundamental para a Educação.",
+                      "explanation": "Correta! Wallon afirma que entre a Psicologia e a Educação há uma relação de dependência mútua, com a Psicologia funcionando como uma disciplina auxiliar fundamental para a Educação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Educação é a única disciplina auxiliar da Psicologia, no sentido oposto ao que Wallon propôs.",
+                      "explanation": "Incorreta. A Psicologia é que é auxiliar da Educação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Wallon não abordou a relação entre Psicologia e Educação em sua teoria.",
+                      "explanation": "Incorreta. A relação entre as duas é um ponto central na aplicação de sua teoria."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q4",
+                  "statement": "De acordo com Wallon, qual a natureza do processo de desenvolvimento humano?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Linear e determinado exclusivamente pela cognição, com o motor e afetivo sendo secundários.",
+                      "explanation": "Incorreta. É descontínuo e focado na integração."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Descontínuo, com reviravoltas, marcado por conflitos e crises que levam à reorganização da personalidade.",
+                      "explanation": "Correta! O processo de desenvolvimento humano é descontínuo, com reviravoltas, marcado por conflitos e crises que levam à reorganização da personalidade (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Contínuo e previsível, sem a ocorrência de crises ou conflitos internos.",
+                      "explanation": "Incorreta. É descontínuo e marcado por crises e conflitos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Totalmente determinado pelo ambiente, sendo o potencial genético irrelevante.",
+                      "explanation": "Incorreta. É determinado pela interação de fatores genéticos e ambientais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Definido apenas pela imitação da conduta do adulto.",
+                      "explanation": "Incorreta. É mais complexo que a simples imitação."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q5",
+                  "statement": "Wallon defende que o processo de desenvolvimento é uma unidade, composta por quais domínios funcionais que se integram e se interdependem?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Social, Cultural e Econômico.",
+                      "explanation": "Incorreta. Wallon define os domínios funcionais internos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Afetivo, Cognitivo e Motor.",
+                      "explanation": "Correta! O desenvolvimento é uma unidade composta pelos domínios Afetivo, Cognitivo e Motor, que se integram e se interdependem (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Sensorial, Perceptivo e Mnemônico.",
+                      "explanation": "Incorreta. Estes são subdomínios, não os principais domínios funcionais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Genético, Biológico e Neuroquímico.",
+                      "explanation": "Incorreta. Estes são fatores subjacentes, não os domínios funcionais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Familiar, Escolar e Comunitário.",
+                      "explanation": "Incorreta. Estes são contextos sociais."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q6",
+                  "statement": "Qual é a relação de oposição defendida por Wallon, que contribui para o processo dialético do desenvolvimento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A oposição entre o potencial genético e a maturação neurológica.",
+                      "explanation": "Incorreta. Oposição é entre o indivíduo e a cultura/sociedade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A oposição entre o domínio afetivo e o domínio motor.",
+                      "explanation": "Incorreta. Wallon defende a oposição entre o indivíduo e a cultura/sociedade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A oposição entre o indivíduo e a cultura/sociedade.",
+                      "explanation": "Correta! A oposição entre o indivíduo e a cultura/sociedade é que contribui para o processo dialético do desenvolvimento (Wallon)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A oposição entre o comportamento e a cognição.",
+                      "explanation": "Incorreta. A oposição é entre o indivíduo e a cultura/sociedade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A oposição entre o Id e o Superego.",
+                      "explanation": "Incorreta. Esta é uma oposição da teoria psicanalítica de Freud."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q7",
+                  "statement": "Segundo Wallon, o que é o 'Meio Cultural e Social' e qual seu papel no desenvolvimento da criança?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um fator irrelevante que só influencia o desenvolvimento na idade adulta.",
+                      "explanation": "Incorreta. O meio é crucial desde o início."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O conjunto de fatores genéticos que a criança herda dos pais.",
+                      "explanation": "Incorreta. Meio cultural e social é ambiental, não genético."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O conjunto de elementos que cerca a criança e a partir do qual ela desenvolve a sua subjetividade.",
+                      "explanation": "Correta! O Meio Cultural e Social é o conjunto de elementos que cerca a criança e a partir do qual ela desenvolve a sua subjetividade (Wallon)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apenas o espaço físico onde a criança vive, sem influência no seu psicológico.",
+                      "explanation": "Incorreta. Engloba fatores sociais e culturais, não apenas o físico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A fase de desenvolvimento em que a criança adquire a linguagem.",
+                      "explanation": "Incorreta. É um fator ambiental, não uma fase."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q8",
+                  "statement": "Qual é a definição de **Afetividade** na perspectiva walloniana?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A capacidade exclusiva de resolver problemas e pensar abstratamente.",
+                      "explanation": "Incorreta. Esta é a definição de cognição."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A capacidade de o ser humano ser afetado pelo mundo exterior/interior apenas por sensações de desprazer.",
+                      "explanation": "Incorreta. É afetado por sensações de agrado/desprazer."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A capacidade de o ser humano ser afetado pelo mundo exterior/interior por sensações ligadas às finalidades agradáveis/desagradáveis (prazer/desprazer).",
+                      "explanation": "Correta! Afetividade é a capacidade de o ser humano ser afetado pelo mundo exterior/interior por sensações ligadas às finalidades agradáveis/desagradáveis (prazer/desprazer) (Wallon)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O ato de reagir com atividades internas ou externas que a situação desperta (Ser Afetado).",
+                      "explanation": "Incorreta. Esta é a definição de Ser Afetado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A manifestação de um único sentimento de paixão que dura toda a vida.",
+                      "explanation": "Incorreta. A afetividade é um termo mais amplo que engloba emoção, sentimento e paixão."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q9",
+                  "statement": "Qual dos seguintes elementos **não** faz parte do conceito de Afetividade em Wallon?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Emoção.",
+                      "explanation": "Incorreta. Emoção faz parte da Afetividade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Pensamento categorial.",
+                      "explanation": "Correta! O Pensamento Categorial é um elemento do domínio **Cognitivo**, não do Afetivo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Sentimento.",
+                      "explanation": "Incorreta. Sentimento faz parte da Afetividade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Paixão.",
+                      "explanation": "Incorreta. Paixão faz parte da Afetividade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ser Afetado.",
+                      "explanation": "Incorreta. Ser Afetado é o ato de reagir à Afetividade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q10",
+                  "statement": "De acordo com o texto, qual é o principal papel da **Emoção** no desenvolvimento infantil?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas o de organizar o pensamento racional e o intelecto.",
+                      "explanation": "Incorreta. O principal papel é o funcional e o social."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A de ser um simples estado interno, sem função social ou expressiva.",
+                      "explanation": "Incorreta. A emoção tem função expressiva e social."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Um papel **funcional** de organizar as ações e a de ser um **instrumento de expressão e comunicação** entre a criança e o meio social.",
+                      "explanation": "Correta! A Emoção tem papel funcional de organizar as ações e a de ser um instrumento de expressão e comunicação entre a criança e o meio social (Wallon)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O papel exclusivo de gerar o sentimento de culpa e de angústia.",
+                      "explanation": "Incorreta. O papel é funcional e social/comunicativo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A de ser um estado de paixão que só aparece na adolescência.",
+                      "explanation": "Incorreta. Emoção é distinta de paixão e aparece desde o nascimento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q11",
+                  "statement": "Qual a principal diferença entre Emoção e Sentimento, na perspectiva da teoria walloniana?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Emoção é exclusiva da idade adulta; o Sentimento é da infância.",
+                      "explanation": "Incorreta. Ambos estão presentes em diferentes fases."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Emoção é de natureza **orgânica, visível e instrumental** na interação; o Sentimento é de natureza **simbólica, mental e íntima**.",
+                      "explanation": "Correta! A Emoção tem natureza orgânica (visível, expressiva) e instrumental na interação; o Sentimento tem natureza simbólica, é mental e íntimo (não visível) (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O Sentimento sempre se transforma em Paixão; a Emoção não se transforma.",
+                      "explanation": "Incorreta. Paixão é um estado mais estável e duradouro."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Sentimento é sempre de desprazer; a Emoção é sempre de prazer.",
+                      "explanation": "Incorreta. Ambos podem ser agradáveis ou desagradáveis."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Não há diferença, são termos sinônimos.",
+                      "explanation": "Incorreta. São distintos em natureza (orgânica vs. simbólica)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q12",
+                  "statement": "O que caracteriza a **Paixão** no conjunto da Afetividade, segundo Wallon?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um estado afetivo de natureza orgânica e visível (como a Emoção).",
+                      "explanation": "Incorreta. Esta é a Emoção. A paixão é mais estável e duradoura."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Um estado afetivo de natureza **simbólica**, mais **estável, duradouro e com maior grau de elaboração** que o Sentimento.",
+                      "explanation": "Correta! A Paixão é um estado afetivo de natureza simbólica, mais **estável, duradouro** e com maior grau de elaboração que o Sentimento (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas a fase inicial da relação professor-aluno.",
+                      "explanation": "Incorreta. Paixão é um estado afetivo da criança/sujeito."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A capacidade de resolver problemas matemáticos complexos.",
+                      "explanation": "Incorreta. Esta é a cognição."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um estágio de desenvolvimento entre 3 e 6 meses de vida.",
+                      "explanation": "Incorreta. Paixão é um estado afetivo, não um estágio."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q13",
+                  "statement": "O que é o **Ser Afetado**, e qual sua relação com a Afetividade?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É a capacidade de ser afetado (Afetividade) e não a reação a esse afeto.",
+                      "explanation": "Incorreta. Ser Afetado é a reação, não a capacidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O ato de **reagir** com atividades internas ou externas que a situação desperta, sendo a manifestação da Afetividade.",
+                      "explanation": "Correta! A Afetividade é a capacidade de ser afetado (prazer/desprazer), e **Ser Afetado é o ato de reagir** com atividades internas ou externas que a situação desperta (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É um estado de apatia e indiferença, sem manifestação.",
+                      "explanation": "Incorreta. É a manifestação/reação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É o desenvolvimento motor exclusivo do bebê nos primeiros 3 meses.",
+                      "explanation": "Incorreta. Ser Afetado é a reação à afetividade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É sinônimo de Sentimento (íntimo e mental).",
+                      "explanation": "Incorreta. É a manifestação/reação (mais amplo)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q14",
+                  "statement": "Qual dos seguintes aspectos é uma das funções do domínio **Motor** na psicogênese walloniana?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Geração do pensamento categorial (intelecto).",
+                      "explanation": "Incorreta. Esta é a função do domínio Cognitivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Expressão e representação de emoções e sentimentos, e base para a imitação da conduta.",
+                      "explanation": "Correta! O domínio Motor expressa e representa emoções e sentimentos, sendo a base para a imitação da conduta e do pensamento (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estabelecimento de laços sociais de forma exclusiva (Função social da Emoção).",
+                      "explanation": "Incorreta. Esta é a função da Emoção, que tem base motora, mas não é a única função do domínio motor."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A capacidade de ser afetado pelo mundo exterior/interior.",
+                      "explanation": "Incorreta. Esta é a função do domínio Afetivo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A fase inicial de desenvolvimento (Estágio Impulsivo-Emocional).",
+                      "explanation": "Incorreta. É um domínio, não uma fase."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q15",
+                  "statement": "Qual é a relação de interdependência entre os domínios Afetivo e Motor no desenvolvimento, de acordo com Wallon?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O domínio Afetivo é totalmente independente do Motor.",
+                      "explanation": "Incorreta. São interdependentes."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O domínio Motor é base para a expressão e representação dos afetos, mas não é influenciado por eles.",
+                      "explanation": "Incorreta. O motor é influenciado pelos afetos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O domínio Afetivo é responsável apenas pelo Sentimento; o Motor, pela Emoção.",
+                      "explanation": "Incorreta. Ambos os domínios se relacionam a ambos os aspectos (ex: motor expressa a emoção)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O domínio Afetivo é a **causa** e o domínio Motor é o **instrumento de expressão e comunicação** entre a criança e o meio.",
+                      "explanation": "Correta! O domínio Afetivo é a causa e o domínio Motor é o instrumento de expressão e comunicação entre a criança e o meio (Wallon)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O domínio Motor é a causa e o Afetivo é o instrumento de expressão.",
+                      "explanation": "Incorreta. O Afetivo é a causa (o que afeta) e o Motor é o instrumento (a reação)."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q16",
+                  "statement": "Qual a principal característica do domínio **Cognitivo** no processo de desenvolvimento walloniano?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A capacidade de ser afetado pelo mundo exterior/interior (Afetividade).",
+                      "explanation": "Incorreta. Esta é a Afetividade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A capacidade de **representar, evocar e manipular** mentalmente as situações (função simbólica) e de gerar o **pensamento categorial**.",
+                      "explanation": "Correta! O domínio Cognitivo é a capacidade de **representar, evocar e manipular** mentalmente as situações (função simbólica) e de gerar o **pensamento categorial** (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas a capacidade de executar movimentos reflexos e automáticos.",
+                      "explanation": "Incorreta. Esta é a função motora inicial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O ato de reagir com atividades internas ou externas que a situação desperta (Ser Afetado).",
+                      "explanation": "Incorreta. Esta é a reação do domínio Afetivo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A capacidade de sentir paixão (estado afetivo estável).",
+                      "explanation": "Incorreta. Paixão é do domínio Afetivo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q17",
+                  "statement": "Qual dos domínios funcionais de Wallon (Afetivo, Cognitivo ou Motor) predomina no **primeiro ano** de vida, e qual seu principal objetivo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Cognitivo, com o objetivo de gerar o pensamento categorial.",
+                      "explanation": "Incorreta. É o afetivo que predomina no início."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Motor, com o objetivo de desenvolver a marcha e a coordenação.",
+                      "explanation": "Incorreta. É o afetivo que predomina no primeiro ano."
+                    },
+                    {
+                      "id": "C",
+                      "text": "**Afetivo**, com o objetivo de estabelecer a **simbiose afetiva** e a construção do eu psíquico a partir da relação com o outro.",
+                      "explanation": "Correta! O domínio Afetivo predomina no primeiro ano de vida (Estágio Impulsivo-Emocional), e seu principal objetivo é o de estabelecer a **simbiose afetiva** e a construção do eu psíquico a partir da relação com o outro (Wallon)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Social, com o objetivo de resolver conflitos e crises.",
+                      "explanation": "Incorreta. O social é o meio, e não o domínio principal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Todos os domínios se desenvolvem simultaneamente sem predomínio.",
+                      "explanation": "Incorreta. Wallon defende a alternância de predomínio funcional (lei da alternância)."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q18",
+                  "statement": "O que a **Lei da Alternância Funcional** proposta por Wallon estabelece?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A alternância de predomínio entre o potencial genético e os fatores ambientais.",
+                      "explanation": "Incorreta. A lei foca na alternância de domínios (afetividade/cognição) e na orientação (centrípeta/centrífuga)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A alternância de predomínio entre o domínio Motor e o Cognitivo ao longo do desenvolvimento.",
+                      "explanation": "Incorreta. A lei foca na alternância entre afetividade e cognição."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A alternância no predomínio de um conjunto funcional (Afetivo ou Cognitivo) e a orientação da atividade (para dentro – **centrípeta** – ou para o meio – **centrífuga**).",
+                      "explanation": "Correta! A Lei da Alternância Funcional estabelece a alternância no predomínio de um conjunto funcional (Afetivo ou Cognitivo) e a orientação da atividade (para dentro – centrípeta – ou para o meio – centrífuga) (Wallon)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A alternância exclusiva de estágios de desenvolvimento a cada 10 anos.",
+                      "explanation": "Incorreta. A lei não é sobre estágios, mas sobre o predomínio funcional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento ocorre em ciclos ininterruptos e sem conflitos.",
+                      "explanation": "Incorreta. O desenvolvimento é descontínuo e marcado por conflitos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q19",
+                  "statement": "Qual dos estágios de desenvolvimento propostos por Wallon tem a orientação **Centrípeta** (para dentro, na busca de formação do Eu) e predomínio do domínio **Afetivo**?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Estágio Categorial (Centrífuga, Cognitivo).",
+                      "explanation": "Incorreta. O Categorial é centrífuga/cognitivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estágio do Personalismo (Centrípeta, Afetivo).",
+                      "explanation": "Correta! O Estágio do Personalismo tem a orientação **Centrípeta** (para o Eu) e predomínio do domínio **Afetivo**, pois seu objetivo é a construção do Eu psíquico (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estágio Impulsivo-Emocional (Centrípeta, Afetivo).",
+                      "explanation": "Incorreta. Embora seja Afetivo/Centrípeta, o Personalismo é focado na construção do Eu (3-6 anos), o Impulsivo-Emocional é a primeira fase."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Estágio da Adolescência (Centrípeta, Afetivo).",
+                      "explanation": "Incorreta. A Adolescência é Afetivo/Centrípeta, mas o Personalismo é a fase do Eu na infância."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estágio Sensório-Motor e Projetivo (Centrífuga, Cognitivo).",
+                      "explanation": "Incorreta. É centrífuga/cognitivo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q20",
+                  "statement": "O Estágio **Sensório-Motor e Projetivo** (1-3 anos) é caracterizado por qual orientação e predomínio funcional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Centrípeta (para dentro) e Afetivo.",
+                      "explanation": "Incorreta. É centrífuga e cognitivo/motor."
+                    },
+                    {
+                      "id": "B",
+                      "text": "**Centrífuga** (para o meio) e **Cognitivo/Motor**, com a aquisição da linguagem e manipulação de objetos.",
+                      "explanation": "Correta! O Estágio Sensório-Motor e Projetivo tem a orientação **Centrífuga** (para o meio) e predomínio **Cognitivo/Motor**, com a aquisição da linguagem e manipulação de objetos (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Centrífuga (para o meio) e Afetivo.",
+                      "explanation": "Incorreta. É cognitivo/motor."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Centrípeta (para dentro) e Cognitivo.",
+                      "explanation": "Incorreta. É centrífuga e cognitivo/motor."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ausência de orientação e de predomínio funcional.",
+                      "explanation": "Incorreta. Todos os estágios têm orientação e predomínio."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q21",
+                  "statement": "Qual dos estágios de desenvolvimento (de 6 a 11 anos) é marcado pela orientação **Centrífuga** e predomínio **Cognitivo** (função simbólica e aquisição de conhecimentos)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Estágio Impulsivo-Emocional.",
+                      "explanation": "Incorreta. É centrípeta e afetivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estágio Categorial.",
+                      "explanation": "Correta! O Estágio Categorial (6-11 anos) é marcado pela orientação **Centrífuga** (para o meio) e predomínio **Cognitivo**, focado na função simbólica e aquisição de conhecimentos (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estágio do Personalismo.",
+                      "explanation": "Incorreta. É centrípeta e afetivo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Estágio Sensório-Motor e Projetivo.",
+                      "explanation": "Incorreta. É anterior e cognitivo/motor."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estágio da Adolescência.",
+                      "explanation": "Incorreta. É posterior e centrípeta/afetivo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q22",
+                  "statement": "Qual é a principal crise do **Estágio do Personalismo** (3-6 anos)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crise da aquisição da marcha e da linguagem (1-3 anos).",
+                      "explanation": "Incorreta. Esta é a crise do Estágio Sensório-Motor e Projetivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crise de identidade sexual e moral (Adolescência).",
+                      "explanation": "Incorreta. Esta é a crise do Estágio da Adolescência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A **crise de oposição (Birra)**, onde a criança usa o 'não' para se diferenciar e afirmar sua autonomia e a construção do Eu.",
+                      "explanation": "Correta! A principal crise do Personalismo é a **crise de oposição (Birra)**, onde a criança usa o 'não' para se diferenciar e afirmar sua autonomia e a construção do Eu (Wallon)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crise da aquisição do pensamento categorial (6-11 anos).",
+                      "explanation": "Incorreta. Esta é a crise do Estágio Categorial."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A crise da simbiose afetiva (1º ano de vida).",
+                      "explanation": "Incorreta. Esta é a crise do Estágio Impulsivo-Emocional."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q23",
+                  "statement": "O que caracteriza a crise de oposição (**Birra**) no Estágio do Personalismo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um simples capricho sem função no desenvolvimento.",
+                      "explanation": "Incorreta. A birra tem uma função importante na construção do eu."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A utilização do 'não' como forma de se **diferenciar do outro** e afirmar a sua **autonomia** e o **Eu psíquico**.",
+                      "explanation": "Correta! A crise de oposição (Birra) é a utilização do 'não' como forma de se **diferenciar do outro** e afirmar a sua **autonomia** e o **Eu psíquico** (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A negação de todos os laços sociais, levando ao isolamento (Adolescência).",
+                      "explanation": "Incorreta. Ocorre na infância e é uma tentativa de diferenciação, não isolamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A manifestação da Paixão (estado afetivo duradouro).",
+                      "explanation": "Incorreta. É a manifestação da Emoção (reação)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O predomínio do domínio Cognitivo (raciocínio).",
+                      "explanation": "Incorreta. O predomínio é afetivo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q24",
+                  "statement": "Qual é a relação de interdependência entre os domínios Afetivo e Cognitivo no desenvolvimento walloniano?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "São domínios totalmente independentes, sem influência mútua.",
+                      "explanation": "Incorreta. São interdependentes."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Afetividade é o **impulso para a ação**, a **mola propulsora da vida psíquica**; a Cognição representa a **organização do pensamento e o intelecto**.",
+                      "explanation": "Correta! A Afetividade é o **impulso para a ação**, a **mola propulsora da vida psíquica**; a Cognição representa a **organização do pensamento e o intelecto** (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Cognição é a causa; a Afetividade é o instrumento de expressão.",
+                      "explanation": "Incorreta. A Afetividade é o impulso (mola propulsora)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Afetividade só surge após o desenvolvimento completo da Cognição.",
+                      "explanation": "Incorreta. A afetividade é a primeira a se manifestar (Estágio Impulsivo-Emocional)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Cognição é o domínio predominante no primeiro ano de vida.",
+                      "explanation": "Incorreta. O Afetivo predomina no primeiro ano."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q25",
+                  "statement": "O que a **Imitação da Conduta** representa no desenvolvimento, e qual domínio funcional está mais relacionado a ela?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Imitação é uma função do domínio Afetivo (Paixão).",
+                      "explanation": "Incorreta. A imitação tem base motora e projeta o pensamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Imitação é a **mola propulsora da vida psíquica** e se relaciona ao domínio Afetivo.",
+                      "explanation": "Incorreta. A mola propulsora é a Afetividade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Imitação tem base no domínio **Motor** e é o **projeto do pensamento**; é o ato de copiar e reproduzir ações e palavras.",
+                      "explanation": "Correta! A Imitação da Conduta tem base no domínio **Motor** e é o **projeto do pensamento** (a ação motora que projeta o intelecto); é o ato de copiar e reproduzir ações e palavras (Wallon)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Imitação é um estágio de desenvolvimento (Estágio Categorial).",
+                      "explanation": "Incorreta. É uma função, não um estágio."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Imitação é a crise da adolescência (diferenciação do Eu).",
+                      "explanation": "Incorreta. A imitação ocorre na infância, principalmente no Estágio Sensório-Motor."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q26",
+                  "statement": "O **Estágio Impulsivo-Emocional** (0-1 ano) é caracterizado pela orientação **Centrípeta** e predomínio **Afetivo**. Qual é o principal **meio de comunicação** da criança nesta fase?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desenvolvimento do Pensamento Categorial.",
+                      "explanation": "Incorreta. O pensamento categorial é do Estágio Categorial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A **Emotividade e a Expressão Tônica (postura)**, sendo a base para a **simbiose afetiva** com a mãe.",
+                      "explanation": "Correta! O principal meio de comunicação é a **Emotividade e a Expressão Tônica (postura)**, que é a base para a **simbiose afetiva** com a mãe (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A utilização da linguagem verbal complexa (frases).",
+                      "explanation": "Incorreta. A linguagem complexa não é desenvolvida nesta fase."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A crise de oposição (Birra).",
+                      "explanation": "Incorreta. A birra é do Personalismo (3-6 anos)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A aquisição da marcha autônoma.",
+                      "explanation": "Incorreta. A marcha é adquirida no estágio seguinte (Sensório-Motor)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q27",
+                  "statement": "Qual dos seguintes aspectos é uma das funções do domínio **Motor** na psicogênese walloniana, além da expressão de afetos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A capacidade de ser afetado (Afetividade).",
+                      "explanation": "Incorreta. Esta é a Afetividade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A base para o desenvolvimento da **Imitação da Conduta** e o **projeto do pensamento**.",
+                      "explanation": "Correta! O domínio Motor é a base para o desenvolvimento da **Imitação da Conduta** e o **projeto do pensamento** (a ação motora que projeta o intelecto) (Wallon)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O sentimento íntimo e mental (Sentimento).",
+                      "explanation": "Incorreta. Este é o Sentimento (domínio afetivo)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A resolução da crise de oposição (Birra).",
+                      "explanation": "Incorreta. A crise é do Personalismo (domínio afetivo)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A alternância de predomínio funcional (Lei da Alternância).",
+                      "explanation": "Incorreta. A lei abrange todos os domínios."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q28",
+                  "statement": "O que Wallon afirma sobre a relação de dependência mútua entre Psicologia e Educação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Psicologia deve ignorar a Educação para ser considerada uma ciência pura.",
+                      "explanation": "Incorreta. Wallon defende a dependência mútua."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Educação é a disciplina auxiliar da Psicologia, no sentido inverso ao proposto.",
+                      "explanation": "Incorreta. A Psicologia é que é auxiliar da Educação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A **Psicologia é auxiliar da Educação** por fornecer subsídios científicos e teorias sobre o desenvolvimento para otimizar o processo de ensino-aprendizagem.",
+                      "explanation": "Correta! Wallon afirma que a **Psicologia é auxiliar da Educação** por fornecer subsídios científicos e teorias sobre o desenvolvimento para otimizar o processo de ensino-aprendizagem."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ambas devem ser tratadas como artes aplicadas e não como ciências.",
+                      "explanation": "Incorreta. Wallon trata-as como ciências e artes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Wallon não estabeleceu nenhuma relação entre as duas áreas.",
+                      "explanation": "Incorreta. A relação é um ponto central na aplicação de sua teoria."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q29",
+                  "statement": "Qual é a principal crise do **Estágio da Adolescência** (a partir de 11 anos), que retorna a uma orientação centrípeta e predomínio afetivo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A crise de aquisição da marcha e da linguagem (1-3 anos).",
+                      "explanation": "Incorreta. Esta é do Sensório-Motor e Projetivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A crise da aquisição do pensamento categorial (6-11 anos).",
+                      "explanation": "Incorreta. Esta é do Categorial."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A crise da oposição (Birra) e diferenciação do Eu (3-6 anos).",
+                      "explanation": "Incorreta. Esta é do Personalismo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A **crise da identidade sexual e moral**, na busca de uma nova identidade adulta, rompendo com a infância.",
+                      "explanation": "Correta! A principal crise da Adolescência é a **crise da identidade sexual e moral**, na busca de uma nova identidade adulta e no rompimento com a infância (Wallon)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A crise da simbiose afetiva (1º ano de vida).",
+                      "explanation": "Incorreta. Esta é do Impulsivo-Emocional."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L1_Q30",
+                  "statement": "Qual a distinção correta entre Afetividade e Ser Afetado, segundo a perspectiva walloniana?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Afetividade é a emoção visível; Ser Afetado é o sentimento mental.",
+                      "explanation": "Incorreta. Afetividade é a capacidade de ser afetado; Emoção e Sentimento são manifestações da Afetividade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Afetividade é a **capacidade de ser afetado** pelo mundo (prazer/desprazer), e Ser Afetado é **reagir** com atividades internas/externas que a situação desperta.",
+                      "explanation": "Correta! Afetividade se refere à **capacidade de o ser humano ser afetado** pelo mundo exterior/interior por sensações ligadas às finalidades agradáveis/desagradáveis (prazer/desprazer), e Ser Afetado é **reagir** com atividades internas/externas que a situação desperta."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Afetividade é o estado de paixão que só aparece na adolescência, e Ser Afetado é a manifestação da emoção.",
+                      "explanation": "Incorreta. A afetividade é um termo mais amplo que engloba emoção, sentimento e paixão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Afetividade representa o pensamento categorial, e o Ser Afetado é a imitação da conduta.",
+                      "explanation": "Incorreta. O pensamento categorial é cognitivo, e a afetividade é um conjunto funcional distinto."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Afetividade e Ser Afetado são termos sinônimos, usados para descrever a consciência corporal.",
+                      "explanation": "Incorreta. São conceitos relacionados, mas com definições distintas sobre a capacidade de ser afetado e o ato de reagir a esse afeto."
+                    }
+                  ],
+                  "answer": "B"
+                }
+              ]
+            },
+            {
+              "id": "p4_psicologia_escolar_e_educacional_v2_L2",
+              "title": "(v2) - Lista 2: Lei nº 13.935/2019",
+              "questions": [
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q1",
+                  "statement": "A Lei nº 13.935/2019 dispõe sobre a prestação de serviços de psicologia e de serviço social nas redes públicas de educação básica. O Grupo de Trabalho (GT) responsável pela elaboração dos subsídios para a implementação desta lei definiu sete eixos organizadores para o planejamento e oferta desses serviços. Qual das opções abaixo NÃO representa um desses eixos organizadores?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Eixo 1: Escopo e Atribuições dos (As) Profissionais.",
+                      "explanation": "Este é o primeiro eixo organizador definido pelo GT."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Eixo 3: Valorização Profissional e Condições de Trabalho.",
+                      "explanation": "Este é o terceiro eixo organizador definido pelo GT."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Eixo 5: Parâmetros para a Implantação do Serviço.",
+                      "explanation": "Este é o quinto eixo organizador definido pelo GT."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Eixo 8: Regulação e Fiscalização dos Conselhos Profissionais.",
+                      "explanation": "Embora a atuação dos conselhos profissionais (CFESS e CFP) tenha sido fundamental na construção do documento, este não foi listado como um dos sete eixos organizadores para o planejamento e oferta dos serviços."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Eixo 7: Orçamento.",
+                      "explanation": "Os sete eixos organizadores são: Escopo e Atribuições dos (As) Profissionais; Formação Inicial e Formação Continuada; Valorização Profissional e Condições de Trabalho; Articulação com as Demais Políticas Sociais; Parâmetros para a Implantação do Serviço; Monitoramento e Avaliação; e Orçamento."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q2",
+                  "statement": "De acordo com os princípios que devem guiar a realização dos serviços de psicologia e serviço social na educação, qual visão sobre os(as) educandos(as) e a relação pedagógica deve ser superada?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Visão colaborativa e integrada.",
+                      "explanation": "A atuação colaborativa e integrada é um princípio a ser seguido."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Visão psicologizante, medicalizante, patologizante e assistencialista.",
+                      "explanation": "Um dos princípios é a superação da visão psicologizante, medicalizante, patologizante e assistencialista sobre os educandos e a relação pedagógica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Visão que defende o desenvolvimento integral.",
+                      "explanation": "A defesa do desenvolvimento integral é um princípio a ser seguido."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Visão que defende a gestão democrática.",
+                      "explanation": "A gestão democrática e participativa é um elemento estruturante das políticas de educação e deve ser fortalecida."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Visão que respeita a autonomia federativa.",
+                      "explanation": "O planejamento e a organização dos serviços devem respeitar a autonomia federativa."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q3",
+                  "statement": "A Lei nº 13.935/2019 estabelece que a atuação dos profissionais de psicologia e serviço social nas redes públicas de educação básica deve ocorrer na forma de equipes multiprofissionais. Segundo o texto, o escopo mais amplo da atividade dessas equipes encontra-se na realização de atividades de:",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Atendimento clínico individual a educandos.",
+                      "explanation": "O atendimento clínico individual é explicitamente desencorajado no ambiente escolar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Substituição das atividades pedagógicas e de gestão escolar.",
+                      "explanation": "A atuação deve se afastar da perspectiva de substituição dos profissionais de educação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Assessoramento técnico e apoio permanente às secretarias de educação, aos órgãos de gestão regional da rede de ensino e às escolas públicas.",
+                      "explanation": "O escopo mais amplo da atividade é o assessoramento técnico e apoio permanente a esses órgãos, embasado nos fundamentos da psicologia e do serviço social."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Fiscalização do cumprimento dos direitos dos profissionais da educação.",
+                      "explanation": "Embora a valorização profissional seja um eixo, a principal atividade é o assessoramento técnico para a melhoria dos processos de ensino-aprendizagem."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Proposição de emendas supressivas ao Projeto Político-Pedagógico.",
+                      "explanation": "A proposição de emendas supressivas é um mecanismo de alteração de texto em reuniões do GT, não sendo a atividade central do assessoramento nas redes de ensino."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q4",
+                  "statement": "A Lei nº 13.935/2019, ao instituir os serviços de psicologia e serviço social, define explicitamente as responsabilidades das equipes multiprofissionais na educação básica. Qual é a principal responsabilidade dessas equipes, conforme o texto da lei?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Desenvolver ações para a melhoria do processo de ensino-aprendizagem, com participação da comunidade, atuando na mediação das relações sociais e institucionais.",
+                      "explanation": "A Lei 13.935/2019 dispõe que as equipes devem \"desenvolver ações para a melhoria do processo de ensino-aprendizagem, com participação da comunidade, atuando na mediação das relações sociais e institucionais\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Realizar atendimento clínico e psicoterápico individualizado para os estudantes em situação de vulnerabilidade.",
+                      "explanation": "O atendimento clínico individual é desencorajado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Garantir o financiamento integral da educação básica por meio do FUNDEB, fiscalizando o uso dos 30% destinados à valorização profissional.",
+                      "explanation": "A questão orçamentária é um eixo, mas não é a principal responsabilidade das equipes em seu trabalho direto."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Elaborar o Plano Nacional de Educação (PNE) e suas metas de desenvolvimento integral.",
+                      "explanation": "O PNE é estabelecido pela Lei nº 13.005/2014."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Substituir os professores e gestores escolares na identificação e classificação de dificuldades de aprendizagem.",
+                      "explanation": "Os serviços devem se afastar da perspectiva de substituição dos profissionais de educação."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q5",
+                  "statement": "O documento de subsídios enfatiza a conexão conceitual e estratégica entre a Lei Federal nº 13.935/2019 e a Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei nº 9.394/1996. A Lei 13.935/2019 contribui para o objetivo comum de ambas ao:",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Exigir que as atividades de psicologia e serviço social se restrinjam ao SUAS e ao SUS.",
+                      "explanation": "O texto é explícito ao afastar a hipótese de que o trabalho seja confundido com o exercício dessas profissões em outras áreas, como SUAS ou SUS."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Priorizar o desenvolvimento cognitivo em detrimento do desenvolvimento social e emocional.",
+                      "explanation": "Ambas as leis convergem para a educação integral, abrangendo o desenvolvimento físico, intelectual e emocional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Focar exclusivamente no tratamento do currículo escolar e das práticas pedagógicas.",
+                      "explanation": "A Lei 13.935/2019 reforça aspectos fundamentais para o desenvolvimento pleno, incluindo o bem-estar e o fortalecimento das relações escolares."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Introduzir serviços de psicologia e serviço social nas redes públicas de educação básica, reforçando aspectos fundamentais para o desenvolvimento pleno das(os) educandas(os).",
+                      "explanation": "A Lei nº 13.935/2019 contribui ao introduzir esses serviços, reforçando a formação integral e cidadã."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estabelecer os princípios que devem fundamentar a oferta de educação escolar no país, como a gratuidade do ensino público.",
+                      "explanation": "A LDB estabelece a finalidade e os princípios da educação no Brasil, e a Constituição Federal, em seu artigo 206, estabelece esses princípios."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q6",
+                  "statement": "No que diz respeito à atuação das equipes multiprofissionais junto à gestão educacional das redes de ensino (secretarias e órgãos regionais), e a partir dos fundamentos e conhecimentos de suas áreas de formação, deve-se priorizar o apoio, assessoramento técnico e participação nas atividades abaixo, EXCETO:",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Apoio no planejamento de ações para assegurar o acesso, a permanência e a aprendizagem das(os) educandas(os), inclusive daqueles em situação de infrequência ou evasão escolar.",
+                      "explanation": "Esta é uma atividade prioritária junto à gestão educacional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Análise de dados, informações e indicadores da rede de ensino, para a proposição de medidas de melhoria da qualidade.",
+                      "explanation": "Esta é uma atividade prioritária junto à gestão educacional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apoio no planejamento e na realização de processos de formação continuada das(os) profissionais da educação.",
+                      "explanation": "Esta é uma atividade prioritária junto à gestão educacional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apoio no planejamento e realização de atividades destinadas à garantia do acesso, da permanência e da aprendizagem das(os) educandas(os) oriundos de comunidades tradicionais.",
+                      "explanation": "O apoio a este público específico é uma atividade prioritária junto à gestão educacional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Realização de Avaliação Psicológica Multirreferenciada para todos os educandos da rede a cada ano letivo.",
+                      "explanation": "A avaliação psicológica multirreferenciada é uma atribuição específica do profissional de Psicologia, mas é realizada \"ante às necessidades específicas identificadas no processo de ensino-aprendizagem\", e não como atividade generalizada para todos os educandos de toda a rede anualmente."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q7",
+                  "statement": "O documento de subsídios estabelece que as duas áreas — Serviço Social e Psicologia — são profissões regulamentadas no Brasil. A Lei que regulamenta a profissão de assistente social é a de número:",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Lei nº 13.935/2019.",
+                      "explanation": "Esta lei trata da prestação de serviços nas escolas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Lei nº 4.119/1962.",
+                      "explanation": "Esta lei regulamenta a profissão de psicólogo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Lei nº 8.662/1993.",
+                      "explanation": "A profissão de Serviço Social é regulamentada pela Lei nº 8.662/1993."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Lei nº 8.742/1993.",
+                      "explanation": "Esta lei dispõe sobre a organização da Assistência Social (LOAS)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Lei nº 13.005/2014.",
+                      "explanation": "Esta lei aprova o Plano Nacional de Educação (PNE)."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q8",
+                  "statement": "Qual dos princípios fundamentais listados abaixo se relaciona diretamente com a necessidade de proteção das trajetórias escolares e a superação das desigualdades educacionais, de acordo com o Plano Nacional de Educação (PNE)?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Priorização da medicalização e patologização para identificação de dificuldades.",
+                      "explanation": "O documento exige a superação da visão medicalizante e patologizante."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fundamentação na democratização do acesso, na garantia da permanência e na proteção das trajetórias escolares.",
+                      "explanation": "O PNE orienta a atuação das equipes na articulação com as demais políticas sociais, com o princípio de superação das desigualdades educacionais e a promoção da igualdade de oportunidades, com base na democratização do acesso e na garantia da permanência e da proteção das trajetórias escolares."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ênfase no atendimento clínico individual.",
+                      "explanation": "O atendimento clínico individual é desencorajado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Promoção da autonomia federativa irrestrita.",
+                      "explanation": "A autonomia federativa deve ser respeitada, mas não é o princípio que se relaciona diretamente com a proteção das trajetórias e superação das desigualdades educacionais, sendo esta atribuição do PNE."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Defesa da substituição dos profissionais de educação nas tarefas de gestão.",
+                      "explanation": "A atuação deve se afastar da perspectiva de substituição dos profissionais de educação."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q9",
+                  "statement": "O documento de subsídios ressalta a importância da articulação entre a educação e as demais políticas sociais (Saúde, Assistência Social, Direitos Humanos, etc.). Qual é o principal objetivo estratégico dessa articulação intersetorial?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que os profissionais de psicologia e serviço social trabalhem exclusivamente com o SUAS e o SUS, em vez da educação.",
+                      "explanation": "O texto é explícito ao afastar essa confusão de atuação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Assegurar o atendimento integral e a proteção social das(os) educandas(os) e suas famílias, fortalecendo a rede de proteção.",
+                      "explanation": "O objetivo é a \"articulação com as demais políticas sociais (Saúde, Assistência Social, Direitos Humanos, etc.), visando ao atendimento integral e à proteção social das(os) educandas(os) e suas famílias, fortalecendo a rede de proteção social\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Reduzir o orçamento da educação, transferindo a responsabilidade para as outras políticas sociais.",
+                      "explanation": "O orçamento é um eixo organizador importante, e a articulação não visa à redução orçamentária."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Limitar a atuação das equipes multiprofissionais apenas à elaboração do Projeto Político-Pedagógico (PPP).",
+                      "explanation": "O escopo da atuação é mais amplo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Determinar que o Conselho Tutelar realize todas as ações de mediação e resolução de conflitos.",
+                      "explanation": "O Conselho Tutelar é um órgão com atribuições específicas, e a mediação é uma atribuição das equipes multiprofissionais."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q10",
+                  "statement": "A Resolução nº 08/2019 do Conselho Federal de Psicologia (CFP) e a Resolução Conjunta CFP/CFESS nº 01/2021 estabelecem normas e orientações para a atuação dos profissionais na educação básica. O documento de subsídios da Lei nº 13.935/2019 enfatiza que a atuação em Psicologia e Serviço Social deve ser:",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Centrada no diagnóstico individual e na psicoterapia breve, em ambiente escolar.",
+                      "explanation": "O atendimento clínico é desencorajado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Realizada de forma isolada e autônoma, sem interferência dos demais profissionais da escola.",
+                      "explanation": "A atuação deve ser em equipes multiprofissionais e articulada."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Fundamentada na perspectiva multiprofissional, interdisciplinar e intersetorial, articulando-se com as demais políticas sociais.",
+                      "explanation": "A atuação deve ser \"fundamentada na perspectiva multiprofissional, interdisciplinar e intersetorial, articulando-se com as demais políticas sociais\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exclusiva às crianças com necessidades educacionais especiais, ignorando os educandos regulares.",
+                      "explanation": "O trabalho é na perspectiva da educação inclusiva para todos os educandos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Restrita à fiscalização do cumprimento das leis trabalhistas dos professores.",
+                      "explanation": "Embora a valorização profissional seja um eixo, esta não é a principal responsabilidade da atuação."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q11",
+                  "statement": "O conceito de \"educação integral\" na educação básica é fundamental para a atuação dos profissionais da Lei nº 13.935/2019. O que esse conceito abrange, de acordo com o Plano Nacional de Educação (PNE)?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Apenas a dimensão cognitiva e de transmissão de conteúdos didáticos.",
+                      "explanation": "A educação integral abrange o desenvolvimento em todas as suas dimensões: intelectual, física, social, emocional e cultural."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A articulação entre educação e trabalho, focando no ensino técnico e profissionalizante.",
+                      "explanation": "Embora a educação profissionalizante seja importante, o conceito de \"educação integral\" do PNE é mais amplo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A dimensão intelectual, física, social, emocional e cultural do desenvolvimento humano.",
+                      "explanation": "A educação integral visa à formação e ao desenvolvimento humano em todas as suas dimensões: intelectual, física, social, emocional e cultural."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O foco exclusivo na educação a distância (EaD) para atingir um maior número de estudantes.",
+                      "explanation": "O foco é na educação básica presencial e em todas as suas dimensões."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade de atendimento clínico psicoterápico individualizado.",
+                      "explanation": "O atendimento clínico individual é desencorajado."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q12",
+                  "statement": "A atuação do psicólogo no contexto da Lei nº 13.935/2019 deve ser distinta da prática clínica tradicional. Uma das principais atribuições do psicólogo na escola é:",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Realizar sessões de psicoterapia semanalmente com todos os estudantes encaminhados pela gestão.",
+                      "explanation": "O atendimento clínico é desencorajado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Atuar na prevenção e promoção da saúde e do desenvolvimento humano, intervindo nos processos educacionais.",
+                      "explanation": "A atuação deve ser preventiva, com foco na promoção da saúde, do desenvolvimento humano, e na intervenção em processos educacionais e institucionais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Substituir o professor em sala de aula na identificação de transtornos de aprendizagem.",
+                      "explanation": "A atuação deve se afastar da perspectiva de substituição."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Fazer o diagnóstico de Transtorno do Déficit de Atenção e Hiperatividade (TDAH) em massa, para fins de estatística.",
+                      "explanation": "O diagnóstico individual não é o foco da atuação, e a atuação em massa é inapropriada."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Excluir os estudantes com dificuldades de aprendizagem das atividades pedagógicas.",
+                      "explanation": "O princípio é a inclusão e a garantia da permanência."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q13",
+                  "statement": "Para as(os) assistentes sociais, uma das atribuições específicas no contexto escolar é a realização de estudos sociais multirreferenciados. Qual é o principal foco desses estudos?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "O diagnóstico individual e clínico de transtornos mentais dos educandos.",
+                      "explanation": "O diagnóstico clínico é atribuição do psicólogo e o foco do serviço social é na dimensão social e familiar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A análise das expressões da \"questão social\" na educação, na perspectiva de garantir o acesso, a permanência e a aprendizagem.",
+                      "explanation": "O estudo social multirreferenciado busca a análise das expressões da \"questão social\" na educação, para garantir o acesso, a permanência e a aprendizagem."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A organização de eventos esportivos e culturais para o entretenimento da comunidade escolar.",
+                      "explanation": "Embora o assistente social possa participar de eventos, o foco principal é na análise da questão social."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A fiscalização dos recursos do FUNDEB destinados à valorização profissional.",
+                      "explanation": "O foco principal é na análise da questão social e no acesso a direitos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A substituição dos professores no acompanhamento pedagógico dos alunos com deficiência.",
+                      "explanation": "A atuação deve se afastar da perspectiva de substituição."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q14",
+                  "statement": "A perspectiva de \"educação inclusiva\" é um princípio central na atuação das equipes multiprofissionais. Qual das ações abaixo NÃO está alinhada com os pressupostos da educação inclusiva?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Garantia de acesso e permanência de todos(as) os(as) educandos(as) na escola comum, independentemente de suas diferenças.",
+                      "explanation": "A educação inclusiva pressupõe a garantia de acesso e permanência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Elaboração de Planos de Atendimento Educacional Especializado (PAEE) para estudantes com necessidades específicas.",
+                      "explanation": "O PAEE é um instrumento importante para a educação inclusiva."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ações para a superação das barreiras arquitetônicas, pedagógicas e comunicacionais.",
+                      "explanation": "A superação das barreiras é um pressuposto da educação inclusiva."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Priorização da integração escolar em classes especiais segregadas, em detrimento da inclusão plena na sala de aula comum.",
+                      "explanation": "A perspectiva inclusiva exige a superação da integração (classes especiais) e busca a inclusão plena na sala de aula comum."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Articulação com a família e a comunidade para o desenvolvimento integral dos educandos.",
+                      "explanation": "Esta é uma ação alinhada com a educação inclusiva."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q15",
+                  "statement": "Qual é o principal objetivo do Eixo 5 (\"Parâmetros para a Implantação do Serviço\") no planejamento e oferta dos serviços de psicologia e serviço social na educação básica?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Definir os critérios para a demissão de profissionais de educação que não se adequarem.",
+                      "explanation": "O eixo trata de condições para a implantação, não de demissão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Assegurar a adequação da relação educando/profissional/escola, garantindo as condições éticas e técnicas de trabalho.",
+                      "explanation": "O Eixo 5 visa \"Assegurar a adequação da relação educando/profissional/escola, garantindo as condições éticas e técnicas de trabalho\" e aborda a importância do quantitativo de profissionais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Focar exclusivamente no financiamento e orçamento do serviço.",
+                      "explanation": "O financiamento é o Eixo 7."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Determinar que o serviço se restrinja ao atendimento clínico individual.",
+                      "explanation": "O atendimento clínico individual é desencorajado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Elaborar o Projeto Político-Pedagógico (PPP) de cada escola.",
+                      "explanation": "O PPP é responsabilidade da escola, e os profissionais devem participar da elaboração."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q16",
+                  "statement": "O documento de subsídios adverte para a necessidade de afastar a atuação dos serviços de psicologia e serviço social da visão de \"substituição dos profissionais de educação\". O que esse afastamento implica na prática?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Que os psicólogos e assistentes sociais devem apenas fiscalizar o trabalho dos professores.",
+                      "explanation": "A fiscalização não é a principal função, e a substituição é o que se deve evitar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que a atuação deve focar na promoção de mudanças nas relações e no contexto escolar, apoiando e assessorando a gestão e os professores em vez de assumir suas tarefas.",
+                      "explanation": "O afastamento da substituição implica que a atuação deve focar na promoção de mudanças no contexto e nas relações, apoiando e assessorando a gestão e os professores, sem assumir as tarefas que lhes são próprias."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que os profissionais devem se limitar a realizar diagnósticos individuais e a encaminhar para o SUS.",
+                      "explanation": "O atendimento clínico é desencorajado, e o encaminhamento é uma das atividades, mas não o foco exclusivo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que o profissional de serviço social deve ser o mediador exclusivo de conflitos familiares.",
+                      "explanation": "A mediação é uma atribuição das equipes, mas a exclusividade não se alinha com o trabalho multiprofissional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que a Lei nº 13.935/2019 deve ser revogada, pois a escola já possui profissionais suficientes.",
+                      "explanation": "A lei estabelece a necessidade desses serviços."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q17",
+                  "statement": "A atuação do psicólogo escolar é balizada pelo Código de Ética Profissional. Qual das condutas abaixo representa uma violação direta desse Código no contexto da Lei nº 13.935/2019?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Colaborar na elaboração de Planos de Atendimento Educacional Especializado (PAEE).",
+                      "explanation": "O PAEE é um instrumental listado como atribuição do psicólogo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Realizar atendimento clínico-psicoterápico individual e sistemático com educandos no ambiente escolar.",
+                      "explanation": "A Resolução CFP nº 08/2019 e os subsídios da lei desencorajam o atendimento clínico individual e sistemático no ambiente escolar, pois descaracteriza a atuação, que deve ser psicossocial e institucional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Oferecer apoio e assessoramento técnico à gestão escolar.",
+                      "explanation": "Esta é uma atribuição central da atuação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Participar de ações de formação continuada de professores.",
+                      "explanation": "Esta é uma atividade prioritária no trabalho com a gestão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Utilizar apenas instrumentos psicológicos aprovados pelo CFP.",
+                      "explanation": "O uso de instrumentos aprovados é uma obrigação ética."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q18",
+                  "statement": "Para o assistente social na educação, a dimensão da \"questão social\" é o foco da intervenção. O que o conceito de \"questão social\" abrange no contexto da Lei nº 13.935/2019?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Apenas os problemas de comportamento e indisciplina dos educandos na sala de aula.",
+                      "explanation": "A questão social é um conceito mais amplo, ligado às desigualdades e contradições da sociedade capitalista."
+                    },
+                    {
+                      "id": "B",
+                      "text": "As dificuldades de aprendizagem decorrentes de transtornos neurobiológicos.",
+                      "explanation": "Esta é uma dimensão da psicologia e da saúde, mas não o foco principal da \"questão social\" para o Serviço Social."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O conjunto de desigualdades e contradições decorrentes das relações sociais e econômicas que impactam o acesso, a permanência e a aprendizagem dos educandos.",
+                      "explanation": "O conceito de \"questão social\" abrange o conjunto de desigualdades e contradições decorrentes das relações sociais e econômicas que impactam o acesso, a permanência e a aprendizagem dos educandos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exclusivamente a falta de infraestrutura física da escola.",
+                      "explanation": "Embora a infraestrutura seja importante, a questão social é um conceito mais amplo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A ausência de representação sindical dos profissionais de educação.",
+                      "explanation": "A questão social foca no impacto sobre os educandos e suas famílias."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q19",
+                  "statement": "A articulação intersetorial (Eixo 4) requer a identificação e o mapeamento dos serviços disponíveis (Saúde, Assistência Social, etc.). Qual é o conceito central que orienta a prática dessa articulação, visando evitar a fragmentação do cuidado?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Judicialização da educação.",
+                      "explanation": "A judicialização é um mecanismo extremo e não o conceito central de articulação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fluxo de referência e contrarreferência intersetorial.",
+                      "explanation": "O mapeamento e a articulação são feitos por meio do \"fluxo de referência e contrarreferência intersetorial\", para evitar a fragmentação e garantir a continuidade do cuidado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Substituição das equipes gestoras pelos profissionais do SUAS.",
+                      "explanation": "A substituição é o que se deve evitar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Privatização dos serviços de saúde e assistência social.",
+                      "explanation": "A articulação é com as redes públicas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Atendimento clínico individual na escola.",
+                      "explanation": "O atendimento clínico é desencorajado."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q20",
+                  "statement": "O Eixo 2 (\"Formação Inicial e Formação Continuada\") é crucial para a qualidade dos serviços. Qual é a principal responsabilidade das instituições de ensino superior (IES) neste contexto?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Reduzir a carga horária dos estágios curriculares para priorizar o ensino teórico.",
+                      "explanation": "A formação deve ter qualidade e estar alinhada com as diretrizes curriculares nacionais (DCNs)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Promover a articulação dos currículos para que os(as) futuros(as) profissionais sejam formados(as) para a atuação multiprofissional, interdisciplinar e intersetorial na educação.",
+                      "explanation": "A responsabilidade é \"promover a articulação de seus currículos para que os(as) futuros(as) profissionais de Psicologia e Serviço Social sejam formados(as) para a atuação multiprofissional, interdisciplinar e intersetorial na educação\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Focar a formação exclusivamente na prática clínica privada.",
+                      "explanation": "O foco é na atuação na rede pública de educação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exigir que todos os formandos elaborem projetos de lei para a área de educação.",
+                      "explanation": "Esta não é uma responsabilidade das IES na formação básica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Atuar como órgãos fiscalizadores da Lei nº 13.935/2019.",
+                      "explanation": "A fiscalização é dos Conselhos Profissionais (CFP/CFESS)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q21",
+                  "statement": "O Eixo 7 (Orçamento) estabelece que a implantação dos serviços deve ser garantida por dotação orçamentária. Qual fonte de recursos é mencionada como fundamental para a educação básica e para a qual a lei atribui a responsabilidade de financiamento?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Recursos oriundos da privatização das escolas públicas.",
+                      "explanation": "O financiamento é público."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (FUNDEB).",
+                      "explanation": "A Lei 13.935/2019 vincula a responsabilidade de financiamento aos recursos do FUNDEB, que \"é o principal mecanismo de financiamento da educação básica\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Doações e patrocínios de empresas privadas.",
+                      "explanation": "Embora possam existir, não são a fonte principal estabelecida pela lei."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Impostos sobre grandes fortunas (IGF) exclusivos.",
+                      "explanation": "Não é a fonte principal estabelecida pela lei."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Emendas parlamentares supressivas.",
+                      "explanation": "Não é a fonte de financiamento estabelecida pela lei."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q22",
+                  "statement": "A Lei nº 13.935/2019 altera a Lei nº 9.394/1996 (LDB). A mudança reforça qual dimensão da educação básica, em consonância com o princípio da educação integral?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A dimensão exclusiva do ensino técnico e profissionalizante.",
+                      "explanation": "A educação integral é mais ampla."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A dimensão cognitiva e de transmissão de conteúdos.",
+                      "explanation": "A LDB já previa o preparo para o exercício da cidadania, e a mudança reforça a dimensão psicossocial."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A dimensão da articulação entre a escola, a família e a comunidade, com vistas ao desenvolvimento integral.",
+                      "explanation": "A alteração da LDB inclui a \"articulação com as famílias e a comunidade, com vistas à consecução dos objetivos da educação básica\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A dimensão da exclusão de estudantes com dificuldades de aprendizagem.",
+                      "explanation": "A mudança reforça a inclusão e o desenvolvimento integral."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A dimensão da autonomia total do professor sobre o currículo escolar.",
+                      "explanation": "A mudança reforça a articulação e o desenvolvimento integral."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q23",
+                  "statement": "Qual é a principal finalidade da atuação dos profissionais de psicologia e serviço social, ao desenvolverem ações para a melhoria do processo de ensino-aprendizagem, com participação da comunidade?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Reduzir o número de matrículas nas escolas públicas.",
+                      "explanation": "O objetivo é a garantia do acesso e permanência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Atuar na mediação das relações sociais e institucionais, conforme o texto da Lei nº 13.935/2019.",
+                      "explanation": "A lei estabelece que as equipes devem \"desenvolver ações para a melhoria do processo de ensino-aprendizagem, com participação da comunidade, atuando na mediação das relações sociais e institucionais\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Realizar procedimentos de internação compulsória para educandos em situação de risco.",
+                      "explanation": "A internação compulsória é uma medida extrema e não é atribuição da equipe escolar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aplicar testes psicológicos em massa para identificar talentos acadêmicos.",
+                      "explanation": "A atuação é desencorajada para o diagnóstico em massa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Substituir a direção escolar na tomada de decisões administrativas.",
+                      "explanation": "A atuação é de apoio e assessoramento, não de substituição."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q24",
+                  "statement": "Para a atuação do psicólogo na escola, o documento de subsídios lista a realização de Planos de Atendimento Educacional Especializado (PAEE) como um instrumental técnico. Qual é o principal propósito do PAEE?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Servir como instrumento para o encaminhamento do educando para o atendimento clínico.",
+                      "explanation": "O PAEE é focado no atendimento educacional e não no clínico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Promover e garantir o acesso, a participação, a permanência e a aprendizagem dos educandos que tenham necessidades educacionais específicas.",
+                      "explanation": "O PAEE tem como propósito \"promover e garantir o acesso, a participação, a permanência e a aprendizagem dos(as) educandos(as) que tenham necessidades educacionais específicas\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Determinar a reprovação do aluno com dificuldade de aprendizagem.",
+                      "explanation": "O PAEE visa à inclusão e aprendizagem."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Substituir o currículo escolar tradicional, criando um currículo individualizado.",
+                      "explanation": "O PAEE complementa o currículo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ser utilizado exclusivamente para fins de pesquisa e estatística.",
+                      "explanation": "O PAEE é um instrumental de intervenção pedagógica e educacional."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q25",
+                  "statement": "O Eixo 6 (\"Monitoramento e Avaliação\") propõe a elaboração de um sistema de avaliação dos serviços. A partir de quais aspectos centrais a avaliação deve ser realizada?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Apenas a quantidade de atendimentos clínicos individuais realizados.",
+                      "explanation": "O atendimento clínico é desencorajado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O número de encaminhamentos para o Conselho Tutelar.",
+                      "explanation": "O encaminhamento é uma das atividades, mas não o foco principal da avaliação da qualidade do serviço."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O impacto na garantia do acesso, permanência, aprendizagem e no desenvolvimento pleno e integral dos educandos.",
+                      "explanation": "A avaliação deve ser realizada a partir de \"indicadores sobre o impacto dos serviços na garantia do acesso, permanência, aprendizagem e no desenvolvimento pleno e integral dos(as) educandos(as), observadas as condições éticas e técnicas de trabalho\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A frequência de reuniões com a direção escolar, ignorando os resultados práticos.",
+                      "explanation": "A avaliação deve focar no impacto."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O custo total do serviço por educando, sem considerar a qualidade.",
+                      "explanation": "O foco deve ser na qualidade e no impacto."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q26",
+                  "statement": "Qual princípio orienta a atuação dos profissionais no sentido de reconhecer a escola como um espaço de produção cultural, de sentidos e de subjetividades?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Princípio da Neutralidade Total e da Abstinência Profissional.",
+                      "explanation": "A atuação exige intervenção e engajamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Princípio da Compreensão da Escola como Espaço Sociocultural e de Produção de Subjetividades.",
+                      "explanation": "Um dos princípios é a \"compreensão da escola como espaço sociocultural e de produção de sentidos e de subjetividades\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Princípio da Prioridade Absoluta ao Atendimento Clínico.",
+                      "explanation": "O atendimento clínico é desencorajado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Princípio da Desresponsabilização da Família.",
+                      "explanation": "O princípio é a articulação com a família e a comunidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Princípio da Substituição do Professor no Ensino.",
+                      "explanation": "A substituição é o que se deve evitar."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q27",
+                  "statement": "A Lei nº 13.935/2019 é resultado de uma mobilização histórica. O documento de subsídios enfatiza a importância de os profissionais se articularem com os movimentos sociais e populares. Qual é o principal objetivo dessa articulação?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Focar exclusivamente em pesquisas acadêmicas sobre o desenvolvimento infantil.",
+                      "explanation": "O foco é na intervenção e no controle social."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fortalecer o controle social sobre as políticas públicas de educação e garantir o caráter público e democrático da escola.",
+                      "explanation": "A articulação visa \"fortalecer o controle social sobre as políticas públicas de educação, garantindo o caráter público, democrático, laico, gratuito e de qualidade da escola\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Determinar o currículo escolar de forma impositiva.",
+                      "explanation": "A determinação do currículo é um processo mais amplo e democrático."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Realizar a fiscalização do cumprimento da LDB.",
+                      "explanation": "A fiscalização é dos Conselhos Profissionais (CFP/CFESS)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Limitar a participação da comunidade apenas a eventos festivos.",
+                      "explanation": "A participação deve ser para o controle social e democrático."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q28",
+                  "statement": "Qual é a principal diferença entre o instrumental técnico do psicólogo (Avaliação Psicológica Multirreferenciada e PAEE) e o do assistente social (Estudo Social Multirreferenciado) na escola?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo foca na questão social e o assistente social na dimensão psicológica.",
+                      "explanation": "É o oposto: o assistente social foca na questão social e o psicólogo na dimensão psicossocial e subjetiva."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ambos os instrumentais são idênticos e servem para o mesmo fim.",
+                      "explanation": "Os instrumentos são específicos de cada profissão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O psicólogo foca na dimensão psicossocial e subjetiva do processo ensino-aprendizagem, enquanto o assistente social foca na dimensão social, familiar e comunitária (Questão Social).",
+                      "explanation": "O psicólogo realiza a Avaliação Psicológica Multirreferenciada e PAEE (foco psicossocial/subjetivo). O assistente social realiza o Estudo Social Multirreferenciado (foco social/familiar/comunitário - Questão Social)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O psicólogo atua no SUAS e o assistente social no SUS.",
+                      "explanation": "O trabalho é na educação básica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O assistente social realiza psicoterapia individual e o psicólogo faz a gestão da escola.",
+                      "explanation": "O atendimento clínico é desencorajado, e o psicólogo assessora a gestão, mas não a substitui."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q29",
+                  "statement": "O Eixo 2 (\"Formação Inicial e Formação Continuada\") destaca a necessidade de formação continuada para os profissionais já inseridos. Qual deve ser o foco dessa formação continuada?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Formação em Atendimento Clínico individual.",
+                      "explanation": "O atendimento clínico individual é desencorajado no ambiente escolar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Formação continuada em Psicologia e Serviço Social para a Educação Básica, com foco na atuação multiprofissional, interdisciplinar e intersetorial.",
+                      "explanation": "O documento ressalta a \"necessidade de o Poder Público garantir processos de formação continuada em Psicologia e Serviço Social para a Educação Básica, na perspectiva multiprofissional, interdisciplinar e intersetorial\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Formação em Metodologias Exclusivas do Atendimento Clínico individual.",
+                      "explanation": "O atendimento clínico individual é desencorajado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Formação de Conselheiro Tutelar.",
+                      "explanation": "A articulação com o Conselho Tutelar é importante, mas a formação focada é a continuada na área educacional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Formação em Gestão Educacional.",
+                      "explanation": "Embora a participação na gestão seja uma atribuição, a necessidade descrita é a formação continuada no campo da Psicologia e Serviço Social para a Educação Básica."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_escolar_e_educacional_v2_L2_Q30",
+                  "statement": "A atuação das(os) assistentes sociais deve incluir a realização de um instrumento técnico específico, articulado às equipes gestoras. Qual é este instrumento, que leva em conta o processo de escolarização e as condições histórico-sociais e culturais que permeiam a apropriação dos conhecimentos?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Estudo social multirreferenciado.",
+                      "explanation": "As(os) assistentes sociais devem realizar, articulados às equipes gestoras, o estudo social multirreferenciado ante às necessidades específicas identificadas no processo ensino-aprendizagem."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Plano de Atendimento Educacional Especializado (PAEE).",
+                      "explanation": "O PAEE é um instrumental listado como atribuição do psicólogo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Avaliação Psicológica Multirreferenciada.",
+                      "explanation": "Esta é uma atribuição específica do psicólogo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Fluxo de referência e contrarreferência intersetorial.",
+                      "explanation": "O fluxo é um mecanismo de trabalho e articulação, não um instrumental técnico de estudo de caso."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Projeto Político-Pedagógico (PPP).",
+                      "explanation": "O PPP é o documento macro da escola, no qual o assistente social participa da elaboração."
+                    }
+                  ],
+                  "answer": "A"
                 }
               ]
             }
