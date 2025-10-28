@@ -21311,7 +21311,7 @@
           "lists": [
             {
               "id": "p4_RG_L1",
-              "title": "Lista 01",
+              "title": "(v1) - Lista 01",
               "questions": [
                 {
                   "id": "p4_RG_L1_Q1",
@@ -21637,7 +21637,7 @@
             },
             {
               "id": "p4_RG_L2",
-              "title": "Lista 2",
+              "title": "(v1) - Lista 2",
               "questions": [
                 {
                   "id": "p4_RG_L2_Q1",
@@ -22603,7 +22603,7 @@
             },
             {
               "id": "p4_RG_L3",
-              "title": "Lista 3",
+              "title": "(v1) - Lista 3",
               "questions": [
                 {
                   "id": "p4_RG_L3_Q1",
@@ -23564,6 +23564,972 @@
                     }
                   ],
                   "answer": "C"
+                }
+              ]
+            },
+            {
+              "id": "p4_psicopatologia2_v2_L1",
+              "title": "(v2) - Lista 1: relações v2 parte2",
+              "questions": [
+                {
+                  "id": "p4_RG_v2_L1_Q1",
+                  "statement": "De acordo com as considerações a respeito dos grupos segundo Bion, em qual hospital e setor ele iniciou seus trabalhos com grupos, durante a Segunda Guerra Mundial?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Instituto Tavistock, estudando grupos terapêuticos.",
+                      "explanation": "Incorreta. Bion deu prosseguimento aos trabalhos no Instituto Tavistock, mas iniciou no Hospital Northfield."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Hospital Northfield, na ala de tratamento de militares.",
+                      "explanation": "Incorreta. Bion iniciou na ala de reabilitação de militares do Hospital Northfield."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Hospital Northfield, na ala de reabilitação de militares.",
+                      "explanation": "Correta. Bion iniciou seus trabalhos com grupos na ala de reabilitação de militares do Hospital Northfield durante a Segunda Guerra Mundial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exército inglês, em grupos com formações diversas.",
+                      "explanation": "Incorreta. Ele iniciou no exército inglês, mas o trabalho com grupos específicos de reabilitação ocorreu no Hospital Northfield."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Clínica Tavistock, em seu consultório particular.",
+                      "explanation": "Incorreta. Bion estudou inúmeros grupos terapêuticos na Clínica Tavistock e em seu consultório, mas o início foi em Northfield."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q2",
+                  "statement": "A psicanálise, no contexto de tratamento individual, possui um objetivo principal em relação ao paciente. Qual é esse objetivo, conforme descrito no texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ajudar o paciente a identificar e reprimir seus impulsos mais primitivos.",
+                      "explanation": "Incorreta. O objetivo não é reprimir, mas sim conscientizar e trabalhar esses impulsos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir a completa adaptação do indivíduo às normas sociais vigentes.",
+                      "explanation": "Incorreta. A adaptação não é o foco principal da psicanálise."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Levar o paciente a se reencontrar e se apropriar de sua própria história e discurso.",
+                      "explanation": "Correta. O objetivo da psicanálise é levar o paciente a se reencontrar, a se reapropriar de sua própria história e de seu discurso."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Estimular o paciente a tomar decisões rápidas e pragmáticas para solucionar problemas.",
+                      "explanation": "Incorreta. O processo psicanalítico é de profundidade e reflexão, não de soluções rápidas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar exclusivamente na resolução de sintomas manifestos, ignorando as causas subjacentes.",
+                      "explanation": "Incorreta. A psicanálise busca as causas subjacentes."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q3",
+                  "statement": "No contexto da psicanálise de grupo, qual é o principal desafio que o analista de grupo deve conciliar, conforme descrito pelo texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Conciliar a dinâmica do grupo com as regras rígidas da instituição.",
+                      "explanation": "Incorreta. Embora relevante, não é o desafio principal citado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Conciliar o número de participantes com o tempo disponível para cada sessão.",
+                      "explanation": "Incorreta. É um desafio prático, não o desafio conceitual principal."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Conciliar o coletivo sem deixar de lado a dimensão singular do sujeito.",
+                      "explanation": "Correta. O principal desafio é conciliar o coletivo sem deixar de lado a dimensão singular do sujeito."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Conciliar as teorias de Bion com as de Freud, sem contradições.",
+                      "explanation": "Incorreta. As teorias são complementares; o desafio é prático e conceitual no manejo do grupo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Conciliar a demanda de trabalho com o desejo de não trabalhar.",
+                      "explanation": "Incorreta. Esta é uma dinâmica de grupo (pressuposto básico de 'luta e fuga'), mas não o desafio do analista."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q4",
+                  "statement": "Qual dos seguintes autores é reconhecido por apresentar a ideia de que a \"estrutura do grupo é sempre um movimento de vaivém, um esforço constante para se ligar aos demais e a luta para não se perder na massa\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Wilfred Bion",
+                      "explanation": "Incorreta. Bion tratou dos pressupostos básicos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Sigmund Freud",
+                      "explanation": "Incorreta. Freud tratou da identificação e da libido nas massas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Didier Anzieu",
+                      "explanation": "Correta. Anzieu apresenta essa ideia em seus estudos sobre o grupo e o indivíduo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "René Kaës",
+                      "explanation": "Incorreta. Kaës focou mais nas alianças inconscientes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Elisabeth Roudinesco",
+                      "explanation": "Incorreta. Roudinesco é historiadora da psicanálise e biógrafa de Lacan e Freud."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q5",
+                  "statement": "Segundo Anzieu, qual é o principal obstáculo ao desenvolvimento dos grupos, relacionado à \"ilusão grupal\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de um líder formalmente nomeado e aceito por todos.",
+                      "explanation": "Incorreta. A liderança é uma questão de grupo, mas não o obstáculo central da ilusão grupal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A negação da dimensão singular do sujeito em prol de um coletivo idealizado.",
+                      "explanation": "Correta. A ilusão grupal é o obstáculo principal, pois nela se nega a singularidade e a diferença, e se vive o grupo como um coletivo idealizado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O excesso de conflitos e brigas internas que impedem a coesão.",
+                      "explanation": "Incorreta. Os conflitos são parte da dinâmica, mas a ilusão grupal é um estado de negação da realidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A incapacidade de delegar tarefas e responsabilidades entre os membros.",
+                      "explanation": "Incorreta. É um problema prático, não o obstáculo conceitual da ilusão grupal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco excessivo nas tarefas e objetivos, ignorando as relações interpessoais.",
+                      "explanation": "Incorreta. A ilusão grupal está mais relacionada à negação da diferença."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q6",
+                  "statement": "Na Psicanálise de Grupo de Pichon-Rivière, o que é o 'grupo operativo' e qual seu objetivo principal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É um grupo focado na catarse emocional dos membros, com o objetivo de aliviar tensões individuais.",
+                      "explanation": "Incorreta. O grupo operativo tem uma tarefa explícita."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É um grupo centrado exclusivamente na reflexão teórica sobre o inconsciente, sem aplicação prática.",
+                      "explanation": "Incorreta. O grupo operativo é essencialmente prático, com uma tarefa a ser realizada."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É um grupo cuja tarefa explícita é o aprendizado (intelectual ou prático) e o esclarecimento, com o objetivo de superar obstáculos à tarefa.",
+                      "explanation": "Correta. O grupo operativo é o que tem como tarefa explícita o aprendizado, sendo o objetivo superar obstáculos à tarefa."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É um grupo terapêutico fechado, com o objetivo de diagnosticar patologias individuais.",
+                      "explanation": "Incorreta. É aberto e tem foco na tarefa e no vínculo, não apenas no diagnóstico individual."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É um grupo que se reúne apenas para discussão de casos clínicos complexos.",
+                      "explanation": "Incorreta. O grupo operativo é mais amplo e se aplica a diversas tarefas de aprendizado e transformação."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q7",
+                  "statement": "Segundo Pichon-Rivière, o que é o \"ECRO\" (Esquema Conceitual Referencial e Operativo) e qual a sua função no trabalho com grupos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É um conjunto de regras rígidas e imutáveis que garantem a disciplina do grupo.",
+                      "explanation": "Incorreta. O ECRO é um referencial flexível e dinâmico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É o conjunto de teorias e técnicas que o coordenador utiliza como referencial, essencial para interpretar e operar na realidade do grupo.",
+                      "explanation": "Correta. O ECRO é o conjunto de teorias, técnicas e atitudes do coordenador, que serve como referencial para a intervenção no grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É o registro formal das reuniões do grupo, utilizado apenas para fins burocráticos.",
+                      "explanation": "Incorreta. O ECRO é um esquema conceitual, não um registro formal."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É a representação gráfica das relações de poder dentro do grupo.",
+                      "explanation": "Incorreta. É um esquema conceitual, não uma representação gráfica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É a técnica de intervenção que consiste em devolver ao grupo o que foi manifestado, sem nenhuma análise.",
+                      "explanation": "Incorreta. O ECRO é o referencial para a análise, e não a técnica de devolução em si."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q8",
+                  "statement": "No que consiste a técnica do 'Porta-Voz' (Porta-Palavra) nos grupos operativos de Pichon-Rivière?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Em eleger um líder formal para falar em nome de todos os membros.",
+                      "explanation": "Incorreta. É um papel rotativo e inconsciente, não uma eleição formal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "No membro do grupo que expressa algo que está latente e inconsciente para todos, tornando-se o veículo da ansiedade e da necessidade do grupo.",
+                      "explanation": "Correta. O Porta-Voz é o membro que enuncia a problemática latente do grupo, tornando-se o veículo da ansiedade e da necessidade do grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Na função do coordenador de traduzir as falas confusas do grupo para uma linguagem técnica.",
+                      "explanation": "Incorreta. É um papel de um membro, não do coordenador."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Na leitura de um texto inspirador antes de iniciar a discussão.",
+                      "explanation": "Incorreta. É uma técnica de dinâmica de grupo, não uma leitura de texto."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Em uma rodada de falas em que cada um fala sobre seu estado emocional atual.",
+                      "explanation": "Incorreta. O Porta-Voz é uma manifestação inconsciente e pontual."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q9",
+                  "statement": "Qual dos seguintes aspectos não é considerado um dos vetores do ECRO, conforme postulado por Pichon-Rivière?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Pertencimento",
+                      "explanation": "Incorreta. É um vetor do ECRO, relacionado à identificação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Aprendizagem",
+                      "explanation": "Incorreta. É um vetor do ECRO, relacionado à capacidade de absorver o novo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Comunicação",
+                      "explanation": "Incorreta. É um vetor do ECRO, relacionado à troca de informações."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Teleologia",
+                      "explanation": "Correta. Não é um vetor do ECRO de Pichon-Rivière, cujos vetores são: Pertencimento, Cooperação, Pertinência, Comunicação, Aprendizagem e Tele (afetividade)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Cooperação",
+                      "explanation": "Incorreta. É um vetor do ECRO, relacionado ao trabalho conjunto."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q10",
+                  "statement": "No contexto institucional, qual é a principal diferença entre os conceitos de 'Instituição' e 'Organização', segundo o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Instituição é o aspecto visível e formal (regras), e Organização é o aspecto invisível e informal (afetos).",
+                      "explanation": "Incorreta. 'Organização' é o aspecto visível e formal (leis e regras); 'Instituição' é o aspecto abstrato, de valores e crenças (norma)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Instituição é o conjunto de valores e regras abstratas (a norma), enquanto Organização é a estrutura visível e concreta (o estabelecido).",
+                      "explanation": "Correta. Instituição é o conjunto de regras e valores (a norma); Organização é a estrutura visível (o estabelecido)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Instituição se refere a entidades públicas, e Organização, a entidades privadas.",
+                      "explanation": "Incorreta. A distinção é conceitual, não de natureza jurídica."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Organização é a lei escrita, e Instituição é a lei oral e não documentada.",
+                      "explanation": "Incorreta. A instituição é a norma, que pode ser escrita ou não, e a organização é a concretização da lei."
+                    },
+                    {
+                      "id": "E",
+                      "text": "São termos sinônimos e intercambiáveis, sem distinção teórica relevante.",
+                      "explanation": "Incorreta. Há uma distinção teórica relevante na análise institucional."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q11",
+                  "statement": "A Análise Institucional de René Lourau utiliza o conceito de 'Implicação'. O que é a Implicação para Lourau no trabalho do analista?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É a capacidade de se manter totalmente neutro e objetivo, sem envolvimento emocional.",
+                      "explanation": "Incorreta. A implicação reconhece o envolvimento inevitável, o oposto da neutralidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É a leitura das relações de poder a partir da posição social do analista (sua classe, gênero, etc.) na instituição.",
+                      "explanation": "Correta. A implicação é o conjunto das relações do analista (sociais, afetivas, etc.) com a instituição, que deve ser analisado e introduzido na análise, e não negado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É a técnica de intervenção em que o analista se integra totalmente ao grupo, sem distinção de papel.",
+                      "explanation": "Incorreta. A implicação é uma posição teórica e metodológica, não uma técnica de integração total."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É a capacidade de prever os resultados de uma intervenção na instituição.",
+                      "explanation": "Incorreta. Não tem relação com previsão, mas sim com o reconhecimento da posição do analista."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É o conjunto de tarefas explícitas que o analista deve cumprir.",
+                      "explanation": "Incorreta. Implicação é sobre a posição subjetiva, não as tarefas explícitas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q12",
+                  "statement": "No que consiste a 'Análise da Demanda' no contexto da intervenção psicológica institucional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Em aceitar e satisfazer o pedido da instituição de forma direta e sem questionamentos.",
+                      "explanation": "Incorreta. A análise da demanda implica questionar e desnaturalizar o pedido."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Em desnaturalizar o pedido (a demanda) para investigar o que está por trás do que foi solicitado (a real necessidade ou pedido inconsciente).",
+                      "explanation": "Correta. É o processo de desnaturalizar a demanda para investigar o que está oculto, o não dito, por trás do que foi solicitado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Em elaborar um orçamento detalhado para a intervenção, focado apenas em aspectos financeiros.",
+                      "explanation": "Incorreta. É um aspecto prático, não a análise conceitual da demanda."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Em fazer uma pesquisa de satisfação com os funcionários da instituição.",
+                      "explanation": "Incorreta. É uma ferramenta, mas não o conceito central de 'Análise da Demanda'."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Em aplicar um questionário para coletar dados quantitativos sobre o problema.",
+                      "explanation": "Incorreta. É uma ferramenta, mas a análise da demanda é um processo interpretativo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q13",
+                  "statement": "Qual é a principal função do psicólogo no trabalho com grupos na instituição, conforme o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Atuar como um administrador de recursos humanos, mediando conflitos práticos.",
+                      "explanation": "Incorreta. Embora possa mediar, sua função é analítica e de intervenção no campo dos afetos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Atuar como um tradutor das fantasias e dos afetos, possibilitando a análise do vivido pelo grupo e a busca de autonomia.",
+                      "explanation": "Correta. A função é a de traduzir as fantasias e afetos, possibilitando a análise do vivido e a busca de autonomia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Focar exclusivamente na resolução de problemas operacionais e tarefas.",
+                      "explanation": "Incorreta. Seu foco principal é na dimensão subjetiva e relacional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Garantir que todos os membros do grupo atinjam o mesmo nível de satisfação pessoal.",
+                      "explanation": "Incorreta. O objetivo não é satisfação pessoal, mas sim a transformação e a autonomia do grupo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Substituir o líder do grupo em momentos de crise, assumindo a direção.",
+                      "explanation": "Incorreta. Seu papel é de coordenador e analista, não de líder substituto."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q14",
+                  "statement": "De acordo com as considerações sobre o trabalho grupal em instituições, o que significa a ideia de 'transição da psicoterapia para a intervenção no campo das relações'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Abandonar completamente as técnicas psicoterápicas e focar em palestras motivacionais.",
+                      "explanation": "Incorreta. Não se trata de abandonar, mas de adaptar a abordagem."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Manter o foco exclusivo no diagnóstico e tratamento de patologias individuais dentro da instituição.",
+                      "explanation": "Incorreta. O foco se desloca para o grupo e as relações, e não apenas o indivíduo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Deslocar o foco do indivíduo para as relações e o grupo, de forma a operar com os afetos e fantasias coletivas que interferem na realidade institucional.",
+                      "explanation": "Correta. A intervenção foca nos afetos, nas fantasias coletivas e nas relações que interferem na realidade institucional, não se limitando ao tratamento individual."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Limitar o trabalho do psicólogo apenas à área de Recursos Humanos e seleção de pessoal.",
+                      "explanation": "Incorreta. Reduz o escopo do trabalho do psicólogo institucional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar a intervenção apenas nos aspectos visíveis da organização (regras e fluxos de trabalho).",
+                      "explanation": "Incorreta. O foco está nos afetos e fantasias, que são aspectos não visíveis."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q15",
+                  "statement": "Qual dos seguintes é um desafio crucial para o analista de grupo ao conciliar o coletivo e o singular, em uma perspectiva psicanalítica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A negação das diferenças em prol da homogeneidade do grupo.",
+                      "explanation": "Incorreta. O analista deve trabalhar contra a negação das diferenças (ilusão grupal)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O risco de perder a dimensão singular do sujeito ao analisar o inconsciente grupal.",
+                      "explanation": "Correta. O analista deve analisar o inconsciente grupal sem perder a dimensão singular do sujeito, que é um desafio crucial."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A aplicação de técnicas rígidas de intervenção, independentemente do contexto.",
+                      "explanation": "Incorreta. As técnicas devem ser flexíveis e contextualizadas (ECRO)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O excesso de foco nas tarefas explícitas do grupo, ignorando os afetos.",
+                      "explanation": "Incorreta. O analista deve focar nos afetos, e não só nas tarefas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A tentativa de impor uma única interpretação teórica ao grupo.",
+                      "explanation": "Incorreta. A intervenção deve ser construída com o grupo (operativa)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q16",
+                  "statement": "Conforme a teoria de Bion sobre os grupos, o que diferencia a 'Mente Grupal' (Group Mind) da 'Cultura Grupal' (Group Culture)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Mente Grupal é o conjunto de regras explícitas (Organização), e a Cultura Grupal é o conjunto de valores implícitos (Instituição).",
+                      "explanation": "Incorreta. Essa é a distinção entre Organização e Instituição na Análise Institucional, não a de Bion."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Mente Grupal é a convergência da opinião individual de todos os membros, e a Cultura Grupal é o resultado do trabalho de um líder forte.",
+                      "explanation": "Incorreta. Ambas são fenômenos inconscientes/afetivos, não meramente racionais ou focados no líder."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Mente Grupal é a comunalidade inconsciente (a contribuição de todos), e a Cultura Grupal é a forma como essa Mente Grupal se manifesta (estrutura, ocupação e atividade).",
+                      "explanation": "Correta. A Mente Grupal é a convergência inconsciente (contribuição de todos), e a Cultura Grupal é a manifestação da Mente Grupal (estrutura, ocupação e atividade)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Cultura Grupal é o trabalho racional (Grupo de Trabalho), e a Mente Grupal são os afetos e fantasias (Pressupostos Básicos).",
+                      "explanation": "Incorreta. A Cultura Grupal é o resultado de ambas, e a Mente Grupal é a origem inconsciente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Mente Grupal é a soma das mentes individuais, e a Cultura Grupal é o conjunto de alianças inconscientes.",
+                      "explanation": "Incorreta. A Mente Grupal é uma nova entidade, não a soma das mentes individuais."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q17",
+                  "statement": "O que Bion define como 'Grupo de Trabalho' (Work Group) e como ele se relaciona com os 'Pressupostos Básicos' (Basic Assumptions)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O Grupo de Trabalho é a manifestação inconsciente e afetiva, e os Pressupostos Básicos são a manifestação racional e voltada para a tarefa.",
+                      "explanation": "Incorreta. O Grupo de Trabalho é a atividade consciente e racional; os Pressupostos Básicos são a atividade inconsciente e afetiva."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Grupo de Trabalho é a atividade consciente, racional e orientada para a tarefa, enquanto os Pressupostos Básicos são a atividade inconsciente e afetiva, que interfere no trabalho.",
+                      "explanation": "Correta. O Grupo de Trabalho é a manifestação consciente (racional, para a tarefa), e os Pressupostos Básicos são a manifestação inconsciente (afetiva, impede a tarefa)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ambos são sinônimos e representam a mesma dinâmica de grupo.",
+                      "explanation": "Incorreta. São conceitos opostos e complementares na teoria bioniana."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Grupo de Trabalho é o estado de coesão ideal, e os Pressupostos Básicos são o estado de desagregação.",
+                      "explanation": "Incorreta. Não são estados, mas modos de funcionamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Grupo de Trabalho é o estágio inicial do grupo, e os Pressupostos Básicos são o estágio final.",
+                      "explanation": "Incorreta. Ambos coexistem e se alternam na vida do grupo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q18",
+                  "statement": "A 'ilusão grupal' de Anzieu, que se manifesta como a negação da diferença em prol de um coletivo idealizado, pode ser conceitualmente aproximada de qual fenômeno bioniano, considerando a função de negação da realidade e da tarefa?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Grupo de Trabalho (Work Group)",
+                      "explanation": "Incorreta. O Grupo de Trabalho foca na realidade e na tarefa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Pressuposto Básico de Dependência",
+                      "explanation": "Incorreta. A dependência é a expectativa de um líder ideal, mas não abrange a totalidade da negação da diferença como a ilusão grupal."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Mente Grupal (Group Mind)",
+                      "explanation": "Incorreta. A Mente Grupal é a comunalidade, não o aspecto de 'ilusão'."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um funcionamento sob Pressupostos Básicos, pois a ilusão nega a realidade (singularidade e diferença) em prol de uma fantasia coletiva.",
+                      "explanation": "Correta. A ilusão grupal, ao negar a realidade e a diferença, se alinha ao funcionamento do grupo sob Pressupostos Básicos, que evitam a tarefa e o contato com a realidade (Grupo de Trabalho)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Luta e Fuga (Fight-Flight) inibida.",
+                      "explanation": "Incorreta. Luta e Fuga é uma reação específica a uma ameaça, não a negação de base da diferença."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q19",
+                  "statement": "Qual é a contribuição principal de René Kaës para a Psicanálise de Grupo, em relação aos conceitos de 'alianças inconscientes' e 'grupalidade'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Kaës defende que o grupo é apenas a soma dos inconscientes individuais, sem a formação de um inconsciente grupal.",
+                      "explanation": "Incorreta. Kaës reconhece o inconsciente grupal (o 'entre' e o 'com')."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Kaës introduz a ideia de que o grupo constrói alianças inconscientes para sustentar e reprimir o que é insustentável para o indivíduo sozinho ('contratos narcísicos').",
+                      "explanation": "Correta. Kaës focou nas alianças inconscientes (pactos, contratos) que ligam os sujeitos e cumprem funções de defesa e sustentação mútua no grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Sua principal contribuição é a criação do Grupo Operativo, focado na tarefa.",
+                      "explanation": "Incorreta. O Grupo Operativo é de Pichon-Rivière."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Kaës propôs que o analista deve se manter completamente externo ao grupo, sem se implicar.",
+                      "explanation": "Incorreta. Kaës e outros psicanalistas reconhecem o envolvimento do analista."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ele desenvolveu a teoria dos Pressupostos Básicos (Dependência, Luta e Fuga, Acasalamento).",
+                      "explanation": "Incorreta. Esta é a contribuição de Bion."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q20",
+                  "statement": "Na perspectiva de Pichon-Rivière, o que representa a 'resistência à mudança' nos grupos operativos e como ela se manifesta?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É uma manifestação positiva de coesão, em que o grupo se une para preservar sua identidade.",
+                      "explanation": "Incorreta. A resistência é um obstáculo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Representa o medo da perda (da identidade do grupo ou do indivíduo) e o medo do ataque (pelo novo), manifestando-se como ansiedades básicas (paranóide e depressiva).",
+                      "explanation": "Correta. A resistência é uma manifestação de medo da perda e do ataque (ansiedades básicas), que impede a realização da tarefa (mudança)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É sempre um sinal de má-vontade ou preguiça dos membros em realizar a tarefa.",
+                      "explanation": "Incorreta. É um processo inconsciente e afetivo, não uma questão moral."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Manifesta-se como um excesso de foco na tarefa explícita para evitar o contato com os afetos.",
+                      "explanation": "Incorreta. Isso seria um desvio, mas não o conceito central de resistência à mudança."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É a expressão de um líder autoritário que impede a participação dos demais.",
+                      "explanation": "Incorreta. É uma dinâmica grupal, não uma ação exclusiva do líder."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q21",
+                  "statement": "Qual é a relação entre o conceito de 'Implicação' de Lourau na Análise Institucional e a psicanálise, no que tange à posição do analista?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Implicação exige que o analista ignore a transferência e a contratransferência, focando apenas na análise social.",
+                      "explanation": "Incorreta. A implicação inclui a análise da transferência/contratransferência institucional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Implicação é a versão sociológica da contratransferência, pois o analista deve analisar sua própria posição subjetiva, política e social, que interfere no processo de análise institucional.",
+                      "explanation": "Correta. A Implicação é a análise da posição do analista (suas relações, história, política, etc.), sendo a versão sociológica da contratransferência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Implicação é o conjunto de regras éticas que o analista deve seguir para não ser processado pela instituição.",
+                      "explanation": "Incorreta. É um conceito teórico-metodológico, não um código de conduta."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Implicação se limita à análise da formação acadêmica do analista, sem considerar sua história pessoal.",
+                      "explanation": "Incorreta. A implicação abrange a totalidade da posição do analista."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Implicação é irrelevante para a Análise Institucional, que deve ser totalmente objetiva.",
+                      "explanation": "Incorreta. É um conceito central na metodologia de Lourau."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q22",
+                  "statement": "O conceito de 'Objeto da Intervenção' na Análise Institucional (Lourau) é complexo. Qual é o principal entendimento sobre esse objeto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O Objeto da Intervenção é o indivíduo que apresenta o sintoma, a ser tratado.",
+                      "explanation": "Incorreta. O foco é a instituição, não o indivíduo isolado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Objeto da Intervenção é a Organização (a estrutura visível e concreta), excluindo a Instituição (a norma e os valores).",
+                      "explanation": "Incorreta. O objeto abrange a totalidade: Organização e Instituição."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O Objeto da Intervenção é o *analisador* (o que revela a instituição) e o processo de *implicação* do analista, de forma que o objeto é o que está em constante análise.",
+                      "explanation": "Correta. O objeto é o analisador, o processo, a implicação do analista, sendo o que está sempre em análise (o que analisa a si mesmo)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Objeto da Intervenção é o contrato formal assinado entre o analista e a instituição, limitando-se ao que está escrito.",
+                      "explanation": "Incorreta. O objeto é muito mais amplo do que o contrato formal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Objeto da Intervenção é sempre a falta de dinheiro e de recursos da instituição.",
+                      "explanation": "Incorreta. É um fator que pode ser analisado, mas não o conceito de Objeto da Intervenção em si."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q23",
+                  "statement": "Na Psicanálise de Grupo, como o conceito de 'transferência' se manifesta, diferentemente do contexto individual?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A transferência é mais intensa no grupo e se dirige a um único líder, de forma mais concentrada.",
+                      "explanation": "Incorreta. A transferência é dispersa entre vários objetos (membros, analista, o grupo como um todo)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A transferência se dirige apenas ao analista, ignorando os demais membros do grupo.",
+                      "explanation": "Incorreta. A transferência é múltipla e dispersa (transferência lateral e para o grupo)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A transferência é múltipla, dispersa e se dirige ao analista, aos membros (transferência lateral) e ao grupo como um todo (imago parental do grupo).",
+                      "explanation": "Correta. A transferência é múltipla (dispersa, lateral e grupal), dirigindo-se ao analista, aos membros e ao grupo (como uma imago)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O grupo anula a transferência, pois o foco está na interação social consciente.",
+                      "explanation": "Incorreta. A transferência é um fenômeno inconsciente ativo no grupo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A transferência se limita à manifestação de desejos e fantasias, sem relação com as figuras parentais.",
+                      "explanation": "Incorreta. O grupo é investido como imago parental (Freud)."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q24",
+                  "statement": "O que caracteriza o Pressuposto Básico de 'Acasalamento' (Pairing) em Bion e qual é sua função no grupo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É a necessidade do grupo de ter um líder forte e autoritário para tomar decisões.",
+                      "explanation": "Incorreta. Esta é a Dependência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É a formação de pares de membros (geralmente dois) que se unem na expectativa inconsciente de que algo (uma nova ideia ou um 'Messias') nascerá para salvar o grupo do sofrimento.",
+                      "explanation": "Correta. O Acasalamento é a esperança messiânica e inconsciente de que um par salvará o grupo, produzindo a 'ideia' ou o 'Messias' que resolverá o problema."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É a tendência do grupo de se dividir em subgrupos para brigar ou fugir da tarefa.",
+                      "explanation": "Incorreta. Esta é uma manifestação do Pressuposto de Luta e Fuga."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É o momento em que o grupo se engaja racionalmente na tarefa, superando os Pressupostos Básicos.",
+                      "explanation": "Incorreta. O Acasalamento é um Pressuposto Básico, que interfere no Grupo de Trabalho."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É a tendência de exclusão de um membro (bode expiatório) pelo grupo.",
+                      "explanation": "Incorreta. Esta é uma dinâmica de defesa, mas não o Acasalamento."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q25",
+                  "statement": "Segundo Pichon-Rivière, qual é o papel do 'Observador' (Co-Coordenador) no Grupo Operativo e qual a sua contribuição para o coordenador?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O Observador é um membro comum que, ocasionalmente, registra as falas do grupo.",
+                      "explanation": "Incorreta. É um papel técnico e formalmente definido."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Observador deve intervir ativamente no grupo, competindo com o coordenador pelo poder.",
+                      "explanation": "Incorreta. O papel é de observação, sem intervenção no grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O Observador registra as manifestações (verbais e não verbais) do grupo e as devolve ao coordenador, auxiliando-o na reflexão e análise da dinâmica grupal.",
+                      "explanation": "Correta. O Observador registra e devolve ao coordenador, auxiliando na reflexão e no ajuste das intervenções."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Observador tem a função de garantir a disciplina e a ordem durante as reuniões.",
+                      "explanation": "Incorreta. É uma função analítica, não de vigilância."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Observador é o Porta-Voz eleito do grupo, com a função de resumir a discussão.",
+                      "explanation": "Incorreta. O Porta-Voz é um membro do grupo, e o Observador é um técnico com papel formal."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q26",
+                  "statement": "O que Lourau (Análise Institucional) define como 'Analisador' e qual é sua relação com a instituição?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É o instrumento de pesquisa formal (questionário ou entrevista) aplicado pelo analista para coletar dados.",
+                      "explanation": "Incorreta. É um conceito conceitual-metodológico, não um instrumento de pesquisa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É o evento, a crise ou o dispositivo que a instituição não consegue controlar e que, ao explodir, revela a verdade oculta sobre a organização e a instituição (o não-dito).",
+                      "explanation": "Correta. O Analisador é aquilo que revela a instituição, o que a coloca em questão; é a própria instituição que se analisa através de uma crise ou dispositivo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É o líder do grupo que, ao ser analisado, revela as fantasias de todos os membros.",
+                      "explanation": "Incorreta. É um evento ou dispositivo, não o líder."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É a análise da demanda feita pelo analista antes de iniciar o trabalho.",
+                      "explanation": "Incorreta. A Análise da Demanda é um processo, o Analisador é um evento/dispositivo revelador."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É o contrato de trabalho que formaliza a intervenção na instituição.",
+                      "explanation": "Incorreta. É um conceito teórico-metodológico, não um documento."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q27",
+                  "statement": "No trabalho em instituições com abordagem psicanalítica, qual é o significado de 'operar com o sofrimento e a não-satisfação' do grupo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Obrigar o grupo a aceitar o sofrimento como parte inevitável do trabalho.",
+                      "explanation": "Incorreta. O objetivo é a análise do sofrimento, não a aceitação passiva."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Reconhecer que o sofrimento e a não-satisfação são mobilizadores da análise, pois revelam as fantasias e os afetos que precisam ser trabalhados.",
+                      "explanation": "Correta. O sofrimento e a não-satisfação são mobilizadores, pois revelam fantasias e afetos (o não-dito) que precisam ser analisados."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Limitar a intervenção a dar conselhos para aliviar o sofrimento do grupo.",
+                      "explanation": "Incorreta. O trabalho é analítico, não de aconselhamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Focar a intervenção apenas nos membros que manifestam o sofrimento de forma mais explícita.",
+                      "explanation": "Incorreta. O sofrimento é grupal e deve ser analisado no coletivo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Transferir a responsabilidade pelo sofrimento para a chefia da instituição.",
+                      "explanation": "Incorreta. O trabalho é de análise e busca de autonomia do grupo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q28",
+                  "statement": "De acordo com Lourau, o que é o 'duplo' na Análise Institucional e como ele afeta a intervenção?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O duplo é a repetição da mesma demanda por diferentes setores da instituição.",
+                      "explanation": "Incorreta. O duplo é o aspecto oculto da instituição."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É o mecanismo pelo qual a Organização (o visível) tenta mascarar a Instituição (a norma/o invisível), resistindo à análise e à mudança.",
+                      "explanation": "Correta. O duplo é o oculto, o que resiste à análise e à mudança, sendo o trabalho do analista operá-lo, transformando o implícito em explícito."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É a presença de dois líderes no grupo, dificultando a coesão.",
+                      "explanation": "Incorreta. O duplo é um conceito conceitual, não a manifestação de liderança."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É a necessidade do analista de trabalhar em dupla (co-coordenação) em todas as intervenções.",
+                      "explanation": "Incorreta. É um conceito teórico, não uma regra de trabalho."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É a manifestação de transferência e contratransferência ao mesmo tempo.",
+                      "explanation": "Incorreta. O duplo é o oculto na instituição."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q29",
+                  "statement": "Qual dos seguintes aspectos *não* é considerado uma função do psicólogo no trabalho com grupos, conforme a Unidade 2 do material didático?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Atuar como tradutor das fantasias e dos afetos no grupo.",
+                      "explanation": "Incorreta. É uma função essencial do papel do psicólogo na Unidade 2."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Possibilitar a análise do vivido pelo grupo, buscando a autonomia e a transformação.",
+                      "explanation": "Incorreta. É uma função essencial do papel do psicólogo na Unidade 2."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Garantir a completa adaptação dos membros à cultura da instituição, sem questionamentos.",
+                      "explanation": "Correta. A função do psicólogo é questionar a cultura e promover a autonomia, não garantir a adaptação inquestionável."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Analisar a demanda de intervenção, desnaturalizando o pedido da instituição.",
+                      "explanation": "Incorreta. É uma função essencial do papel do psicólogo na Unidade 2."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Operar com o sofrimento e a não-satisfação do grupo como mobilizadores da análise.",
+                      "explanation": "Incorreta. É uma função essencial do papel do psicólogo na Unidade 2."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_v2_L1_Q30",
+                  "statement": "A escuta de grupos na instituição, na perspectiva psicanalítica, busca operar \"rachaduras no que está cristalizado\". Qual é o propósito específico dessa ação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Produzir discursos institucionais que promovam a repetição para preservar o desenvolvimento em si.",
+                      "explanation": "Incorreta. Os discursos institucionais tendem a produzir repetições; o objetivo é operar rachaduras nisso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Explorar o que buscam em condição de operar rachaduras no que está cristalizado, uma vez que os discursos institucionais tendem a produzir repetições para preservar o desenvolvimento em si.",
+                      "explanation": "Correta. O objetivo é explorar o que está latente e operar rachaduras no que está cristalizado pelos discursos institucionais, que tendem à repetição e à preservação do 'status quo'."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover a leitura dos discursos como se lê o discurso de um sujeito em análise, obtendo resultados eficazes.",
+                      "explanation": "Incorreta. Esta é a analogia feita (leitura como em análise), mas o objetivo de 'rachaduras' é o propósito final."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Assegurar que os indivíduos se sintam à vontade para serem eles próprios nas interações, estimulando a naturalidade.",
+                      "explanation": "Incorreta. Isso é fundamental para a dinâmica de grupo, mas não a função das 'rachaduras no cristalizado' institucional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Conciliar o coletivo sem deixar de lado a dimensão singular do sujeito.",
+                      "explanation": "Incorreta. Esta é a definição do desafio do psicanalista, mas não o propósito das 'rachaduras'."
+                    }
+                  ],
+                  "answer": "B"
                 }
               ]
             }
