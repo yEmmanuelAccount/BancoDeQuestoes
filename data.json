@@ -17427,7 +17427,7 @@
                 }
               ]
             },
-                        {
+            {
               "id": "p4_psicologia_escolar_e_educacional_v2_L1",
               "title": "(v2) - Lista 1: Contribuições de Henri Wallon no processo ensino-aprendizagem",
               "questions": [
@@ -23574,16 +23574,11 @@
           "title": "🌟 Psicologia e Inclusão",
           "lists": [
             {
-              "id": "p4_PeI_L1",
-              "title": "Lista 1: vazio",
-              "questions": []
-            },
-            {
-              "id": "p4_PeI_L2",
-              "title": "Lista 2: Inclusão v1 - (História e Legislação da Educação Inclusiva)",
+              "id": "p4_PeI_v1_L2",
+              "title": "(v1) - Lista 1: Inclusão v1 - (História e Legislação da Educação Inclusiva)",
               "questions": [
                 {
-                  "id": "p4_PeI_L2_Q1",
+                  "id": "p4_PeI_v1_L2_Q1",
                   "statement": "Durante o período da Antiguidade Clássica, especificamente em Esparta, qual era a prática comum adotada em relação às crianças que nasciam com deficiências físicas ou mentais?",
                   "options": [
                     {
@@ -23615,7 +23610,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q2",
+                  "id": "p4_PeI_v1_L2_Q2",
                   "statement": "Qual era a característica principal da abordagem adotada em Roma Antiga e na Grécia (Atenas) em relação às crianças com deficiência, em contraste com a prática espartana de eliminação imediata?",
                   "options": [
                     {
@@ -23647,7 +23642,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PeI_L2_Q3",
+                  "id": "p4_PeI_v1_L2_Q3",
                   "statement": "O que a ascensão do Cristianismo representou para as pessoas com deficiência na Idade Média, no que diz respeito às práticas sociais da Antiguidade Clássica?",
                   "options": [
                     {
@@ -23679,7 +23674,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q4",
+                  "id": "p4_PeI_v1_L2_Q4",
                   "statement": "No período da Idade Média, as pessoas com deficiência eram mantidas longe da sociedade, mas recebiam caridade. Qual foi a consequência negativa dessa \"caridade\"?",
                   "options": [
                     {
@@ -23711,7 +23706,7 @@
                   "answer": "E"
                 },
                 {
-                  "id": "p4_PeI_L2_Q5",
+                  "id": "p4_PeI_v1_L2_Q5",
                   "statement": "A Idade Moderna (séculos XVI a XVIII) foi marcada por profundas mudanças sociais. Qual fenômeno histórico desse período teve um impacto negativo significativo na vida das pessoas com deficiência, levando à segregação em grandes instituições?",
                   "options": [
                     {
@@ -23743,7 +23738,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q6",
+                  "id": "p4_PeI_v1_L2_Q6",
                   "statement": "A Idade Moderna marca o surgimento de duas vertentes de intervenção em relação às pessoas com deficiência. Quais eram essas vertentes, e qual era a sua finalidade principal?",
                   "options": [
                     {
@@ -23775,7 +23770,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q7",
+                  "id": "p4_PeI_v1_L2_Q7",
                   "statement": "Qual é a principal diferença entre a abordagem da Idade Média e a abordagem da Idade Moderna em relação à deficiência?",
                   "options": [
                     {
@@ -23807,7 +23802,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q8",
+                  "id": "p4_PeI_v1_L2_Q8",
                   "statement": "A Idade Contemporânea (a partir do século XIX) é o período que marca o surgimento das ações mais organizadas de atendimento às pessoas com deficiência. O que motivou o início do atendimento especializado em Educação?",
                   "options": [
                     {
@@ -23839,7 +23834,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q9",
+                  "id": "p4_PeI_v1_L2_Q9",
                   "statement": "No início do século XX, o modelo predominante de atendimento à pessoa com deficiência no Brasil era o da segregação. Qual tipo de instituição era responsável por esse atendimento?",
                   "options": [
                     {
@@ -23871,7 +23866,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q10",
+                  "id": "p4_PeI_v1_L2_Q10",
                   "statement": "O que caracteriza o modelo Clínico-Pedagógico, que foi o motor da Educação Especial segregada no Brasil?",
                   "options": [
                     {
@@ -23903,7 +23898,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q11",
+                  "id": "p4_PeI_v1_L2_Q11",
                   "statement": "No Brasil, a Lei de Diretrizes e Bases da Educação Nacional (LDB) de 1971 (Lei nº 5.692/71) foi a primeira a incluir a Educação Especial. Qual era a principal característica dessa legislação?",
                   "options": [
                     {
@@ -23935,7 +23930,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q12",
+                  "id": "p4_PeI_v1_L2_Q12",
                   "statement": "O movimento mundial pela Inclusão ganhou força com a Declaração de Salamanca (1994). Qual foi a principal inovação deste documento em relação à Integração Escolar?",
                   "options": [
                     {
@@ -23967,7 +23962,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q13",
+                  "id": "p4_PeI_v1_L2_Q13",
                   "statement": "Qual é o principal desafio do modelo de **Integração Escolar** (vigente na LDB de 1971), que o modelo de **Educação Inclusiva** (vigente na LDB de 1996 e Declaração de Salamanca) busca superar?",
                   "options": [
                     {
@@ -23999,7 +23994,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q14",
+                  "id": "p4_PeI_v1_L2_Q14",
                   "statement": "O que estabelece a Lei de Diretrizes e Bases da Educação Nacional (LDB) de 1996 (Lei nº 9.394/96) sobre a Educação Especial?",
                   "options": [
                     {
@@ -24031,7 +24026,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q15",
+                  "id": "p4_PeI_v1_L2_Q15",
                   "statement": "A **Convenção sobre os Direitos das Pessoas com Deficiência (ONU, 2006)** e a Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (Brasil, 2008) são os marcos legais mais recentes. Qual é o seu principal foco e princípio filosófico?",
                   "options": [
                     {
@@ -24063,7 +24058,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q16",
+                  "id": "p4_PeI_v1_L2_Q16",
                   "statement": "O que a **Educação Especial** na perspectiva da Educação Inclusiva (PNEEPEI/2008) **NÃO** prevê como um dos seus objetivos principais em relação ao sistema de ensino regular?",
                   "options": [
                     {
@@ -24095,7 +24090,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PeI_L2_Q17",
+                  "id": "p4_PeI_v1_L2_Q17",
                   "statement": "O **Atendimento Educacional Especializado (AEE)** é o principal instrumento de apoio à inclusão no Brasil. Qual é o papel central do AEE e onde ele deve ser realizado, segundo a legislação atual?",
                   "options": [
                     {
@@ -24127,7 +24122,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q18",
+                  "id": "p4_PeI_v1_L2_Q18",
                   "statement": "O **Transtorno do Espectro Autista (TEA)**, de acordo com a PNEEPEI/2008, faz parte de qual grupo de público-alvo da Educação Especial?",
                   "options": [
                     {
@@ -24159,7 +24154,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PeI_L2_Q19",
+                  "id": "p4_PeI_v1_L2_Q19",
                   "statement": "Qual dos seguintes grupos **NÃO** é considerado público-alvo da Educação Especial na perspectiva da Educação Inclusiva (PNEEPEI/2008)?",
                   "options": [
                     {
@@ -24191,7 +24186,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PeI_L2_Q20",
+                  "id": "p4_PeI_v1_L2_Q20",
                   "statement": "Qual é a principal **diferença** entre a abordagem do **psicólogo** na **Integração Escolar** (modelo antigo) e na **Educação Inclusiva** (modelo atual)?",
                   "options": [
                     {
@@ -24223,7 +24218,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q21",
+                  "id": "p4_PeI_v1_L2_Q21",
                   "statement": "No que consiste a **Política de Matrícula de 2018 (Nota Técnica nº 28/2018)** no Brasil, em relação à Educação Especial?",
                   "options": [
                     {
@@ -24255,7 +24250,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q22",
+                  "id": "p4_PeI_v1_L2_Q22",
                   "statement": "A **Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência - Lei nº 13.146/2015)** é um marco legal fundamental. Qual é o seu principal foco e a sua contribuição central para o entendimento da deficiência?",
                   "options": [
                     {
@@ -24287,7 +24282,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q23",
+                  "id": "p4_PeI_v1_L2_Q23",
                   "statement": "Qual a principal mudança trazida pela **Lei Brasileira de Inclusão (LBI)** em relação à avaliação da deficiência no Brasil?",
                   "options": [
                     {
@@ -24319,7 +24314,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PeI_L2_Q24",
+                  "id": "p4_PeI_v1_L2_Q24",
                   "statement": "O **Desenho Universal (DU)** é um conceito central no modelo de Inclusão. Qual é a sua definição e finalidade principal?",
                   "options": [
                     {
@@ -24351,7 +24346,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q25",
+                  "id": "p4_PeI_v1_L2_Q25",
                   "statement": "Qual dos seguintes princípios do Desenho Universal (DU) busca evitar a segregação ou o estigma social no uso de produtos ou ambientes?",
                   "options": [
                     {
@@ -24383,7 +24378,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q26",
+                  "id": "p4_PeI_v1_L2_Q26",
                   "statement": "O que a **Lei Brasileira de Inclusão (LBI)** estabelece sobre a **recusa de matrícula** de aluno com deficiência em escolas privadas?",
                   "options": [
                     {
@@ -24415,7 +24410,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q27",
+                  "id": "p4_PeI_v1_L2_Q27",
                   "statement": "Qual o significado da **Transversalidade da Educação Especial** no sistema de ensino, conforme preconiza a PNEEPEI/2008?",
                   "options": [
                     {
@@ -24447,7 +24442,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PeI_L2_Q28",
+                  "id": "p4_PeI_v1_L2_Q28",
                   "statement": "Qual o papel do **professor da sala de aula comum** no modelo de Educação Inclusiva, em relação ao aluno com deficiência?",
                   "options": [
                     {
@@ -24479,7 +24474,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L2_Q29",
+                  "id": "p4_PeI_v1_L2_Q29",
                   "statement": "Qual o papel do **psicólogo** na **avaliação biopsicossocial da deficiência** no Brasil, conforme a **Lei Brasileira de Inclusão (LBI)**?",
                   "options": [
                     {
@@ -24511,7 +24506,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L2_Q30",
+                  "id": "p4_PeI_v1_L2_Q30",
                   "statement": "A Política Nacional de Educação Especial na perspectiva da Educação Inclusiva e a Convenção da ONU de 2006 ampliaram o conceito de \"Pessoas com necessidades educacionais especiais\" para fins educacionais. Qual grupo essa expressão ampliada abrange, além dos alunos com deficiência?",
                   "options": [
                     {
@@ -24545,11 +24540,11 @@
               ]
             },
             {
-              "id": "p4_psicologia-e-inclusao_lista03",
-              "title": "Lista 3: Slides Inclusão v1 - (História e Paradigmas da Inclusão)",
+              "id": "p4_PeI_v1_L3",
+              "title": "(v1) - Lista 2: Slides Inclusão v1 - (História e Paradigmas da Inclusão)",
               "questions": [
                 {
-                  "id": "p4_PeI_L3_Q1",
+                  "id": "p4_PeI_v1_L3_Q1",
                   "statement": "Historicamente, as pessoas com deficiência foram submetidas a diversas formas de exclusão social. De acordo com as fontes, em qual período essas pessoas eram internadas em instituições como orfanatos, manicômios e prisões, sendo excluídas do convívio social?",
                   "options": [
                     {
@@ -24581,7 +24576,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q2",
+                  "id": "p4_PeI_v1_L3_Q2",
                   "statement": "O período conhecido como A Segregação (Século XX), no contexto da Educação Especial, marca a separação do aluno com deficiência da escola regular. Qual é a principal característica desse paradigma?",
                   "options": [
                     {
@@ -24613,7 +24608,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q3",
+                  "id": "p4_PeI_v1_L3_Q3",
                   "statement": "No paradigma da Segregação, qual era o principal papel esperado da Educação Especial?",
                   "options": [
                     {
@@ -24645,7 +24640,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q4",
+                  "id": "p4_PeI_v1_L3_Q4",
                   "statement": "O movimento de desinstitucionalização das pessoas com deficiência, impulsionado pela Declaração Universal dos Direitos Humanos, deu origem a qual novo paradigma educacional que visava a entrada dos alunos com deficiência na escola regular?",
                   "options": [
                     {
@@ -24677,7 +24672,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PeI_L3_Q5",
+                  "id": "p4_PeI_v1_L3_Q5",
                   "statement": "A Integração, enquanto paradigma, pressupõe a 'normalização' do aluno com deficiência. Nesse contexto, qual é a principal condição para que a Integração seja bem-sucedida?",
                   "options": [
                     {
@@ -24709,7 +24704,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q6",
+                  "id": "p4_PeI_v1_L3_Q6",
                   "statement": "No Brasil, o paradigma da Integração foi influenciado por qual documento internacional, que propôs que as crianças com deficiência fossem educadas 'no mais completo grau possível, juntamente com as demais crianças'?",
                   "options": [
                     {
@@ -24741,7 +24736,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q7",
+                  "id": "p4_PeI_v1_L3_Q7",
                   "statement": "O que o paradigma da Integração (final do século XX) e o da Segregação (início do século XX) têm em comum, em relação à visão sobre o aluno com deficiência e a escola?",
                   "options": [
                     {
@@ -24773,7 +24768,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q8",
+                  "id": "p4_PeI_v1_L3_Q8",
                   "statement": "Qual é a principal diferença entre a Integração (Mainstreaming) e a Inclusão (a partir da Declaração de Salamanca, 1994), no que diz respeito à matrícula e à aceitação do aluno?",
                   "options": [
                     {
@@ -24805,7 +24800,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q9",
+                  "id": "p4_PeI_v1_L3_Q9",
                   "statement": "Qual documento, em 1994, marca a transição global do paradigma da Integração para o paradigma da Inclusão, estabelecendo o princípio de que 'todas as crianças devem aprender juntas, independentemente de quaisquer dificuldades ou diferenças que possam ter'?",
                   "options": [
                     {
@@ -24837,7 +24832,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q10",
+                  "id": "p4_PeI_v1_L3_Q10",
                   "statement": "O paradigma da Inclusão se diferencia dos anteriores por deslocar o foco do indivíduo com deficiência para qual elemento?",
                   "options": [
                     {
@@ -24869,7 +24864,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q11",
+                  "id": "p4_PeI_v1_L3_Q11",
                   "statement": "Qual lei brasileira (em sua redação de 2013, que incluiu o Art. 4º-A) estabelece a responsabilidade do poder público de garantir a oferta de 'educação bilíngue de surdos, em escolas ou classes bilíngues de educação infantil e de ensinos fundamental e médio'?",
                   "options": [
                     {
@@ -24901,7 +24896,7 @@
                   "answer": "A"
                 },
                 {
-                  "id": "p4_PeI_L3_Q12",
+                  "id": "p4_PeI_v1_L3_Q12",
                   "statement": "Qual documento legal estabelece a 'Educação Especial como modalidade de ensino que perpassa todos os níveis, etapas e modalidades, realiza o atendimento educacional especializado, disponibiliza os recursos e serviços e orienta quanto a sua utilização no processo de ensino e aprendizagem'?",
                   "options": [
                     {
@@ -24933,7 +24928,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q13",
+                  "id": "p4_PeI_v1_L3_Q13",
                   "statement": "O Atendimento Educacional Especializado (AEE), previsto na Política Nacional de 2008, tem qual característica fundamental em relação ao ensino regular?",
                   "options": [
                     {
@@ -24965,7 +24960,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q14",
+                  "id": "p4_PeI_v1_L3_Q14",
                   "statement": "A Lei nº 13.146/2015, conhecida como Estatuto da Pessoa com Deficiência ou Lei Brasileira de Inclusão (LBI), inova ao trazer um conceito de barreiras que vai além das físicas. Qual é o conceito ampliado de barreiras trazido pela LBI?",
                   "options": [
                     {
@@ -24997,7 +24992,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q15",
+                  "id": "p4_PeI_v1_L3_Q15",
                   "statement": "O Modelo Social da deficiência, que embasa a Inclusão, difere-se do Modelo Médico por apresentar qual visão central?",
                   "options": [
                     {
@@ -25029,7 +25024,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q16",
+                  "id": "p4_PeI_v1_L3_Q16",
                   "statement": "O século XVIII e o início do século XIX foram marcados pela Assistência. Qual é a principal crítica feita a essa abordagem em relação às pessoas com deficiência?",
                   "options": [
                     {
@@ -25061,7 +25056,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q17",
+                  "id": "p4_PeI_v1_L3_Q17",
                   "statement": "Qual dos seguintes eventos é considerado um marco no surgimento do paradigma da Segregação no Brasil (e no mundo), por institucionalizar a educação especial em um formato separado do ensino comum?",
                   "options": [
                     {
@@ -25093,7 +25088,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q18",
+                  "id": "p4_PeI_v1_L3_Q18",
                   "statement": "Na Segregação (Século XX), a Educação Especial adotou um modelo **médico-pedagógico**. Qual era o foco principal desse modelo?",
                   "options": [
                     {
@@ -25125,7 +25120,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q19",
+                  "id": "p4_PeI_v1_L3_Q19",
                   "statement": "O paradigma da Integração (décadas de 1960-1990) é frequentemente chamado de **'normalização'** ou **'mainstreaming'** em diferentes contextos e etapas. O que significa a 'normalização' nesse contexto?",
                   "options": [
                     {
@@ -25157,7 +25152,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q20",
+                  "id": "p4_PeI_v1_L3_Q20",
                   "statement": "A Declaração de Salamanca (1994) foi um divisor de águas, estabelecendo o conceito de 'Escola Inclusiva'. Qual é a principal característica que define uma Escola Inclusiva?",
                   "options": [
                     {
@@ -25189,7 +25184,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q21",
+                  "id": "p4_PeI_v1_L3_Q21",
                   "statement": "Qual é a principal responsabilidade do psicólogo escolar e educacional no paradigma da Inclusão, em contraste com sua atuação nos paradigmas de Segregação e Integração?",
                   "options": [
                     {
@@ -25221,7 +25216,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q22",
+                  "id": "p4_PeI_v1_L3_Q22",
                   "statement": "A Lei nº 13.146/2015 (LBI) traz o conceito de **Desenho Universal**. Qual é a definição mais precisa desse conceito?",
                   "options": [
                     {
@@ -25253,7 +25248,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q23",
+                  "id": "p4_PeI_v1_L3_Q23",
                   "statement": "A **Acessibilidade Pedagógica** é um dos pilares da Inclusão. No que ela consiste?",
                   "options": [
                     {
@@ -25285,7 +25280,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q24",
+                  "id": "p4_PeI_v1_L3_Q24",
                   "statement": "Qual dos seguintes é um **princípio fundamental** do paradigma da Inclusão, que o diferencia claramente da Integração?",
                   "options": [
                     {
@@ -25317,7 +25312,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q25",
+                  "id": "p4_PeI_v1_L3_Q25",
                   "statement": "O Decreto nº 5.626/2005 (que regulamentou a Lei de Libras) estabeleceu que as instituições federais de ensino superior e as de ensino médio e de educação profissional devem garantir a inclusão da Libras como disciplina curricular obrigatória. No entanto, qual é a principal condição para que essa obrigatoriedade se aplique?",
                   "options": [
                     {
@@ -25349,7 +25344,7 @@
                   "answer": "A"
                 },
                 {
-                  "id": "p4_PeI_L3_Q26",
+                  "id": "p4_PeI_v1_L3_Q26",
                   "statement": "Qual dos seguintes elementos é o que **não** faz parte do público-alvo da Educação Especial na Perspectiva da Educação Inclusiva (PNEEPEI, 2008)?",
                   "options": [
                     {
@@ -25381,7 +25376,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PeI_L3_Q27",
+                  "id": "p4_PeI_v1_L3_Q27",
                   "statement": "No contexto da Segregação (Século XX), o que era esperado do professor da sala de aula comum em relação ao aluno com deficiência?",
                   "options": [
                     {
@@ -25413,7 +25408,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PeI_L3_Q28",
+                  "id": "p4_PeI_v1_L3_Q28",
                   "statement": "Qual é a principal crítica feita ao paradigma da Integração no que diz respeito ao seu impacto na prática pedagógica da escola comum?",
                   "options": [
                     {
@@ -25445,7 +25440,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PeI_L3_Q29",
+                  "id": "p4_PeI_v1_L3_Q29",
                   "statement": "Em 1854, o governo imperial do Brasil, sob a influência da filosofia de Abbé de l’Épée e Haüy, criou o Instituto dos Meninos Cegos (IMC) e, em 1857, o Instituto Nacional dos Surdos-Mudos (INSM). Qual foi o principal impacto dessa ação governamental na política de Educação Especial?",
                   "options": [
                     {
@@ -25477,7 +25472,7 @@
                   "answer": "A"
                 },
                 {
-                  "id": "p4_PeI_L3_Q30",
+                  "id": "p4_PeI_v1_L3_Q30",
                   "statement": "A Integração, um novo paradigma da Educação Especial que sucedeu a segregação, é descrita como uma tentativa de integrar os alunos com deficiência nas escolas comuns. Em que consistia a primeira etapa, a integração parcial, conforme as fontes?",
                   "options": [
                     {
@@ -25507,6 +25502,1998 @@
                     }
                   ],
                   "answer": "C"
+                }
+              ]
+            },
+            {
+              "id": "p4_PeI_v2_L1",
+              "title": "(v2) - Lista 1: inclusão uni2",
+              "questions": [
+                {
+                  "id": "p4_PeI_v2_L1_Q1",
+                  "level": "médio",
+                  "enunciado": "De acordo com a Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei n.º 13.146/2015), como são definidas as barreiras atitudinais?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Impedimentos de longo prazo de natureza física ou mental que limitam a participação social.",
+                      "explanation": "Incorreta. Esta é parte da definição de Pessoa com Deficiência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Posturas afetivas e sociais, que se traduzem em discriminação e preconceito, sob o argumento de que é \"melhor para ELE\".",
+                      "explanation": "Incorreta. Esta é uma descrição da manifestação da ideologia da normalidade, citando Lima e Silva (2009)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Determinações na esfera social, centradas nas restrições dos indivíduos e não em suas habilidades.",
+                      "explanation": "Incorreta. Esta é uma explicação de Santos (2019) sobre barreiras atitudinais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Atitudes ou comportamentos que impeçam ou prejudiquem a participação social da pessoa com deficiência em igualdade de condições e oportunidades com as demais pessoas.",
+                      "explanation": "Correta. A Lei n.º 13.146/2015 define barreiras atitudinais dessa forma."
+                    },
+                    {
+                      "id": "E",
+                      "text": "As barreiras geradas, mantidas e fortalecidas por meio de ações, omissões e linguagem ao longo da história humana.",
+                      "explanation": "Incorreta. Esta é uma conceituação de barreiras históricas."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q2",
+                  "level": "médio",
+                  "enunciado": "Qual modalidade de atendimento o Art. 58 da Lei de Diretrizes e Bases da Educação Nacional (LDB – Lei n.º 9.394/1996) define como a Educação Especial, explicitando a preferência para sua oferta?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Modalidade de educação escolar oferecida exclusivamente em instituições de ensino especial (segregadas).",
+                      "explanation": "Incorreta. A LDB define 'preferencialmente'."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Modalidade de educação escolar oferecida preferencialmente na rede regular de ensino, para educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação.",
+                      "explanation": "Correta. É o texto literal do Art. 58 da LDB."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O atendimento educacional especializado gratuito, transversal a todos os níveis, etapas e modalidades, sem mencionar o local de preferência.",
+                      "explanation": "Incorreta. O atendimento educacional especializado (AEE) é parte da Educação Especial, mas não a sua definição completa conforme o Art. 58."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O atendimento educacional será feito em classes, escolas ou serviços especializados, como regra geral.",
+                      "explanation": "Incorreta. O atendimento é preferencialmente na rede regular."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A educação básica obrigatória e gratuita para todos os indivíduos de 4 (quatro) a 17 (dezessete) anos de idade.",
+                      "explanation": "Incorreta. Esta é uma definição sobre a obrigatoriedade da educação básica, não da Educação Especial."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q3",
+                  "level": "médio",
+                  "enunciado": "A Lei Brasileira de Inclusão (LBI – Lei n.º 13.146/2015) define que a avaliação da deficiência, quando necessária, será realizada por uma equipe multiprofissional e interdisciplinar. Qual aspecto abaixo deve ser obrigatoriamente analisado por essa equipe?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "O tempo de permanência do estudante em uma determinada série e a cooperação entre os professores.",
+                      "explanation": "Incorreta. Embora sejam elementos relevantes no processo educacional, não são aspectos obrigatórios da avaliação da deficiência pela LBI."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A flexibilidade e a adaptação do currículo para atender as necessidades individuais.",
+                      "explanation": "Incorreta. São providências educacionais, mas não aspectos obrigatórios da avaliação da deficiência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Os impedimentos nas funções e nas estruturas do corpo, os fatores socioambientais, psicológicos e pessoais, a limitação no desempenho de atividades e a restrição de participação.",
+                      "explanation": "Correta. De acordo com o Art. 2º, §1º, da LBI, a avaliação deve considerar a Classificação Internacional de Funcionalidade, Capacidade e Saúde (CIF)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O histórico familiar do aluno e a origem socioeconômica.",
+                      "explanation": "Incorreta. São fatores que influenciam a educação, mas não os elementos obrigatórios da avaliação da deficiência."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A capacitação docente para atuar na educação inclusiva e o conhecimento dos requisitos legais.",
+                      "explanation": "Incorreta. São responsabilidades do sistema de ensino, mas não aspectos da avaliação da deficiência."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q4",
+                  "level": "médio",
+                  "enunciado": "Qual dos Quatro Pilares da Educação, apresentados por Delors (2003), está focado na necessidade de educar para a convivência, para enfrentar as questões da diversidade e do multiculturalismo, incluindo o respeito às diferenças culturais, sociais e religiosas?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Aprender a conhecer.",
+                      "explanation": "Incorreta. Foca na aquisição do conhecimento, domínio de instrumentos e compreensão do mundo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Aprender a conviver.",
+                      "explanation": "Correta. Foca na convivência, na compreensão de si e do outro, e na cooperação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aprender a ser.",
+                      "explanation": "Incorreta. Foca no desenvolvimento completo do indivíduo (autonomia, julgamento e responsabilidade pessoal)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aprender a fazer.",
+                      "explanation": "Incorreta. Foca na aquisição de competências que permitem lidar com diversas situações."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aprender a refletir.",
+                      "explanation": "Incorreta. Este não é um dos quatro pilares originais de Delors."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q5",
+                  "level": "médio",
+                  "enunciado": "Salend (2008 apud Silva, 2012) elege quatro princípios fundamentais para uma inclusão escolar bem-sucedida. O princípio que visa a eliminação das barreiras atitudinais é o de:",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Aceitação dos pontos fortes e desafiadores dos alunos, assim como da diversidade.",
+                      "explanation": "Correta. Este princípio trata da aceitação e respeito pela diversidade, combatendo as barreiras atitudinais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Capacitação docente para a educação especial.",
+                      "explanation": "Incorreta. Embora seja um elemento importante, não é um dos quatro princípios de Salend (2008) diretamente focado nas barreiras atitudinais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Práticas de ensino baseadas na transmissão de conhecimento.",
+                      "explanation": "Incorreta. A inclusão exige práticas de ensino variadas e adaptadas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Garantir que todos os estudantes com deficiência sejam matriculados em classes ou escolas especiais.",
+                      "explanation": "Incorreta. Isso seria segregação ou integração, não inclusão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estabelecer processos contínuos de planejamento e monitoramento eficazes para todos.",
+                      "explanation": "Incorreta. Este é outro princípio de Salend (2008), mas foca no planejamento e monitoramento, não diretamente nas barreiras atitudinais."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q6",
+                  "level": "médio",
+                  "enunciado": "De acordo com o Art. 59 da Lei n.º 9.394/1996 (LDB), o que os sistemas de ensino deverão assegurar aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Priorização de atendimento em instituições de ensino especial segregadas.",
+                      "explanation": "Incorreta. A LDB prioriza a rede regular."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas recursos didáticos e organização específicos, excluindo métodos e currículos.",
+                      "explanation": "Incorreta. O artigo inclui currículos, métodos e técnicas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Currículos, métodos, técnicas, recursos educativos e organização específicos, para atender às suas necessidades.",
+                      "explanation": "Correta. É o texto literal do Art. 59, I, da LDB."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Somente material didático-escolar, transporte e alimentação, por meio de programas suplementares.",
+                      "explanation": "Incorreta. Os programas suplementares são previstos para os alunos da educação básica, mas o Art. 59 trata dos aspectos pedagógicos específicos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Exigência de que o currículo escolar seja funcional e ativo, adaptando-se estritamente aos interesses dos alunos no Ensino Médio.",
+                      "explanation": "Incorreta. Esta é uma ideia do Manifesto dos Pioneiros da Educação Nova, não o texto da LDB."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q7",
+                  "level": "médio",
+                  "enunciado": "A formação docente, conforme a Lei n.º 9.394/1996 (LDB), deve ter como fundamentos: (I) a presença de sólida formação básica; (II) a associação entre teorias e práticas; e (III) qual outro elemento essencial?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Exclusividade na formação continuada de professores.",
+                      "explanation": "Incorreta. A formação continuada é apenas uma parte."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O domínio de procedimentos e recursos avançados em tecnologia assistiva.",
+                      "explanation": "Incorreta. Não é um dos três fundamentos gerais da LDB."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O desenvolvimento de habilidades interpessoais e empatia.",
+                      "explanation": "Incorreta. Não é o terceiro fundamento literal da LDB."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A garantia de que a formação ocorra apenas no local de trabalho (formação em serviço).",
+                      "explanation": "Incorreta. A formação em serviço é uma modalidade, mas não um dos fundamentos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O aproveitamento da formação e experiências anteriores, em instituições de ensino e em outras atividades.",
+                      "explanation": "Correta. É o Art. 61, inciso III, da LDB."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q8",
+                  "level": "médio",
+                  "enunciado": "Quais são os três problemas principais que Sacristán (2000) sugere na elaboração de um currículo?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Currículo focado na diversidade cultural, avaliação dos progressos e busca por noções utilizáveis.",
+                      "explanation": "Incorreta. Estes são aspectos da implementação curricular, não os problemas conceituais levantados por Sacristán."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Conflitos e inquietações que surgem, a falta de recursos para o professor e a resistência da comunidade.",
+                      "explanation": "Incorreta. São problemas práticos da escola, mas não os problemas de elaboração do currículo segundo Sacristán."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A aquisição do conhecimento, o desenvolvimento de capacidades e a transformação da realidade.",
+                      "explanation": "Incorreta. Estes são objetivos da educação, não problemas de elaboração curricular."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Currículo como projeto cultural (seleção de conteúdos), determinações políticas/administrativas/institucionais (currículo oculto) e uma sequência histórica (condicionada pelo campo social).",
+                      "explanation": "Correta. Sacristán (2000) aborda o currículo como um projeto cultural, as determinações políticas/institucionais e a sequência histórica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Crença na capacidade de aprendizagem, igual acesso a currículo básico rico e flexibilidade em relação às necessidades individuais.",
+                      "explanation": "Incorreta. São princípios da escola inclusiva de Stainback e Stainback (2003)."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q9",
+                  "level": "médio",
+                  "enunciado": "Qual das seguintes barreiras à inclusão escolar, listadas no Quadro 2.1, é considerada uma barreira de recursos humanos?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Prédios escolares sem rampas, barras de apoio ou banheiro adaptado.",
+                      "explanation": "Incorreta. Barreira física/arquitetônica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Adaptação insuficiente no mobiliário escolar, como falta de mesa e cadeiras adaptadas.",
+                      "explanation": "Incorreta. Barreira de material/mobiliário."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Falta de software educativo específico.",
+                      "explanation": "Incorreta. Barreira de material/recursos didáticos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Número elevado de alunos por sala de aula.",
+                      "explanation": "Incorreta. Barreira organizacional/institucional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Falta de recursos humanos, como contratação de intérprete de Libras, professor com formação em educação especial ou fonoaudiólogo.",
+                      "explanation": "Correta. Barreira de recursos humanos."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q10",
+                  "level": "médio",
+                  "enunciado": "Conforme a LBI (Lei n.º 13.146/2015), qual língua é reconhecida como a primeira língua das pessoas com deficiência auditiva, e qual é a segunda?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Libras como primeira língua e a língua portuguesa como a segunda.",
+                      "explanation": "Correta. Art. 28, IV, da LBI."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A língua portuguesa como primeira língua e o Braile como a segunda.",
+                      "explanation": "Incorreta. O Braile é para a pessoa com deficiência visual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas a língua portuguesa, pois a Libras não é considerada uma língua completa.",
+                      "explanation": "Incorreta. A Libras é uma língua oficial reconhecida pela Lei n.º 10.436/2002."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A língua portuguesa oral como primeira língua e a escrita como a segunda.",
+                      "explanation": "Incorreta. A Libras é a primeira língua para muitos surdos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Língua Brasileira de Sinais como segunda língua, e a Língua Portuguesa como a primeira.",
+                      "explanation": "Incorreta. A LBI estabelece o contrário."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q11",
+                  "level": "médio",
+                  "enunciado": "Para que a inclusão escolar seja efetivada com êxito, Shaffner e Buswell (1999 apud Silva, 2012) enfatizam que é necessário que toda a comunidade escolar acredite e siga os princípios básicos da inclusão. Esses princípios incluem:",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Exclusão dos alunos com altas habilidades do ensino regular.",
+                      "explanation": "Incorreta. A inclusão é para todos, inclusive superdotados."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Segregação, uniformidade e manutenção das rotinas escolares.",
+                      "explanation": "Incorreta. A inclusão é o oposto desses termos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Democracia, igualdade e busca de uma educação de qualidade para todos os alunos com necessidades educacionais especiais no ensino regular.",
+                      "explanation": "Correta. Estes são os princípios básicos citados pelos autores."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ênfase no moralismo abstrato e no acolhimento sentimental.",
+                      "explanation": "Incorreta. Plaisance (2005) critica o moralismo abstrato, pois ele não garante o sucesso acadêmico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Adaptações curriculares focadas apenas na infraestrutura física, ignorando a formação docente.",
+                      "explanation": "Incorreta. As adaptações curriculares devem ser amplas e a formação docente é essencial."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q12",
+                  "level": "médio",
+                  "enunciado": "Qual é uma das características essenciais do professor inclusivo, conforme listado no texto, em relação às tarefas propostas?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Cria tarefas padronizadas para garantir que todos os alunos alcancem os mesmos resultados em igual tempo.",
+                      "explanation": "Incorreta. O professor inclusivo diversifica as tarefas e os tempos de aprendizagem."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Foca nas incapacidades do aluno, para melhor direcionar a necessidade de apoio especializado.",
+                      "explanation": "Incorreta. O professor inclusivo foca nas capacidades e habilidades."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Limita a aprendizagem significativa à transmissão de conhecimento em sala de aula.",
+                      "explanation": "Incorreta. A aprendizagem significativa ocorre em vários espaços e com metodologias ativas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Não oferece feedback para os alunos, para não criar expectativas irrealistas.",
+                      "explanation": "Incorreta. O feedback é fundamental para o acompanhamento e progresso do aluno."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Conhece cada um dos seus estudantes, criando tarefas de acordo com a capacidade do aluno, entretanto, desafiadoras.",
+                      "explanation": "Correta. O professor inclusivo individualiza o ensino e a avaliação, conhecendo os alunos."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q13",
+                  "level": "médio",
+                  "enunciado": "A Resolução n.º 2/2001 institui que as escolas da rede regular devem prover, na organização de suas classes comuns, flexibilizações e adaptações curriculares. O que essas adaptações devem considerar em termos práticos?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "O significado prático e instrumental dos conteúdos básicos, metodologias de ensino e recursos didáticos diferenciados e processos de avaliação adequados ao desenvolvimento dos alunos.",
+                      "explanation": "Correta. A Resolução CNE/CEB n.º 2/2001, art. 7º, considera todos esses aspectos nas adaptações curriculares."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas as necessidades dos alunos com altas habilidades ou superdotação.",
+                      "explanation": "Incorreta. As adaptações são para todos os alunos com necessidades educacionais especiais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Somente a eliminação de barreiras arquitetônicas, como rampas e banheiros adaptados.",
+                      "explanation": "Incorreta. A eliminação de barreiras é importante, mas o Art. 7º trata das adaptações curriculares."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A manutenção de uma prática pedagógica tradicional fundamentada na transmissão do conhecimento.",
+                      "explanation": "Incorreta. A Resolução exige flexibilização e práticas diferenciadas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade de frequência em salas de recursos, sem complementação curricular na classe comum.",
+                      "explanation": "Incorreta. O AEE é um serviço complementar, e a frequência deve ser prioritária na classe comum."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q14",
+                  "level": "médio",
+                  "enunciado": "O Plano Nacional de Educação (PNE) tem uma meta (Meta 4) referente à educação especial inclusiva. O que a análise dos dados do Inep (2019) sobre a Meta 4 demonstrou no período de 2014 a 2018?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "O percentual de alunos incluídos em classe comum diminuiu gradualmente ao longo dos anos.",
+                      "explanation": "Incorreta. Os dados mostram crescimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O percentual de matrículas de alunos de 4 a 17 anos incluídos em classe comum e que têm acesso às turmas de AEE cresceu no período, passando de 37,1% em 2014 para 40,0% em 2018.",
+                      "explanation": "Correta. Este é o resultado da análise apresentada no texto (Inep, 2019)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A maior proporção de estudantes incluídos é observada na Educação Infantil (98,9%).",
+                      "explanation": "Incorreta. Este dado é sobre a inclusão na classe comum, mas não o dado primário sobre a Meta 4 e o AEE."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O maior aumento na proporção de alunos incluídos foi observado no Ensino Médio (11,5%).",
+                      "explanation": "Incorreta. Não é o dado principal sobre a Meta 4."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O percentual de alunos incluídos em classe comum estagnou em 88% durante todo o período.",
+                      "explanation": "Incorreta. Houve crescimento, não estagnação."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q15",
+                  "level": "médio",
+                  "enunciado": "Qual é o papel crucial do professor em relação ao Projeto Pedagógico (PP) da escola, no contexto da educação inclusiva?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "O professor deve aplicar rigorosamente o PP sem propor adaptações, pois este é um documento fixo.",
+                      "explanation": "Incorreta. O PP é um documento flexível e em construção."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Sua participação na construção do documento é relevante, pois o PP serve de apoio para nortear e adaptar sua prática, sinalizando ações diante da diversidade.",
+                      "explanation": "Correta. O PP é o guia da escola e deve refletir as ações inclusivas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O PP é o único fator que garante o sucesso acadêmico dos alunos, independentemente da prática docente.",
+                      "explanation": "Incorreta. A prática docente e a interação são cruciais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O PP deve focar exclusivamente nas barreiras arquitetônicas e de transporte, sendo desnecessária a menção ao AEE.",
+                      "explanation": "Incorreta. A LBI exige que o PP institucionalize o AEE e as adaptações razoáveis."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O professor deve ignorar o PP e focar apenas na sua formação continuada.",
+                      "explanation": "Incorreta. O professor deve integrar o PP em sua prática."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q16",
+                  "level": "difícil",
+                  "enunciado": "Caldeira (2021) analisa a lógica da in/exclusão no contexto das políticas educacionais e do neoliberalismo. Qual a principal característica do estado de \"inclusão/exclusão\" vivido pelos indivíduos, segundo o texto?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "É um processo estável e bem definido, no qual as políticas estatais garantem a igualdade formal para todos.",
+                      "explanation": "Incorreta. A in/exclusão é um processo instável e dialético."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A inclusão é vista como um imperativo de Estado que mobiliza formas específicas de autoridade para promover a participação de todos na economia capitalista, sendo um processo influenciado por relações de poder que definem os critérios de quem está dentro ou fora.",
+                      "explanation": "Correta. Caldeira (2021) analisa a in/exclusão como um processo dialético e político-econômico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A segregação total é a única realidade, e as políticas públicas de inclusão são meramente falaciosas e não geram nenhum impacto social.",
+                      "explanation": "Incorreta. O conceito de in/exclusão implica que a segregação não é total e as políticas produzem efeitos, mesmo que limitados."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A lógica da in/exclusão parte do princípio de que o jogo formal de desigualdades do neoliberalismo garante condições de igualdade entre os sujeitos.",
+                      "explanation": "Incorreta. O neoliberalismo acentua a desigualdade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A inclusão é exclusivamente uma responsabilidade social e não um imperativo de Estado, visto que o Estado não deve se envolver na economia capitalista.",
+                      "explanation": "Incorreta. A inclusão é vista como um imperativo de Estado."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q17",
+                  "level": "difícil",
+                  "enunciado": "Segundo Maclaren (1998 apud Santana et al., 2020), o currículo representa muito mais do que um programa de estudos. Sob uma perspectiva crítica, qual é o papel social subjacente que o currículo desempenha?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A garantia de que todos os estudantes tenham igual acesso ao conhecimento, eliminando as barreiras culturais, raciais ou de gênero.",
+                      "explanation": "Incorreta. Esta é a visão idealizada e não a crítica de Maclaren."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A preparação para a vida, solucionando conflitos e inquietações, influenciando todos os envolvidos no processo educacional.",
+                      "explanation": "Incorreta. Esta é uma visão funcionalista do currículo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Serve, em parte, para preparar os estudantes para posições dominantes ou subordinadas na sociedade existente, favorecendo certas formas de conhecimento e afirmando os sonhos e valores de grupos seletos.",
+                      "explanation": "Correta. Esta é a perspectiva crítica de Maclaren (1998) sobre o currículo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O percurso de formação dos alunos, sendo um projeto cultural que seleciona conteúdos.",
+                      "explanation": "Incorreta. Esta é a visão de Sacristán (2000), mas Maclaren aprofunda a crítica ao papel social."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Uma exigência legal da LDB (Art. 59), para que os sistemas de ensino ofereçam recursos educativos específicos.",
+                      "explanation": "Incorreta. O currículo oculto transcende a legislação."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q18",
+                  "level": "difícil",
+                  "enunciado": "A LBI (Lei n.º 13.146/2015) exige que o Projeto Pedagógico (PP) institucionalize o Atendimento Educacional Especializado (AEE). Além do AEE, o que mais o PP deve oficializar para atender às características dos estudantes com deficiência?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A exclusão de alunos com deficiência mental ou graves deficiências múltiplas, devido à complexidade do atendimento.",
+                      "explanation": "Incorreta. A LBI visa a inclusão de todos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Os demais serviços e adaptações razoáveis, para garantir o pleno acesso ao currículo em condições de igualdade e promover a autonomia.",
+                      "explanation": "Correta. O PP deve prever o AEE e as adaptações razoáveis (Art. 28, I, II, VIII e IX)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A contratação exclusiva de tradutores e intérpretes da Libras com ensino superior para atuar na Educação Básica.",
+                      "explanation": "Incorreta. A exigência de ensino superior é para a atuação no ensino superior, não na educação básica de forma exclusiva."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O moralismo abstrato, promovendo a ideia de que o acolhimento afetivo é suficiente para o sucesso acadêmico.",
+                      "explanation": "Incorreta. O moralismo abstrato é criticado como ineficaz por Plaisance (2005)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A temporalidade flexível, apenas nos anos iniciais do ensino fundamental.",
+                      "explanation": "Incorreta. A flexibilidade deve ser em todos os níveis e modalidades."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q19",
+                  "level": "difícil",
+                  "enunciado": "Plaisance (2005 apud Silva, 2012) explica que uma das dificuldades encontradas pelos professores é a resistência de outros profissionais em aceitar a inclusão, muitas vezes porque as escolas estão \"acomodadas com as suas rotinas\". Qual conceito, ainda relacionado à resistência, o autor menciona como muito perigoso por não garantir o sucesso acadêmico?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A lógica da in/exclusão, que define os critérios de quem está dentro ou fora da economia capitalista.",
+                      "explanation": "Incorreta. Este é o conceito de Caldeira (2021)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O moralismo abstrato, que trata a inclusão como um apelo sentimental ou missão a ser cumprida, desvinculada de recursos e ensino de qualidade.",
+                      "explanation": "Correta. Plaisance (2005) critica o moralismo abstrato, pois ele não garante o sucesso acadêmico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de capacitação inicial para a docência em Libras.",
+                      "explanation": "Incorreta. Embora seja um problema real, não é o conceito de Plaisance sobre a resistência generalizada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O currículo oculto, que modela a seleção de conteúdo por meio de determinações políticas.",
+                      "explanation": "Incorreta. Este é um problema de Sacristán/Maclaren, não o conceito de Plaisance."
+                    },
+                    {
+                      "id": "E",
+                      "text": "As barreiras atitudinais referentes à cultura, religião, raça e gênero.",
+                      "explanation": "Incorreta. Barreiras atitudinais são um conceito geral, e o 'moralismo abstrato' é o conceito específico de Plaisance."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q20",
+                  "level": "difícil",
+                  "enunciado": "De acordo com Vieira e Omote (2021), a capacitação de professores, da formação inicial à continuada, precisa levar em consideração as variáveis pessoais dos docentes. Por que essas variáveis são cruciais para a construção da Educação Inclusiva?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Porque o domínio de procedimentos e recursos avançados é suficiente para garantir a inclusão, independentemente das atitudes.",
+                      "explanation": "Incorreta. As atitudes são essenciais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Porque a LDB exige que a formação se limite à sólida formação básica, desconsiderando as experiências anteriores.",
+                      "explanation": "Incorreta. A LDB incentiva o aproveitamento de experiências anteriores."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Porque a auto-observação, a reflexão e a busca de transformação pessoal devem ser contínuas e ampliadas com a interação com outros setores da escola.",
+                      "explanation": "Incorreta. Esta é uma ação necessária, mas não a razão *por que* as variáveis pessoais são cruciais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Porque a formação deve ser desvinculada da realidade escolar para garantir a neutralidade na atuação.",
+                      "explanation": "Incorreta. A formação deve estar conectada à realidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Porque as atitudes sociais em relação à inclusão favorável representam uma possibilidade de que os conhecimentos e os recursos disponíveis sejam mobilizados para a construção da Educação Inclusiva.",
+                      "explanation": "Correta. As atitudes favoráveis (variáveis pessoais) são o motor para mobilizar o conhecimento e os recursos existentes."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q21",
+                  "level": "difícil",
+                  "enunciado": "O plano estratégico de Stainback e Stainback (2003) para uma escola inclusiva inclui o elemento de \"Estabelecer processos contínuos de planejamento e monitoramento eficazes para os alunos\". O que envolve a implementação prática desse elemento?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Limitar-se à celebração de sucessos e ao aprendizado com os desafios, sem necessidade de planejamento sistemático.",
+                      "explanation": "Incorreta. A celebração é uma parte, mas o cerne é o planejamento sistemático."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Manter a flexibilidade em relação às necessidades individuais dos alunos, usando abordagens de ensino variadas.",
+                      "explanation": "Incorreta. Este é outro princípio do plano estratégico, mas não o que define o 'planejamento e monitoramento eficazes'."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Implementar práticas de planejamento sistemático e monitoramento regular para garantir que as necessidades sejam identificadas e atendidas de forma adequada, envolvendo avaliação contínua, análise de progresso e ajustes constantes.",
+                      "explanation": "Correta. O planejamento e monitoramento envolvem o ciclo de avaliação, análise e ajuste."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Acompanhar constantemente o processo de mudança, adotando uma abordagem gradual e lidando com a resistência.",
+                      "explanation": "Incorreta. Este é o último princípio da lista, focado na mudança institucional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Garantir igual acesso a um currículo básico rico e instrução de qualidade.",
+                      "explanation": "Incorreta. Este é o primeiro princípio da lista, focado no currículo."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q22",
+                  "level": "difícil",
+                  "enunciado": "A formação docente deve ser integral e contínua. Segundo Campbell (2016), quais habilidades e conhecimentos são requeridos para que os professores atuem com sucesso na inclusão, além de repensar a prática pedagógica?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Conhecer os processos de aprendizagem e manifestar interesse em ascensão de carreira.",
+                      "explanation": "Incorreta. Ascensão de carreira não é o foco principal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir a educação bilíngue, reconhecendo Libras como segunda língua.",
+                      "explanation": "Incorreta. Libras é a primeira língua para muitos surdos, e este é um aspecto específico da inclusão auditiva."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A avaliação de necessidades especiais, adaptação do conteúdo curricular, utilização de tecnologia de assistência e individualização de procedimentos de ensino.",
+                      "explanation": "Correta. Estas são as habilidades técnico-pedagógicas citadas por Campbell (2016)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Focar a prática pedagógica apenas no senso comum para facilitar a detecção dos problemas de aprendizagem.",
+                      "explanation": "Incorreta. O professor deve ir além do senso comum."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Limitar-se à formação inicial, pois o apoio de especialistas garante o atendimento de todas as necessidades.",
+                      "explanation": "Incorreta. A formação deve ser contínua, e o apoio de especialistas é complementar."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q23",
+                  "level": "difícil",
+                  "enunciado": "De acordo com a LDB (Lei n.º 9.394/1996), em quais situações específicas o atendimento educacional será feito em classes, escolas ou serviços especializados, e não na classe comum de ensino regular?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Sempre que os alunos com deficiência visual necessitarem de recursos em Braile.",
+                      "explanation": "Incorreta. O Braile é um recurso que deve ser oferecido na classe comum."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Quando o professor do ensino regular não tiver formação continuada para atuar na educação inclusiva.",
+                      "explanation": "Incorreta. A falta de formação não é um critério legal para segregação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Sempre que a escola não possuir infraestrutura física adaptada.",
+                      "explanation": "Incorreta. A falta de infraestrutura é uma barreira que deve ser superada, não um critério de segregação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Sempre que, em função das condições específicas dos alunos, não for possível a sua integração nas classes comuns de ensino regular.",
+                      "explanation": "Correta. É o texto literal do parágrafo único do Art. 58 da LDB, que estabelece a exceção à regra da preferência."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Quando os alunos com deficiência mental ou graves deficiências múltiplas demandarem temporalidade flexível do ano letivo.",
+                      "explanation": "Incorreta. A temporalidade flexível é uma adaptação razoável dentro do ensino regular."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q24",
+                  "level": "difícil",
+                  "enunciado": "Qual aspecto é identificado como responsável pela ineficácia do sistema escolar, segundo Saviani (2009 apud Nascimento; Almeida; Passos, 2016)?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "O excesso de recursos e tecnologias disponíveis na escola.",
+                      "explanation": "Incorreta. Não é o problema principal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O distanciamento entre a formação dos professores e a realidade escolar.",
+                      "explanation": "Correta. Saviani (2009) critica a formação dissociada da prática e da realidade escolar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A valorização excessiva da formação continuada em detrimento da formação inicial.",
+                      "explanation": "Incorreta. Ambas as formações são importantes."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A falta de engajamento dos alunos no processo de aprendizagem, devido à influência da tecnologia.",
+                      "explanation": "Incorreta. Não é o ponto central da crítica de Saviani."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A ausência de regras e normativos estatais para a inclusão.",
+                      "explanation": "Incorreta. Existem regras (LDB/LBI), mas o problema é a efetividade do sistema."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q25",
+                  "level": "difícil",
+                  "enunciado": "De acordo com a LBI, a oferta de formação continuada para os professores é uma incumbência do Poder Público. Qual é o propósito específico dessa formação continuada, conforme o Art. 28, X, da LBI?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Assegurar a formação de bacharéis em Pedagogia com experiência em Análise de Sistemas.",
+                      "explanation": "Incorreta. Não é o foco da LBI."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fornecer apoio pedagógico especializado em salas de recursos, utilizando procedimentos, equipamentos e materiais específicos.",
+                      "explanation": "Incorreta. É a descrição do AEE, não o propósito da formação continuada."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover o aperfeiçoamento dos conhecimentos necessários à prática profissional e mediar a construção do conhecimento.",
+                      "explanation": "Incorreta. É um propósito geral da formação, mas não o texto da LBI."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Desenvolver redes de apoio e mentoria para fornecer suporte adequado a todos os envolvidos no processo educativo.",
+                      "explanation": "Incorreta. Não é o propósito específico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Adoção de práticas pedagógicas inclusivas pelos programas de formação inicial e continuada de professores e oferta de formação continuada para o atendimento educacional especializado.",
+                      "explanation": "Correta. O Art. 28, X, da LBI exige que a formação contemple ambos os aspectos, práticas inclusivas e AEE."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q26",
+                  "level": "difícil",
+                  "enunciado": "Qual dos seguintes fatores de influência nas atitudes sociais dos professores em relação à inclusão está associado, em alguns estudos, a atitudes mais desfavoráveis, embora haja resultados divergentes?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A escolha da área de formação e/ou atuação profissional.",
+                      "explanation": "Incorreta. As atitudes são mais favoráveis em áreas de educação especial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O desenvolvimento de habilidades sociais e a autoeficácia.",
+                      "explanation": "Incorreta. A autoeficácia está associada a atitudes mais favoráveis."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O fato de serem professores mais jovens.",
+                      "explanation": "Incorreta. Em geral, professores mais jovens têm atitudes mais favoráveis."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A maior qualidade das experiências dos professores com alunos com deficiência em sala de aula.",
+                      "explanation": "Incorreta. A qualidade da experiência está associada a atitudes mais favoráveis."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Maior tempo de experiência docente.",
+                      "explanation": "Correta. O maior tempo de experiência (e, em alguns casos, maior idade) está associado a atitudes menos favoráveis, segundo alguns estudos, provavelmente pela resistência à mudança de paradigma."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q27",
+                  "level": "difícil",
+                  "enunciado": "O Manifesto dos Pioneiros da Educação Nova estabelece que o currículo escolar deve ser funcional e ativo. De acordo com os princípios da Escola Nova, a quem o currículo deve se adaptar, e qual é o papel do professor nessa perspectiva?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "O currículo deve adaptar-se aos interesses da classe dominante; o professor deve transmitir o conhecimento.",
+                      "explanation": "Incorreta. Esta é uma visão da escola tradicional/crítica de Maclaren."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O currículo deve adaptar-se aos interesses do mercado de trabalho; o professor deve ser um fiscalizador.",
+                      "explanation": "Incorreta. Não é o foco do Manifesto."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O currículo deve adaptar-se aos interesses naturais dos alunos, que são o eixo e o centro de gravidade do problema da educação; os professores sugerem, orientam e coordenam.",
+                      "explanation": "Correta. O Manifesto de 1932 defendia a centralidade do aluno e o professor como guia/mediador."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O currículo deve adaptar-se às políticas governamentais; o professor deve focar na transmissão de conhecimento e valores éticos.",
+                      "explanation": "Incorreta. Não é o foco do Manifesto."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O currículo deve ser rígido e o professor deve ser o único responsável pela disciplina voluntária.",
+                      "explanation": "Incorreta. O currículo deve ser flexível e o professor tem um papel de orientador."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q28",
+                  "level": "difícil",
+                  "enunciado": "Qual é a definição de adaptação curricular que abrange as modificações realizadas no planejamento, nos objetivos da escola, nos conteúdos, nas atividades, nas estratégias de aplicação e na avaliação?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Estratégias de ensino que se limitam à individualização de procedimentos para alunos com deficiência.",
+                      "explanation": "Incorreta. É muito restrita, excluindo o planejamento e o conteúdo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A reestruturação da infraestrutura física do ambiente escolar.",
+                      "explanation": "Incorreta. É uma adaptação arquitetônica, não curricular."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O currículo oculto, que modela a seleção de conteúdos não explicitados.",
+                      "explanation": "Incorreta. O currículo oculto não é uma adaptação curricular."
+                    },
+                    {
+                      "id": "D",
+                      "text": "As modificações realizadas no planejamento, dos objetivos da escola, nos conteúdos, nas atividades, nas estratégias de aplicação deste conteúdo e da avaliação, no currículo como um todo ou um aspecto dele.",
+                      "explanation": "Correta. A adaptação curricular é a flexibilização do currículo em seus diversos componentes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A formação docente continuada, que busca superar as precariedades da formação inicial.",
+                      "explanation": "Incorreta. É a formação de professores, não a adaptação curricular."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q29",
+                  "level": "difícil",
+                  "enunciado": "Campbell (2016) destaca que, na educação inclusiva, é um papel do professor assumir suas dificuldades. O que o autor sugere que o professor faça ao admitir que não se considera capaz de lidar com a diversidade de problemas?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Abandonar a educação inclusiva e focar apenas no ensino regular sem diversidade.",
+                      "explanation": "Incorreta. Isso seria retrocesso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Descer de seu pedestal e admitir que não se considera capaz de lidar, sem o apoio de colegas ou profissionais de áreas afins, com a diversidade de problemas que se apresentam em seu cotidiano.",
+                      "explanation": "Correta. O professor deve buscar o apoio de redes de colaboração (colegas e multidisciplinar)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Fazer com que os estudantes com necessidades especiais se sintam pertencentes ao grupo, independentemente da metodologia utilizada.",
+                      "explanation": "Incorreta. A metodologia é crucial para o pertencimento e o sucesso acadêmico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exigir do governo políticas educacionais voltadas exclusivamente para a educação especial.",
+                      "explanation": "Incorreta. A educação deve ser inclusiva, não exclusiva."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Simplesmente dar feedback aos alunos, sem alterar a metodologia de ensino.",
+                      "explanation": "Incorreta. O professor precisa de reflexão e novas técnicas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L1_Q30",
+                  "level": "difícil",
+                  "enunciado": "A LDB (Lei n.º 9.394/1996) e a LBI (Lei n.º 13.146/2015) regulamentam a formação continuada docente. Para garantir que essa formação seja eficaz, especialmente para a educação inclusiva, o que Vieira e Omote (2021) apontam como essencial que o professor aguce?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A capacidade de ignorar as variáveis pessoais, focando apenas no domínio do conhecimento técnico-científico.",
+                      "explanation": "Incorreta. As variáveis pessoais são cruciais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A capacidade de delegar todas as responsabilidades pedagógicas aos especialistas em educação especial.",
+                      "explanation": "Incorreta. O professor deve colaborar e não delegar integralmente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A capacidade de assumir novos papéis e responsabilidades no âmbito da educação inclusiva, independentemente de sua abordagem pedagógica.",
+                      "explanation": "Incorreta. Isso é o que os professores enfrentam, mas não o que deve ser aguçado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A capacidade de refletir sobre a sua própria prática, autoavaliar-se e reconstruir suas condutas com autonomia, em conformidade com a realidade que se apresenta na sala de aula.",
+                      "explanation": "Correta. A auto-observação, reflexão e reconstrução de condutas são essenciais para a formação contínua."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A capacidade de aplicar métodos e programas rígidos para manter a disciplina voluntária.",
+                      "explanation": "Incorreta. Métodos devem ser maleáveis."
+                    }
+                  ],
+                  "answer": "D"
+                }
+              ]
+            },
+            {
+              "id": "p4_PeI_v2_L2",
+              "title": "(v2) - Lista 2: inclusão uni3",
+              "questions": [
+                {
+                  "id": "p4_PeI_v2_L2_Q1",
+                  "level": "médio",
+                  "enunciado": "Segundo Mantoan (2015), ao reconhecer a diversidade e a necessidade de mudança na sociedade, qual é o significado fundamental de incluir no contexto educacional comum?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Promover a formação de uma nova geração focada apenas no desenvolvimento de habilidades cognitivas.",
+                      "explanation": "Incorreta. Mantoan (2015) enfatiza o exercício constante da cooperação, colaboração e convívio, e não apenas o foco cognitivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ensinar a todas as crianças, indistintamente, não deixando ninguém de fora da escola comum.",
+                      "explanation": "Correta. De acordo com Mantoan (2015, p. 11), “incluir é não deixar ninguém de fora da escola comum, ou seja, ensinar a todas as crianças, indistintamente”."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Limitar a inclusão à presença física dos alunos com deficiência na escola regular.",
+                      "explanation": "Incorreta. A inclusão implica a participação plena na vida escolar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Focar a educação apenas na transmissão de informações e conteúdos mínimos para o Ensino Fundamental.",
+                      "explanation": "Incorreta. A escola deve ser um espaço de formação de cidadãos, não apenas de transmissão de informação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Assegurar que os Parâmetros Curriculares Nacionais (PCNs) sejam implementados em sua totalidade, sem flexibilização.",
+                      "explanation": "Incorreta. Os PCNs não são um currículo fixo, mas sim orientações flexíveis."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q2",
+                  "level": "médio",
+                  "enunciado": "Qual é o propósito central dos Parâmetros Curriculares Nacionais (PCNs) na Educação Básica, conforme elaborados pelo Ministério da Educação (MEC)?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Fornecer o currículo obrigatório e inflexível para todas as regiões do país, garantindo a padronização total do ensino.",
+                      "explanation": "Incorreta. Os PCNs são uma referência curricular nacional, e não um currículo engessado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Determinar as capacidades cognitivas, afetivas e físicas que o aluno deve ter ao término da escolaridade obrigatória.",
+                      "explanation": "Incorreta. Não são apenas as capacidades que definem o propósito central."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Orientar exclusivamente a educação especial, excluindo os temas transversais e a pluralidade cultural.",
+                      "explanation": "Incorreta. Os PCNs abrangem toda a educação básica, com ênfase nos temas transversais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Auxiliar e orientar as ações didático-pedagógicas dos professores, visando a formação de cidadãos autônomos, reflexivos e participativos, capazes de compreender seus direitos e deveres na sociedade.",
+                      "explanation": "Correta. Este é o papel dos PCNs, conforme o texto, que citam a formação de cidadãos autônomos, reflexivos e participativos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Cumprir o Art. 26 da Declaração Universal dos Direitos Humanos, focando na gratuidade da instrução.",
+                      "explanation": "Incorreta. O PCN cumpre o Art. 210 da CF/88, sobre o conteúdo mínimo para a educação básica."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q3",
+                  "level": "médio",
+                  "enunciado": "De acordo com a Política Nacional de Educação Especial (PNEE) de 2020, qual é um dos princípios essenciais que envolve a família ou o educando no processo de decisão educacional?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A obrigatoriedade de frequência do estudante em classes especializadas, desde que a família concorde.",
+                      "explanation": "Incorreta. A PNEE não prioriza a obrigatoriedade da classe especializada."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A responsabilidade do Estado em garantir a matrícula, excluindo a participação ativa da família na vida escolar após o ato da matrícula.",
+                      "explanation": "Incorreta. A PNEE enfatiza a participação ativa da família, indo além da matrícula."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A participação de equipe multidisciplinar no processo de decisão da família ou do educando quanto à alternativa educacional mais adequada.",
+                      "explanation": "Correta. A PNEE (2020) exige que a equipe multidisciplinar participe do processo de decisão da família."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A prioridade do acompanhamento psicológico clínico em detrimento do apoio pedagógico especializado.",
+                      "explanation": "Incorreta. O apoio pedagógico (AEE) é prioritário no contexto escolar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade da família em acatar todas as decisões da equipe escolar sobre o currículo e o plano de ação.",
+                      "explanation": "Incorreta. A família deve participar ativamente e pode discordar."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q4",
+                  "level": "médio",
+                  "enunciado": "Qual é a responsabilidade fundamental da escola em relação ao preconceito e à discriminação, conforme enfatizado no texto sobre a diversidade no ambiente escolar?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Evitar abordar temas transversais como ética e pluralidade cultural para manter o foco na produção acadêmica.",
+                      "explanation": "Incorreta. A escola deve abordar esses temas de forma transversal (PCNs)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Acompanhar a evolução dos alunos, delegando a responsabilidade de combater o preconceito para a família e ONGs.",
+                      "explanation": "Incorreta. A responsabilidade é da escola também."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Limitar-se a evitar a reprodução de discriminação de gênero e étnico-raciais, sem a necessidade de intervenção ativa.",
+                      "explanation": "Incorreta. É necessária uma intervenção ativa, não apenas passiva."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Reduzir a identidade dos alunos a características específicas de um grupo para facilitar a gestão da diversidade.",
+                      "explanation": "Incorreta. Isso é estereotipar, o oposto de combater a discriminação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Implementar iniciativas que promovam a igualdade e a eliminação de todas as formas de discriminação e racismo, abordando a diversidade como aspecto positivo e uma oportunidade para o crescimento.",
+                      "explanation": "Correta. A escola deve ser um espaço de combate ativo à discriminação e de valorização da diversidade."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q5",
+                  "level": "médio",
+                  "enunciado": "Quais são as duas leis federais que tornaram obrigatório o ensino da história e cultura afro-brasileira e indígena nos currículos das escolas brasileiras, complementando a Lei de Diretrizes e Bases da Educação Nacional (LDB)?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Lei n.º 10.639/2003 (cultura afro-brasileira) e Lei n.º 11.645/2008 (inclusão da questão indígena).",
+                      "explanation": "Correta. A Lei 10.639/2003 alterou a LDB para incluir a história e cultura afro-brasileira, e a Lei 11.645/2008 alterou a LDB para incluir a temática indígena."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Lei n.º 9.394/1996 (LDB) e Lei n.º 11.645/2008 (questão indígena).",
+                      "explanation": "Incorreta. A LDB é a lei principal, mas a resposta deve citar as alterações específicas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Lei n.º 13.146/2015 (LBI) e Lei n.º 10.639/2003 (cultura afro-brasileira).",
+                      "explanation": "Incorreta. A LBI trata da Pessoa com Deficiência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Declaração Universal dos Direitos Humanos e o Estatuto da Criança e do Adolescente (ECA).",
+                      "explanation": "Incorreta. São documentos importantes, mas não as leis federais de obrigatoriedade do ensino da cultura afro-brasileira/indígena."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Lei n.º 11.645/2008 e a Resolução CNE/CEB n.º 2/2001.",
+                      "explanation": "Incorreta. A Resolução trata da Educação Especial."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q6",
+                  "level": "médio",
+                  "enunciado": "Os Parâmetros Curriculares Nacionais (PCNs) estabelecem os Temas Transversais. Quais são as características desses temas e como eles devem ser abordados no currículo?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Devem ser abordados isoladamente, em disciplinas específicas como Sociologia e Filosofia, para garantir a profundidade do conhecimento ético.",
+                      "explanation": "Incorreta. A característica é que devem ser abordados transversalmente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "São temas amplos que devem ser incorporados de maneira interdisciplinar e transversal às áreas de ensino já existentes e ao trabalho educativo da escola, abrangendo questões como ética, pluralidade cultural e saúde.",
+                      "explanation": "Correta. Os PCNs definem os Temas Transversais dessa forma: interdisciplinaridade e transversalidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "São destinados apenas ao Ensino Fundamental (1ª à 5ª série), não se aplicando aos ciclos finais ou ao Ensino Médio.",
+                      "explanation": "Incorreta. Os temas transversais se aplicam a todos os níveis de ensino."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Visam apenas à formação de habilidades cognitivas, excluindo os aspectos afetivos e éticos da formação integral.",
+                      "explanation": "Incorreta. Os PCNs visam a formação integral, incluindo aspectos éticos e afetivos (Tema Ética)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "São os conteúdos curriculares que contribuem para o desenvolvimento de capacidades, como estabelecido nos Objetivos Gerais do Ensino Fundamental.",
+                      "explanation": "Incorreta. Os Temas Transversais complementam os objetivos gerais, mas são distintos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q7",
+                  "level": "médio",
+                  "enunciado": "Qual profissional *não* é explicitamente listado como componente potencial de uma equipe multidisciplinar no contexto da educação especial, conforme o texto?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Professor.",
+                      "explanation": "Incorreta. O professor é o profissional principal e membro da equipe."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Psicopedagogo.",
+                      "explanation": "Incorreta. É um profissional listado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Neurologista.",
+                      "explanation": "Incorreta. É um profissional listado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Advogado.",
+                      "explanation": "Correta. O advogado não foi explicitamente listado como parte da equipe multidisciplinar *escolar* focada no atendimento e plano de ação do aluno."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fonoaudiólogo.",
+                      "explanation": "Incorreta. É um profissional listado."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q8",
+                  "level": "médio",
+                  "enunciado": "Segundo Alias (2016), qual conceito se desenvolve ao definir, de forma simplista e muitas vezes negativa, quem são as pessoas e como são com base em características específicas de um grupo, limitando sua identidade e perpetuando preconceitos?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Etnocentrismo.",
+                      "explanation": "Incorreta. Etnocentrismo é a avaliação e repulsa de outras formas de vida a partir da própria cultura."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Racismo.",
+                      "explanation": "Incorreta. Racismo é a discriminação contra grupos raciais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Gênero.",
+                      "explanation": "Incorreta. Gênero é a construção social do sexo biológico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Discriminação.",
+                      "explanation": "Incorreta. Discriminação é a ação de dar tratamento diferenciado/prejudicial."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estereótipo.",
+                      "explanation": "Correta. O estereótipo é a generalização simplista (positiva ou negativa) de um grupo."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q9",
+                  "level": "médio",
+                  "enunciado": "Qual é o artigo da Constituição Federal de 1988 que os Parâmetros Curriculares Nacionais (PCNs) buscam cumprir, referente à estrutura do Ensino Fundamental?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Art. 210, que dispõe sobre conteúdos mínimos para o Ensino Fundamental, de maneira a assegurar formação básica comum e respeito aos valores culturais e artísticos.",
+                      "explanation": "Correta. Os PCNs foram elaborados para cumprir o Art. 210 da CF/88."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Art. 205, que trata da colaboração integrada entre família, Estado e sociedade na educação.",
+                      "explanation": "Incorreta. O Art. 205 é o direito à educação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Art. 26, que trata do direito à instrução gratuita e obrigatória nos graus elementares e fundamentais, conforme a Declaração Universal dos Direitos Humanos.",
+                      "explanation": "Incorreta. É o Art. 26 da DUDH, não da CF/88."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Art. 61, que trata da formação de professores e do aproveitamento de experiências anteriores.",
+                      "explanation": "Incorreta. É o Art. 61 da LDB."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Art. 58, que trata da modalidade da Educação Especial.",
+                      "explanation": "Incorreta. É o Art. 58 da LDB."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q10",
+                  "level": "médio",
+                  "enunciado": "Qual é a importância da família no desenvolvimento do estudante, conforme destacado no texto, que justifica a necessidade de parceria com a escola?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A família é importante principalmente para garantir que o estudante cumpra a frequência e a matrícula escolar.",
+                      "explanation": "Incorreta. Embora seja uma função, não é a importância principal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A família é fundamental no desenvolvimento humano, na formação do sujeito (cognitivo, social, emocional e afetivo) e é o primeiro grupo de influência sobre os resultados escolares.",
+                      "explanation": "Correta. A família é o primeiro grupo de influência na formação integral do sujeito."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A família deve ser envolvida apenas na avaliação dos resultados acadêmicos do estudante.",
+                      "explanation": "Incorreta. A família deve ser envolvida em todo o processo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A família é responsável pela disciplina e a escola pelo conteúdo, atuando de forma separada.",
+                      "explanation": "Incorreta. A família e a escola devem trabalhar de forma colaborativa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A família é responsável apenas por prover os recursos materiais necessários para o estudo do aluno.",
+                      "explanation": "Incorreta. O papel da família é mais amplo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q11",
+                  "level": "médio",
+                  "enunciado": "No contexto dos PCNs, qual é o papel da ética e quais são os eixos de trabalho estabelecidos que promovem o princípio da dignidade do ser humano?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A ética deve ser tratada exclusivamente em disciplinas como Sociologia e Filosofia, distantes da vida cotidiana.",
+                      "explanation": "Incorreta. A ética deve ser transversal e ligada à prática."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A ética enfatiza o ensino dos valores morais tradicionais para garantir a uniformidade do pensamento.",
+                      "explanation": "Incorreta. A ética nos PCNs valoriza o respeito e a diversidade, não a uniformidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Os eixos de trabalho devem ser flexibilizados para se adaptar apenas aos interesses individuais dos professores.",
+                      "explanation": "Incorreta. Os eixos se adaptam às necessidades dos alunos e da sociedade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ética enfatiza princípios de justiça, respeito ao próximo e equidade, com eixos de trabalho relacionados ao respeito mútuo, diálogo e solidariedade, promovendo a dignidade do ser humano.",
+                      "explanation": "Correta. O Tema Transversal Ética foca nesses princípios para a formação da cidadania."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A ética se limita à estrutura da escola e sua conexão com a comunidade, não abrangendo as relações entre professores e alunos.",
+                      "explanation": "Incorreta. A ética permeia todas as relações escolares."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q12",
+                  "level": "médio",
+                  "enunciado": "Conforme o Quadro 2.2 apresentado no texto, qual é a definição de 'Família Monoparental'?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Família com várias gerações, como avós e tios, convivendo.",
+                      "explanation": "Incorreta. Esta é a família extensa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Família formada por pessoas que vivem juntas, sem laços legais, mas com cuidados mútuos.",
+                      "explanation": "Incorreta. Esta é a união consensual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Família composta por um único pai ou mãe e seus filhos.",
+                      "explanation": "Correta. É a definição literal de família monoparental."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Família reconstituída depois de um divórcio, com a união de novos parceiros e/ou filhos.",
+                      "explanation": "Incorreta. Esta é a família recasada ou reconstituída."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Família em que uma pessoa mantém mais de uma configuração familiar simultaneamente.",
+                      "explanation": "Incorreta. Esta é a família poliafetiva, não listada no quadro."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q13",
+                  "level": "médio",
+                  "enunciado": "Qual é o princípio fundamental que rege os objetivos do Projeto Político Pedagógico (PPP) de uma escola inclusiva, e o que isso implica em termos de acolhimento?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A busca pela homogeneidade dos estudantes, garantindo que todos se adequem à norma curricular.",
+                      "explanation": "Incorreta. O PPP inclusivo deve valorizar a diversidade (heterogeneidade)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A adequação às políticas neoliberais de Estado, priorizando a formação para o mercado de trabalho.",
+                      "explanation": "Incorreta. O PPP deve ter uma base humana e ética."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A priorização das necessidades dos estudantes com deficiência, excluindo a diversidade cultural.",
+                      "explanation": "Incorreta. O PPP deve ser para todos os alunos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ênfase na transmissão de informação e o cumprimento do currículo mínimo exigido pela LDB.",
+                      "explanation": "Incorreta. O PPP deve ir além do currículo mínimo, enfocando a formação integral."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Os direitos humanos, acolhendo e educando todos os alunos, independentemente de qualquer característica social ou pessoal que eles possuam.",
+                      "explanation": "Correta. O PPP inclusivo é guiado pelos direitos humanos e pela valorização de toda a diversidade."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q14",
+                  "level": "médio",
+                  "enunciado": "Segundo Mochi (2019), qual foi o impacto da Lei n.º 10.639/2003 na forma como a história da população negra era tratada nas escolas?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Permitiu a valorização apenas do período escravagista, para não desvirtuar o foco histórico.",
+                      "explanation": "Incorreta. A lei visa superar a visão limitada ao período escravagista."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Possibilitou a introdução de conteúdos sobre a cultura e costumes africanos, desfazendo a visão estereotipada que retratava os negros apenas como escravizados, desprovidos de conhecimento.",
+                      "explanation": "Correta. A lei visa uma abordagem positiva e completa da história e cultura afro-brasileira."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Restringiu a abordagem do tema apenas à disciplina de História, de forma isolada do restante do currículo.",
+                      "explanation": "Incorreta. A lei exige a transversalidade do tema."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Garantiu que todas as instituições educacionais implementassem o conteúdo imediatamente e de forma aprofundada.",
+                      "explanation": "Incorreta. A lei foi um passo, mas a implementação enfrenta desafios."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Priorizou o estudo da cultura indígena, deixando a cultura afro-brasileira para um momento posterior.",
+                      "explanation": "Incorreta. A lei 10.639/03 priorizou a cultura afro-brasileira, e a 11.645/08 incluiu a indígena."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q15",
+                  "level": "médio",
+                  "enunciado": "Qual é a principal responsabilidade da equipe multidisciplinar em relação ao estudante com necessidades educacionais especiais, que deve ser exercida em conjunto com o professor?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Limitar-se a fornecer o diagnóstico clínico do estudante, delegando toda a intervenção pedagógica para o professor da classe comum.",
+                      "explanation": "Incorreta. O trabalho deve ser colaborativo e o diagnóstico é apenas uma parte."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Acompanhar a evolução do estudante e notificar as mudanças apenas para a gestão escolar.",
+                      "explanation": "Incorreta. A comunicação deve ser ampla, incluindo o professor e a família."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Atuar de forma isolada, cada profissional em sua área, para garantir a precisão de suas intervenções.",
+                      "explanation": "Incorreta. A atuação isolada (multidisciplinaridade) não é eficaz; o ideal é a interdisciplinaridade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Levantar elementos que demonstrem as necessidades do estudante e, junto ao professor, elaborar um plano de ação para intervenção, acompanhamento, aplicação de conhecimentos e avaliação de metas.",
+                      "explanation": "Correta. O papel central é a elaboração e o acompanhamento do Plano de Ação, em colaboração com o professor da classe comum."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Promover palestras e cursos de formação continuada apenas sobre a história e cultura afro-brasileira e indígena.",
+                      "explanation": "Incorreta. Embora seja uma ação importante da escola, não é a principal responsabilidade da equipe multidisciplinar no atendimento do aluno com NEE."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q16",
+                  "level": "difícil",
+                  "enunciado": "Em relação à atuação da equipe multidisciplinar, qual a distinção crucial entre a Multidisciplinaridade, conforme sua manifestação no Brasil, e a Interdisciplinaridade, conforme a definição apresentada no texto?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A multidisciplinaridade é focada na prestação de serviços, enquanto a interdisciplinaridade se restringe à prática da pesquisa científica e do ensino.",
+                      "explanation": "Incorreta. A interdisciplinaridade se aplica à prática e à pesquisa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A multidisciplinaridade, no Brasil, geralmente se manifesta por atuações isoladas de profissionais, enquanto a interdisciplinaridade se refere ao plano prático operacional que exige um diálogo solidário e metodologias compartilhadas.",
+                      "explanation": "Correta. A multidisciplinaridade é a justaposição de disciplinas (atuação isolada), e a interdisciplinaridade é o diálogo e a integração solidária para um objetivo comum."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A interdisciplinaridade exige que o profissional suprima seu conhecimento individual em favor do conhecimento coletivo, visando um objetivo comum.",
+                      "explanation": "Incorreta. A interdisciplinaridade exige a cooperação de conhecimentos, não a supressão do conhecimento individual."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A multidisciplinaridade é sempre ineficaz, e a interdisciplinaridade é sempre eficaz.",
+                      "explanation": "Incorreta. A eficácia depende da qualidade da implementação e da formação dos profissionais envolvidos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A interdisciplinaridade só é alcançada quando a equipe é formada exclusivamente por profissionais da educação especial.",
+                      "explanation": "Incorreta. A equipe interdisciplinar deve ser composta por diversos profissionais de áreas afins."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q17",
+                  "level": "difícil",
+                  "enunciado": "Segundo Freire (2016), os Parâmetros Curriculares Nacionais (PCNs) buscam promover uma educação voltada para a cidadania. Qual é a visão limitada da educação formal que essa abordagem visa superar?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A ideia de que a escola deve ser um espaço onde os conteúdos são ensinados de forma integrada e contextualizada, utilizando temas transversais.",
+                      "explanation": "Incorreta. Esta é a visão que os PCNs *promovem*."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A concepção de que a escola deve ser um ambiente acolhedor, onde se pratica o respeito pelo outro e a convivência.",
+                      "explanation": "Incorreta. Esta é a visão que os PCNs *promovem*."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A visão de que o currículo deve ser flexível para se adaptar às necessidades educacionais especiais dos alunos.",
+                      "explanation": "Incorreta. Esta é a visão que os PCNs *promovem*."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A perspectiva de que o professor deve ser um agente de mudança, promovendo a reflexão ética e política.",
+                      "explanation": "Incorreta. Esta é a visão que os PCNs *promovem*."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A visão de que a educação formal deve se limitar a garantir que o estudante desenvolva competências, habilidades e seja aprovado em exames como o Enem, ignorando a formação ética e a cidadania.",
+                      "explanation": "Correta. Os PCNs buscam superar a visão de que a escola se restringe à mera preparação para exames e o foco em competências pragmáticas, desconsiderando a formação ética e cidadã."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q18",
+                  "level": "difícil",
+                  "enunciado": "Barbalho e Rodrigues (2018) observaram que, apesar da legislação que valoriza as culturas negra e indígena (Lei n.º 11.645/2008), muitos professores ainda possuem conhecimento limitado sobre o tema. Qual é a conclusão dos autores sobre o que é necessário para garantir a efetiva implementação dessas políticas no ambiente escolar?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Requer a conscientização e a mudança de concepções arraigadas dos profissionais da educação, com o professor como agente crucial na luta contra o preconceito e a discriminação étnico-racial, pois a legislação por si só não garante a implementação.",
+                      "explanation": "Correta. A legislação é necessária, mas insuficiente; a mudança atitudinal e a conscientização dos professores são cruciais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas o engajamento de toda a comunidade escolar, com projetos vinculados à realidade local, é suficiente, sem a necessidade de intervenção na formação docente.",
+                      "explanation": "Incorreta. A formação docente é essencial."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É necessário que os livros didáticos da disciplina de História sejam reformulados para fornecer todo o conhecimento necessário.",
+                      "explanation": "Incorreta. O tema deve ser transversal, e o professor não pode depender apenas do livro didático."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A obrigatoriedade da temática deve ser aplicada apenas em escolas com alta concentração de alunos de origem indígena e afro-brasileira.",
+                      "explanation": "Incorreta. A obrigatoriedade é para todo o currículo nacional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A implementação é eficaz apenas quando a equipe multidisciplinar assume toda a responsabilidade pela temática.",
+                      "explanation": "Incorreta. A responsabilidade é de todos os educadores e da escola como um todo."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q19",
+                  "level": "difícil",
+                  "enunciado": "Qual dos conceitos abaixo é definido por Alias (2016) como uma forma de discriminação que ocorre quando uma sociedade avalia e repele formas de vida distintas a partir dos elementos de sua própria cultura?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Estereótipo.",
+                      "explanation": "Incorreta. Estereótipo é a generalização simplista."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Racismo.",
+                      "explanation": "Incorreta. Racismo é a discriminação baseada na raça."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Preconceito.",
+                      "explanation": "Incorreta. Preconceito é o juízo de valor antecipado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Etnocentrismo.",
+                      "explanation": "Correta. Etnocentrismo é a avaliação e repulsa de outras culturas a partir da própria."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Currículo Oculto.",
+                      "explanation": "Incorreta. Currículo Oculto é a aprendizagem não formalizada."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q20",
+                  "level": "difícil",
+                  "enunciado": "A parceria entre família e escola, embora crucial para o sucesso do estudante, enfrenta obstáculos significativos. Qual obstáculo está diretamente relacionado à postura dos profissionais da educação em relação à família?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A apatia e a indiferença dos pais em relação ao rendimento escolar dos filhos.",
+                      "explanation": "Incorreta. Este é um obstáculo ligado à família, não à postura dos profissionais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A dificuldade da escola em obter consenso sobre a filosofia e o currículo com os pais de alunos.",
+                      "explanation": "Incorreta. Esta é uma dificuldade de gestão, mas não a postura direta do profissional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A ausência de apoio dos gestores escolares na promoção de reuniões pedagógicas com a comunidade.",
+                      "explanation": "Incorreta. Este é um obstáculo ligado à gestão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Os profissionais consideram o atendimento à família como um trabalho extra, sem clareza sobre como e quando essa atividade deve ser realizada, além de usarem linguagem técnica de difícil compreensão para os pais.",
+                      "explanation": "Correta. A percepção do trabalho com a família como 'extra' e a falta de comunicação clara (linguagem técnica) são obstáculos ligados à postura e à formação dos profissionais de educação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O sentimento de inferioridade dos pais em relação aos profissionais da educação, limitando sua participação.",
+                      "explanation": "Incorreta. Este é um obstáculo ligado à família, embora possa ser influenciado pela postura da escola."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q21",
+                  "level": "difícil",
+                  "enunciado": "O plano estratégico de ação para a implementação da Lei n.º 10.639/2003 e da Lei n.º 11.645/2008, a ser traçado pela equipe multidisciplinar, deve ter como primeira estratégia:",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A realização de oficinas de formação continuada e aperfeiçoamento profissional aos educadores sobre as temáticas étnico-raciais.",
+                      "explanation": "Incorreta. Esta é uma etapa posterior à mobilização e ao planejamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A mobilização do coletivo (toda a escola) para traçar um plano de ação constituído por projetos vinculados à realidade do estabelecimento de ensino.",
+                      "explanation": "Correta. O primeiro passo é mobilizar o coletivo e traçar um plano de ação institucional (PPP)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O monitoramento e a observação de ações racistas, discriminatórias e preconceituosas no espaço escolar.",
+                      "explanation": "Incorreta. Esta é uma ação contínua que acompanha o plano, mas não a primeira estratégia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A reelaboração do plano de trabalho docente, para a inclusão de conteúdos relacionados em todas as disciplinas.",
+                      "explanation": "Incorreta. Esta é uma etapa de execução, não a primeira estratégia do plano institucional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O estudo, a reflexão e ações que explorem diversas perspectivas sobre as tradições e estruturas sociais dos povos africanos e indígenas.",
+                      "explanation": "Incorreta. Esta é uma ação de formação e reflexão, não a primeira estratégia institucional."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q22",
+                  "level": "difícil",
+                  "enunciado": "Para que os Parâmetros Curriculares Nacionais (PCNs) possam promover o sucesso no processo de ensino e aprendizagem, não basta apenas flexibilizar o tempo. Qual é a condição institucional essencial que deve ser criada para a concretização dos ciclos como modalidade organizativa?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A garantia de mais tempo para o aluno, sem intervenção efetiva, para adiar o sentimento de fracasso.",
+                      "explanation": "Incorreta. O tempo maior é apenas uma parte; é necessário acompanhamento e intervenção."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A corresponsabilização da equipe pedagógica com o processo de ensino e aprendizagem dos alunos, criando condições institucionais para a realização de reuniões de professores para discutir os diferentes aspectos do processo educacional.",
+                      "explanation": "Correta. Os PCNs enfatizam que a organização em ciclos requer o acompanhamento contínuo e corresponsável dos professores e equipe pedagógica (reuniões)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A implementação de um currículo rígido e padronizado, para que a flexibilização do tempo não desvie o foco do conteúdo.",
+                      "explanation": "Incorreta. O currículo deve ser flexível."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A transferência da responsabilidade pela avaliação do processo educacional para os pais e a equipe multidisciplinar.",
+                      "explanation": "Incorreta. A avaliação é responsabilidade da escola e dos professores, em colaboração com a equipe e os pais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A limitação da vida escolar à estrutura de anos letivos fixos, conforme a organização tradicional.",
+                      "explanation": "Incorreta. A organização em ciclos busca superar a estrutura de anos letivos fixos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q23",
+                  "level": "difícil",
+                  "enunciado": "De acordo com o Art. 26 da Declaração Universal dos Direitos Humanos, qual é o propósito fundamental da instrução que transcende a mera aquisição de conhecimento?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que a instrução técnico-profissional seja acessível a todos, independentemente do mérito.",
+                      "explanation": "Incorreta. É um objetivo da DUDH, mas não o propósito fundamental."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Assegurar que a instrução elementar e fundamental seja obrigatória e gratuita.",
+                      "explanation": "Incorreta. É uma característica da instrução, não seu propósito fundamental."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Ser orientada para o pleno desenvolvimento da personalidade humana, fortalecendo o respeito pelos direitos do ser humano, promovendo compreensão, tolerância e amizade entre grupos raciais ou religiosos.",
+                      "explanation": "Correta. Este é o propósito fundamental da instrução conforme o Art. 26 da DUDH."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Coadjuvar as atividades das Nações Unidas em prol da manutenção da paz, sendo este o único objetivo da instrução.",
+                      "explanation": "Incorreta. É um objetivo secundário, e não o único."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fortalecer o julgamento moral dos indivíduos para que possam estigmatizar aqueles que cometeram crimes graves.",
+                      "explanation": "Incorreta. A DUDH visa o respeito, não o estigma."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q24",
+                  "level": "difícil",
+                  "enunciado": "O que o dado da pesquisa de Barbalho e Rodrigues (2018), que mostrou que 58% dos entrevistados relataram ter experimentado ou testemunhado alguma forma de discriminação ou preconceito racial no ambiente escolar, ressalta?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Ressalta a importância crucial de os educadores abordarem ativamente o tema do preconceito, da discriminação e do racismo no ambiente escolar para promover relações saudáveis na comunidade.",
+                      "explanation": "Correta. O alto índice de relatos demonstra a urgência e a necessidade de intervenção ativa da escola."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Demonstra a ineficácia total das Leis n.º 10.639/2003 e n.º 11.645/2008 na desconstrução de estereótipos.",
+                      "explanation": "Incorreta. A ineficácia não é total, e a lei é um passo necessário."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Confirma que o racismo no Brasil é um mito (democracia racial) e que a escola é um ambiente neutro em relação a essas questões.",
+                      "explanation": "Incorreta. O dado desmistifica a democracia racial e mostra que a escola não é um ambiente neutro."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Indica que a responsabilidade pela conscientização é exclusivamente da família, já que a escola não pode resolver problemas sociais.",
+                      "explanation": "Incorreta. A escola tem a responsabilidade de promover a formação cidadã."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Justifica que a formação continuada do professor deva se limitar aos conhecimentos técnicos e metodológicos, excluindo as discussões sociais e étnico-raciais.",
+                      "explanation": "Incorreta. A formação deve incluir as discussões sociais e étnico-raciais."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q25",
+                  "level": "difícil",
+                  "enunciado": "Oliveira (2015) argumenta que é imperativo reconsiderar a figura anacrônica do “especialista em educação”. Qual é a implicação dessa crítica para a construção do conhecimento no campo educativo?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A necessidade de que o educador se torne um especialista em generalidades para cobrir todas as áreas.",
+                      "explanation": "Incorreta. Não é o foco da crítica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A exigência de que o campo educativo deve ser fechado e limitado aos profissionais com formação específica em educação especial.",
+                      "explanation": "Incorreta. O autor defende a abertura do campo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O foco exclusivo na multidisciplinaridade, excluindo a necessidade de um diálogo solidário e metodologias compartilhadas.",
+                      "explanation": "Incorreta. A crítica visa promover a interdisciplinaridade e o diálogo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A limitação da atuação da equipe multidisciplinar às escolas de educação especial, sem influência no ensino regular.",
+                      "explanation": "Incorreta. O autor defende a atuação em todos os contextos educativos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de reconhecer a importância de profissionais de diversas áreas (multidisciplinaridade/transversalidade) engajarem-se na reflexão sobre as questões da educação, visto que o campo educativo deve ser um espaço aberto.",
+                      "explanation": "Correta. A crítica visa abrir o campo educativo para a colaboração de diferentes áreas do saber."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q26",
+                  "level": "difícil",
+                  "enunciado": "Qual das seguintes ações é exigida pela Política Nacional de Educação Especial (PNEE) de 2020 para garantir a personalização e eficácia das ações educacionais para estudantes com deficiência?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Exigir que a família realize apenas a matrícula e zele pela frequência do estudante, sem interferir no planejamento curricular.",
+                      "explanation": "Incorreta. A PNEE exige mais envolvimento da família."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A garantia de que a família mantenha a liberdade de escolha quanto à alternativa educacional mais adequada, sem a participação de equipe multidisciplinar.",
+                      "explanation": "Incorreta. A PNEE exige a participação da equipe multidisciplinar no processo de decisão da família."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O incentivo à família para que se limite a aceitar a deficiência do estudante e confie passivamente no trabalho dos profissionais.",
+                      "explanation": "Incorreta. A PNEE incentiva a participação ativa, não a passividade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A avaliação dos estudantes matriculados em classes especializadas apenas pela equipe escolar, excluindo a participação da família.",
+                      "explanation": "Incorreta. A avaliação deve ser colaborativa e incluir a família."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A escola deve criar planos de desenvolvimento individual e escolar, envolvendo a escola, a família e profissionais de atendimento especializado, para a personalização e eficácia das ações educacionais.",
+                      "explanation": "Correta. A PNEE exige o Plano de Desenvolvimento Individual (PDI) e o Plano de Ação Escolar (PAE), envolvendo todos os atores."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q27",
+                  "level": "difícil",
+                  "enunciado": "Conforme a conceituação de Gênero apresentada por Alias (2016), qual é a sua definição principal e sua relação com a discriminação?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "É um conceito que se refere à construção social do sexo anatômico, criado para distinguir a dimensão biológica da social, sendo a diferença sexual frequentemente utilizada como forma de discriminação.",
+                      "explanation": "Correta. Gênero é a construção social (cultural) que se sobrepõe ao sexo biológico, e essa diferença é fonte de discriminação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É a dimensão biológica (macho e fêmea) que é utilizada como base para a construção social da identidade.",
+                      "explanation": "Incorreta. Esta é a definição de Sexo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Refere-se à construção social das relações de poder, sem conexão com o sexo anatômico.",
+                      "explanation": "Incorreta. A conexão com o sexo biológico é a chave para a diferenciação conceitual entre Sexo e Gênero."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É a forma de discriminação na qual se usam frases simplistas, como 'mulher sexo frágil', para definir as pessoas.",
+                      "explanation": "Incorreta. Esta é uma forma de estereótipo de gênero."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É a forma como o currículo oculto perpetua a hierarquia de poder ao determinar quais posições podem ser ocupadas.",
+                      "explanation": "Incorreta. É uma função do currículo oculto, mas não a definição de Gênero."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q28",
+                  "level": "difícil",
+                  "enunciado": "A implementação de um programa com equipe multidisciplinar está condicionada a diversos fatores complexos. Qual é o fator listado que envolve a qualidade dos recursos pedagógicos e a sua aplicabilidade prática?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "A qualidade dos materiais utilizados no treinamento e a capacidade de aprendizagem dos professores.",
+                      "explanation": "Incorreta. A capacidade de aprendizagem é um fator pessoal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A elaboração de materiais de treinamento significativos que possam ser eficazmente aplicados, inovando e diversificando as abordagens, e que sejam transferíveis para o contexto educacional da inclusão.",
+                      "explanation": "Correta. Este fator trata da qualidade do material e da sua aplicabilidade e transferência para a prática (relevância)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A cooperação dos gestores e líderes da escola e a motivação dos pais de alunos com necessidades educacionais especiais para aprender.",
+                      "explanation": "Incorreta. Cooperação e motivação são fatores pessoais/organizacionais, não diretamente a qualidade dos recursos pedagógicos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A adaptação do programa às necessidades da escola e dos participantes, priorizando a teoria sobre a prática.",
+                      "explanation": "Incorreta. A prioridade deve ser a integração teoria-prática."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O tempo necessário apenas para a assimilação dos conteúdos técnicos pelos professores.",
+                      "explanation": "Incorreta. O tempo é um fator, mas não o que define a qualidade dos recursos pedagógicos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q29",
+                  "level": "difícil",
+                  "enunciado": "Qual é o papel que a escola deve desempenhar ao abordar a temática da diversidade e das relações sociais, considerando a importância da Lei n.º 10.639/2003 e a desconstrução do mito da democracia racial?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que o racismo seja ignorado, mantendo a escola como um ambiente neutro, focado apenas no desenvolvimento cognitivo.",
+                      "explanation": "Incorreta. A escola não pode ser neutra diante do racismo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Limitar-se a valorizar a história e a cultura dos povos, sem abordar as discrepâncias sociais enfrentadas pelos descendentes de africanos no Brasil.",
+                      "explanation": "Incorreta. A escola deve abordar as discrepâncias (Questão Ética/Social)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Priorizar a reflexão sobre as relações sociais em detrimento da inclusão de alunos com deficiência.",
+                      "explanation": "Incorreta. A inclusão é ampla e deve abranger a deficiência e a diversidade social/racial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ser um ambiente que possibilita a reflexão de diferentes perspectivas referentes às relações sociais, sendo um espaço estratégico de debates e conscientização para desconstruir o mito da democracia racial e valorizar a identidade afro-brasileira.",
+                      "explanation": "Correta. A escola é um espaço de reflexão e desconstrução de mitos sociais e preconceitos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Assegurar que os professores, por si sós, solucionem todos os desafios cotidianos de discriminação sem o auxílio da equipe multidisciplinar.",
+                      "explanation": "Incorreta. A equipe multidisciplinar é necessária para combater o preconceito."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PeI_v2_L2_Q30",
+                  "level": "difícil",
+                  "enunciado": "A Política Nacional de Educação Especial (PNEE) de 2020 enfatiza que a participação da família na educação deve ir além da matrícula e frequência. No contexto da parceria colaborativa, qual comportamento *não* é esperado dos familiares de educandos com necessidades educacionais especiais?",
+                  "alternatives": [
+                    {
+                      "id": "A",
+                      "text": "Comunicação eficaz e expectativas realistas em relação ao desenvolvimento do estudante.",
+                      "explanation": "Incorreta. Estes são comportamentos esperados."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Respeito aos profissionais e confiança no trabalho da equipe escolar.",
+                      "explanation": "Incorreta. Estes são comportamentos esperados."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Crença no potencial da criança e garantia de frequência escolar.",
+                      "explanation": "Incorreta. Estes são comportamentos esperados."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Assumir a responsabilidade exclusiva pela educação e pelo desenvolvimento de habilidades, visto que a escola já está sobrecarregada.",
+                      "explanation": "Correta. A responsabilidade deve ser compartilhada e colaborativa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Questionamento construtivo e envolvimento ativo nas atividades escolares.",
+                      "explanation": "Incorreta. Estes são comportamentos esperados."
+                    }
+                  ],
+                  "answer": "D"
                 }
               ]
             }
