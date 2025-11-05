@@ -20338,11 +20338,11 @@
           "title": "🧑‍⚕️ Orientação Profissional",
           "lists": [
             {
-              "id": "p4_OP_L1",
-              "title": "Lista 1",
+              "id": "p4_orientacao_profissional_L1",
+              "title": "(v1) - Lista 1: Na educação básica",
               "questions": [
                 {
-                  "id": "p4_OP_L1_Q1",
+                  "id": "p4_orientacao_profissional_L1_Q1",
                   "statement": "Qual das seguintes opções MELHOR descreve uma das principais transformações no mundo do trabalho a partir dos anos 1970, segundo os textos?",
                   "options": [
                     {
@@ -20374,7 +20374,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_OP_L1_Q2",
+                  "id": "p4_orientacao_profissional_L1_Q2",
                   "statement": "O que a Constituição Federal de 1988 trouxe de significativo para os trabalhadores brasileiros?",
                   "options": [
                     {
@@ -20406,7 +20406,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_OP_L1_Q3",
+                  "id": "p4_orientacao_profissional_L1_Q3",
                   "statement": "Quem é Kátia Magalhães Arruda, conforme mencionado no texto?",
                   "options": [
                     {
@@ -20438,7 +20438,7 @@
                   "answer": "E"
                 },
                 {
-                  "id": "p4_OP_L1_Q4",
+                  "id": "p4_orientacao_profissional_L1_Q4",
                   "statement": "De acordo com John Williamson e o \"Consenso de Washington\", quais eram as três posturas fundamentais \"receitadas\" para os países em desenvolvimento?",
                   "options": [
                     {
@@ -20470,7 +20470,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_OP_L1_Q5",
+                  "id": "p4_orientacao_profissional_L1_Q5",
                   "statement": "Hannah Arendt diferencia \"labor\" de \"trabalho\". Qual é a principal diferença segundo a autora?",
                   "options": [
                     {
@@ -20502,7 +20502,7 @@
                   "answer": "E"
                 },
                 {
-                  "id": "p4_OP_L1_Q6",
+                  "id": "p4_orientacao_profissional_L1_Q6",
                   "statement": "Além da organização do trabalho, qual outra contribuição de Max Weber é destacada em relação ao trabalho?",
                   "options": [
                     {
@@ -20534,7 +20534,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q7",
+                  "id": "p4_orientacao_profissional_L1_Q7",
                   "statement": "O que o artigo de J. K. Galbraith, \"A Cultura do Contentamento\", critica?",
                   "options": [
                     {
@@ -20566,7 +20566,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_OP_L1_Q8",
+                  "id": "p4_orientacao_profissional_L1_Q8",
                   "statement": "Segundo a perspectiva de Karl Marx, qual a principal função do Estado, especialmente no contexto do capitalismo?",
                   "options": [
                     {
@@ -20598,7 +20598,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q9",
+                  "id": "p4_orientacao_profissional_L1_Q9",
                   "statement": "O que o texto afirma sobre o desemprego, considerando tanto a visão de senso comum quanto as análises mais aprofundadas?",
                   "options": [
                     {
@@ -20630,7 +20630,7 @@
                   "answer": "E"
                 },
                 {
-                  "id": "p4_OP_L1_Q10",
+                  "id": "p4_orientacao_profissional_L1_Q10",
                   "statement": "O texto menciona que a Orientação Profissional surge no contexto da industrialização dos EUA. Qual foi o principal motivo para seu surgimento, de acordo com o texto?",
                   "options": [
                     {
@@ -20662,7 +20662,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_OP_L1_Q11",
+                  "id": "p4_orientacao_profissional_L1_Q11",
                   "statement": "O que o texto sugere ser o principal desafio e a principal tarefa da Orientação Profissional na contemporaneidade?",
                   "options": [
                     {
@@ -20694,7 +20694,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q12",
+                  "id": "p4_orientacao_profissional_L1_Q12",
                   "statement": "Qual dos seguintes aspectos não é um dos eixos temáticos propostos pela Federação Brasileira de Orientação Profissional (FBO), em 1994, para uma atuação mais crítica na área?",
                   "options": [
                     {
@@ -20726,7 +20726,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q13",
+                  "id": "p4_orientacao_profissional_L1_Q13",
                   "statement": "Qual é a principal crítica do texto de Bock (2002) à atuação do psicólogo em Orientação Profissional que se limita à aplicação de testes e à indicação de profissões?",
                   "options": [
                     {
@@ -20758,7 +20758,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q14",
+                  "id": "p4_orientacao_profissional_L1_Q14",
                   "statement": "Segundo o texto de Bock (2002), o que é a Orientação Profissional em uma perspectiva sócio-histórica?",
                   "options": [
                     {
@@ -20790,7 +20790,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_OP_L1_Q15",
+                  "id": "p4_orientacao_profissional_L1_Q15",
                   "statement": "O texto sugere que a Psicologia da Orientação Profissional, em sua atuação crítica, deve ir além de uma visão individualista. Qual é o papel que ela deve assumir, segundo essa perspectiva?",
                   "options": [
                     {
@@ -20822,7 +20822,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_OP_L1_Q16",
+                  "id": "p4_orientacao_profissional_L1_Q16",
                   "statement": "O que o artigo \"Formação em Psicologia e os desafios do mundo contemporâneo\" sugere como um dos principais desafios para a formação em Psicologia na contemporaneidade?",
                   "options": [
                     {
@@ -20854,7 +20854,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_OP_L1_Q17",
+                  "id": "p4_orientacao_profissional_L1_Q17",
                   "statement": "Qual dos seguintes aspectos não é mencionado como um dos desafios para a formação em Psicologia na contemporaneidade, de acordo com o texto \"Formação em Psicologia e os desafios do mundo contemporâneo\"?",
                   "options": [
                     {
@@ -20886,7 +20886,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q18",
+                  "id": "p4_orientacao_profissional_L1_Q18",
                   "statement": "Qual é o principal desafio para a atuação do psicólogo em Orientação Profissional em um contexto de crise social e de incertezas no mercado de trabalho?",
                   "options": [
                     {
@@ -20918,7 +20918,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_OP_L1_Q19",
+                  "id": "p4_orientacao_profissional_L1_Q19",
                   "statement": "De acordo com o texto, o que a Orientação Profissional deve promover nos sujeitos em um contexto de mudanças e incertezas?",
                   "options": [
                     {
@@ -20950,7 +20950,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q20",
+                  "id": "p4_orientacao_profissional_L1_Q20",
                   "statement": "De acordo com o texto, qual é a principal razão pela qual a Orientação Profissional deve ir além da mera escolha de uma profissão e se tornar um processo de desenvolvimento de carreira?",
                   "options": [
                     {
@@ -20982,7 +20982,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q21",
+                  "id": "p4_orientacao_profissional_L1_Q21",
                   "statement": "O que o texto sugere ser o principal desafio para a atuação do psicólogo em Orientação Profissional na contemporaneidade, no contexto da globalização e da reestruturação produtiva?",
                   "options": [
                     {
@@ -21014,7 +21014,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_OP_L1_Q22",
+                  "id": "p4_orientacao_profissional_L1_Q22",
                   "statement": "O texto sugere que a Orientação Profissional deve ir além de uma visão individualista e se tornar uma \"ferramenta de transformação social\". O que isso significa na prática?",
                   "options": [
                     {
@@ -21046,7 +21046,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q23",
+                  "id": "p4_orientacao_profissional_L1_Q23",
                   "statement": "Qual é a principal crítica do texto de Bock (2002) à atuação do psicólogo em Orientação Profissional que se limita à aplicação de testes e à indicação de profissões?",
                   "options": [
                     {
@@ -21078,7 +21078,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q24",
+                  "id": "p4_orientacao_profissional_L1_Q24",
                   "statement": "De acordo com o texto de Bock (2002), o que é a Orientação Profissional em uma perspectiva sócio-histórica?",
                   "options": [
                     {
@@ -21110,7 +21110,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_OP_L1_Q25",
+                  "id": "p4_orientacao_profissional_L1_Q25",
                   "statement": "O texto sugere que a Psicologia da Orientação Profissional, em sua atuação crítica, deve ir além de uma visão individualista. Qual é o papel que ela deve assumir, segundo essa perspectiva?",
                   "options": [
                     {
@@ -21142,7 +21142,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_OP_L1_Q26",
+                  "id": "p4_orientacao_profissional_L1_Q26",
                   "statement": "O que o artigo de T. E. B. de Araújo (2007) sugere ser o principal desafio para a Orientação Profissional em um contexto de crise social e de incertezas no mercado de trabalho?",
                   "options": [
                     {
@@ -21174,7 +21174,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_OP_L1_Q27",
+                  "id": "p4_orientacao_profissional_L1_Q27",
                   "statement": "O texto sugere que a Orientação Profissional deve ir além de uma visão individualista e se tornar uma \"ferramenta de transformação social\". O que isso significa na prática?",
                   "options": [
                     {
@@ -21206,7 +21206,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q28",
+                  "id": "p4_orientacao_profissional_L1_Q28",
                   "statement": "O que o texto de S. T. de Araujo (2007) afirma sobre a dimensão ética e política do trabalho do psicólogo em Orientação Profissional?",
                   "options": [
                     {
@@ -21238,7 +21238,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_OP_L1_Q29",
+                  "id": "p4_orientacao_profissional_L1_Q29",
                   "statement": "Qual é a principal crítica do texto de S. T. de Araujo (2007) à atuação do psicólogo em Orientação Profissional que se limita à aplicação de testes e à indicação de profissões?",
                   "options": [
                     {
@@ -21270,7 +21270,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_OP_L1_Q30",
+                  "id": "p4_orientacao_profissional_L1_Q30",
                   "statement": "O que a ausência de regulamentação da proteção contra a despedida arbitrária no Brasil revela qual dinâmica de poder?",
                   "options": [
                     {
@@ -21300,6 +21300,1938 @@
                     }
                   ],
                   "answer": "E"
+                }
+              ]
+            },
+            {
+              "id": "p4_orientacao_profissional_v2_L1",
+              "title": "(v2) - Lista 1: Texto III",
+              "questions": [
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q1",
+                  "statement": "A escolha profissional é apresentada no texto como um aspecto fundamental que se relaciona diretamente com qual outro elemento da vida do indivíduo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A capacidade de lidar com frustrações no mercado de trabalho.",
+                      "explanation": "A capacidade de lidar com perdas é citada como parte do processo de escolha, mas não é o elemento fundamental que se relaciona com a escolha."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A formação da identidade do indivíduo e o desenvolvimento da personalidade.",
+                      "explanation": "A escolha profissional é um aspecto fundamental da identidade do indivíduo e condição complementar do desenvolvimento da personalidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O ajustamento financeiro e a ascensão social na vida adulta.",
+                      "explanation": "O texto não foca em aspectos financeiros ou de ascensão social como complementos diretos da escolha profissional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A habilidade de tomar decisões rápidas sob pressão.",
+                      "explanation": "Embora a escolha envolva decisão, o texto foca em aspectos psicológicos e de identidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O conhecimento aprofundado sobre todas as novas profissões existentes.",
+                      "explanation": "A falta de conhecimento sobre as profissões é um fator de conflito, mas não o elemento relacionado à identidade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q2",
+                  "statement": "Conforme o texto, qual é um dos fatores de influência que pode gerar conflito durante o processo de escolha profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Excesso de conhecimento sobre as especificidades de todas as carreiras.",
+                      "explanation": "A *falta* de conhecimento sobre as profissões é citada como fator de conflito."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A superação prematura do luto pelo corpo infantil.",
+                      "explanation": "O luto pelo corpo infantil é um conflito típico da fase, e não uma superação prematura."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O amplo conhecimento das áreas de interesse e aptidões do indivíduo.",
+                      "explanation": "A *falta* de conhecimento de suas aptidões e áreas de interesse é um fator de conflito."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A cobrança da família e a insegurança sobre a escolha.",
+                      "explanation": "Conflitos podem ter vários fatores de influência, como a cobrança da família e a insegurança sobre a escolha."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A delimitação clara do \"espaço de escolha\" por condicionantes externos.",
+                      "explanation": "A delimitação do espaço de escolha é um fator que, se conhecido, permite a liberdade."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q3",
+                  "statement": "Qual é o propósito fundamental das atividades de Orientação Profissional (OP), de acordo com o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Impor ao jovem a profissão mais adequada ao seu perfil psicológico.",
+                      "explanation": "O propósito é auxiliar o indivíduo a definir-se com autonomia."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir que o jovem faça uma escolha que renuncie ao menor número de opções possíveis.",
+                      "explanation": "A escolha implica necessariamente lidar com perdas e renunciar a outras escolhas possíveis."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Direcionar o jovem para as áreas de atuação com maior potencial de crescimento no mercado.",
+                      "explanation": "Embora a realidade de mercado seja um fator, o foco principal é na autonomia e consciência do indivíduo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Realizar uma avaliação exaustiva de aptidões utilizando testes psicológicos.",
+                      "explanation": "Essa prática está ligada ao modelo Traço e Fator, que é contrastado com o enfoque facilitador."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Auxiliar os indivíduos a conhecerem os fatores que interferem em sua escolha, para que possam se definir com autonomia.",
+                      "explanation": "O propósito fundamental da OP é auxiliar aqueles na fase de escolha a tomar conhecimento dos fatores que interferem nela, a fim de que possam definir-se com autonomia."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q4",
+                  "statement": "Para que a liberdade de escolha profissional possa ser exercida, qual condição é apresentada no texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que haja conhecimento da gama de opções disponíveis e dos condicionantes (internos/externos) que delimitam o “espaço de escolha”.",
+                      "explanation": "A liberdade de escolha só pode ser exercida caso haja conhecimento da gama de opções de que se dispõe e dos condicionantes (internos/externos)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que a sociedade passe por um período de estabilidade e baixa velocidade de mudanças no mundo do trabalho.",
+                      "explanation": "O texto afirma que a sociedade é dinâmica e o mundo do trabalho muda com velocidade atordoante."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que os pais atuem de forma incisiva, impondo limites claros e definindo o campo de atuação.",
+                      "explanation": "Os pais devem atuar como agentes facilitadores, auxiliando na construção da individuação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que o indivíduo consiga superar completamente todos os conflitos típicos da fase adolescente.",
+                      "explanation": "Os conflitos são inerentes à fase."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que o indivíduo se livre completamente da necessidade de reconhecimento social.",
+                      "explanation": "O reconhecimento do outro é necessário para a conquista da identidade."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q5",
+                  "statement": "Em relação à clientela de um projeto de intervenção em Orientação Profissional, o texto menciona o atendimento a qual grupo, além dos jovens em fase de escolha e dos que precisam repensar sua escolha profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Profissionais que buscam ascensão na carreira atual.",
+                      "explanation": "Embora possam buscar reorientação, o texto foca especificamente em novos interesses ou hobbies para a Terceira Idade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estudantes de psicologia e pedagogia em busca de estágios.",
+                      "explanation": "Estes podem aproveitar o espaço de reflexão, mas não são a clientela de atendimento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Pessoas na Terceira Idade com vistas à descoberta de novos interesses profissionais e/ou áreas de hobby.",
+                      "explanation": "A clientela inclui atendimento a pessoas na Terceira Idade com vistas à descoberta de novos interesses profissionais e/ou áreas de hobby."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Indivíduos que já possuem vocação definida, mas buscam apoio afetivo.",
+                      "explanation": "O texto não se refere a este grupo específico de forma prioritária na clientela."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Pais de adolescentes que buscam soluções rápidas para os conflitos de seus filhos.",
+                      "explanation": "Intervenções com pais são sugeridas para que atuem como facilitadores, mas não são a clientela principal de atendimento direto."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q6",
+                  "statement": "Segundo Rappaport (2004), ao escolher uma área profissional, o indivíduo inicia qual processo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A adaptação imediata ao novo corpo adquirido na adolescência.",
+                      "explanation": "Essa adaptação é citada por Levenfus."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O processo de formação em direção à área escolhida, trabalhando aspectos referentes à identidade.",
+                      "explanation": "Segundo Rappaport, ao escolher uma área profissional, inicia-se o processo de formação em direção a ela, começando a trabalhar aspectos referentes à identidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O processo de luto pela perda do corpo infantil.",
+                      "explanation": "O luto pelo corpo infantil é um conflito anterior ou concomitante à escolha."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A busca incessante por estabilidade e reconhecimento social.",
+                      "explanation": "Embora importantes, o foco de Rappaport é na formação e identidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O rompimento imediato com os vínculos familiares.",
+                      "explanation": "O texto descreve que as relações familiares tornam-se tumultuadas, mas não um rompimento."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q7",
+                  "statement": "Em relação ao papel dos pais na adolescência, o texto de Rappaport (2004) menciona que as relações familiares podem se tornar tumultuadas devido a qual dinâmica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Os pais deixam o filho completamente livre para tomar suas decisões sem qualquer apoio.",
+                      "explanation": "O texto indica que os pais podem pressionar o filho de maneiras contraditórias."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Os pais assumem o papel de orientadores profissionais e definem a carreira do filho.",
+                      "explanation": "Isso contraria o ideal de autonomia e facilitação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Os pais e o adolescente compartilham o mesmo nível de ansiedade e insegurança.",
+                      "explanation": "A inquietação é justificada tanto para o jovem quanto para a família."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Os pais pressionam o filho ora a continuar criança, ora a crescer, definir-se e tornar-se logo independente.",
+                      "explanation": "Para a mesma autora (Rappaport), as relações familiares tornam-se tumultuadas, pois os pais pressionam o filho ora a continuar criança, ora a crescer e definir-se."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Os pais priorizam medidas disciplinares, dificultando a resolução da crise.",
+                      "explanation": "Medidas disciplinares são destacadas como dificultadoras ao estabelecimento de vínculos adequados."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q8",
+                  "statement": "Segundo o texto, a definição da identidade pessoal implica na interação de duas instâncias ou perspectivas. Quais são elas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A perspectiva biológica (mudanças físicas) e a perspectiva intelectual (aptidões).",
+                      "explanation": "Embora ambas façam parte do homem integral, a identidade é definida por outras perspectivas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A perspectiva social (mercado de trabalho) e a perspectiva econômica (salário futuro).",
+                      "explanation": "O reconhecimento social é citado, mas não a perspectiva econômica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A perspectiva familiar (cobrança e apoio) e a perspectiva profissional (características ocupacionais).",
+                      "explanation": "Família e profissão são fatores, mas não as instâncias da identidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A perspectiva da Orientação Vocacional (vocação) e a da Orientação Profissional (autonomia).",
+                      "explanation": "Estas são abordagens de intervenção."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A perspectiva interna (sentimento de si mesmo) e a perspectiva externa (reconhecimento do meio social).",
+                      "explanation": "A definição da identidade implica a interação da perspectiva interna (sentimento de si mesmo) e externa (continuidade/uniformidade reafirmada ou não pelo meio social)."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q9",
+                  "statement": "Knobel (1996) concorda que o êxito de um jovem em determinar sua “vocação” está relacionado a qual elemento, facilitado pelos pais?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A compreensão de que ele é um indivíduo independente que, ao estabelecer sua identidade, também decide.",
+                      "explanation": "Knobel diz que o êxito está na compreensão, facilitada pelos pais, de que é um indivíduo independente que, ao estabelecer sua identidade, também decide."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A capacidade de renúncia a outras escolhas possíveis.",
+                      "explanation": "Lidar com perdas é parte da escolha, mas não o foco de Knobel sobre o apoio familiar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O conhecimento detalhado das características individuais e ocupacionais obtidas via testes.",
+                      "explanation": "Isso remete ao modelo Traço e Fator."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A elaboração do luto pelo corpo infantil e a adaptação ao novo corpo.",
+                      "explanation": "Isso é abordado por Levenfus e Aberastury."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A superação da ansiedade gerada pela dinamicidade do mundo do trabalho.",
+                      "explanation": "O texto não atribui a superação da ansiedade a Knobel neste contexto."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q10",
+                  "statement": "Segundo Knobel (1996), que instrumentos formidáveis os pais dispõem para auxiliar os filhos a decidirem por uma profissão, mesmo que eles não saibam o papel que exercerão no meio social?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Testes psicológicos, informações de mercado e conhecimento das aptidões.",
+                      "explanation": "Estes são instrumentos técnicos de OP."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Autoridade, disciplina e imposição de limites claros.",
+                      "explanation": "O texto sugere que medidas disciplinares excessivas são dificultadoras."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Afeto, orientação e apoio.",
+                      "explanation": "Os pais dispõem de três instrumentos formidáveis: afeto, orientação, apoio."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Avaliação clínica, intervenção grupal e técnicas de autoconhecimento.",
+                      "explanation": "Estes são instrumentos do orientador profissional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O conhecimento dos condicionantes internos e externos do jovem.",
+                      "explanation": "Este é o conhecimento que a OP deve propiciar ao jovem."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q11",
+                  "statement": "Segundo Lucchiari (1993), facilitar a escolha profissional significa qual ação por parte do profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Sugerir alternativas e apoiar iniciativas, direcionando a escolha para a área mais adequada.",
+                      "explanation": "O facilitador não deve direcionar o jovem a uma área profissional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Participar auxiliando a pensar e coordenando o processo para que as dificuldades de cada um possam ser formuladas e trabalhadas.",
+                      "explanation": "Para Lucchiari, facilitar a escolha significa participar auxiliando a pensar, coordenando o processo para que as dificuldades possam ser formuladas e trabalhadas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Traçar um perfil detalhado do orientando, identificando a vocação.",
+                      "explanation": "Isso é criticado por Lucchiari ao discutir o termo \"Orientação Vocacional\"."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Utilizar exclusivamente testes psicológicos para mapear traços de personalidade e aptidões.",
+                      "explanation": "O uso exclusivo de testes remete ao modelo Traço e Fator."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Reduzir a ansiedade através da eliminação imediata de conflitos emocionais.",
+                      "explanation": "O objetivo é aliviar a ansiedade e elaborar o conflito, não eliminá-lo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q12",
+                  "statement": "Qual é uma das práticas que possuem princípios comuns ao modelo Traço e Fator na Orientação Profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que o orientador deve ter um papel facilitador, promovendo a troca de experiências.",
+                      "explanation": "Isso define a orientação voltada ao processo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que a escolha deve ser feita com autonomia, sem a interferência do orientador.",
+                      "explanation": "No Traço e Fator, é o orientador quem usualmente define a melhor opção."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que a definição das características pessoais deve ser feita apenas por incentivo ao autoconhecimento.",
+                      "explanation": "O modelo Traço e Fator passou a focar no uso de testes."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ideia de que o indivíduo possui características (aptidões, interesses, personalidade) que podem ser avaliadas com testes, e que apontam a adequação a áreas profissionais.",
+                      "explanation": "Um dos princípios do modelo Traço e Fator é que o indivíduo possui características que podem ser avaliadas com o uso de testes e que apontam a adequação a áreas específicas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco no processo de escolha e não no resultado.",
+                      "explanation": "O modelo Traço e Fator não se preocupa com o processo da escolha, mas com o resultado."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q13",
+                  "statement": "Frank Parsons é citado no texto por ter fundado o primeiro centro de orientação profissional e por ter publicado o livro “Choosing a Vocation” em 1909. Qual foi o impacto das ideias contidas nesse livro?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Trouxe a reflexão sobre a necessidade de focar a orientação profissional na abordagem clínica.",
+                      "explanation": "O foco inicial era industrial/Traço e Fator."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Justificou a importância da intervenção com os pais para a facilitação da escolha.",
+                      "explanation": "A intervenção com pais é uma reflexão posterior."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Serviu de diretrizes para a reorientação profissional de adultos insatisfeitos.",
+                      "explanation": "O livro serviu de diretrizes para o processo de orientação profissional até meados do século."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Estabeleceu o modelo de Orientação Profissional baseado no processo e na facilitação.",
+                      "explanation": "O modelo inicial era voltado ao resultado específico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aproximou a prática da orientação profissional industrial da Psicologia e da Pedagogia, servindo de diretrizes para o processo até meados do século.",
+                      "explanation": "Parsons publicou “Choosing a Vocation”, que aproximou a prática da orientação profissional industrial da Psicologia e da Pedagogia e serviu de diretrizes."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q14",
+                  "statement": "O processo de reorientação profissional, conforme Lisboa e Soares (2000), atinge primariamente qual tipo de clientela, além de estudantes desistentes de cursos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Profissionais frustrados e insatisfeitos com o trabalho, e aqueles em situação de desemprego.",
+                      "explanation": "A reorientação atinge profissionais frustrados e insatisfeitos, adultos que desejam trocar de área, profissionais em situação de desemprego, ou em inadequação à aposentadoria."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Adolescentes que vivem o luto pelo corpo infantil e a \"luta\" interna da identificação.",
+                      "explanation": "Essa clientela é típica da orientação profissional para jovens."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Pessoas na Terceira Idade que buscam apenas atividades de hobby, sem caráter profissional.",
+                      "explanation": "O foco é na descoberta de novos interesses profissionais e/ou hobbies."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apenas indivíduos que estão ingressando no mercado de trabalho pela primeira vez.",
+                      "explanation": "A reorientação pressupõe uma experiência prévia ou necessidade de mudança."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Orientadores profissionais que buscam aprimorar suas técnicas de intervenção.",
+                      "explanation": "Estes são profissionais, mas não a clientela da reorientação em si."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q15",
+                  "statement": "Qual é o objetivo principal de um trabalho em Orientação Profissional atualmente, segundo as Considerações Finais do texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Impor o reconhecimento social da escolha feita pelo indivíduo.",
+                      "explanation": "O foco é interno (reflexão) e não externo (imposição de reconhecimento)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Determinar o perfil ideal do orientando por meio de testes psicológicos.",
+                      "explanation": "Isso é característico do modelo Traço e Fator, que é contrastado com a perspectiva atual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aliviar dúvidas por meio de técnicas que visam a promover reflexões para que o indivíduo faça a escolha mais adequada.",
+                      "explanation": "O objetivo principal é aliviar dúvidas por meio de técnicas que visam a promover reflexões por parte do indivíduo para que este faça a escolha mais adequada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Indicar a vocação que está fechada em si, como um elemento natural de cada indivíduo.",
+                      "explanation": "O texto afirma que não há como pensar a escolha profissional como um elemento natural a partir de uma vocação fechada em si."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Resolver a crise do adolescente de forma rápida, privilegiando a imposição de uma solução.",
+                      "explanation": "As medidas devem privilegiar o acompanhamento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q16",
+                  "statement": "O texto afirma que a escolha da profissão não é uma tarefa fácil, pois implica um desafio psicológico específico. Qual é esse desafio?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A necessidade de ajustar-se emocionalmente para exercer bem a profissão escolhida.",
+                      "explanation": "Ajustamento emocional é necessário para exercer bem a profissão, mas o desafio específico da escolha é outro."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A dificuldade em conciliar as mudanças físicas da adolescência com as exigências do mundo exterior.",
+                      "explanation": "Isso gera conflito, mas não é o desafio primário implícito na natureza da escolha."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A obrigação de integrar a perspectiva interna e a externa da identidade.",
+                      "explanation": "Esta é a complexidade da identidade em geral."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Não só optar por uma profissão, mas também renunciar a outras escolhas possíveis, compreendendo a capacidade de lidar com perdas.",
+                      "explanation": "Escolher a profissão não implica só optar por uma, mas renunciar a outras escolhas possíveis, compreendendo uma capacidade de lidar com perdas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A urgência e necessidade de definir-se para marcar o fim da infância e a participação efetiva no mundo adulto.",
+                      "explanation": "Essa é a tarefa da adolescência."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q17",
+                  "statement": "Considerando a dinamicidade do mundo do trabalho atual (surgimento de novas profissões em velocidade atordoante) e a Orientação Profissional (OP) como práxis do psicólogo, qual a importância derivada dessa reflexão, segundo o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A importância de incluir na formação em psicologia uma unidade curricular sobre Orientação Profissional para capacitar o psicólogo a criar serviços que forneçam informações e vivências.",
+                      "explanation": "A partir da reflexão sobre a dinamicidade do mercado, deriva-se o grau de importância de incluir na formação em psicologia uma unidade curricular sobre a OP, capacitando o psicólogo a criar serviços."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A necessidade de focar a OP exclusivamente no modelo do Traço e Fator, devido à urgência de adequação do indivíduo ao mercado.",
+                      "explanation": "O texto contrasta este modelo com o foco em autoconhecimento e facilitação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A exclusão dos adultos do processo de OP, já que o foco principal deve ser a adaptação do jovem às novas profissões.",
+                      "explanation": "A OP atende também adultos e Terceira Idade (reorientação)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A prioridade de se concentrar apenas na perspectiva psicológica clínica, em detrimento da pedagógica informacional.",
+                      "explanation": "As duas vertentes (pedagógica informacional e psicológica) se complementam."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de o orientador direcionar o jovem a carreiras estáveis, aliviando a ansiedade gerada pela incerteza do mercado.",
+                      "explanation": "Não cabe ao orientador direcionar o jovem."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q18",
+                  "statement": "O texto faz uma ressalva sobre as medidas disciplinares tomadas frente aos adolescentes, destacando-as como um fator dificultador. Qual é a postura que as medidas de profissionais e pais devem privilegiar, em contraste com a imposição de uma solução?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A realização de testes psicológicos para mapear as aptidões.",
+                      "explanation": "O foco aqui é na postura de relacionamento, não na ferramenta."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A intervenção exclusiva com os pais, visando a conscientizá-los sobre a fase.",
+                      "explanation": "A intervenção com pais é uma possibilidade, mas a postura exigida é em relação ao adolescente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O acompanhamento do que impor a resolução de uma \"crise\" que se constitui de forma diferenciada para cada adolescente.",
+                      "explanation": "As medidas de profissionais e pais devem privilegiar o acompanhamento, do que impor a resolução de uma \"crise\" que se constitui de forma diferenciada para cada adolescente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O estímulo à fantasia de \"eterna juventude\" para aliviar a pressão da escolha profissional.",
+                      "explanation": "A fantasia de eterna juventude pode estar relacionada à escolha de certas carreiras, mas não é uma medida a ser privilegiada."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A ênfase na urgência da decisão para que o jovem marque o fim da infância.",
+                      "explanation": "A imposição é o que deve ser evitado."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q19",
+                  "statement": "Segundo Levenfus (2004), a elaboração do luto pelo corpo infantil e a adaptação a um novo corpo são seguidas por qual confrontação, que pode estar relacionada à escolha de certas carreiras?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A confrontação com as exigências do mundo exterior.",
+                      "explanation": "Essa confrontação é citada por Aberastury e Knobel."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O adolescente defronta-se com o próprio corpo que se perde, o que pode determinar fantasias de \"eterna juventude\".",
+                      "explanation": "Imediatamente à elaboração do luto e à adaptação ao novo corpo, o adolescente defronta-se com o próprio corpo que se perde, o que pode determinar fantasias de \"eterna juventude\"."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O adolescente defronta-se com a necessidade de desenvolver um ego unificado através do trabalho e do amor.",
+                      "explanation": "Essa tarefa é atribuída a Bios (1994) para o final da adolescência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O adolescente defronta-se com a dificuldade de exercer a autonomia na escolha profissional.",
+                      "explanation": "Essa é uma dificuldade geral do processo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O adolescente defronta-se com a necessidade de se diferenciar das influências familiares.",
+                      "explanation": "Essa é uma das grandes tarefas dos adolescentes em geral."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q20",
+                  "statement": "Lidz (1973) apud Levenfus (2004) relaciona a eleição de uma profissão com o desenvolvimento da personalidade e sua integração. Qual é o marco que o autor considera para a passagem à vida adulta?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A total independência financeira e emocional do jovem.",
+                      "explanation": "O texto não especifica a independência financeira."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O sucesso em elaborar as diversas influências recebidas e projetar escolhas no futuro.",
+                      "explanation": "Essa é uma tarefa geral dos adolescentes."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A renúncia a todas as outras escolhas profissionais.",
+                      "explanation": "A renúncia é uma capacidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O estabelecimento de uma identidade profissional estável ao término da adolescência.",
+                      "explanation": "Lidz considera que uma identidade profissional estável esteja constituída ao término da adolescência, sendo o marco da passagem para a vida adulta."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A completa superação da ansiedade e dos conflitos emocionais típicos da fase.",
+                      "explanation": "A busca é por vivenciar os conflitos de maneira menos sofrida."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q21",
+                  "statement": "Qual é o argumento central para justificar que o enfoque de trabalho na Orientação Profissional deve ser necessariamente facilitador, especialmente na adolescência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Porque o modelo do Traço e Fator se mostrou ineficaz ao longo do tempo.",
+                      "explanation": "O texto apenas o descreve historicamente, sem invalidá-lo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Porque o orientador é o único profissional habilitado para coordenar o processo e definir o perfil vocacional do jovem.",
+                      "explanation": "Não cabe ao orientador direcionar o jovem."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Porque o adolescente está em uma fase de luto e incertezas, e o facilitador deve coordenar o processo para que as dificuldades sejam trabalhadas, mas não direcionar a escolha.",
+                      "explanation": "Isso é parte da definição de facilitação, mas não o argumento central para a necessidade do enfoque."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Porque a aquisição da identidade do adolescente passa pela possibilidade de exercer o poder de escolher e autodeterminar-se, e somente tal exercício propicia a medida de seu desejo e autonomia.",
+                      "explanation": "O enfoque facilitador se justifica pois a aquisição de identidade do adolescente passa pela possibilidade de exercer o poder de escolher e autodeterminar-se, propiciando a medida de seu desejo, motivações e autonomia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Porque a escolha profissional deve ser vista como um elemento natural, derivado de uma vocação inata.",
+                      "explanation": "O texto nega essa visão de vocação fechada."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q22",
+                  "statement": "O texto diferencia o modelo de Orientação Profissional voltada ao resultado daquele voltado ao processo de escolha. No modelo voltado ao processo (facilitador), qual das seguintes atividades **NÃO** faz parte do papel do orientador?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ouvir depoimentos, promover a discussão de temas e propor atividades instigadoras.",
+                      "explanation": "Estas são funções do orientador facilitador."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Identificar as características individuais e ocupacionais para fechar o processo com um resultado específico.",
+                      "explanation": "Fechar um processo com um resultado específico a partir da identificação de características era o papel do orientador no surgimento da OP (modelo inicial/Traço e Fator)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Sintetizar ideias, organizar informações e sugerir alternativas.",
+                      "explanation": "Estas são funções do orientador facilitador."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apoiar iniciativas, dividir angústias e facilitar a troca de experiências.",
+                      "explanation": "Estas são funções do orientador facilitador."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ser alguém habilitado para coordenar o processo de reflexão, sem direcionar o jovem a uma área profissional.",
+                      "explanation": "O profissional está habilitado para coordenar o processo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q23",
+                  "statement": "Lucchiari (1993) argumenta contra o uso do termo \"Orientação Vocacional\" e propõe \"Facilitação da Escolha Profissional\" como uma designação mais adequada. Qual é a crítica feita ao termo \"Orientação Profissional\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Supõe que a vocação pode ser descoberta a qualquer momento por alguém capacitado.",
+                      "explanation": "Essa é a crítica feita ao termo \"Orientação Vocacional\"."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Não abrange a complexidade dos conflitos do adolescente.",
+                      "explanation": "Embora não seja a designação ideal, a OP trata desses conflitos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Supõe uma orientabilidade possível, ou seja, que realmente existam pessoas capacitadas e com instrumentos de trabalho confiáveis para orientar.",
+                      "explanation": "Lucchiari diz que Orientação Profissional supõe uma orientabilidade possível, ou seja, que existam pessoas capacitadas e com instrumentos confiáveis para orientar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Não permite a abordagem clínica e a dimensão preventiva do trabalho.",
+                      "explanation": "O texto afirma que a OP possui as dimensões preventiva e clínica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Limita a atuação apenas aos estudantes e exclui a reorientação de adultos.",
+                      "explanation": "A OP abrange a reorientação de adultos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q24",
+                  "statement": "Qual é a característica fundamental da postura de investigação que define uma intervenção clínica, conforme Bossa (2000)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O foco está no geral, buscando leis gerais e categorias abrangentes para enquadrar o objeto de estudo.",
+                      "explanation": "A abordagem clínica busca a compreensão do particular e não do geral, evitando enquadrar o objeto em categorias abrangentes."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O foco está voltado para o fenômeno que está sendo estudado, preocupando-se com o particular, a história, experiências e forma de interpretação da realidade do sujeito ou grupo.",
+                      "explanation": "Uma intervenção clínica se define por uma postura de investigação cujo foco está voltado para o fenômeno, priorizando o particular, sua história, experiências, e forma de interpretação da realidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O foco está na vertente pedagógica informacional, garantindo que o orientando tenha acesso aos dados do mercado de trabalho.",
+                      "explanation": "Essa é a vertente pedagógica, contrastada com a clínica."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O foco está na utilização de testes psicológicos para traçar um perfil preciso de traços e fatores.",
+                      "explanation": "Essa é uma característica do modelo histórico Traço e Fator."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco está na aceleração do processo decisório, visando aliviar a ansiedade do sujeito o mais rápido possível.",
+                      "explanation": "A intervenção se foca na investigação e compreensão."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q25",
+                  "statement": "O desenvolvimento crescente dos testes psicológicos, especialmente no período entre guerras, influenciou as práticas de Orientação Profissional propostas por Parsons. De que forma essa evolução alterou o método inicial de definição das características pessoais do orientando?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O método passou a focar apenas na reorientação de adultos frustrados.",
+                      "explanation": "O foco era na identificação das características."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Passou a utilizar o incentivo ao autoconhecimento de forma mais intensa e complexa.",
+                      "explanation": "Inicialmente era o incentivo ao autoconhecimento; com os testes, a definição passou a ser realizada com instrumentos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A definição dessas características começou a ser realizada com o uso de instrumentos de avaliação de inteligência, aptidões, interesses e personalidade.",
+                      "explanation": "Com o desenvolvimento crescente dos testes, a definição das características começou a ser realizada com o uso de instrumentos de avaliação de inteligência, aptidões, interesses e personalidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A prática foi abandonada, pois o modelo Traço e Fator não era considerado uma teoria da escolha profissional.",
+                      "explanation": "O modelo Traço e Fator continuou em uso, mas com o acréscimo de testes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco passou a ser a articulação do ego unificado por meio do trabalho, amor e ideologia.",
+                      "explanation": "Isso é o final da adolescência, conforme Bios."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q26",
+                  "statement": "O trabalho de Orientação Profissional é interdisciplinar e possui duas fortes vertentes que se complementam, gerando ações significativas na questão da escolha profissional. Quais são essas vertentes?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A vertente do Traço e Fator e a vertente Tipológica.",
+                      "explanation": "Estas são abordagens históricas da OP."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A vertente da Orientação Vocacional e a da Facilitação da Escolha Profissional.",
+                      "explanation": "Estas são discussões terminológicas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A vertente de reorientação de adultos e a vertente de orientação para adolescentes.",
+                      "explanation": "Estas são clientelas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A vertente pedagógica informacional e a vertente psicológica, mais propriamente clínica.",
+                      "explanation": "A OP possibilita um trabalho interdisciplinar com duas fortes vertentes: a pedagógica informacional e a psicológica, mais propriamente clínica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A vertente do reconhecimento social e a vertente da capacidade de renúncia.",
+                      "explanation": "Estes são aspectos da identidade e da escolha."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q27",
+                  "statement": "No contexto do trabalho de reorientação profissional para adultos, defende-se a utilização da abordagem grupal. Qual das seguintes opções **NÃO** é citada como um dos efeitos terapêuticos (segundo Yalom, 1992) proporcionados pelo *setting* do grupo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Universalidade, reaprendizagem interpessoal e instrução didática.",
+                      "explanation": "Estes são os efeitos terapêuticos citados no texto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O estabelecimento de uma identidade profissional estável.",
+                      "explanation": "Embora a identidade seja o objetivo final da escolha, o texto lista especificamente a universalidade, reaprendizagem interpessoal e instrução didática como efeitos terapêuticos do grupo (Yalom)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A possibilidade de que o grupo sirva como referência para si mesmo.",
+                      "explanation": "Essa é uma razão para a adequação da abordagem grupal."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A possibilidade de elaborar o conflito envolvido no processo de escolha.",
+                      "explanation": "O trabalho grupal possibilita elementos interacionais imprescindíveis para a elaboração do conflito."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O aumento da procura pelos serviços e maior significado social.",
+                      "explanation": "Este é um resultado esperado da proposta de intervenção em OP, não um efeito terapêutico de Yalom."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q28",
+                  "statement": "Qual é a justificativa apresentada no texto para a importância de mais um texto que traga a reflexão sobre a escolha profissional para os discentes da unidade curricular de Orientação Profissional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Permitir que os discentes se concentrem apenas no modelo Traço e Fator, dada sua eficácia inicial.",
+                      "explanation": "O objetivo é pensar em atuações com diferentes enfoques."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Propiciar maior entendimento sobre a dinâmica do adolescente e adulto em suas escolhas, mas focando exclusivamente na atuação clínica.",
+                      "explanation": "O texto não restringe a atuação apenas à clínica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Permitir que os leitores pensem em atuações com diferentes enfoques, mas que tenham como objetivo principal aliviar a ansiedade vivenciada frente à escolha da formação profissional.",
+                      "explanation": "O texto justifica a importância para pensar em atuações com diferentes enfoques, mas que tenham como objetivo principal aliviar a ansiedade daqueles que procuram."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Possibilitar que os discentes utilizem exclusivamente as medidas disciplinares como forma de acompanhamento.",
+                      "explanation": "As medidas disciplinares são destacadas como dificultadoras."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Promover a ideia de que a escolha profissional é um elemento natural, a partir de uma vocação fechada em si.",
+                      "explanation": "O texto refuta essa ideia."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q29",
+                  "statement": "Qual é a finalidade última do amadurecimento que os pais, atuando como agentes facilitadores no processo de escolha, devem auxiliar a construir?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A total renúncia a outras escolhas possíveis, focando na carreira única.",
+                      "explanation": "Renunciar é parte da escolha, mas não a finalidade última do amadurecimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A construção da individuação e diferenciação de sua personalidade.",
+                      "explanation": "O auxílio dos pais deve ser no sentido de facilitar o processo de escolha, auxiliando a construção de individuação e diferenciação de sua personalidade, finalidade última do amadurecimento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O ajustamento emocional para a execução plena da tarefa profissional.",
+                      "explanation": "Ajustamento emocional é necessário para exercer a profissão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A projeção de suas escolhas para o futuro e a integração de todas as influências recebidas.",
+                      "explanation": "Essa é uma das grandes tarefas dos adolescentes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A descoberta da vocação preexistente que pode ser revelada a qualquer momento.",
+                      "explanation": "Essa visão de vocação é criticada."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L1_Q30",
+                  "statement": "A Orientação Profissional (OP) atua para promover o auxílio ao jovem em um momento difícil e confuso. Qual é o sentido de transformação social que a OP busca concretizar, conforme as considerações finais?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Promover a inserção dos jovens nas novas formas de atuação que surgem com velocidade atordoante.",
+                      "explanation": "Embora a sociedade seja dinâmica, o foco é na reflexão e escolha adequada."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fazer com que a escolha profissional seja vista como um elemento natural, derivado de uma vocação individual.",
+                      "explanation": "O texto nega essa visão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Evitar o aumento de profissionais frustrados, insatisfeitos e até mesmo incompetentes.",
+                      "explanation": "Esse é um objetivo da divulgação da **reorientação** profissional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Atuar para promover o auxílio ao jovem no momento da escolha da carreira que pretende seguir, promovendo reflexões para que este faça a escolha mais adequada.",
+                      "explanation": "A OP tem sido um recurso para concretizar a transformação social, no sentido em que atua para promover ao jovem auxílio no momento da escolha, promovendo reflexões."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Impor a resolução da \"crise\" adolescente por meio de medidas disciplinares e imposição de limites.",
+                      "explanation": "A imposição deve ser evitada."
+                    }
+                  ],
+                  "answer": "D"
+                }
+              ]
+            },
+            {
+              "id": "p4_orientacao_profissional_v2_L2",
+              "title": "(v2) - Lista 2: Texto IV",
+              "questions": [
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q1",
+                  "statement": "De acordo com o texto, o cenário social atual é marcado por uma realidade dinâmica. Qual é a cobrança que essa realidade impõe às pessoas, e qual é o dever que recai sobre o Estado em resposta a essa situação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Cobrança por domínio de linguagens tradicionais; dever de manter a estrutura de ensino do século XIX.",
+                      "explanation": "O texto menciona que o cenário é dinâmico, exigindo qualificação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Cobrança por busca de qualificação para inserção no mercado de trabalho; dever de implantar políticas públicas que facilitem a saída do Ensino Médio para o Superior.",
+                      "explanation": "O cenário social é dinâmico, exigindo busca de qualificação, e impõe ao Estado o dever de implantar políticas que possibilitem a saída do Ensino Médio para o Ensino Superior, independente da condição social."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Cobrança por adaptabilidade imediata às novas tecnologias; dever de sucatear as universidades públicas em favor das particulares.",
+                      "explanation": "A expansão das universidades particulares e o sucateamento das públicas foram associados à política neoliberal no governo FHC."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Cobrança por habilidades emocionais, como a capacidade de lidar com perdas; dever de limitar o acesso ao Ensino Superior.",
+                      "explanation": "O texto foca na busca por qualificação e no dever de expandir o acesso."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Cobrança por especialização em apenas uma área de conhecimento; dever de reestabelecer a educação geral.",
+                      "explanation": "A Lei 7.046 de 1982 reestabeleceu a educação geral."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q2",
+                  "statement": "O contexto escolar e o projeto de vida dos alunos são a temática central do Texto IV. Ao discutir o conceito de projeto de vida no Ensino Médio, a referência é feita às expectativas e perspectivas dos alunos quanto a qual etapa de formação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A formação em escolas técnicas federais (ETF) e agrotécnicas (EAF).",
+                      "explanation": "Embora importantes, o foco é na continuidade dos estudos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A transição para a vida adulta e a construção de relacionamentos interpessoais.",
+                      "explanation": "Essas são partes da vida adulta, mas a temática principal é a formação acadêmica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A continuidade da formação acadêmica no ensino superior.",
+                      "explanation": "O texto faz referência às expectativas dos alunos quanto à continuidade da formação acadêmica no ensino superior."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A inserção imediata e efetiva no mercado de trabalho após o Ensino Médio.",
+                      "explanation": "A inserção no mercado é uma consequência da formação superior."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A descoberta de hobbies e novos interesses na Terceira Idade.",
+                      "explanation": "O texto aborda o Ensino Médio."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q3",
+                  "statement": "Qual foi o marco inicial da educação no Brasil e qual era sua principal base de atuação, de acordo com o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Introdução dos jesuítas em 1549, com base na educação religiosa e propagação da fé cristã.",
+                      "explanation": "A educação no Brasil começou em 1549 com a introdução dos jesuítas, atuando com base na educação religiosa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Chegada da Família Real em 1808, com foco na criação de escolas de educação de línguas e artes.",
+                      "explanation": "A chegada da Família Real influenciou uma nova ruptura, mas não o marco inicial."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Expulsão dos jesuítas em 1759 pelo Marquês de Pombal, com foco no ensino superior.",
+                      "explanation": "Este foi um momento de transformação, mas não o início."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Promulgação da primeira Constituição brasileira em 1824, focada na instrução primária.",
+                      "explanation": "Este evento ocorreu no Período Imperial."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Criação da Liga Brasileira contra o Analfabetismo em 1915, focada na luta contra a ignorância.",
+                      "explanation": "Esse movimento é do início do século XX."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q4",
+                  "statement": "Em 1823, durante o Período Imperial, instituiu-se o Método Lancaster. Qual era o propósito central desse método no contexto educacional brasileiro?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Criar academias para o ensino superior, substituindo as escolas jesuítas.",
+                      "explanation": "As Academias eram o quarto grau de instrução."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Atender prioritariamente ao ensino superior, como na reforma Pombalina.",
+                      "explanation": "O foco era suprir a falta de professores."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Reorganizar o conteúdo ministrado no ensino básico, desmembrando-o em elementar e superior.",
+                      "explanation": "Isso ocorreu em 1854 sob D. Pedro II."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Instituir a profissionalização obrigatória do ensino de 2º grau.",
+                      "explanation": "Isso ocorreu sob o governo militar em 1971."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Suprir a falta de professores através do \"ensino mútuo\", onde um aluno treinado ensinava um grupo de dez alunos.",
+                      "explanation": "O Método Lancaster foi instituído na tentativa de suprir a falta de professores, sendo o \"ensino mútuo\"."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q5",
+                  "statement": "Qual foi um dos fatores, citado no texto, que impulsionou a escola a assumir a função de educar para a vida e para a aprendizagem do trabalho, levando ao surgimento da primeira escola noturna em 1854?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O movimento de novas ideias no plano cultural e educacional dos anos 1920.",
+                      "explanation": "Esse movimento foi posterior."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A demanda por mão de obra qualificada oriunda do paradigma taylorista-fordista.",
+                      "explanation": "Esse paradigma é associado à criação do SENAI/SENAC (década de 1940)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O desenvolvimento da sociedade e, consequentemente, da industrialização.",
+                      "explanation": "Com o desenvolvimento da sociedade e da industrialização, emergiu a necessidade de domínio de conhecimento, e a escola assumiu a função de educar para o trabalho."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A promulgação da Lei 4.024/61, que visava acabar com o exame vestibular.",
+                      "explanation": "Essa lei é posterior, de 1961."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A exigência dos exames de adaptação para ingresso no ensino superior.",
+                      "explanation": "Os exames de adaptação surgiram na Reforma Capanema (1942)."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q6",
+                  "statement": "No que concerne à Reformas Educacionais brasileiras do século XX, qual foi a principal característica imposta pelo governo militar ao ensino de 2º grau, por meio da Lei nº 5.692/71?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A volta do ensino secundário aos cursos clássico e científico.",
+                      "explanation": "Estes cursos foram criados em 1942 (Reforma Capanema)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O reestabelecimento da modalidade de educação geral.",
+                      "explanation": "Isso ocorreu em 1982 (Lei 7.046)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A implementação de cotas para jovens negros ou indígenas no Ensino Superior.",
+                      "explanation": "Cotas e Prouni foram implantados no governo Lula (2004)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O caráter de profissionalização obrigatória do ensino de 2º grau.",
+                      "explanation": "A Lei nº 5.692/71, sob o governo militar, impôs o caráter de profissionalização obrigatória do ensino de 2º grau."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A expansão quantitativa de matrículas, priorizando o ensino privado.",
+                      "explanation": "A expansão quantitativa foi nas escolas públicas após 1971."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q7",
+                  "statement": "A Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei n. 9.394/1996, alterou o panorama do ensino profissionalizante. Onde esse ensino passou a ocorrer quase que exclusivamente após essa promulgação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Nas escolas isoladas e regidas pelo Método Lancaster.",
+                      "explanation": "O Método Lancaster é do Período Imperial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Nos cursos jurídicos e academias de Marinha.",
+                      "explanation": "Estes são exemplos de Ensino Superior/Militar do período Joanino."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Nos sistemas privados como SENAI e SENAC.",
+                      "explanation": "Estes sistemas são de 1942/1946."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Nas Escolas Técnicas Federais (ETF), Escolas Agrotécnicas Federais (EAF) e em poucos sistemas estaduais de ensino.",
+                      "explanation": "A LDB 9.394/1996 fez com que o ensino profissionalizante passasse a ocorrer quase que exclusivamente nas ETF, EAF e em poucos sistemas estaduais de ensino."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Nas universidades particulares que se expandiram na política neoliberal.",
+                      "explanation": "As universidades particulares se expandiram no Ensino Superior."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q8",
+                  "statement": "Qual é a principal crítica feita à expansão das universidades no período da política neoliberal (governo FHC e Lula), conforme apontado pelo texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A ausência de qualquer expansão nas universidades públicas federais.",
+                      "explanation": "O governo Lula criou 14 universidades públicas federais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O investimento exclusivo no Ensino Fundamental em detrimento do Superior.",
+                      "explanation": "O governo Lula investiu mais em ambos, criando o Fundeb."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A prioridade dada às cotas raciais em detrimento da meritocracia.",
+                      "explanation": "A implantação de cotas faz parte das estratégias de inclusão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O sucateamento das universidades públicas e o salto quantitativo com regressão qualitativa na formação de profissionais.",
+                      "explanation": "A política neoliberal resultou no sucateamento das públicas e, no governo Lula, em inúmeras universidades formando profissionais com pouco conhecimento, caracterizando regressão qualitativa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A limitação do acesso de camadas com menor poder aquisitivo.",
+                      "explanation": "Programas como Prouni e FIES buscavam ampliar o acesso."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q9",
+                  "statement": "De acordo com Zatti (2007), a educação para a autonomia supõe qual princípio fundamental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O respeito às diferenças, rejeitando toda e qualquer forma de discriminação.",
+                      "explanation": "Zatti (2007) acrescenta que a educação para a autonomia supõe o respeito às diferenças rejeitando toda e qualquer forma de discriminação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A reprodução das desigualdades sociais e da ideologia dominante.",
+                      "explanation": "Essa é a função da escola, segundo Nascimento (2009), na perspectiva crítica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O desenvolvimento de habilidades para o mercado, sob a visão economicista.",
+                      "explanation": "Essa é a visão neoliberal da educação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A obrigatoriedade de desenvolver a memória, em detrimento do pensamento crítico.",
+                      "explanation": "Gadotti (2000) critica a ênfase na memória."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A atuação apenas com a linguagem tradicional e de uma cultura dominante.",
+                      "explanation": "O texto indica que isso ainda ocorre, mas não é a premissa da autonomia."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q10",
+                  "statement": "Qual é a justificativa apresentada no texto para a utilização da citação de Brandão (2007), \"Ninguém escapa da educação\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Para enfatizar que a educação escolar tradicional ainda domina o ensino.",
+                      "explanation": "Embora a educação tradicional sobreviva, a citação justifica a ubiquidade do conhecimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Para reforçar que o conhecimento empírico deve ser priorizado sobre o científico.",
+                      "explanation": "O texto diz que eles se correlacionam, mas não prioriza um sobre o outro."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Para justificar que a educação é um elemento intrínseco à sociedade, às pessoas e ao mundo, uma vez que o conhecimento é universal.",
+                      "explanation": "A citação justifica a educação como sendo um elemento intrínseco à sociedade e ao mundo, porque o conhecimento é universal."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Para criticar o complexo plurifacetado da educação moderna.",
+                      "explanation": "Alves (2012) descreve a complexidade, mas a citação de Brandão justifica a ubiquidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Para demonstrar que a informatização da educação ainda não é plena no ensino.",
+                      "explanation": "Isso é uma observação sobre a tecnologia atual."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q11",
+                  "statement": "O que o indivíduo começa a elaborar a partir da escolha profissional, conforme o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A confrontação com o próprio corpo que se perde (luto).",
+                      "explanation": "Essa é uma tarefa da adolescência citada em textos anteriores."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O projeto de vida.",
+                      "explanation": "O adolescente, a partir da escolha profissional, começa a elaborar o projeto de vida."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A adaptação à cultura dominante e à linguagem tradicional.",
+                      "explanation": "O texto não liga a escolha a essa adaptação de forma direta."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O seu currículo para inserção no mercado de trabalho com salário digno.",
+                      "explanation": "Inserção com salário digno é uma expectativa do projeto de vida."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A renovação das políticas para a educação básica e superior.",
+                      "explanation": "Isso é uma tarefa política."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q12",
+                  "statement": "Segundo Bastos, Schiess e Mazzoleni (2008), o que culturalmente existe como estereótipo em relação à escolha por uma profissão na adolescência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que a escolha está associada apenas a fatores econômicos e familiares.",
+                      "explanation": "A escolha é influenciada por vários fatores."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que a escolha profissional deve ser abordada como um processo de autoconhecimento contínuo.",
+                      "explanation": "Essa é a perspectiva da Orientação Profissional, não o estereótipo cultural."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que a escolha por uma profissão é definitiva, como se fosse a única oportunidade de redirecionamento profissional.",
+                      "explanation": "Culturalmente existe um estereótipo de que a escolha por uma profissão é definitiva, como se fosse a única oportunidade de redirecionamento profissional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que a decisão deve ser sempre autônoma, sem nenhuma influência externa.",
+                      "explanation": "A família e o meio social exercem forte influência."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que o ensino superior é a única forma de obter um salário digno.",
+                      "explanation": "Salário digno é uma expectativa, mas não o estereótipo sobre a definitividade da escolha."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q13",
+                  "statement": "Na contemporaneidade, o aumento de alunos no Ensino Médio é impulsionado pelo modelo das sociedades atuais, baseado em flexibilização e integração dos processos de trabalho. O que esse modelo demanda dos trabalhadores, além de conhecimentos técnicos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas o domínio da linguagem tradicional e memorização de conteúdo.",
+                      "explanation": "O texto critica o foco na memorização."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Habilidades comportamentais e cognitivas como capacidade de abstração, raciocínio, criatividade e capacidade de decisão.",
+                      "explanation": "O modelo demanda não apenas conhecimentos técnicos, mas também amplas habilidades cognitivas e características comportamentais como capacidade de abstração, raciocínio, criatividade e decisão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que os trabalhadores se concentrem em atuações com enfoques diferentes da pedagogia e da psicologia.",
+                      "explanation": "O foco é nas habilidades cognitivas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O abandono do pensamento crítico em favor da execução de tarefas.",
+                      "explanation": "O papel da escola deve ser desenvolver o pensamento crítico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade de dominar o Ensino Superior, independente da escolha de carreira.",
+                      "explanation": "Demanda habilidades, não a obrigatoriedade do nível de ensino."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q14",
+                  "statement": "O texto afirma que a expectativa dos jovens em formação está associada a aspectos subjetivos e à realidade socioeconômica. O que essa associação pode gerar nos sujeitos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Maior motivação para elaborar perspectivas de realização.",
+                      "explanation": "Essa é a motivação, mas a realidade socioeconômica costuma gerar o oposto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Domínio de símbolos e de linguagem matemática para a leitura de modelos complexos.",
+                      "explanation": "Essas são habilidades demandadas pelo mercado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A plena consciência de que não devem elaborar perspectiva de realização.",
+                      "explanation": "O texto sugere que a personalidade \"pode\" estar marcada por essa ideia, mas o que é gerado são inseguranças e dúvidas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Inseguranças, dúvidas e descrédito na possibilidade de entrar no Ensino Superior.",
+                      "explanation": "Essa realidade leva os sujeitos à inseguranças, dúvidas e descrédito na possibilidade de entrar no Ensino Superior."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um sentido coeficiente de esperança e ampliação da capacidade de mudar a realidade.",
+                      "explanation": "Esse é um resultado da educação para a autonomia."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q15",
+                  "statement": "Qual é a concepção de liberdade que o conceito de projeto de Sartre (1987) remete, segundo Viana (2015)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A concepção de destino traçado, independentemente da vontade.",
+                      "explanation": "Sartre afirma que o homem é livre para decidir suas escolhas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A concepção de autonomia de escolha.",
+                      "explanation": "O conceito de projeto de Sartre remete à concepção de liberdade, que tem o significado de autonomia de escolha."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A concepção de responsabilidade exclusiva dos pais na formação.",
+                      "explanation": "O foco é na liberdade individual do homem."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A concepção de dependência das ideologias da pós-modernidade.",
+                      "explanation": "O homem é livre para decidir suas escolhas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A concepção de um projeto que não muda e que uma vez decidido será exercido.",
+                      "explanation": "Almeida (2011) afirma que o projeto de vida pode estar em constante alteração."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q16",
+                  "statement": "A expulsão dos jesuítas em 1759 pelo Marquês de Pombal gerou transformações significativas na estrutura organizacional da educação. De acordo com Santana (2011), quais elementos da ação pedagógica jesuíta foram substituídos pela diversidade de disciplinas isoladas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O foco exclusivo na educação elementar e a valorização das línguas e retóricas.",
+                      "explanation": "Os jesuítas priorizavam a escola secundária."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O caráter de profissionalização obrigatória do ensino de 2º grau e a formação de técnicos de nível médio.",
+                      "explanation": "Isso ocorreu no governo militar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A uniformidade da ação pedagógica, a perfeita transição de um nível escolar para outro e a graduação.",
+                      "explanation": "A uniformidade, a perfeita transição de um nível escolar para outro e a graduação foram substituídas pela diversidade das disciplinas isoladas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A criação de escolas de ler, contar e escrever, e o método Lancaster.",
+                      "explanation": "O método Lancaster é de 1823."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco na economia baseada na exportação e o sistema agrário-exportador.",
+                      "explanation": "Esse sistema é do início do século XX."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q17",
+                  "statement": "Qual foi o objetivo declarado do governo militar ao impor a profissionalização obrigatória do ensino de 2º grau (Lei nº 5.692/71), e qual a demanda econômica subjacente a essa decisão?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Objetivo de atendimento à crescente demanda das classes populares por acesso a níveis mais elevados de escolarização; demanda por mão de obra qualificada para o desenvolvimento de uma nova fase de industrialização subalterna (milagre brasileiro).",
+                      "explanation": "O discurso era de atendimento à crescente demanda das classes populares por acesso a níveis mais elevados de escolarização, demandado por mão-de-obra qualificada para uma nova fase de industrialização subalterna."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Objetivo de reestabelecer a educação geral; demanda por profissionais para suprir o fracasso do milagre econômico.",
+                      "explanation": "O reestabelecimento da educação geral veio em 1982."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Objetivo de sucatear as universidades públicas; demanda do mercado neoliberal.",
+                      "explanation": "Isso ocorreu nos governos FHC e Lula."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Objetivo de criar a Liga Brasileira contra o Analfabetismo; demanda por estabilizar as instituições republicanas.",
+                      "explanation": "A Liga é de 1915."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Objetivo de criar cursos médios de 2º ciclo, científico e clássico; demanda por formação de professores.",
+                      "explanation": "Isso ocorreu na Reforma Capanema em 1942."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q18",
+                  "statement": "A Reforma Capanema (1942) criou os exames de adaptação. Qual foi a principal função desses exames no sistema educacional, especialmente em relação aos cursos profissionalizantes?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Exigir que os estudantes dos cursos profissionalizantes confirmassem o domínio das ciências, humanidades e letras para ingressar no ensino superior.",
+                      "explanation": "Os exames de adaptação permitiriam aos estudantes dos cursos profissionalizantes o direito de participar dos exames para ingresso no ensino superior, confirmando o domínio das ciências, das humanidades e das letras."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Determinar a criação do SENAI e do SENAC para atender as demandas da divisão social do trabalho.",
+                      "explanation": "SENAI e SENAC foram criados no mesmo período, mas não como função dos exames."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Servir como critério de avaliação para o fim do exame vestibular, valendo apenas o rendimento do aluno no 2º grau.",
+                      "explanation": "Essa proposta foi da criação da Universidade de Brasília em 1961."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Avaliar a adequação do aluno ao paradigma taylorista-fordista, antes de sua inserção no mercado.",
+                      "explanation": "O paradigma taylorista-fordista é o contexto da época, não a função dos exames."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Reorganizar o conteúdo ministrado no Ensino Básico, desmembrando-o em elementar e superior.",
+                      "explanation": "Isso ocorreu em 1854."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q19",
+                  "statement": "O texto de Lucchiari (1993) no Texto III (mencionado no trecho II sobre Escolha Profissional) e a reflexão de Gadotti (2000) sobre a informatização da educação compartilham uma preocupação central sobre o papel do estudante. Qual é essa preocupação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A necessidade de o estudante absorver o máximo de novas informações para estar ciente do nosso papel na sociedade contemporânea.",
+                      "explanation": "A absorção de informações é necessária, mas não o foco da crítica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A manutenção da linguagem tradicional e de uma cultura dominante, apesar da evolução das novas tecnologias.",
+                      "explanation": "Essa é uma descrição da realidade educacional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A obrigatoriedade de desenvolver a memória, que impede o desenvolvimento do pensamento crítico e a capacidade de pensar do humano.",
+                      "explanation": "Gadotti (2000) pontua a necessidade de transformações para reservar ao humano a capacidade de pensar, sem apenas ter a obrigatoriedade de desenvolver a memória, devendo a escola desenvolver o pensamento crítico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desinteresse pela formação acadêmica no Ensino Superior devido à insegurança socioeconômica.",
+                      "explanation": "Esse é um problema do projeto de vida."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A dificuldade em correlacionar o conhecimento empírico com o científico.",
+                      "explanation": "O texto diz que o conhecimento empírico e científico conseguem correlacionar-se."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q20",
+                  "statement": "O processo de Escolha Profissional no Ensino Médio é considerado um \"fardo\" por alguns, gerando medo e ansiedade. Qual é a razão histórica, referente à estrutura social do Ensino Secundário, que intensifica a importância dessa escolha para a maioria dos jovens, de acordo com Melo e Duarte (2011)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A influência da família e as convicções políticas e religiosas do estudante.",
+                      "explanation": "Esses são fatores de influência, mas não a razão histórica estrutural."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O fato de que, ao longo da história, o ensino secundário só abarcava uma pequena parcela da população, impedindo a maioria de desfrutar da preparação para o Ensino Superior.",
+                      "explanation": "O ensino secundário só abarcava uma pequena parcela da população, e a maioria dos jovens não podia desfrutar da preparação para o ingresso no ensino superior."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A dificuldade em traçar planos de ação nas diversas esferas da vida, limitando o projeto de vida a aspectos profissionais.",
+                      "explanation": "O projeto de vida é multiesférico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A expansão quantitativa de matrículas após 1971, que dificultou a oferta de um ensino de qualidade.",
+                      "explanation": "A expansão ocorreu, mas a razão histórica é a exclusão prévia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de enfrentar novas responsabilidades e a pressão dos pais.",
+                      "explanation": "Pressão e responsabilidades são fatores psicológicos, não a razão histórica estrutural."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q21",
+                  "statement": "Qual é a principal diferença entre o panorama da educação no Período Joanino (1808-1820) e o cenário determinado pelo Marquês de Pombal (pós-1759)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Pombal substituiu a uniformidade pela diversidade e priorizou o Ensino Superior; o Período Joanino focou na criação de academias (Marinha) e cursos específicos (Cirurgia, Ciência Econômica).",
+                      "explanation": "Pombal substituiu a uniformidade pela diversidade e priorizou o Ensino Superior; o Período Joanino criou a Academia de Marinha e cursos de cirurgia e Ciência Econômica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Pombal priorizou as classes menos abastadas; o Período Joanino reforçou o privilégio das classes mais ricas.",
+                      "explanation": "Pombal priorizou o ensino superior, excluindo classes menos abastadas da educação elementar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Pombal instituiu o Método Lancaster; o Período Joanino focou na criação de escolas de ler, contar e escrever.",
+                      "explanation": "O Método Lancaster é de 1823, no Período Imperial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Período Joanino marcou o início da escola pública; Pombal reestruturou o ensino básico em elementar e superior.",
+                      "explanation": "A escola pública começou com Pombal; a reestruturação do Ensino Básico é de 1854."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Período Joanino foi marcado pelo sistema agrário-exportador; Pombal pelo sistema industrial.",
+                      "explanation": "O sistema agrário-exportador é do início do século XX."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q22",
+                  "statement": "Segundo Pacievitch, Motin e Mesquida (2007), a educação sob a perspectiva neoliberal está submetida a uma visão de mundo nitidamente economicista. Qual o papel da educação nessa perspectiva?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Desenvolver o pensamento crítico no alunado para que o humano possa pensar de forma autônoma.",
+                      "explanation": "Essa é a visão de Gadotti (2000)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Reproduzir as desigualdades sociais e a ideologia dominante como um aparelho ideológico do Estado.",
+                      "explanation": "Essa é a perspectiva de Nascimento (2009)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover a autonomia e o respeito às diferenças, rejeitando toda forma de discriminação.",
+                      "explanation": "Essa é a visão de Zatti (2007)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Desenvolver habilidades que permitam ao trabalhador exercer sua função, preparando mão de obra para alicerçar a economia e suprir os vácuos do mercado.",
+                      "explanation": "A educação passa a existir para suprir os vácuos do mercado, preparando mão de obra para alicerçar a economia e desenvolver habilidades para o trabalhador."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Garantir que o aluno finalize o ensino médio e possa ingressar no ensino superior com um salário digno.",
+                      "explanation": "Essa é a expectativa dos jovens, não o papel economicista da educação."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q23",
+                  "statement": "Conforme o texto, como a articulação das ideias históricas sobre a educação se relaciona com o processo de profissionalização no contexto do Ensino Médio?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A trajetória da educação mostra uma série de rupturas que não têm correlação com o processo de escolha do aluno atual.",
+                      "explanation": "O texto diz que é passível de articulação de ideias."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A falta de professores no Ensino Médio exige a implementação do Método Lancaster, como ocorreu no passado.",
+                      "explanation": "O texto não sugere a implementação desse método."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As mudanças na LDB de 1996 priorizaram o ensino profissionalizante em detrimento do ensino superior.",
+                      "explanation": "A LDB impulsionou a expansão das universidades particulares."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A educação no contexto do Ensino Médio está associada também ao processo de escolha e de profissionalização inerentes ao processo de formação do indivíduo.",
+                      "explanation": "Considerando os dados históricos elencados, é passível de articulação de ideias de que a educação no contexto do ensino médio está associada também ao processo de escolha e de profissionalização."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A educação no Ensino Médio deve focar exclusivamente em habilidades técnicas, devido às demandas do mercado.",
+                      "explanation": "O mercado demanda habilidades cognitivas e comportamentais, além das técnicas."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q24",
+                  "statement": "Como o Projeto de Vida é determinado em relação à temporalidade, segundo Leão et al. (2011)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É determinado unicamente pelas fantasias e desejos projetados para o futuro.",
+                      "explanation": "As fantasias e desejos são convertidos em perspectiva de realização."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É determinado pela consistência referente às situações presentes e, ao mesmo tempo, tem uma certa relação com o passado e o futuro.",
+                      "explanation": "O projeto de vida é determinado pela consistência referente às situações presentes, mas ao mesmo tempo tem uma certa relação com o passado e o futuro."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É determinado pela vontade e desejo imenso de conseguir finalizar o ensino médio.",
+                      "explanation": "Essa é uma expectativa de jovens, não a dinâmica temporal do conceito."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É determinado pela possibilidade de transformar o sonho em realidade, independentemente da realidade socioeconômica.",
+                      "explanation": "A realidade socioeconômica influencia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É determinado como algo que não muda, sendo um projeto traçado e imutável.",
+                      "explanation": "Almeida (2011) afirma que ele pode estar em constante alteração."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q25",
+                  "statement": "Qual o principal contraste na atuação da educação durante o período Joanino (1808-1820) em comparação com a atuação da educação na colônia sob o regime jesuíta?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O Período Joanino marcou o início da prioridade para a escola secundária; os jesuítas priorizavam a escola elementar.",
+                      "explanation": "Os jesuítas priorizavam a escola secundária."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Período Joanino focou na criação de escolas de educação de línguas, artes e ciências econômicas, marcando uma ruptura com a ênfase jesuíta na educação religiosa.",
+                      "explanation": "O período Joanino funda escolas de línguas, retóricas, aritmética, desenho e pintura, além de Academias e cursos técnicos, em contraste com a atuação jesuíta baseada na educação religiosa."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Os jesuítas ofereciam estudos equivalentes ao nível superior; o Período Joanino se concentrou exclusivamente na educação elementar.",
+                      "explanation": "O Período Joanino criou Academias e cursos de cirurgia e ciência econômica."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Os jesuítas tinham uma estrutura organizacional diversificada; o Período Joanino impôs a uniformidade pedagógica.",
+                      "explanation": "A uniformidade era dos jesuítas e foi substituída por Pombal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Período Joanino foi marcado por uma estrutura social de submissão; o período jesuíta era caracterizado pela autonomia.",
+                      "explanation": "O período Joanino é caracterizado por relações predominantemente de submissão."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q26",
+                  "statement": "Na discussão sobre a história da educação no Brasil, qual foi a política pública que, no governo Lula, visou ampliar o Fundo de Desenvolvimento e Manutenção do Ensino Fundamental e de Valorização do Magistério (Fundef) para abranger a Educação Infantil, o Ensino Fundamental e o Ensino Médio?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A criação do SENAI e do SENAC.",
+                      "explanation": "Estes são sistemas privados de educação profissional criados na década de 1940."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O Programa Universidade Para Todos (Prouni) e o FIES.",
+                      "explanation": "Estes visavam o Ensino Superior privado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A criação da Universidade de Brasília e o planejamento do fim do vestibular.",
+                      "explanation": "Isso ocorreu em 1961."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ampliação do Fundef, que se tornou o Fundeb (Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação).",
+                      "explanation": "O governo Lula propôs ampliar o Fundef, que abrange a Educação Infantil, o Ensino Fundamental e o Ensino Médio, investindo mais na educação básica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A Reforma Capanema de 1942.",
+                      "explanation": "Essa reforma é anterior, do período Getúlio Vargas."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q27",
+                  "statement": "A dinâmica do Projeto de Vida é descrita como algo que se altera de acordo com o tempo e o amadurecimento dos jovens. O que, especificamente, precisa ser levado em consideração nesse processo de alteração?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A urgência e necessidade de se definir para marcar o fim da infância.",
+                      "explanation": "Essa é uma tarefa da adolescência, não uma consideração para a alteração do projeto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A possibilidade de usar o clique do mouse no lugar do giz e a imagem projetada no lugar do quadro negro.",
+                      "explanation": "Isso se refere à atualização tecnológica na educação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As convicções políticas, religiosas e as crenças familiares, que são estáticas.",
+                      "explanation": "O projeto muda com o tempo e o amadurecimento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "As possibilidades do jovem, além de sua consistência referente às situações presentes.",
+                      "explanation": "O projeto de vida possui uma dinâmica própria, vindo a alterar-se de acordo com o tempo, amadurecimento e levando em consideração também as suas possibilidades."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A manutenção da ideia de que a escolha profissional é definitiva, como um estereótipo cultural.",
+                      "explanation": "O texto afirma que esse estereótipo existe, mas o projeto é alterável."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q28",
+                  "statement": "A educação é citada como principal motivação para o crescimento de uma sociedade autônoma e consciente. Nesse sentido, que sentido a educação traz e o que ela amplia na capacidade dos indivíduos, dependendo de como é concebida e aplicada?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Traz um sentido coeficiente de esperança, ampliando a capacidade de mudar a realidade.",
+                      "explanation": "A educação traz um sentido coeficiente de esperança, ampliando a capacidade de mudar a realidade, dependendo de como se aplica e da maneira que se concebe."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Traz a obrigatoriedade de desenvolver a memória, ampliando o domínio da linguagem tradicional.",
+                      "explanation": "A educação deve desenvolver o pensamento crítico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Traz o sucateamento das universidades, ampliando a formação de profissionais com pouco conhecimento.",
+                      "explanation": "Esse é um efeito da política neoliberal."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Traz o foco na industrialização subalterna, ampliando a demanda por mão de obra qualificada de nível médio.",
+                      "explanation": "Esse foi o efeito da Lei 5.692/71."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Traz o movimento renascentista, ampliando o declínio da educação nova.",
+                      "explanation": "O movimento renascentista levou ao declínio da educação tradicional."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q29",
+                  "statement": "O que diferencia o primeiro momento da reforma educacional pombalina (1759-1772) das iniciativas anteriores (jesuítas), baseando-se nas ações de D. Tomás de Almeida?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A prioridade absoluta para a escola secundária, grau de ensino bem organizado.",
+                      "explanation": "A prioridade para o ensino secundário era dos jesuítas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A introdução do Método Lancaster para resolver a falta de professores.",
+                      "explanation": "O Método Lancaster é de 1823."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A fundação de academias de marinha e a cadeira de Ciência Econômica.",
+                      "explanation": "Isso ocorreu no Período Joanino (1808)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A implantação de medidas governamentais como a nomeação de Comissários de Estudos, livros permitidos às Aulas Régias, e concursos/exames para Professores Régios.",
+                      "explanation": "A reforma Pombalina teve a implantação de medidas como a nomeação de Comissários de Estudos, os livros permitidos às Aulas Régias, e os concursos/exames para Professores Régios."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O início da Guerra ao Analfabetismo para estabilizar as instituições republicanas.",
+                      "explanation": "A Liga contra o Analfabetismo é de 1915."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_orientacao_profissional_v2_L2_Q30",
+                  "statement": "O que é o projeto de vida, em essência, e o que ele busca converter, de acordo com Shutz (1979) apud Leão et al. (2011)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É o amadurecimento dos jovens, que deve levar em consideração as suas possibilidades.",
+                      "explanation": "Isso é a dinâmica do projeto de vida."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É a ação do ser humano de escolher um possível futuro dentre tantos, convertendo as fantasias e desejos em uma possível perspectiva de realização.",
+                      "explanation": "Projeto de vida é a ação do ser humano de escolher um possível futuro dentre tantos, convertendo as fantasias e desejos em uma possível perspectiva de realização."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É a busca por um salário digno e a inserção no mercado de trabalho após o Ensino Superior.",
+                      "explanation": "Essa é uma expectativa associada ao projeto."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É a liberdade do homem para decidir as suas escolhas, seja em qual fase for.",
+                      "explanation": "Essa é a concepção de liberdade de Sartre."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É a delimitação do \"espaço de escolha\" por condicionantes externos e internos.",
+                      "explanation": "Essa é uma ideia mais ligada à Orientação Profissional e autonomia."
+                    }
+                  ],
+                  "answer": "B"
                 }
               ]
             }
