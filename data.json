@@ -19366,11 +19366,11 @@
           "title": "📱 Psicologia na Era Digital",
           "lists": [
             {
-              "id": "p4_PnED_L1",
+              "id": "p4_PnED_V1_L1",
               "title": "Lista 1",
               "questions": [
                 {
-                  "id": "p4_PnED_L1_Q1",
+                  "id": "p4_PnED_V1_L1_Q1",
                   "statement": "Qual a definição fundamental da psicologia digital?",
                   "options": [
                     {
@@ -19402,7 +19402,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q2",
+                  "id": "p4_PnED_V1_L1_Q2",
                   "statement": "Qual destes elementos é considerado uma das origens da psicologia digital?",
                   "options": [
                     {
@@ -19434,7 +19434,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PnED_L1_Q3",
+                  "id": "p4_PnED_V1_L1_Q3",
                   "statement": "Que tipo de intervenção a realidade virtual (RV) tem se mostrado eficaz no tratamento de transtornos como o Transtorno de Estresse Pós-Traumático (TEPT) e fobias específicas?",
                   "options": [
                     {
@@ -19466,7 +19466,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q4",
+                  "id": "p4_PnED_V1_L1_Q4",
                   "statement": "Qual é uma das principais preocupações éticas na psicologia digital, especialmente na gestão de dados de terapias online?",
                   "options": [
                     {
@@ -19498,7 +19498,7 @@
                   "answer": "A"
                 },
                 {
-                  "id": "p4_PnED_L1_Q5",
+                  "id": "p4_PnED_V1_L1_Q5",
                   "statement": "Qual era uma das características principais dos métodos de avaliação psicológica na era analógica?",
                   "options": [
                     {
@@ -19530,7 +19530,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q6",
+                  "id": "p4_PnED_V1_L1_Q6",
                   "statement": "Qual é um dos benefícios da telepsicologia, especialmente para pacientes em áreas remotas ou com dificuldades de locomoção?",
                   "options": [
                     {
@@ -19562,7 +19562,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q7",
+                  "id": "p4_PnED_V1_L1_Q7",
                   "statement": "Que papel a inteligência artificial (IA) desempenha na psicologia digital, especialmente em aplicativos de saúde mental?",
                   "options": [
                     {
@@ -19594,7 +19594,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q8",
+                  "id": "p4_PnED_V1_L1_Q8",
                   "statement": "O que a psicologia digital, ao estudar o impacto das redes sociais, tem observado sobre a relação entre o uso excessivo de redes sociais e a saúde mental?",
                   "options": [
                     {
@@ -19626,7 +19626,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q9",
+                  "id": "p4_PnED_V1_L1_Q9",
                   "statement": "Qual é a principal diferença entre os métodos de avaliação psicológica da era analógica e da era digital?",
                   "options": [
                     {
@@ -19658,7 +19658,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q10",
+                  "id": "p4_PnED_V1_L1_Q10",
                   "statement": "Qual é um dos principais desafios para o psicólogo na era digital?",
                   "options": [
                     {
@@ -19690,7 +19690,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q11",
+                  "id": "p4_PnED_V1_L1_Q11",
                   "statement": "Qual dos seguintes é um benefício do uso da realidade virtual (RV) em tratamentos psicológicos?",
                   "options": [
                     {
@@ -19722,7 +19722,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q12",
+                  "id": "p4_PnED_V1_L1_Q12",
                   "statement": "Como o uso da telepsicologia e das tecnologias digitais tem impactado a acessibilidade aos serviços de saúde mental?",
                   "options": [
                     {
@@ -19754,7 +19754,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PnED_L1_Q13",
+                  "id": "p4_PnED_V1_L1_Q13",
                   "statement": "O que a psicologia digital, ao analisar o fenômeno das redes sociais, identifica como um de seus principais riscos para a saúde mental?",
                   "options": [
                     {
@@ -19786,7 +19786,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q14",
+                  "id": "p4_PnED_V1_L1_Q14",
                   "statement": "Como o uso de tecnologias digitais na psicologia, como a telepsicologia, pode influenciar o futuro da profissão de psicólogo?",
                   "options": [
                     {
@@ -19818,7 +19818,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PnED_L1_Q15",
+                  "id": "p4_PnED_V1_L1_Q15",
                   "statement": "Qual dos seguintes é um exemplo de como a psicologia digital pode usar a inteligência artificial para auxiliar no tratamento de transtornos mentais?",
                   "options": [
                     {
@@ -19850,7 +19850,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q16",
+                  "id": "p4_PnED_V1_L1_Q16",
                   "statement": "A telepsicologia, por sua natureza, tem um alcance global. Qual é um dos principais desafios éticos relacionados a essa característica?",
                   "options": [
                     {
@@ -19882,7 +19882,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q17",
+                  "id": "p4_PnED_V1_L1_Q17",
                   "statement": "Como o advento das tecnologias digitais impactou a noção de 'consultório' na prática psicológica?",
                   "options": [
                     {
@@ -19914,7 +19914,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q18",
+                  "id": "p4_PnED_V1_L1_Q18",
                   "statement": "De acordo com o texto, o que o psicólogo digital deve fazer para atuar de forma ética e profissional?",
                   "options": [
                     {
@@ -19946,7 +19946,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q19",
+                  "id": "p4_PnED_V1_L1_Q19",
                   "statement": "De acordo com o material, qual é uma das principais críticas ao uso excessivo de redes sociais para a saúde mental?",
                   "options": [
                     {
@@ -19978,7 +19978,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_PnED_L1_Q20",
+                  "id": "p4_PnED_V1_L1_Q20",
                   "statement": "Qual dos seguintes é um exemplo de como a psicologia digital pode ser usada para promover a saúde mental em um contexto preventivo?",
                   "options": [
                     {
@@ -20010,7 +20010,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q21",
+                  "id": "p4_PnED_V1_L1_Q21",
                   "statement": "Como o conceito de \"big data\" e a análise de dados em larga escala influenciam a pesquisa em psicologia digital?",
                   "options": [
                     {
@@ -20042,7 +20042,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q22",
+                  "id": "p4_PnED_V1_L1_Q22",
                   "statement": "Qual é a principal implicação do uso de jogos digitais (gamificação) para a saúde mental?",
                   "options": [
                     {
@@ -20074,7 +20074,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q23",
+                  "id": "p4_PnED_V1_L1_Q23",
                   "statement": "O que a psicologia digital, ao estudar o uso de aplicativos de saúde mental, tem observado sobre a necessidade de um psicólogo na orientação do paciente?",
                   "options": [
                     {
@@ -20106,7 +20106,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q24",
+                  "id": "p4_PnED_V1_L1_Q24",
                   "statement": "Qual dos seguintes é um desafio para a regulamentação da psicologia digital?",
                   "options": [
                     {
@@ -20138,7 +20138,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q25",
+                  "id": "p4_PnED_V1_L1_Q25",
                   "statement": "Qual é a principal preocupação ética em relação à análise de dados em larga escala (big data) na psicologia digital?",
                   "options": [
                     {
@@ -20170,7 +20170,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q26",
+                  "id": "p4_PnED_V1_L1_Q26",
                   "statement": "Qual dos seguintes é um exemplo de como a inteligência artificial (IA) pode ser usada para auxiliar o profissional psicólogo?",
                   "options": [
                     {
@@ -20202,7 +20202,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q27",
+                  "id": "p4_PnED_V1_L1_Q27",
                   "statement": "O que é telepsicologia?",
                   "options": [
                     {
@@ -20234,7 +20234,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q28",
+                  "id": "p4_PnED_V1_L1_Q28",
                   "statement": "De acordo com o texto, por que o psicólogo digital deve se preocupar com as questões éticas e de privacidade?",
                   "options": [
                     {
@@ -20266,7 +20266,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_PnED_L1_Q29",
+                  "id": "p4_PnED_V1_L1_Q29",
                   "statement": "O que a psicologia digital tem a dizer sobre a relação entre o uso de redes sociais e o sentimento de isolamento?",
                   "options": [
                     {
@@ -20298,7 +20298,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_PnED_L1_Q30",
+                  "id": "p4_PnED_V1_L1_Q30",
                   "statement": "A Psicologia Digital é um campo em constante evolução. Qual é o principal fator que impulsiona essa evolução e ao mesmo tempo apresenta um desafio ético e profissional?",
                   "options": [
                     {
@@ -20328,6 +20328,1938 @@
                     }
                   ],
                   "answer": "B"
+                }
+              ]
+            },
+            {
+              "id": "p4_PnED_V2_L1",
+              "title": "(v2) — Lista 1",
+              "questions": [
+                {
+                  "id": "p4_PnED_V2_L1_Q1",
+                  "statement": "O paradoxo \"conexão versus isolamento\" na era digital é definido como o fenômeno pelo qual as ferramentas digitais:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Rompem as barreiras geográficas, mas não as temporais, impedindo a comunicação instantânea.",
+                      "explanation": "Incorreta. As tecnologias rompem barreiras geográficas e temporais, facilitando a comunicação instantânea."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Facilitam a conexão entre indivíduos, mas podem fomentar relações superficiais e levar ao isolamento social e emocional.",
+                      "explanation": "Correta. O paradoxo é exatamente este: a tecnologia facilita a conexão, mas pode levar a relações superficiais e ao isolamento social e emocional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Levam os usuários a valorizar as interações face a face em detrimento das virtuais, fortalecendo laços sociais.",
+                      "explanation": "Incorreta. A preferência por interações virtuais em detrimento das presenciais está associada a um aumento do isolamento físico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exigem a substituição da presença física por interações ricas em complexidades sensoriais e emocionais.",
+                      "explanation": "Incorreta. As interações mediadas por tela, embora práticas, são empobrecidas em comparação com a riqueza sensorial e emocional da presença física."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Concentram a sociabilidade em espaços geográficos limitados, ignorando a capacidade de interação global.",
+                      "explanation": "Incorreta. A tecnologia expande os limites geográficos da sociabilidade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q2",
+                  "statement": "Qual é a principal função da **identidade digital** ou **persona online** na era da interconectividade, conforme o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Servir como uma cópia exata e imutável da identidade social e física do indivíduo.",
+                      "explanation": "Incorreta. A identidade digital é uma construção, muitas vezes diferente ou idealizada da identidade física."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Permitir que o indivíduo negocie sua apresentação, construindo uma imagem idealizada e socialmente desejável.",
+                      "explanation": "Correta. A identidade digital permite que o indivíduo negocie sua apresentação, construindo uma imagem idealizada e socialmente desejável."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Limitar o acesso a informações e conteúdos, promovendo a desinformação por meio de *câmaras de eco*.",
+                      "explanation": "Incorreta. O uso da persona não é a causa direta da desinformação, embora possa contribuir."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Substituir integralmente a necessidade de interações face a face e o desenvolvimento de laços sociais.",
+                      "explanation": "Incorreta. A interação virtual não substitui a face a face."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Garantir a privacidade do usuário ao impedir a coleta de dados por algoritmos de vigilância.",
+                      "explanation": "Incorreta. A construção da persona frequentemente envolve a exposição de dados."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q3",
+                  "statement": "Qual dos seguintes elementos é considerado um fator de risco para a saúde mental dos adolescentes no ambiente digital?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A capacidade de se conectar com pessoas que compartilham interesses comuns, que serve como rede de apoio.",
+                      "explanation": "Incorreta. Essa é uma potencial vantagem da conectividade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A construção de uma identidade digital autêntica, alinhada à realidade física e social.",
+                      "explanation": "Incorreta. Essa autenticidade é um fator protetor, não de risco."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A exposição excessiva à autoimagem idealizada de terceiros, levando a comparações sociais negativas e baixa autoestima.",
+                      "explanation": "Correta. A exposição à autoimagem idealizada leva à comparação social negativa, sendo um risco para a baixa autoestima e sentimentos de inadequação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O acesso a programas de educação digital que promovem a segurança *online* e o pensamento crítico.",
+                      "explanation": "Incorreta. Estes são fatores protetores."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A mediação dos pais e educadores no uso da internet e redes sociais.",
+                      "explanation": "Incorreta. A mediação é um fator protetor."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q4",
+                  "statement": "A **câmara de eco** e o **filtro-bolha** são fenômenos digitais que têm um impacto direto no desenvolvimento do **pensamento crítico**. Qual é o efeito primário desses fenômenos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Expor o indivíduo a uma ampla diversidade de perspectivas e opiniões, estimulando o debate.",
+                      "explanation": "Incorreta. O efeito é o contrário, limitando a exposição à diversidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fortalecer as crenças e preconceitos preexistentes, isolando o indivíduo de *inputs* contrários e dificultando o engajamento cívico.",
+                      "explanation": "Correta. Eles fortalecem crenças e preconceitos preexistentes, isolando o indivíduo de *inputs* contrários, o que dificulta o debate e o engajamento cívico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Garantir que os usuários recebam apenas informações de alta qualidade e com viés neutro.",
+                      "explanation": "Incorreta. O conteúdo é filtrado por algoritmos que visam o engajamento, não a qualidade ou neutralidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Incentivar a participação em grupos e fóruns que promovem a saúde mental e o bem-estar.",
+                      "explanation": "Incorreta. Embora existam grupos positivos, o filtro-bolha tem um efeito negativo na diversidade de informações."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Facilitar a detecção de *fake news* e a disseminação de informações cientificamente comprovadas.",
+                      "explanation": "Incorreta. Esses fenômenos dificultam a detecção de *fake news* ao validar informações falsas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q5",
+                  "statement": "Qual é a relação entre **nomofobia** e o bem-estar do indivíduo, segundo o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É uma vantagem adaptativa que permite ao indivíduo responder rapidamente a emergências digitais, aumentando o bem-estar.",
+                      "explanation": "Incorreta. A nomofobia é uma fobia, um fator de estresse e dependência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É a diminuição do tempo de tela, resultando em maior atenção e produtividade.",
+                      "explanation": "Incorreta. É a fobia de ficar sem celular, o oposto de diminuir o tempo de tela."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É a fobia de ficar sem celular, causando ansiedade, estresse e uma dependência que prejudica a saúde mental.",
+                      "explanation": "Correta. A nomofobia (fobia de ficar sem celular) causa ansiedade e estresse, estabelecendo uma dependência tecnológica que prejudica a saúde mental."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É o uso consciente e moderado da tecnologia, promovendo o equilíbrio entre a vida *online* e *offline*.",
+                      "explanation": "Incorreta. Isso seria um comportamento saudável, não a nomofobia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É o medo irracional de interações virtuais, levando ao isolamento social.",
+                      "explanation": "Incorreta. O medo de interações sociais pode estar ligado à dependência do digital, mas a nomofobia é especificamente o medo de ficar sem o dispositivo móvel."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q6",
+                  "statement": "A **desumanização da comunicação** na era digital, mediada por telas, resulta primariamente em qual impacto nas interações?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumento da empatia e da compreensão, facilitado pelo uso de *emojis* e áudios.",
+                      "explanation": "Incorreta. A mediação por tela reduz a riqueza da comunicação não-verbal, dificultando a empatia."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O empobrecimento das interações sociais devido à redução da comunicação não-verbal (tom de voz, expressões faciais e corporais).",
+                      "explanation": "Correta. A desumanização ocorre pelo empobrecimento das interações sociais, devido à redução da comunicação não-verbal, prejudicando a interpretação completa das emoções e intenções."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A supervalorização da presença física, motivando mais encontros presenciais.",
+                      "explanation": "Incorreta. A tecnologia frequentemente substitui a presença física."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A criação de espaços digitais mais seguros para debates e expressão de opiniões divergentes.",
+                      "explanation": "Incorreta. O anonimato e a distância tendem a exacerbar a agressividade (*cyberbullying*)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A substituição total de terapeutas humanos por algoritmos de inteligência artificial.",
+                      "explanation": "Incorreta. A IA auxilia, mas não substitui integralmente o terapeuta humano."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q7",
+                  "statement": "O **anonimato** e a **distância** no ciberespaço são apontados como fatores que:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Favorecem a **prossociabilidade**, pois os indivíduos se sentem mais seguros para expressar ajuda.",
+                      "explanation": "Incorreta. Embora a prosociabilidade exista, a distância também facilita o comportamento antissocial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Reduzem a intensidade das emoções, levando a interações mais racionais e menos impulsivas.",
+                      "explanation": "Incorreta. O anonimato frequentemente leva à **desinibição tóxica** e à impulsividade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aumentam a **desinibição tóxica**, facilitando o *cyberbullying* e a expressão de agressividade.",
+                      "explanation": "Correta. O anonimato e a distância aumentam a desinibição tóxica, facilitando o *cyberbullying* e a expressão de agressividade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Garantem a autenticidade da comunicação, pois o indivíduo não precisa se preocupar com a imagem.",
+                      "explanation": "Incorreta. A autenticidade não é garantida; pode haver a construção de uma persona falsa."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Limitam a formação de *câmaras de eco*, promovendo a diversidade de opiniões.",
+                      "explanation": "Incorreta. O anonimato é um fator que, indiretamente, contribui para a polarização em *câmaras de eco*."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q8",
+                  "statement": "O **algoritmo de vigilância** no contexto digital exerce uma forma de controle sobre o comportamento do usuário. Qual é a principal função desse algoritmo em relação à saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Promover ativamente o bem-estar, recomendando conteúdo de *mindfulness* e terapias.",
+                      "explanation": "Incorreta. O foco principal não é a saúde mental, mas o engajamento e a coleta de dados."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir a privacidade total do usuário, impedindo a coleta de dados sem consentimento explícito.",
+                      "explanation": "Incorreta. O algoritmo coleta dados para fins comerciais e de engajamento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Controlar o comportamento do usuário por meio da coleta de dados, visando o lucro e o engajamento, com o risco de invadir a privacidade e gerar estresse.",
+                      "explanation": "Correta. O algoritmo de vigilância tem como principal função controlar o comportamento do usuário, com risco de invadir a privacidade e gerar estresse, dada a necessidade de *performance*."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Estimular a **desinibição benigna**, facilitando o desenvolvimento de novas relações e *hobbies*.",
+                      "explanation": "Incorreta. O foco é o controle e a coleta de dados."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Substituir o terapeuta humano, fornecendo diagnósticos e tratamentos automatizados.",
+                      "explanation": "Incorreta. O algoritmo de vigilância não é uma ferramenta terapêutica."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q9",
+                  "statement": "Qual é a principal implicação do aumento da **velocidade e instantaneidade** da comunicação digital para a saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumento do tempo disponível para reflexão e tomada de decisões conscientes.",
+                      "explanation": "Incorreta. A instantaneidade reduz o tempo para reflexão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Geração de uma pressão constante por *performance* e disponibilidade imediata, resultando em estresse e ansiedade.",
+                      "explanation": "Correta. A velocidade e instantaneidade geram uma pressão constante por *performance* e disponibilidade imediata, resultando em estresse e ansiedade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estímulo à **desinibição benigna**, favorecendo a formação de laços sociais genuínos.",
+                      "explanation": "Incorreta. A pressão por instantaneidade não está diretamente ligada à desinibição benigna."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Redução do sentimento de isolamento social e do *fear of missing out* (FOMO).",
+                      "explanation": "Incorreta. A disponibilidade constante, paradoxalmente, alimenta o FOMO."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Fortalecimento do pensamento crítico, com acesso rápido a *inputs* contrários.",
+                      "explanation": "Incorreta. A velocidade dificulta a análise crítica das informações."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q10",
+                  "statement": "No contexto da **Telessaúde** e da **Telepsicologia**, o principal desafio ético e técnico, além da privacidade dos dados, é:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que a consulta *online* seja sempre gratuita e acessível a todos.",
+                      "explanation": "Incorreta. A gratuidade não é uma exigência ética, mas uma questão de política pública."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Assegurar a riqueza da comunicação não-verbal, substituindo a presença física.",
+                      "explanation": "Incorreta. A telepsicologia busca compensar a falta da comunicação não-verbal, mas não a substitui."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Assegurar que o psicólogo tenha **domínio da tecnologia** utilizada para a segurança dos dados e a qualidade do atendimento.",
+                      "explanation": "Correta. O psicólogo deve ter domínio da tecnologia para garantir a segurança dos dados, a confidencialidade e a qualidade do atendimento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Promover a **desinibição tóxica** para que o paciente se sinta mais à vontade.",
+                      "explanation": "Incorreta. A desinibição tóxica é um risco, não um objetivo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Limitar o atendimento apenas a pacientes que já foram atendidos presencialmente.",
+                      "explanation": "Incorreta. Embora a familiaridade ajude, o atendimento pode ser iniciado *online*."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q11",
+                  "statement": "A **desinibição benigna** e a **desinibição tóxica** são fenômenos distintos que surgem no ciberespaço. Qual é a característica definidora da desinibição benigna?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A expressão de agressividade e a prática de *cyberbullying* sob anonimato.",
+                      "explanation": "Incorreta. Isso caracteriza a **desinibição tóxica**."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A capacidade de criar uma *persona online* idealizada e falsa.",
+                      "explanation": "Incorreta. Isso é a construção da identidade digital, que pode ser usada em ambos os tipos de desinibição."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A abertura emocional e a partilha de questões pessoais, facilitando a formação de laços e redes de apoio.",
+                      "explanation": "Correta. A **desinibição benigna** envolve a abertura emocional e a partilha de questões pessoais, facilitando a formação de laços e redes de apoio."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A dependência do celular (*nomofobia*) e o medo de ficar *offline* (FOMO).",
+                      "explanation": "Incorreta. Estes são fenômenos de dependência, não de desinibição."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O isolamento social e a superficialidade das relações virtuais.",
+                      "explanation": "Incorreta. Isso é parte do paradoxo conexão-isolamento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q12",
+                  "statement": "Qual é a principal razão pela qual as interações mediadas por tela são consideradas **empobrecidas** em comparação com as interações face a face?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O alto custo das tecnologias de comunicação para a maioria dos usuários.",
+                      "explanation": "Incorreta. Embora o custo exista, o empobrecimento é devido à falta de comunicação não-verbal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A ausência ou redução da complexidade de sinais sensoriais e emocionais (tom de voz, expressão corporal).",
+                      "explanation": "Correta. As interações são empobrecidas devido à ausência ou redução da complexidade de sinais sensoriais e emocionais, impactando a qualidade da interação social e a empatia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A facilidade de estabelecer laços sociais autênticos e duradouros.",
+                      "explanation": "Incorreta. A superficialidade é um risco, não uma facilidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A constante vigilância dos algoritmos, que impede a livre expressão.",
+                      "explanation": "Incorreta. A vigilância é um risco, mas o empobrecimento é estrutural da mediação por tela."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco na **desinibição benigna**, que limita a profundidade da comunicação.",
+                      "explanation": "Incorreta. A desinibição benigna busca aprofundar, mas o meio (a tela) limita a expressividade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q13",
+                  "statement": "Qual é o principal desafio para a **educação digital** e a **saúde mental** dos jovens no que tange à **privacidade e aos dados pessoais**?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A dificuldade em criar uma *persona online* que seja idealizada e socialmente desejável.",
+                      "explanation": "Incorreta. O desafio está na exposição e coleta de dados, não na idealização."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O medo de que o *cyberbullying* seja rastreado pelas autoridades, o que impede a livre expressão.",
+                      "explanation": "Incorreta. O rastreamento de crimes é positivo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A **exposição** e a **coleta constante de dados** por algoritmos, que invadem a privacidade e podem ser usados para manipulação ou vigilância.",
+                      "explanation": "Correta. A exposição e a coleta constante de dados por algoritmos invadem a privacidade, com risco de manipulação, vigilância e consequente estresse."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A restrição do acesso à internet a plataformas de conteúdo educacional e informativo.",
+                      "explanation": "Incorreta. O acesso restrito a conteúdo de qualidade não é o problema principal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A facilidade de distinguir *fake news* e informações falsas de fontes confiáveis.",
+                      "explanation": "Incorreta. A distinção de *fake news* é difícil, mas o desafio principal aqui é a privacidade."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q14",
+                  "statement": "No contexto da **Telessaúde**, por que a escolha da tecnologia a ser utilizada é crucial para o psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Porque o psicólogo deve usar a tecnologia mais popular entre seus pacientes, independentemente da segurança.",
+                      "explanation": "Incorreta. A segurança e a ética são primordiais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Porque a tecnologia deve ser a mais barata possível para não aumentar o custo da consulta.",
+                      "explanation": "Incorreta. O custo não deve se sobrepor à segurança."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Para garantir o **domínio técnico** sobre a plataforma e assegurar a **segurança** e **confidencialidade** dos dados dos pacientes.",
+                      "explanation": "Correta. A escolha deve visar o domínio da tecnologia para garantir a segurança dos dados, confidencialidade e qualidade do atendimento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Para promover o **isolamento social** e a reflexão, limitando a comunicação instantânea.",
+                      "explanation": "Incorreta. O objetivo da telessaúde é facilitar a comunicação, não o isolamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Para aplicar algoritmos de vigilância que ajudem no diagnóstico e tratamento.",
+                      "explanation": "Incorreta. O uso de algoritmos de vigilância pode ser antiético na prática clínica."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q15",
+                  "statement": "A **dependência tecnológica** é caracterizada por qual condição principal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O uso planejado e moderado da tecnologia como ferramenta de trabalho.",
+                      "explanation": "Incorreta. O uso moderado é saudável, não dependência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O medo de ficar *offline* (FOMO) e a ansiedade relacionada à indisponibilidade da internet.",
+                      "explanation": "Correta. O medo de ficar *offline* (FOMO) e a ansiedade relacionada à indisponibilidade, levando a um uso excessivo e prejudicial, caracterizam a dependência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A capacidade de distinguir *fake news* e a promoção do pensamento crítico.",
+                      "explanation": "Incorreta. Essas são habilidades protetoras."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A desinibição benigna e a abertura emocional nas interações virtuais.",
+                      "explanation": "Incorreta. Estes são fenômenos de interação, não de dependência."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco na **desumanização da comunicação** em detrimento da **prossociabilidade**.",
+                      "explanation": "Incorreta. A dependência é um comportamento viciante, não um estilo de comunicação."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q16",
+                  "statement": "Qual é a principal responsabilidade do psicólogo na era digital para **gerenciar as expectativas** dos pacientes em relação ao atendimento *online*?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Assegurar ao paciente que a interação *online* é idêntica à presencial em termos de complexidade sensorial.",
+                      "explanation": "Incorreta. Isso é irreal, pois a interação *online* é empobrecida em sinais não-verbais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Comunicar de forma clara as **limitações** e **intenções** do processo, mitigando o risco de desconfiança caso a autenticidade *online* não se traduza perfeitamente no real.",
+                      "explanation": "Correta. A comunicação clara de intenções e das limitações do processo mitiga o risco de desconfiança e gerencia expectativas, especialmente no que tange à autenticidade *online* versus real."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover o uso do anonimato para que o paciente se sinta mais à vontade para a **desinibição tóxica**.",
+                      "explanation": "Incorreta. O anonimato é complexo e a desinibição tóxica deve ser evitada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Garantir a privacidade total do paciente, impedindo qualquer coleta de dados por *softwares*.",
+                      "explanation": "Incorreta. A segurança deve ser maximizada, mas o controle total de *softwares* de terceiros é irreal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Limitar o atendimento apenas a casos leves para não comprometer a eficácia do tratamento.",
+                      "explanation": "Incorreta. A telessaúde não é restrita a casos leves, mas exige cautela e domínio ético-técnico."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q17",
+                  "statement": "A **desumanização da comunicação** digital, ao reduzir os sinais não-verbais, pode gerar uma **falha na interpretação das emoções e intenções**. Qual é o impacto desse fenômeno na **empatia**?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumento da empatia, pois o foco se desloca para o conteúdo verbal explícito.",
+                      "explanation": "Incorreta. A empatia depende fortemente da leitura de sinais não-verbais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Redução da empatia e do senso de responsabilidade, facilitando comportamentos agressivos como o *cyberbullying*.",
+                      "explanation": "Correta. O empobrecimento da comunicação reduz a empatia e o senso de responsabilidade, facilitando comportamentos agressivos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Estímulo à **prossociabilidade**, pois a distância torna mais fácil expressar sentimentos positivos.",
+                      "explanation": "Incorreta. A prosociabilidade pode existir, mas a falha na interpretação emocional prejudica a empatia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aumento da **desinibição benigna**, com a abertura de temas mais profundos.",
+                      "explanation": "Incorreta. A desinibição benigna é uma abertura emocional, mas não é um efeito direto da falha na interpretação das emoções."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Substituição da empatia humana por algoritmos de inteligência artificial.",
+                      "explanation": "Incorreta. A IA não substitui a empatia humana."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q18",
+                  "statement": "A **ideia de *performance*** e o **medo de ficar *offline* (FOMO)** estão interligados em qual aspecto negativo para a saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O estímulo ao uso moderado e consciente da tecnologia.",
+                      "explanation": "Incorreta. A ideia de *performance* e o FOMO incentivam o uso excessivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A dependência tecnológica, marcada pela necessidade de **disponibilidade constante** e a busca incessante por validação social.",
+                      "explanation": "Correta. A interligação leva à dependência, marcada pela disponibilidade constante e pela busca incessante por validação social, gerando estresse e ansiedade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A redução da exposição a *fake news* por meio da criação de *filtros-bolha*.",
+                      "explanation": "Incorreta. O filtro-bolha dificulta a detecção de *fake news*."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desenvolvimento do **pensamento crítico** em resposta à pressão por *performance*.",
+                      "explanation": "Incorreta. O estresse gerado por essa pressão dificulta a reflexão crítica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A valorização das interações face a face em detrimento das virtuais.",
+                      "explanation": "Incorreta. A dependência digital tende a priorizar o *online*."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q19",
+                  "statement": "Qual é a principal consequência da **supressão da complexidade** nas interações mediadas pela tela para o **vínculo terapêutico** em Telepsicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O vínculo se torna mais forte e rápido, dada a **desinibição benigna** facilitada pela tela.",
+                      "explanation": "Incorreta. A desinibição benigna pode ajudar, mas a supressão da complexidade é um obstáculo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O psicólogo deve redobrar a atenção aos sinais verbais e paraverbais, para compensar a falta da leitura corporal e manter a qualidade do vínculo.",
+                      "explanation": "Correta. A supressão da complexidade exige que o psicólogo redobre a atenção aos sinais verbais e paraverbais, compensando a ausência da leitura corporal para manter a qualidade do vínculo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A necessidade de limitar o atendimento a pacientes que só apresentem questões superficiais e leves.",
+                      "explanation": "Incorreta. Não há restrição a casos graves, mas o profissional deve ser cauteloso e dominar a técnica."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O aumento da **desinibição tóxica**, que prejudica a relação de confiança.",
+                      "explanation": "Incorreta. A desinibição tóxica é um risco da mediação, mas não a principal consequência da supressão da complexidade no vínculo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A substituição total do terapeuta humano por um algoritmo que interpreta padrões de fala.",
+                      "explanation": "Incorreta. O atendimento humano e a qualidade do vínculo são centrais."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q20",
+                  "statement": "O **anonimato** no ciberespaço é um fator que pode levar à **desinibição tóxica** (expressão de agressividade). Como a Psicologia e a Educação Digital devem intervir para mitigar esse risco?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Promovendo a **vigilância algorítmica** constante e a punição severa de todos os usuários.",
+                      "explanation": "Incorreta. A vigilância constante é invasiva, e o foco deve ser na prevenção e educação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Educando para a **responsabilidade digital**, reforçando que o anonimato *online* não elimina as consequências no **mundo real**.",
+                      "explanation": "Correta. A educação deve focar na responsabilidade digital, reforçando que o anonimato *online* não elimina as consequências e penalidades no mundo real e legal."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Incentivando o uso de *personas* idealizadas para que a agressividade seja expressa de forma mais controlada.",
+                      "explanation": "Incorreta. *Personas* falsas podem aumentar o risco de desinibição tóxica."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Limitando o acesso de jovens a plataformas sociais para evitar completamente a exposição ao *cyberbullying*.",
+                      "explanation": "Incorreta. A restrição total não prepara os jovens para o mundo digital."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focando apenas na **desinibição benigna**, ignorando os riscos da agressividade.",
+                      "explanation": "Incorreta. Os riscos não podem ser ignorados."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q21",
+                  "statement": "O que **não** é uma função da **ética e regulamentação** na Telepsicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Assegurar a confidencialidade e a segurança dos dados dos pacientes, com base na LGPD (Lei Geral de Proteção de Dados).",
+                      "explanation": "Incorreta. É uma função essencial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir o **domínio técnico** do psicólogo sobre a ferramenta utilizada, para a qualidade do atendimento.",
+                      "explanation": "Incorreta. É uma função essencial."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Definir os **limites de atuação** do profissional e as responsabilidades em caso de emergências.",
+                      "explanation": "Incorreta. É uma função essencial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Promover o **anonimato** total do paciente para facilitar a **desinibição tóxica** e a expressão de agressividade.",
+                      "explanation": "Correta. A ética busca proteger o paciente, e a desinibição tóxica é um risco a ser mitigado, não promovido."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Gerenciar as expectativas do paciente em relação às limitações da interação mediada por tela.",
+                      "explanation": "Incorreta. É uma função essencial."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q22",
+                  "statement": "A **construção da identidade digital** envolve a **negociação da apresentação** do indivíduo. A partir de uma perspectiva psicológica crítica, qual é o risco dessa negociação para a saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O fortalecimento da identidade real, pois o *online* serve como um laboratório de autoaceitação.",
+                      "explanation": "Incorreta. O risco é a dissociação ou a comparação negativa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A **dissociação** entre a *persona online* (idealizada) e a identidade real, gerando sentimentos de falsidade, inadequação e baixa autoestima.",
+                      "explanation": "Correta. O risco é a dissociação entre a persona idealizada e a identidade real, gerando falsidade, inadequação e baixa autoestima, exacerbados pela comparação social negativa."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A limitação do acesso à **diversidade de informações** devido aos *filtros-bolha*.",
+                      "explanation": "Incorreta. O filtro-bolha está ligado à informação, não diretamente à negociação da identidade."
+                    },
+                    {
+                      "id:": "D",
+                      "text": "A redução da **nomofobia**, pois o foco se desloca da tela para a *performance* na vida real.",
+                      "explanation": "Incorreta. A performance *online* e o FOMO estão interligados, o que aumenta a nomofobia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento do **pensamento crítico** em resposta à pressão social por *performance*.",
+                      "explanation": "Incorreta. A pressão social dificulta a reflexão crítica."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q23",
+                  "statement": "Qual a principal diferença entre a **câmara de eco** e o **filtro-bolha**, em termos de causa e efeito?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O **filtro-bolha** é causado por algoritmos que selecionam o conteúdo; a **câmara de eco** é causada pela escolha ativa do usuário de interagir apenas com opiniões semelhantes.",
+                      "explanation": "Correta. O filtro-bolha é o resultado algorítmico da seleção de conteúdo; a câmara de eco é a escolha ativa do usuário de se isolar em grupos com opiniões semelhantes, embora ambos reforcem polarizações."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A **câmara de eco** leva ao isolamento social; o **filtro-bolha** leva à **desinibição tóxica**.",
+                      "explanation": "Incorreta. Ambos levam ao isolamento de *inputs* contrários; a desinibição tóxica é ligada ao anonimato."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O **filtro-bolha** promove a diversidade de opiniões; a **câmara de eco** limita o acesso à informação.",
+                      "explanation": "Incorreta. Ambos limitam a diversidade e o acesso à informação divergente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ambos são fenômenos de *cyberbullying* que afetam a saúde mental.",
+                      "explanation": "Incorreta. São fenômenos de polarização e desinformação, não diretamente *cyberbullying*."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A **câmara de eco** é ligada à **nomofobia**; o **filtro-bolha** à **dependência tecnológica**.",
+                      "explanation": "Incorreta. Estão ligados à polarização e ao pensamento crítico."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q24",
+                  "statement": "A **internet** e as **redes sociais** são frequentemente utilizadas por jovens na busca por informações sobre saúde mental. Qual é o risco principal desse comportamento para o bem-estar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O acesso a *insights* de **desinibição benigna**, que levam à formação de redes de apoio seguras.",
+                      "explanation": "Incorreta. Embora isso exista, o risco principal é a desinformação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A **desinformação**, a automedicação e o autodiagnóstico incorreto, que podem atrasar a procura por ajuda profissional adequada.",
+                      "explanation": "Correta. O risco é a desinformação, a automedicação e o autodiagnóstico incorreto, atrasando a procura por ajuda profissional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de **domínio técnico** da tecnologia por parte dos jovens, que impede o acesso à informação de qualidade.",
+                      "explanation": "Incorreta. O jovem geralmente tem domínio técnico, mas a informação disponível pode ser de má qualidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desenvolvimento de **nomofobia** e o medo de ficar *offline*.",
+                      "explanation": "Incorreta. Nomofobia é um risco do uso excessivo, não do acesso à informação de saúde."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A vigilância algorítmica, que impede o acesso a fóruns de discussão sobre saúde mental.",
+                      "explanation": "Incorreta. A vigilância existe, mas o foco é na desinformação e autodiagnóstico."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q25",
+                  "statement": "Na perspectiva da **ética digital**, a **privacidade** é frequentemente colocada em risco pelo **algoritmo de vigilância**. Qual é a melhor estratégia para o psicólogo mitigar esse risco no contexto da Telepsicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Utilizar a plataforma mais popular, mesmo que ela não ofereça criptografia de ponta a ponta.",
+                      "explanation": "Incorreta. A segurança deve ser priorizada sobre a popularidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir o **consentimento informado** do paciente sobre a coleta de dados e utilizar **tecnologias seguras** com criptografia e protocolos de confidencialidade.",
+                      "explanation": "Correta. A estratégia é utilizar tecnologias seguras (criptografia, protocolos de confidencialidade) e obter o consentimento informado do paciente sobre o manuseio de dados, cumprindo a LGPD."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover a **desinibição tóxica** para que o paciente se abra a respeito dos seus dados pessoais.",
+                      "explanation": "Incorreta. A desinibição tóxica é antiética."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Restringir o atendimento a pacientes que não utilizam redes sociais para evitar a vigilância.",
+                      "explanation": "Incorreta. O atendimento não deve ser restrito com base no uso de redes sociais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Recomendar que o paciente crie uma *persona online* totalmente falsa para se proteger.",
+                      "explanation": "Incorreta. Isso pode levar à dissociação e falsidade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q26",
+                  "statement": "A **dependência tecnológica** é um problema complexo que exige intervenções multissetoriais. Qual é a estratégia de intervenção mais eficaz para combater essa dependência na **esfera educacional**?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Proibir o uso de *smartphones* em todas as escolas, sem oferecer alternativas de educação digital.",
+                      "explanation": "Incorreta. A proibição não educa para o uso consciente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Promover a **educação digital** e o **pensamento crítico**, ensinando o uso **moderado e consciente** da tecnologia e as habilidades de **autorregulação**.",
+                      "explanation": "Correta. A estratégia mais eficaz é a educação digital, ensinando o uso moderado e consciente, o desenvolvimento do pensamento crítico e habilidades de autorregulação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Focar apenas na **identidade digital**, incentivando a criação de *personas* idealizadas.",
+                      "explanation": "Incorreta. O foco na idealização aumenta o risco de dissociação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Incentivar a **desinibição tóxica** para que os alunos expressem suas frustrações *online*.",
+                      "explanation": "Incorreta. A desinibição tóxica é um risco a ser evitado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Substituir integralmente os professores por algoritmos de inteligência artificial.",
+                      "explanation": "Incorreta. O professor humano é essencial."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q27",
+                  "statement": "Qual é a principal implicação do **paradoxo conexão versus isolamento** para a **intervenção psicológica** com jovens?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo deve restringir o uso de tecnologia na terapia para forçar a interação face a face.",
+                      "explanation": "Incorreta. A tecnologia pode ser usada como ferramenta."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A intervenção deve focar no desenvolvimento de **habilidades sociais** para **interações *offline***, enquanto utiliza o ambiente *online* para explorar a **partilha emocional** (desinibição benigna).",
+                      "explanation": "Correta. A intervenção deve equilibrar o desenvolvimento de habilidades sociais para interações *offline* e o uso do *online* como espaço para a partilha emocional (desinibição benigna)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O profissional deve incentivar a criação de *filtros-bolha* para proteger o jovem de *fake news*.",
+                      "explanation": "Incorreta. O *filtro-bolha* prejudica o pensamento crítico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A terapia deve se concentrar em aumentar a **nomofobia** para garantir a disponibilidade do paciente.",
+                      "explanation": "Incorreta. A nomofobia é um transtorno a ser tratado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O psicólogo deve assumir a responsabilidade pela **segurança digital** do paciente, controlando seus dados.",
+                      "explanation": "Incorreta. A segurança é compartilhada, e o controle total é antiético."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q28",
+                  "statement": "O ***cyberbullying*** e a **desinibição tóxica** representam uma ameaça significativa à segurança *online*. Para a Psicologia Escolar e a Educação Digital, qual é a abordagem mais adequada para a prevenção?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Focar unicamente em punições legais para os agressores, sem intervenções educativas.",
+                      "explanation": "Incorreta. A intervenção deve ser educativa e preventiva."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Implementar **programas de literacia digital** que promovam a **empatia**, a **responsabilidade online** e o respeito à **diversidade**.",
+                      "explanation": "Correta. A abordagem mais adequada é a prevenção por meio de programas de literacia digital, que promovam a empatia, a responsabilidade *online* e o respeito à diversidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aumentar a **vigilância algorítmica** para rastrear todas as conversas privadas dos alunos.",
+                      "explanation": "Incorreta. A vigilância extrema viola a privacidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Incentivar a criação de *personas* anônimas para que os alunos possam expressar a agressividade de forma segura.",
+                      "explanation": "Incorreta. Isso incentiva a desinibição tóxica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Concentrar a intervenção apenas nos pais, ignorando a responsabilidade da escola e dos alunos.",
+                      "explanation": "Incorreta. A intervenção deve ser multissetorial."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q29",
+                  "statement": "Ao lidar com a **desconfiança** do paciente em Telepsicologia, especialmente devido ao risco de a **autenticidade *online*** não se traduzir no real, a principal ação do psicólogo deve ser:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir o anonimato total e a ausência de registro para evitar qualquer traço de desconfiança.",
+                      "explanation": "Incorreta. O registro é ético e legalmente obrigatório."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Comunicar claramente as intenções e limitações do processo, estabelecendo um **contrato terapêutico** que aborde a natureza da interação mediada por tela.",
+                      "explanation": "Correta. A comunicação clara de intenções e limitações, e o estabelecimento de um contrato que aborde a natureza da interação *online*, ajudam a gerenciar expectativas, mitigando riscos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover a **desinibição tóxica** para que o paciente confronte o psicólogo sobre suas inseguranças.",
+                      "explanation": "Incorreta. A desinibição tóxica é um risco, não uma estratégia de manejo da desconfiança."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ignorar a desconfiança, caso a autenticidade *on-line* não se traduza perfeitamente no real.",
+                      "explanation": "Incorreta. A desconfiança deve ser abordada e trabalhada."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Garantir que o atendimento seja mais caro do que o presencial para valorizar a tecnologia.",
+                      "explanation": "Incorreta. O valor da consulta é uma questão comercial, não de manejo da desconfiança."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V2_L1_Q30",
+                  "statement": "A colaboração interinstitucional (setor tecnológico, legisladores e organizações de defesa dos direitos) é fundamental na construção de espaços digitais seguros porque permite:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desenvolvimento de leis estaduais que substituem regulamentações internacionais como o GDPR.",
+                      "explanation": "Incorreta. A sinergia é necessária para desenvolver legislação que acompanhe a rápida evolução tecnológica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A criação de *câmeras de eco* para proteger os usuários de conteúdo externo.",
+                      "explanation": "Incorreta. Câmeras de eco reforçam preconceitos e desinformação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A implementação de políticas contra *cyberbullying* que não precisam se alinhar aos princípios de liberdade de expressão.",
+                      "explanation": "Incorreta. A colaboração deve equilibrar segurança *online* e direitos digitais, incluindo a liberdade de expressão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A elaboração de políticas eficazes contra o *cyberbullying* que equilibram os esforços **legais**, **tecnológicos** e **educacionais**.",
+                      "explanation": "Correta. A colaboração interinstitucional é essencial para uma abordagem multidimensional que combine esforços legais, tecnológicos e educacionais na mitigação do *cyberbullying*."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A restrição do acesso à internet a programas de educação digital para jovens e adolescentes.",
+                      "explanation": "Incorreta. Os programas educacionais são uma *ferramenta*, mas não a razão da colaboração institucional."
+                    }
+                  ],
+                  "answer": "D"
+                }
+              ]
+            },
+            {
+              "id": "p4_PnED_V3_L1",
+              "title": "(v3) — Lista 1",
+              "questions": [
+                {
+                  "id": "p4_PnED_V3_L1_Q1",
+                  "statement": "De acordo com a Resolução CFP nº 11/2018 do Conselho Federal de Psicologia, a telepsicologia é definida como um método de prestação de serviços psicológicos por meio de Tecnologias da Informação e Comunicação (TICs) que:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substitui integralmente a necessidade de atendimentos presenciais, eliminando as barreiras geográficas e éticas.",
+                      "explanation": "A telepsicologia deve observar os mesmos princípios éticos e técnicos da atuação presencial, apenas adequando-se às peculiaridades do meio digital."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Transcende as barreiras geográficas, devendo observar os mesmos princípios éticos e técnicos da atuação presencial.",
+                      "explanation": "A telepsicologia transcende barreiras geográficas, mas mantendo os mesmos princípios éticos e técnicos do atendimento presencial, conforme a Resolução CFP nº 11/2018."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Exige uma nova formação acadêmica, distinta da formação presencial, devido à complexidade das ferramentas digitais.",
+                      "explanation": "A prática da telepsicologia exige formação e capacitação contínua, mas não sugere uma nova formação acadêmica para a sua atuação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Permite a dispensa de políticas de privacidade, pois a responsabilidade pela segurança dos dados cabe integralmente ao paciente.",
+                      "explanation": "A implementação de políticas de privacidade robustas, como encriptação de dados, é fundamental para o profissional em telepsicologia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Está restrita a atendimentos de orientação e aconselhamento, sendo proibida para a psicoterapia.",
+                      "explanation": "A Resolução CFP nº 11/2018 estabelece diretrizes para a realização de serviços psicológicos mediados por computadores, incluindo a psicoterapia."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q2",
+                  "statement": "Qual dos seguintes critérios é fundamental para a escolha de uma plataforma de videochamada na prática da telepsicologia, garantindo a integridade das sessões?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Priorização de plataformas gratuitas e com interface simplificada, independentemente da segurança.",
+                      "explanation": "A escolha deve ser guiada por critérios rigorosos que assegurem a conformidade com normas de privacidade e segurança de dados."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A capacidade de integração com redes sociais para facilitar o agendamento.",
+                      "explanation": "A plataforma deve priorizar a conformidade com leis de proteção de dados, como a LGPD, e não a integração com redes sociais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A conformidade com normas de privacidade e segurança de dados, como GDPR e LGPD.",
+                      "explanation": "A escolha da plataforma deve ser guiada por critérios que assegurem a conformidade com normas de privacidade e segurança de dados, como o GDPR e a LGPD."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ausência de recursos de criptografia, facilitando a acessibilidade a todos os dispositivos.",
+                      "explanation": "A criptografia de ponta a ponta é fundamental para a segurança e confidencialidade das sessões."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A facilidade de uso para o terapeuta, mesmo que a qualidade da conexão seja baixa para o paciente.",
+                      "explanation": "A qualidade da conexão e a facilidade de uso são fatores decisivos que impactam a experiência de comunicação para ambos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q3",
+                  "statement": "Um dos benefícios mais notáveis da digitalização dos prontuários para a prática da telepsicologia é a melhoria em qual aspecto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Redução da necessidade de formação e capacitação contínua para os profissionais.",
+                      "explanation": "A formação e capacitação contínua são indispensáveis na era digital."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Eliminação da necessidade de obter o consentimento informado do paciente.",
+                      "explanation": "O consentimento informado é um pilar ético essencial, independentemente do formato do prontuário."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aumento dos custos operacionais, devido à necessidade de *softwares* específicos.",
+                      "explanation": "A digitalização melhora a eficiência e a qualidade, não necessariamente aumentando os custos operacionais de forma desvantajosa."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Melhoria na organização, acessibilidade e segurança dos dados dos pacientes.",
+                      "explanation": "A digitalização dos prontuários melhora a organização e acessibilidade dos dados dos pacientes, além de reforçar a segurança dessas informações e a conformidade com regulamentações."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Concentração de informações apenas em formato de texto, excluindo mídias ou dados de aplicativos.",
+                      "explanation": "A digitalização facilita a integração de dados de múltiplas fontes."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q4",
+                  "statement": "Na gamificação, qual elemento é utilizado para quantificar o progresso ou desempenho do usuário em um contexto terapêutico, como a aderência a tratamentos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Pontos.",
+                      "explanation": "Os pontos representam a quantificação do progresso ou desempenho do usuário e podem ser usados para acompanhar a aderência do paciente a tratamentos ou atividades."
+                    },
+                    {
+                      "id": "B",
+                      "text": "*Feedback* negativo imediato.",
+                      "explanation": "O *feedback* imediato é usado para reforçar comportamentos positivos e corrigir negativos de maneira construtiva."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Tabelas de Classificação (Líderes), aplicadas sem restrições no contexto clínico.",
+                      "explanation": "O uso de Tabelas de Classificação deve ser cauteloso no contexto clínico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Narrativas complexas, que desvinculam o paciente dos objetivos do tratamento.",
+                      "explanation": "Narrativas envolvem emocionalmente os pacientes, facilitando a identificação com os objetivos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Medalhas, que são o único elemento capaz de medir a motivação intrínseca.",
+                      "explanation": "Medalhas e conquistas servem como reconhecimento, mas a motivação intrínseca está ligada a objetivos claros e *feedback*."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q5",
+                  "statement": "Qual é o conceito que descreve a Realidade Virtual (RV) no contexto da psicoterapia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Tecnologia que enriquece a percepção do mundo real ao sobrepor informações digitais no ambiente natural do usuário.",
+                      "explanation": "Esta é a definição de Realidade Aumentada (RA)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Sistema que permite apenas a visualização de cenários, sem interação.",
+                      "explanation": "A RV permite aos usuários explorar e manipular ambientes virtuais como se estivessem fisicamente presentes."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Experiência que requer apenas um *smartphone* ou *tablet* para visualização.",
+                      "explanation": "A RV geralmente utiliza dispositivos como óculos e luvas sensoriais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Método que cria uma sobreposição de elementos terapêuticos no ambiente cotidiano do paciente.",
+                      "explanation": "Esta é a aplicação da Realidade Aumentada."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ambiente digital completamente imersivo que substitui o mundo real, permitindo a exposição controlada a situações que provocam ansiedade.",
+                      "explanation": "A RV cria um ambiente digital completamente imersivo, o que é útil para a exposição controlada a situações que provocam ansiedade."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q6",
+                  "statement": "No tratamento de fobias específicas (como medo de altura ou voar), a Realidade Virtual (RV) oferece qual potencial terapêutico?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Simulação de ambientes incontroláveis para forçar o enfrentamento imediato do medo.",
+                      "explanation": "A RV simula ambientes relacionados ao medo de **maneira controlada** e segura."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Redução do engajamento do paciente, tornando o processo menos emocionalmente envolvente.",
+                      "explanation": "A RV e RA aumentam a interatividade e o engajamento do paciente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Substituição total da orientação de um terapeuta por algoritmos de exposição.",
+                      "explanation": "A exposição é feita **sob a orientação de um terapeuta**."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exposição segura e gradual a estímulos que provocam ansiedade em um ambiente controlado.",
+                      "explanation": "A RV oferece um meio de exposição segura e gradual a estímulos ansiosos, como alturas, em um ambiente controlado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Prática de habilidades sociais complexas, aplicável apenas a Transtorno do Espectro Autista (TEA).",
+                      "explanation": "A RV é usada em uma ampla gama de condições, incluindo fobias, ansiedade e TEPT."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q7",
+                  "statement": "A digitalização da avaliação psicológica por meio de questionários *on-line* e avaliações psicométricas digitais proporciona qual vantagem?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Restrição do acesso geográfico às avaliações, garantindo maior controle do terapeuta.",
+                      "explanation": "A acessibilidade digital reduz barreiras geográficas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Conveniência, permitindo que os pacientes completem avaliações em qualquer lugar e a qualquer momento, aumentando a taxa de resposta.",
+                      "explanation": "Essas ferramentas digitais simplificam o processo e aumentam a taxa de resposta."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Eliminação da necessidade de validação psicométrica dos instrumentos, dada a natureza digital.",
+                      "explanation": "A validação psicométrica é crucial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Foco exclusivo em dados qualitativos, ignorando a necessidade de dados quantitativos.",
+                      "explanation": "As avaliações digitais integram dados quantitativos e qualitativos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Atraso na obtenção de resultados devido ao processo de encriptação de dados.",
+                      "explanation": "A digitalização agiliza a obtenção e análise de resultados."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q8",
+                  "statement": "Qual é a principal função dos *chatbots* de Inteligência Artificial (IA) no suporte à saúde mental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substituir integralmente o terapeuta humano, oferecendo psicoterapia completa.",
+                      "explanation": "Os *chatbots* oferecem suporte e intervenções de baixo nível, não substituindo o terapeuta."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Fornecer intervenções imediatas de baixo nível, como técnicas de relaxamento e monitoramento de humor, de forma acessível.",
+                      "explanation": "Eles fornecem intervenções de baixo nível e monitoramento, complementando, mas não substituindo, a terapia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Garantir a confidencialidade absoluta das informações, sem a necessidade de políticas de privacidade.",
+                      "explanation": "A confidencialidade é uma preocupação ética fundamental."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Forçar o engajamento do paciente, exigindo respostas em tempo real para todas as perguntas.",
+                      "explanation": "O engajamento deve ser incentivado, não forçado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ignorar dados históricos do paciente, focando apenas na resposta imediata.",
+                      "explanation": "O uso de IA deve ser personalizado."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q9",
+                  "statement": "A Inteligência Artificial (IA) tem um papel na análise de dados, como texto e biometria, na telepsicologia. Qual é o principal benefício dessa análise?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Redução da necessidade de *feedback* por parte do terapeuta para o paciente.",
+                      "explanation": "O *feedback* humano é crucial."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Concentração na análise de dados brutos, ignorando o contexto emocional e psicológico.",
+                      "explanation": "A IA deve integrar dados em contexto."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Identificação de padrões em grandes volumes de dados (fala, texto, biometria) para identificar sinais de mudança no estado emocional ou psicológico.",
+                      "explanation": "Ferramentas baseadas em IA podem analisar padrões para identificar sinais de mudança no estado emocional e proporcionar *insights* valiosos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Eliminar a necessidade de coleta de dados biométricos.",
+                      "explanation": "A IA processa dados de múltiplas fontes, incluindo biométricos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Atrasar as intervenções, exigindo validação manual de todos os dados processados.",
+                      "explanation": "A IA permite intervenções mais oportunas."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q10",
+                  "statement": "Qual é a importância do monitoramento e avaliação (M&A) contínuos das tecnologias digitais na prática psicológica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que apenas tecnologias já estabelecidas e antigas sejam utilizadas.",
+                      "explanation": "O M&A é crucial para adaptar-se às novas tecnologias."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Focar apenas nos resultados financeiros do consultório.",
+                      "explanation": "O foco é na qualidade e segurança da intervenção."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Assegurar a eficácia das intervenções, a segurança e a conformidade ética e legal das ferramentas utilizadas.",
+                      "explanation": "O M&A contínuo é fundamental para garantir a eficácia, segurança, conformidade ética e legal das ferramentas digitais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Dispensar a necessidade de consentimento informado, pois as tecnologias são avaliadas.",
+                      "explanation": "O consentimento é indispensável."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Concentrar a responsabilidade do sucesso da intervenção apenas no paciente.",
+                      "explanation": "A responsabilidade é compartilhada."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q11",
+                  "statement": "Um dos principais desafios éticos e legais na gestão de dados na telepsicologia é garantir a confidencialidade e a segurança das informações. Qual é uma barreira técnica comum que dificulta essa gestão?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O excesso de regulamentações, como a Resolução CFP nº 11/2018.",
+                      "explanation": "As regulamentações fornecem diretrizes de segurança."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A falta de transparência com o paciente sobre o uso e armazenamento dos dados.",
+                      "explanation": "A falta de transparência é um desafio ético, não uma barreira técnica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Falhas de conexão, interrupções inesperadas ou falta de familiaridade com as ferramentas digitais.",
+                      "explanation": "Barreiras técnicas como conexões instáveis e falta de familiaridade dificultam as sessões, impactando a relação terapêutica e a continuidade do tratamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ausência de regulamentações éticas específicas para o meio digital.",
+                      "explanation": "Existem resoluções e regulamentos que delineiam a prática da telepsicologia, como a Resolução CFP nº 11/2018."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O custo do *software* de prontuário eletrônico.",
+                      "explanation": "Embora relevante, o custo não é o principal desafio para a confidencialidade."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q12",
+                  "statement": "Um dos principais objetivos da gamificação em contextos terapêuticos é o de:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir a competição saudável entre os pacientes, publicando rankings de desempenho.",
+                      "explanation": "O uso de Tabelas de Classificação deve ser cauteloso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Substituir a relação terapêutica pela interação com elementos lúdicos.",
+                      "explanation": "A gamificação complementa, não substitui, a relação terapêutica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aumentar a motivação intrínseca e o engajamento dos pacientes com os objetivos do tratamento.",
+                      "explanation": "A gamificação busca aumentar a motivação e engajamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Eliminar a necessidade de *feedback* do terapeuta, pois o jogo fornece recompensas imediatas.",
+                      "explanation": "O *feedback* humano é indispensável."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Transformar todos os tratamentos psicológicos em jogos de estratégia complexos.",
+                      "explanation": "A gamificação aplica elementos de jogos, não o transforma integralmente."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q13",
+                  "statement": "A Realidade Aumentada (RA) na terapia tem um potencial notável para:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Criar um ambiente totalmente novo, isolado do mundo real do paciente.",
+                      "explanation": "Isso é a RV."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Substituir integralmente a terapia de exposição em ambientes reais.",
+                      "explanation": "A RA é complementar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Sobrepor elementos terapêuticos (como informações de *coping* ou *avatars* de apoio) no ambiente cotidiano do paciente.",
+                      "explanation": "A RA enriquece a percepção do mundo real ao sobrepor informações digitais no ambiente natural do usuário."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Reduzir a necessidade de supervisão profissional durante a exposição.",
+                      "explanation": "A supervisão é sempre necessária."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Promover a exclusão de dados biométricos na coleta de informações.",
+                      "explanation": "A RA pode integrar dados biométricos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q14",
+                  "statement": "As barreiras técnicas (como conexão instável e falta de proficiência tecnológica) representam um desafio significativo na telepsicologia porque podem levar a:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumento da equidade no acesso aos serviços, já que a tecnologia é universalmente acessível.",
+                      "explanation": "A falta de acesso e proficiência exacerba a desigualdade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Um menor investimento em treinamento, pois a proficiência tecnológica é um pré-requisito para o sucesso, e a falta dela é um impedimento.",
+                      "explanation": "O treinamento é vital."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Dificuldade na realização das sessões, afetando a relação terapêutica e a continuidade do tratamento.",
+                      "explanation": "Barreiras técnicas como conexões instáveis e falta de familiaridade dificultam as sessões, impactando a relação terapêutica e a continuidade do tratamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Facilitação de estratégias de *coping* digitais avançadas.",
+                      "explanation": "A falta de acesso impede o uso eficaz de estratégias digitais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Maior controle dos pacientes sobre suas informações.",
+                      "explanation": "O controle de dados é uma questão de ética e segurança."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q15",
+                  "statement": "O uso de aplicativos de monitoramento de humor e comportamento contribui para a autogestão da saúde mental dos pacientes ao oferecer qual funcionalidade principal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substituição das sessões de terapia por um chat com um *chatbot* de IA.",
+                      "explanation": "A IA complementa, mas a autogestão é focada no registro e acompanhamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Restrição do acesso a dados apenas para o terapeuta.",
+                      "explanation": "O paciente também usa o aplicativo para autogestão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Facilitação da identificação de gatilhos, padrões e progressos através do registro e acompanhamento contínuo dos dados.",
+                      "explanation": "O paciente usa o aplicativo para autogestão, facilitando a identificação de gatilhos, padrões e progressos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Eliminação da necessidade de relatar o humor durante as sessões presenciais.",
+                      "explanation": "O registro digital complementa o relato."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Foco exclusivo no diagnóstico clínico, desconsiderando a intervenção.",
+                      "explanation": "O foco é na autogestão e monitoramento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q16",
+                  "statement": "No contexto de cibersegurança e proteção de dados (LGPD, GDPR), qual é a medida mais crucial que o psicólogo deve adotar para proteger as informações confidenciais do paciente?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Contar exclusivamente com o antivírus padrão do sistema operacional, pois é suficiente.",
+                      "explanation": "Medidas robustas de segurança vão além de um antivírus simples."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Treinamento periódico de toda a equipe na aquisição de equipamentos de ponta.",
+                      "explanation": "O treinamento contínuo de pessoal em práticas de privacidade é essencial."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A implementação de criptografia de ponta a ponta e a escolha de plataformas que demonstrem conformidade com as leis de proteção de dados.",
+                      "explanation": "A escolha criteriosa de fornecedores que cumpram com as leis de proteção de dados e a transparência são cruciais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A coleta de dados deve ser restrita a informações não sensíveis, excluindo emoções ou traumas.",
+                      "explanation": "O foco é na proteção dos dados, não na restrição de coleta."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Compartilhamento anônimo dos dados com outros profissionais para fins de pesquisa.",
+                      "explanation": "O compartilhamento deve ser feito com consentimento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q17",
+                  "statement": "Qual é o aspecto central do consentimento informado na telepsicologia, além da autorização para o tratamento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Permitir que o terapeuta altere unilateralmente as políticas de privacidade, desde que o tratamento prossiga.",
+                      "explanation": "Qualquer alteração deve ser comunicada e acordada."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir que o paciente não terá controle sobre suas informações.",
+                      "explanation": "O paciente deve ter controle sobre o que é compartilhado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Assegurar que os dados coletados sejam utilizados para fins de pesquisa acadêmica, sem fins terapêuticos.",
+                      "explanation": "O paciente deve estar ciente do *propósito* da coleta, que é o tratamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Assegurar que os pacientes estejam plenamente cientes de como suas informações serão usadas, armazenadas e protegidas, em linguagem acessível.",
+                      "explanation": "O consentimento informado exige transparência sobre o propósito da coleta, os métodos utilizados e a proteção dos dados, em linguagem acessível."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A dispensa da responsabilidade do terapeuta em caso de violação de dados por terceiros.",
+                      "explanation": "O terapeuta tem responsabilidade legal."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q18",
+                  "statement": "A prática da telepsicologia, por transcender barreiras geográficas, impõe qual responsabilidade adicional ao profissional em relação às leis e regulamentos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Priorizar o regulamento do Conselho Federal de Psicologia (CFP) e ignorar as leis do país onde o paciente reside.",
+                      "explanation": "O psicólogo deve considerar as leis do país onde o paciente reside."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Considerar apenas as leis de proteção de dados (LGPD/GDPR) e ignorar os códigos de ética profissionais.",
+                      "explanation": "As leis e os códigos de ética devem ser considerados."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Respeitar os regulamentos do país do profissional, ignorando as leis de outras jurisdições.",
+                      "explanation": "A telepsicologia transcende barreiras geográficas, exigindo a consideração de requisitos adicionais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Analisar e cumprir os requisitos éticos e legais adicionais do país ou jurisdição onde o paciente está localizado.",
+                      "explanation": "O profissional deve analisar e cumprir os requisitos éticos e legais adicionais do país onde o paciente reside."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar apenas na análise de dados biométricos para diagnóstico.",
+                      "explanation": "O foco na gestão de riscos é a preparação e a conformidade."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q19",
+                  "statement": "Qual das seguintes práticas éticas é *inadequada* ao usar a gamificação em um tratamento com foco em ansiedade social?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Personalizar as regras e desafios para que se alinhem aos objetivos terapêuticos individuais.",
+                      "explanation": "A personalização é recomendada."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Usar recompensas externas (medalhas, pontos) como o único fator de motivação do paciente.",
+                      "explanation": "É inadequado focar apenas em recompensas externas, pois o objetivo é promover a motivação intrínseca e o engajamento autêntico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Garantir que o paciente compreenda como os elementos do jogo se relacionam com seus objetivos de vida e tratamento.",
+                      "explanation": "A clareza dos objetivos é essencial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Obter o consentimento informado específico para o uso da gamificação e o compartilhamento de dados.",
+                      "explanation": "O consentimento é indispensável."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aplicar Tabelas de Classificação (Líderes) de forma anônima e opcional, sem expor o desempenho do paciente.",
+                      "explanation": "O uso cauteloso é a melhor prática."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q20",
+                  "statement": "A diferença crucial entre Realidade Virtual (RV) e Realidade Aumentada (RA) na psicoterapia reside em:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A RV foca apenas no TEPT, e a RA foca apenas em fobias.",
+                      "explanation": "Ambas são usadas em uma ampla gama de condições, incluindo fobias, ansiedade e TEPT."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ambas exigem o mesmo tipo de *hardware* e investimento.",
+                      "explanation": "A RV exige *hardware* mais imersivo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A RV oferece controle total sobre o ambiente para simulações imersivas, enquanto a RA permite a integração de elementos terapêuticos no mundo real.",
+                      "explanation": "A RV oferece controle total para simulações detalhadas e imersivas (exposição controlada), enquanto a RA integra elementos terapêuticos no ambiente real do usuário."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A RA é utilizada exclusivamente na avaliação psicométrica.",
+                      "explanation": "A RA é usada na intervenção e exposição."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A RV é mais barata e mais acessível a todos os pacientes.",
+                      "explanation": "A RV costuma ser mais cara devido ao *hardware* necessário."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q21",
+                  "statement": "A digitalização do diagnóstico, utilizando ferramentas de IA para analisar padrões de linguagem ou comportamento, levanta qual preocupação ética primária?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A ausência de dados para treinamento dos algoritmos de IA.",
+                      "explanation": "O desafio é a qualidade e o viés dos dados, não a ausência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A possibilidade de que os algoritmos perpetuem e amplifiquem vieses implícitos contidos nos dados de treinamento, levando a diagnósticos discriminatórios.",
+                      "explanation": "O viés do algoritmo é uma preocupação ética primária."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A eliminação completa da necessidade de intervenção humana no diagnóstico.",
+                      "explanation": "O diagnóstico final é do profissional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O aumento da transparência do processo diagnóstico para o paciente.",
+                      "explanation": "A IA pode tornar o processo opaco."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A restrição do acesso geográfico às ferramentas de diagnóstico.",
+                      "explanation": "A digitalização aumenta o acesso."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q22",
+                  "statement": "Qual dos seguintes cenários *melhor* representa um risco de violação de confidencialidade ao usar um aplicativo de monitoramento de humor?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O paciente compartilha voluntariamente seus dados com um grupo de apoio *online*.",
+                      "explanation": "Isso é uma escolha do paciente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O aplicativo armazena dados em um servidor que não utiliza criptografia de ponta a ponta e é invadido por terceiros.",
+                      "explanation": "A falta de criptografia e a invasão representam uma falha de segurança e violação de confidencialidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O terapeuta usa os dados do aplicativo para discutir o progresso na sessão.",
+                      "explanation": "Este é o uso terapêutico esperado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O paciente esquece a senha do aplicativo e precisa redefini-la.",
+                      "explanation": "Este é um risco de acessibilidade, não de violação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O aplicativo envia notificações sobre o humor do paciente, que ele pode desativar.",
+                      "explanation": "Isso é uma funcionalidade do aplicativo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q23",
+                  "statement": "A necessidade de proficiência tecnológica (alfabetização digital) para o psicólogo, além do manejo técnico das ferramentas, é crucial para qual aspecto da prática?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Reduzir a carga de trabalho do terapeuta, permitindo que a tecnologia faça a maior parte da intervenção.",
+                      "explanation": "A tecnologia complementa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Aumentar a eficácia e a segurança da comunicação e da intervenção, garantindo que o profissional compreenda os riscos e benefícios da tecnologia.",
+                      "explanation": "A proficiência tecnológica permite ao psicólogo tomar decisões informadas sobre a segurança, privacidade e eficácia das ferramentas utilizadas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Excluir a responsabilidade do profissional em caso de falhas técnicas.",
+                      "explanation": "A responsabilidade permanece."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Impedir o paciente de usar ferramentas digitais por conta própria.",
+                      "explanation": "O uso independente deve ser incentivado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar exclusivamente no domínio de *softwares* proprietários e caros.",
+                      "explanation": "O foco é na competência, não no custo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q24",
+                  "statement": "Qual é a principal função da transparência no uso de tecnologias digitais (como IA e RV) na relação terapêutica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Evitar que o paciente questionar as decisões clínicas do terapeuta.",
+                      "explanation": "O questionamento é saudável."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir que o paciente não tenha acesso a nenhuma informação sobre o funcionamento interno dos algoritmos.",
+                      "explanation": "A transparência deve dar acesso a informações relevantes."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Permitir que o paciente tome decisões informadas, compreendendo como a tecnologia impacta a coleta e o uso de seus dados.",
+                      "explanation": "A transparência permite ao paciente tomar decisões informadas, fundamental para o consentimento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aumentar a dependência do paciente em relação à tecnologia.",
+                      "explanation": "O objetivo é a autonomia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Minimizar o papel do terapeuta na explicação das tecnologias.",
+                      "explanation": "O terapeuta deve explicar o uso."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q25",
+                  "statement": "Em relação à documentação digital, a manutenção de registros detalhados e a realização de backups seguros e regulares são práticas essenciais para mitigar qual risco?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O risco de que os pacientes acessem seus próprios prontuários.",
+                      "explanation": "O acesso do paciente é um direito, não um risco a ser mitigado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O risco de perda ou corrupção de dados devido a falhas de *hardware*, ataques cibernéticos ou desastres naturais.",
+                      "explanation": "Backups seguros e regulares mitigam a perda e corrupção de dados."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O risco de que a documentação seja excessivamente simplificada.",
+                      "explanation": "O risco é a perda."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O risco de que o paciente prefira prontuários em papel.",
+                      "explanation": "O formato do prontuário é uma escolha."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O risco de que a lei não se aplique à documentação digital.",
+                      "explanation": "A lei se aplica a todos os formatos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q26",
+                  "statement": "Qual tecnologia, aplicada em terapias imersivas, permite a simulação de ambientes controlados para o tratamento de fobias e TEPT (Transtorno de Estresse Pós-Traumático)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Inteligência Artificial para análise de voz.",
+                      "explanation": "IA é para análise de dados e padrões."
+                    },
+                    {
+                      "id": "B",
+                      "text": "*Chatbots* terapêuticos.",
+                      "explanation": "*Chatbots* são para intervenções de baixo nível."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Realidade Aumentada (RA).",
+                      "explanation": "A RA sobrepõe elementos no mundo real."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Realidade Virtual (RV).",
+                      "explanation": "A Realidade Virtual (RV) tem sido empregada em terapias imersivas, permitindo a simulação de ambientes controlados para o tratamento de fobias, ansiedade e TEPT."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Inteligência Artificial para análise de texto.",
+                      "explanation": "IA é para análise de dados e padrões, não para a simulação de ambientes."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q27",
+                  "statement": "A interoperabilidade entre diferentes ferramentas e sistemas é crucial para a efetiva integração de novas tecnologias na telepsicologia porque:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Facilita o isolamento de dados do paciente em plataformas separadas para maior segurança.",
+                      "explanation": "A interoperabilidade busca a comunicação entre sistemas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Permite a comunicação e o fluxo contínuo de dados entre plataformas (por exemplo, prontuário eletrônico e aplicativos de monitoramento).",
+                      "explanation": "A interoperabilidade garante que diferentes sistemas, como prontuários eletrônicos e aplicativos, possam se comunicar e compartilhar dados de forma segura e eficiente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Substitui a necessidade de APIs (Interfaces de Programação de Aplicativos) para interoperabilidade.",
+                      "explanation": "Interoperabilidade é crucial para a integração de tecnologias, não primariamente para a gestão de riscos éticos e legais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Reduz a responsabilidade do terapeuta pela segurança dos dados.",
+                      "explanation": "A responsabilidade permanece."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Exige que todos os *softwares* sejam da mesma marca.",
+                      "explanation": "Interoperabilidade é a capacidade de comunicação entre sistemas distintos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q28",
+                  "statement": "O gerenciamento de riscos éticos e legais na prática clínica digital é fundamental para:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substituir a necessidade de consentimento informado do paciente.",
+                      "explanation": "O consentimento informado é fundamental, e a transparência o sustenta."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Permitir que o terapeuta ignore as atualizações de *software* para manter a estabilidade da plataforma.",
+                      "explanation": "As atualizações geralmente corrigem vulnerabilidades de segurança."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Garantir que os sistemas de informação estejam em conformidade com as regulamentações de privacidade e que os protocolos de emergência estejam estabelecidos.",
+                      "explanation": "O gerenciamento de riscos visa a conformidade e a preparação para emergências."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Eliminar a necessidade de protocolos de segurança, dada a natureza digital do serviço.",
+                      "explanation": "Protocolos de segurança são essenciais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar exclusivamente na análise de dados biométricos.",
+                      "explanation": "O foco é na gestão de riscos e na conformidade."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q29",
+                  "statement": "A transparência e o monitoramento e avaliação (M&A) na prática clínica digital são fundamentais para:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Permitir que o terapeuta altere as regras éticas de acordo com a situação.",
+                      "explanation": "O terapeuta deve seguir as regras éticas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Concentrar a responsabilidade pela segurança dos dados apenas no fornecedor do *software*.",
+                      "explanation": "A responsabilidade é compartilhada."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Manter a confiança do paciente, permitindo que ele se sinta seguro e compreenda as práticas de proteção de dados adequadas.",
+                      "explanation": "A transparência e o M&A contínuos são cruciais para manter a confiança, permitir que os pacientes relatem preocupações e garantir que as práticas de proteção sejam eficazes e percebidas como tal."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Impedir a aplicação de tecnologias como RV e RA devido à complexidade da gestão de dados.",
+                      "explanation": "As medidas éticas e de transparência permitem o uso seguro dessas tecnologias."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Garantir que o paciente não questione as tecnologias utilizadas.",
+                      "explanation": "O questionamento é válido."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_V3_L1_Q30",
+                  "statement": "A pandemia de COVID-19 impactou a telepsicologia ao:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Restringir permanentemente o uso de ferramentas de vídeo e áudio, priorizando apenas o atendimento telefônico.",
+                      "explanation": "A pandemia acelerou a adoção da telepsicologia e levou à atualização das normas para facilitar o acesso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Desacelerar a adoção da modalidade, devido às complexas leis de proteção de dados.",
+                      "explanation": "A pandemia acelerou a adoção da telepsicologia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Diminuir a importância da legislação e das diretrizes éticas em favor da acessibilidade rápida.",
+                      "explanation": "A telepsicologia, mesmo em situações emergenciais, deve observar os mesmos princípios éticos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Acelerar sua adoção, levando à rápida atualização das normas reguladoras para facilitar o acesso aos serviços psicológicos.",
+                      "explanation": "A pandemia acelerou a adoção da telepsicologia e motivou a rápida atualização das normas para facilitar o acesso aos serviços psicológicos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Eliminar os desafios técnicos e de acesso para pacientes e profissionais.",
+                      "explanation": "As barreiras técnicas e de acesso permanecem como desafios."
+                    }
+                  ],
+                  "answer": "D"
                 }
               ]
             }
