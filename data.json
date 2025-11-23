@@ -19367,7 +19367,7 @@
           "lists": [
             {
               "id": "p4_PnED_V1_L1",
-              "title": "Lista 1",
+              "title": "(v1) — Lista 1",
               "questions": [
                 {
                   "id": "p4_PnED_V1_L1_Q1",
@@ -22257,6 +22257,1292 @@
                       "id": "E",
                       "text": "Eliminar os desafios técnicos e de acesso para pacientes e profissionais.",
                       "explanation": "As barreiras técnicas e de acesso permanecem como desafios."
+                    }
+                  ],
+                  "answer": "D"
+                }
+              ]
+            },
+            {
+              "id": "p4_PnED_compilado1_L1",
+              "title": "(Compilado: v1, v2 e v3) — Lista 1",
+              "questions": [
+                {
+                  "id": "p4_PnED_compilado1_L1_Q1",
+                  "statement": "A transição da prática psicológica da era analógica para a era digital impôs um desafio ético crítico relacionado à segurança e confidencialidade dos dados. Qual é a medida fundamental que a prática da psicologia digital exige, em conformidade com regulamentações globais como a LGPD e o GDPR, para proteger a informação sensível do paciente?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A substituição completa dos métodos tradicionais de avaliação por algoritmos de Inteligência Artificial (IA) para evitar a intervenção humana na coleta de dados.",
+                      "explanation": "Incorreta. A IA complementa a prática, mas a supervisão humana é essencial, e os algoritmos também lidam com dados sensíveis."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A adoção rigorosa de criptografia de ponta a ponta e a autenticação de dois fatores no armazenamento e transmissão, garantindo que os dados permaneçam inacessíveis a terceiros não autorizados.",
+                      "explanation": "Correta. A criptografia e a autenticação de dois fatores são medidas técnicas essenciais para proteger dados sensíveis contra acessos não autorizados e violações, conforme exigido pelas leis de proteção de dados."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A dependência exclusiva de plataformas de redes sociais, devido à sua ampla acessibilidade, para a comunicação de informações clínicas.",
+                      "explanation": "Incorreta. Plataformas de redes sociais geralmente não oferecem o nível de segurança e privacidade exigido para informações clínicas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A eliminação de qualquer registro de sessão, trocando a documentação por um acordo verbal com o paciente sobre a confidencialidade.",
+                      "explanation": "Incorreta. A documentação adequada é uma exigência ética e legal da profissão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O uso de computadores pessoais desatualizados, pois a complexidade de sistemas modernos aumenta a probabilidade de ataques cibernéticos.",
+                      "explanation": "Incorreta. Equipamentos e softwares desatualizados são vulnerabilidades de segurança."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q2",
+                  "statement": "A Psicologia Digital, ao integrar tecnologias como Realidade Virtual (RV) e Aplicativos de Saúde Mental (Apps de SM), exige que o profissional não apenas domine a técnica, mas também uma competência ética crucial. Qual é o papel da 'alfabetização digital' ('digital literacy') para o psicólogo neste novo cenário?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Limitar-se ao conhecimento de *softwares* de escritório para a gestão de agendamentos e finanças.",
+                      "explanation": "Incorreta. A alfabetização digital no contexto da psicologia é muito mais ampla."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ser capaz de codificar e desenvolver novos algoritmos de IA para substituir o diagnóstico clínico tradicional.",
+                      "explanation": "Incorreta. Não é esperado que o psicólogo seja um programador ou desenvolvedor de IA."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Garantir a escolha informada e ética das ferramentas, a avaliação crítica da evidência por trás delas, e a comunicação clara dos riscos e benefícios ao paciente.",
+                      "explanation": "Correta. A alfabetização digital permite ao profissional avaliar criticamente a validade das ferramentas, selecionar aquelas baseadas em evidências e gerenciar o consentimento informado e os riscos éticos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Priorizar a velocidade de resposta nas sessões *online* em detrimento da profundidade da intervenção.",
+                      "explanation": "Incorreta. A profundidade da intervenção não pode ser sacrificada pela velocidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Adoção de qualquer nova tecnologia, independentemente de sua validação científica ou do custo-benefício para o paciente.",
+                      "explanation": "Incorreta. A adoção deve ser cautelosa, baseada em evidências e com atenção aos custos e benefícios."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q3",
+                  "statement": "O uso de *Big Data* e algoritmos de Inteligência Artificial (*AI*) na Psicologia Digital levanta preocupações sobre a **tendenciosidade algorítmica** (*algorithmic bias*). Como essa tendência pode se manifestar na saúde mental e qual o impacto ético?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Manifesta-se apenas em *softwares* gratuitos, sendo eliminada em ferramentas pagas.",
+                      "explanation": "Incorreta. A tendenciosidade depende dos dados de treinamento, não do modelo de negócio do software."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ocorre quando os algoritmos, treinados com dados não representativos de populações minoritárias, resultam em diagnósticos e recomendações que perpetuam **desigualdades sistêmicas**.",
+                      "explanation": "Correta. A tendenciosidade algorítmica surge de dados de treinamento que não refletem a diversidade, levando a resultados imprecisos e à perpetuação de desigualdades (por exemplo, erros em diagnósticos para grupos étnicos ou socioeconômicos específicos)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É um problema de hardware, não de software, podendo ser corrigido pela compra de computadores mais potentes.",
+                      "explanation": "Incorreta. A tendenciosidade é um problema do design e do treinamento do software."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É uma preocupação puramente técnica, sem implicações éticas ou clínicas para a relação terapêutica.",
+                      "explanation": "Incorreta. As implicações éticas são profundas, afetando a justiça e equidade do tratamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Manifesta-se na incapacidade do algoritmo de processar dados em tempo real, gerando atrasos na resposta.",
+                      "explanation": "Incorreta. Isso é um problema de latência ou processamento, não de tendenciosidade algorítmica."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q4",
+                  "statement": "A **transparência** e a **prestação de contas** (*accountability*) são princípios éticos cruciais no uso de Inteligência Artificial (*AI*) na saúde mental. Em termos práticos, o que o princípio da explicabilidade (*explainability*) exige do psicólogo ao utilizar uma ferramenta de *AI* para auxiliar no diagnóstico?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que o paciente não tenha acesso ao resultado do algoritmo para evitar confusão ou ansiedade.",
+                      "explanation": "Incorreta. A transparência e o consentimento informado exigem o oposto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ser capaz de comunicar e justificar a lógica por trás da sugestão do algoritmo de *AI*, integrando essa informação ao seu próprio julgamento clínico para tomar a decisão final.",
+                      "explanation": "Correta. O psicólogo deve entender e ser capaz de explicar por que o algoritmo sugeriu aquele resultado, usando essa informação como subsídio, e não como substituto, do seu julgamento profissional, mantendo a responsabilidade final."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aceitar o resultado do algoritmo como verdade absoluta, eliminando a necessidade de validação clínica humana.",
+                      "explanation": "Incorreta. O julgamento clínico humano é indispensável, e o psicólogo é o responsável final pela decisão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Fornecer o código-fonte completo do *software* de *AI* ao paciente, permitindo que ele faça sua própria análise.",
+                      "explanation": "Incorreta. Não é prático nem ético fornecer o código-fonte (propriedade intelectual)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Utilizar exclusivamente algoritmos de 'caixa preta' (*black box*), que são mais eficientes, mas cuja lógica interna é inacessível.",
+                      "explanation": "Incorreta. Ferramentas de 'caixa preta' dificultam ou impossibilitam a explicabilidade, violando o princípio de transparência."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q5",
+                  "statement": "A questão da **jurisdição** e das **fronteiras profissionais** é complexa na Telepsicologia. Qual é o principal desafio ético/legal que um psicólogo brasileiro enfrenta ao atender um paciente que reside permanentemente em outro país?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A dificuldade de cobrança por um serviço prestado em moeda estrangeira.",
+                      "explanation": "Incorreta. É um desafio prático/financeiro, mas não o principal desafio ético/legal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A garantia de que o paciente entenda a língua portuguesa e os termos do contrato terapêutico.",
+                      "explanation": "Incorreta. É um requisito do atendimento, mas não a principal questão jurisdicional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A necessidade de obter registro profissional no país de residência do paciente, pois a legislação local sobre prática e sigilo pode ser diferente da brasileira.",
+                      "explanation": "Correta. O psicólogo deve conhecer e, frequentemente, cumprir as leis e regulamentos do local onde o paciente está, o que pode exigir registro adicional ou a observância de diferentes regras de sigilo e prática."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A impossibilidade técnica de comunicação devido a diferenças de fuso horário.",
+                      "explanation": "Incorreta. É um desafio de agendamento, não ético/legal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade de utilizar apenas *softwares* desenvolvidos no país do paciente.",
+                      "explanation": "Incorreta. Não há tal obrigatoriedade, desde que o software garanta a segurança dos dados conforme a legislação aplicável."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q6",
+                  "statement": "As **Comunidades Virtuais Terapêuticas** (*Online Support Groups*) oferecem suporte a pacientes, mas introduzem riscos à privacidade. Qual é a principal responsabilidade do psicólogo ao moderar ou recomendar a participação de pacientes nessas comunidades?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir o anonimato absoluto do paciente, o que é tecnicamente possível em todos os fóruns abertos.",
+                      "explanation": "Incorreta. O anonimato absoluto é virtualmente impossível; o psicólogo deve informar sobre os riscos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Informar o paciente sobre os limites da confidencialidade, a potencial exposição a *spam* ou *phishing*, e a responsabilidade de gerenciar sua própria identidade digital.",
+                      "explanation": "Correta. O psicólogo deve esclarecer os riscos de privacidade e segurança inerentes aos espaços virtuais, reforçando a autonomia e a responsabilidade do paciente na gestão de sua presença online."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Substituir a terapia individual presencial pela participação nessas comunidades, pois são mais acessíveis.",
+                      "explanation": "Incorreta. Comunidades online são um complemento, não um substituto da terapia individual."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exigir que o paciente compartilhe o nome real para facilitar a intervenção em casos de crise.",
+                      "explanation": "Incorreta. Isso violaria a expectativa de privacidade e desincentivaria a participação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Assumir a responsabilidade total pela segurança de dados da plataforma, mesmo que não seja o administrador técnico.",
+                      "explanation": "Incorreta. O psicólogo é responsável pela conduta profissional, mas não pela infraestrutura técnica de terceiros."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q7",
+                  "statement": "O desenvolvimento de **Aplicativos de Saúde Mental** (*Mental Health Apps*) apresenta uma ampla gama de ferramentas. O principal risco ético para o paciente no uso de um *App* sem o acompanhamento de um profissional de saúde mental licenciado é:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de diversidade nas opções de cores da interface do aplicativo.",
+                      "explanation": "Incorreta. É uma questão de design/preferência, não um risco ético crítico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O vazamento de dados pessoais para empresas de publicidade, que podem usar essas informações para segmentação de mercado.",
+                      "explanation": "Incorreta. Embora seja um risco de privacidade real, não é o *principal* risco clínico/ético."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O diagnóstico incorreto (*misdiagnosis*) ou o atraso na busca por tratamento adequado, devido à falsa sensação de que o *App* pode resolver questões complexas.",
+                      "explanation": "Correta. O principal risco é que a ferramenta automatizada, sem validação clínica, substitua ou atrase a intervenção profissional, levando a diagnósticos errados ou à negligência de condições sérias."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A dependência do uso do smartphone para atividades diárias.",
+                      "explanation": "Incorreta. É um risco geral do uso excessivo de tecnologia, não específico do uso clínico/ético do App."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de digitar as respostas em vez de usar a voz, o que exige mais esforço.",
+                      "explanation": "Incorreta. É uma questão de usabilidade, não um risco ético crítico."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q8",
+                  "statement": "Em intervenções de **Realidade Virtual (RV)**, um dos maiores benefícios é a possibilidade de criar ambientes controlados e graduais (*gradual exposure*). Para o psicólogo, o desafio ético ao criar ou selecionar um cenário de RV para o tratamento de fobias é:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que a taxa de quadros por segundo (*frame rate*) seja alta o suficiente para evitar *motion sickness* (enjoo de movimento).",
+                      "explanation": "Incorreta. É um desafio técnico/físico, não ético/clínico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Assegurar que o nível de estresse e exposição no ambiente virtual seja sempre o máximo possível para acelerar o resultado.",
+                      "explanation": "Incorreta. A exposição deve ser controlada e gradual para ser terapêutica; o estresse máximo pode ser contraproducente ou traumático."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Conseguir equilibrar a **imersão** (para que a exposição seja eficaz) com o controle e a **segurança** do paciente, garantindo que ele possa interromper o tratamento a qualquer momento.",
+                      "explanation": "Correta. A imersão é necessária, mas o psicólogo deve manter o controle clínico, monitorar o paciente em tempo real e garantir o princípio de autonomia e segurança, possibilitando a retirada imediata do ambiente virtual."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Utilizar a RV como única modalidade de tratamento, desconsiderando a terapia de conversação.",
+                      "explanation": "Incorreta. A RV é tipicamente usada como um complemento da terapia de conversação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Permitir que o paciente administre o cenário de RV de forma autônoma em sua casa, sem supervisão profissional.",
+                      "explanation": "Incorreta. A RV, especialmente em exposição, requer supervisão profissional para garantir a segurança e a eficácia."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q9",
+                  "statement": "O **monitoramento remoto** (*remote monitoring*), facilitado por *wearables* e aplicativos, permite a coleta contínua de dados (como qualidade do sono, frequência cardíaca, etc.). A principal consideração ética para o psicólogo ao usar esses dados é:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A validação científica dos dados biométricos, que são sempre mais confiáveis que o autorrelato do paciente.",
+                      "explanation": "Incorreta. Dados biométricos complementam, mas não substituem, o autorrelato e o julgamento clínico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir o **consentimento informado** sobre quais dados serão coletados, por quanto tempo serão armazenados e **quem terá acesso** a eles, incluindo o uso potencial para fins de pesquisa ou marketing.",
+                      "explanation": "Correta. Devido à natureza sensível dos dados e à coleta contínua, o consentimento informado rigoroso e a transparência sobre o fluxo de dados são a principal exigência ética."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Assumir a responsabilidade total por intervir em qualquer alteração biométrica, 24 horas por dia, 7 dias por semana.",
+                      "explanation": "Incorreta. Isso cria uma expectativa irreal e inviável de responsabilidade ininterrupta; os limites da intervenção em crise devem ser definidos no contrato terapêutico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Utilizar os dados apenas para comparar o paciente com a média populacional, sem analisar as variações individuais.",
+                      "explanation": "Incorreta. O foco deve ser nas variações individuais do paciente, e não apenas na média."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Armazenar todos os dados em planilhas não criptografadas, para facilitar o acesso rápido em caso de emergência.",
+                      "explanation": "Incorreta. Os dados devem ser armazenados de forma criptografada para garantir a confidencialidade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q10",
+                  "statement": "A **Realidade Aumentada (RA)**, que sobrepõe informações virtuais ao mundo real (ex: filtros de câmera), tem potencial na psicoeducação e intervenção. O risco ético no uso de RA em intervenções sociais (ex: treinamento de habilidades sociais) é:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A possibilidade de o paciente confundir a realidade aumentada com a Realidade Virtual imersiva.",
+                      "explanation": "Incorreta. São tecnologias distintas, e a confusão é mais uma questão de alfabetização digital."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A falta de feedback tátil, o que diminui a eficácia da intervenção.",
+                      "explanation": "Incorreta. É uma limitação técnica, não um risco ético."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A potencial despersonalização e o reforço da **ideologia de perfeição** ou **normatividade** ao utilizar filtros ou avatares que distorcem a autoimagem do paciente.",
+                      "explanation": "Correta. O uso inadequado de RA, especialmente com recursos que alteram a aparência, pode impactar negativamente a autoimagem e a percepção da realidade, um risco ético no tratamento de questões como dismorfia corporal ou baixa autoestima."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A necessidade de usar óculos ou *headsets* pesados, causando desconforto físico.",
+                      "explanation": "Incorreta. É um desafio de usabilidade, não ético."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O alto custo das lentes de contato que projetam a RA, tornando-a inacessível.",
+                      "explanation": "Incorreta. O custo é um desafio de acesso, não um risco ético da tecnologia em si."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q11",
+                  "statement": "A **Resolução CFP nº 11/2018** estabelece diretrizes para a prática da telepsicologia no Brasil. O que essa resolução enfatiza sobre a **igualdade de condições** entre o atendimento presencial e o *online*?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Que o atendimento *online* é superior em eficácia, devido à conveniência e à quebra de barreiras geográficas.",
+                      "explanation": "Incorreta. A resolução não afirma superioridade, mas exige que o atendimento online preserve a qualidade e a ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Que o atendimento *online* só pode ser realizado com pacientes que já foram atendidos presencialmente.",
+                      "explanation": "Incorreta. A resolução permite o atendimento online desde o início da relação profissional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que o atendimento *online* deve observar os **mesmos princípios éticos** e **técnicos** da atuação presencial, exigindo o mesmo rigor na qualidade, sigilo e registro.",
+                      "explanation": "Correta. A Resolução CFP nº 11/2018 exige que a telepsicologia mantenha os mesmos padrões de qualidade, sigilo, ética e eficácia da prática presencial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Que a exigência de registro no e-Psi é dispensável em situações de urgência e emergência.",
+                      "explanation": "Incorreta. O registro no e-Psi é obrigatório para todas as modalidades regulamentadas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Que a responsabilidade pelo sigilo é transferida integralmente para a plataforma tecnológica, desonerando o psicólogo.",
+                      "explanation": "Incorreta. O psicólogo é o responsável final pelo sigilo e pela escolha de plataformas seguras."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q12",
+                  "statement": "O documento discute o fenômeno da **superexposição e da superficialidade** nas interações digitais. Qual é o risco clínico que o psicólogo deve considerar ao atender um paciente cuja principal forma de expressão é mediada por uma identidade digital *idealizada* ou *filtrada*?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A impossibilidade de estabelecer qualquer vínculo terapêutico ou empatia.",
+                      "explanation": "Incorreta. O vínculo é possível, mas é mais desafiador."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A dificuldade em acessar o **sofrimento autêntico** e a **complexidade emocional** do paciente, mascarados pela performance ou pelo medo do julgamento inerente ao espaço *online*.",
+                      "explanation": "Correta. A performance e a idealização online podem criar uma barreira entre o paciente e o seu sofrimento genuíno, dificultando o acesso à sua complexidade emocional e à auto-observação honesta."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A necessidade de o psicólogo criar um perfil falso na rede social do paciente para monitorá-lo.",
+                      "explanation": "Incorreta. Essa ação violaria a ética profissional e a privacidade do paciente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A perda de interesse do paciente na terapia após a primeira sessão.",
+                      "explanation": "Incorreta. É uma possibilidade, mas não o principal risco clínico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A dependência excessiva do paciente na comunicação por emojis e memes.",
+                      "explanation": "Incorreta. É uma característica da comunicação digital, mas não o principal risco clínico."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q13",
+                  "statement": "A **comunicação síncrona** (*real-time*, como videoconferência) e a **assíncrona** (*non-real-time*, como e-mail ou troca de mensagens de texto) possuem características distintas na Telepsicologia. Qual é a principal vantagem da comunicação assíncrona para o processo terapêutico?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A garantia de uma experiência sensorial completa, idêntica à do atendimento presencial.",
+                      "explanation": "Incorreta. Isso se aplica mais à comunicação síncrona com vídeo, mas mesmo assim é uma experiência empobrecida."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A possibilidade de o paciente realizar uma **reflexão mais aprofundada** e **estruturar seu pensamento** antes de responder, o que pode facilitar a introspecção.",
+                      "explanation": "Correta. A ausência da pressão do tempo real permite ao paciente articular melhor suas emoções e pensamentos, transformando a comunicação em um ato de auto-reflexão e escrita terapêutica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O monitoramento contínuo dos sinais biométricos do paciente (frequência cardíaca, etc.).",
+                      "explanation": "Incorreta. O monitoramento contínuo não está diretamente ligado ao canal assíncrono."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A eliminação de qualquer mal-entendido ou ruído de comunicação.",
+                      "explanation": "Incorreta. A comunicação escrita (assíncrona) é altamente suscetível a mal-entendidos devido à falta de entonação e linguagem corporal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade de o psicólogo responder imediatamente, 24 horas por dia.",
+                      "explanation": "Incorreta. Os limites de tempo de resposta devem ser estabelecidos no contrato terapêutico, evitando essa expectativa."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q14",
+                  "statement": "No contexto da **autonomia do paciente** na era digital, o que o psicólogo deve garantir para que o consentimento informado (*informed consent*) sobre o uso de tecnologias seja verdadeiramente ético?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas que o paciente assine o termo de compromisso sem ler.",
+                      "explanation": "Incorreta. O consentimento deve ser lido e compreendido."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A clareza sobre os **riscos de segurança e privacidade**, os **limites da tecnologia** (ex: falhas de conexão) e a **possibilidade de interrupção** do uso da tecnologia a qualquer momento, sem prejuízo ao tratamento.",
+                      "explanation": "Correta. O consentimento informado no digital é mais complexo, exigindo transparência total sobre os riscos, as limitações técnicas e o direito incondicional do paciente de descontinuar o uso da ferramenta digital a favor de modalidades mais tradicionais, se assim desejar."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Que o paciente se torne um especialista em cibersegurança.",
+                      "explanation": "Incorreta. Isso não é uma expectativa razoável para o paciente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A garantia de que o *software* é o mais barato disponível no mercado.",
+                      "explanation": "Incorreta. O preço não é um fator de autonomia ética."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A exclusão de qualquer menção a possíveis falhas ou interrupções de serviço para manter a confiança.",
+                      "explanation": "Incorreta. A transparência exige a comunicação de riscos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q15",
+                  "statement": "O **anonimato** e o **pseudo-anonimato** são frequentemente usados em pesquisas e algumas intervenções online. O principal dilema ético que essas condições impõem ao psicólogo é:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A dificuldade de cobrança pelos serviços prestados.",
+                      "explanation": "Incorreta. É um desafio prático/financeiro, não ético."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A garantia de que o paciente consiga trocar seu pseudônimo (nome de usuário) sempre que desejar.",
+                      "explanation": "Incorreta. É uma questão de usabilidade da plataforma."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A **identificação em caso de risco de vida** (suicídio, homicídio), pois o sigilo e o anonimato podem impedir o contato com familiares ou serviços de emergência.",
+                      "explanation": "Correta. O sigilo tem seus limites em situações de risco de vida. O anonimato dificulta ou impede a quebra desse sigilo para proteção do paciente ou de terceiros, exigindo que o plano de crise seja estabelecido *a priori*."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A necessidade de o psicólogo também se apresentar sob um pseudônimo.",
+                      "explanation": "Incorreta. O psicólogo deve manter sua identidade profissional clara."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A impossibilidade de enviar documentos ou recibos ao paciente.",
+                      "explanation": "Incorreta. É um desafio prático que pode ser resolvido com serviços de e-mail seguros."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q16",
+                  "statement": "No contexto da **privacidade e segurança de dados** na Telepsicologia, qual é o princípio que exige do psicólogo a escolha de plataformas e sistemas que ofereçam o **mínimo necessário de dados** para atingir o objetivo terapêutico, minimizando a coleta excessiva?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Princípio da *Accountability* (Prestação de Contas).",
+                      "explanation": "Incorreta. Prestação de contas refere-se à responsabilidade pelos resultados do sistema."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Princípio da *Explainability* (Explicabilidade).",
+                      "explanation": "Incorreta. Explicabilidade refere-se à transparência da lógica do sistema."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Princípio da **Minimização de Dados** (*Data Minimization*).",
+                      "explanation": "Correta. O princípio da minimização de dados, central em regulamentos como o GDPR e a LGPD, exige que apenas os dados estritamente necessários para a finalidade específica (neste caso, a terapia) sejam coletados e processados."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Princípio da *Zero Trust* (Confiança Zero).",
+                      "explanation": "Incorreta. Confiança Zero é um modelo de segurança que exige verificação contínua."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Princípio da *Full Disclosure* (Divulgação Total).",
+                      "explanation": "Incorreta. Divulgação Total refere-se à transparência sobre os riscos e o uso de dados."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q17",
+                  "statement": "A **competência cultural digital** refere-se à capacidade do psicólogo de adaptar sua prática para atender a pacientes de diferentes contextos digitais. Qual aspecto dessa competência é crucial para um atendimento ético e eficaz?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Assumir que todos os pacientes têm acesso à internet de alta velocidade e aos dispositivos mais recentes (modelo da **homogeneidade tecnológica**).",
+                      "explanation": "Incorreta. Essa é uma premissa de falta de competência cultural digital, ignorando a exclusão digital."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ser capaz de reconhecer e adaptar-se às **diferenças de acesso tecnológico** e **preferências de comunicação** (síncrona vs. assíncrona) do paciente, garantindo a equidade no acesso.",
+                      "explanation": "Correta. A competência cultural digital exige que o profissional reconheça as disparidades tecnológicas (exclusão digital) e as preferências do paciente, ajustando o método para garantir que a tecnologia seja um facilitador, e não uma barreira."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Impor o uso da câmera de vídeo em todas as sessões, pois a comunicação visual é sempre a mais eficaz.",
+                      "explanation": "Incorreta. Em alguns contextos culturais, ou por limitações técnicas, o áudio pode ser mais adequado, e a imposição viola a autonomia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Utilizar jargão técnico (*geek*) para demonstrar domínio sobre a tecnologia.",
+                      "explanation": "Incorreta. O uso de jargão pode criar barreiras de comunicação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar a intervenção apenas nos problemas causados pela tecnologia, ignorando outros fatores.",
+                      "explanation": "Incorreta. A tecnologia é o meio, e não necessariamente o foco da intervenção."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q18",
+                  "statement": "O texto aborda o uso de **Realidade Virtual (RV)** na Psicologia, destacando sua utilidade em simular ambientes para exposição gradual. Qual é o risco ético e clínico relacionado à **desconexão emocional** que pode ocorrer em ambientes de RV excessivamente artificiais ou irreais?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de fidelidade gráfica do ambiente virtual, o que não prejudica a eficácia terapêutica.",
+                      "explanation": "Incorreta. A baixa fidelidade pode reduzir a imersão e a validade ecológica, prejudicando o tratamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O perigo de o paciente desenvolver uma **transferência** para o ambiente virtual, em vez de para o terapeuta, dificultando a generalização da aprendizagem para a vida real.",
+                      "explanation": "Correta. A RV pode ser tão imersiva que o paciente pode não conseguir transferir as habilidades adquiridas no ambiente virtual seguro para o mundo real, ou a experiência pode se tornar 'dissociativa' se não for bem integrada ao processo terapêutico, dificultando a 'reconexão' após a experiência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A necessidade de o psicólogo se tornar um desenvolvedor de *software*.",
+                      "explanation": "Incorreta. O psicólogo precisa selecionar e aplicar as ferramentas, não necessariamente desenvolvê-las."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A obrigatoriedade de o paciente comprar o *hardware* de RV mais caro do mercado.",
+                      "explanation": "Incorreta. É um desafio de acesso, não um risco clínico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O uso da RV apenas para fins de entretenimento, perdendo o foco terapêutico.",
+                      "explanation": "Incorreta. O foco terapêutico é estabelecido pelo psicólogo."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q19",
+                  "statement": "O desenvolvimento rápido de novas tecnologias na Psicologia Digital torna a **formação continuada** do profissional uma exigência ética. O que a falta de formação adequada pode causar, eticamente, na prática do psicólogo digital?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A sobrecarga de trabalho do psicólogo, pois ele terá que aprender a programar.",
+                      "explanation": "Incorreta. Não é esperado que o psicólogo aprenda a programar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A utilização de **ferramentas não validadas cientificamente** ou a **violação de protocolos de segurança**, resultando em **negligência** ou **imprudência** na coleta e tratamento dos dados do paciente.",
+                      "explanation": "Correta. A incompetência profissional na era digital manifesta-se no uso de ferramentas sem evidência científica (imprudência) ou na falha em aplicar medidas de segurança adequadas (negligência), violando o dever de cuidado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A impossibilidade de comprar novos equipamentos, limitando a prática a ferramentas antigas e ineficazes.",
+                      "explanation": "Incorreta. É um desafio de acesso, não o principal risco ético da falta de formação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O desenvolvimento de uma nova teoria da personalidade, desvinculada das bases científicas.",
+                      "explanation": "Incorreta. A falta de formação impacta a aplicação prática, não a criação teórica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade de o psicólogo participar de todas as redes sociais.",
+                      "explanation": "Incorreta. A participação em redes sociais não é uma obrigação ética da profissão."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q20",
+                  "statement": "No que tange à **Regulação Internacional**, o Regulamento Geral sobre a Proteção de Dados (GDPR) da União Europeia é frequentemente citado. Qual é o principal impacto do GDPR na prática de um psicólogo brasileiro que atende um paciente residente na Europa via Telepsicologia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo deve emitir suas notas fiscais em Euros.",
+                      "explanation": "Incorreta. É uma questão financeira/fiscal, não de regulação de dados."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O psicólogo brasileiro deve adotar os **padrões de segurança e consentimento do GDPR** (incluindo o **direito ao esquecimento** e o **portabilidade de dados**), pois a regulação protege o cidadão europeu em qualquer lugar do mundo.",
+                      "explanation": "Correta. O GDPR (e a LGPD brasileira, inspirada nele) tem um alcance extraterritorial. O psicólogo, ao coletar dados de um residente europeu, deve se adequar aos requisitos mais rigorosos do GDPR para evitar violações e garantir a proteção dos dados do paciente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O psicólogo não pode usar criptografia, pois o GDPR proíbe o embaralhamento de dados.",
+                      "explanation": "Incorreta. O GDPR incentiva o uso de criptografia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A exigência de o psicólogo ter dupla nacionalidade (brasileira e europeia).",
+                      "explanation": "Incorreta. É uma exigência de registro profissional, não de nacionalidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O GDPR aplica-se apenas a grandes empresas, isentando profissionais liberais.",
+                      "explanation": "Incorreta. O GDPR aplica-se a qualquer processamento de dados pessoais de residentes da UE."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q21",
+                  "statement": "O conceito de **Vulnerabilidade Digital** é fundamental para a ética na Psicologia. Um grupo que é particularmente vulnerável na era digital é o de **crianças e adolescentes**. Qual é a exigência ética crucial ao fornecer serviços de saúde mental digital para essa faixa etária?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A dispensa do consentimento dos pais ou responsáveis, em virtude do direito à privacidade do menor.",
+                      "explanation": "Incorreta. O consentimento dos pais ou responsáveis (ou de ambos, dependendo da idade e legislação) é geralmente uma exigência legal e ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A obtenção de **consentimento do menor** (assentimento, dependendo da idade) **e dos responsáveis**, e a garantia de que as políticas de privacidade sejam comunicadas em **linguagem simples e acessível à criança**.",
+                      "explanation": "Correta. A vulnerabilidade digital exige consentimento duplo (responsáveis e assentimento/consentimento do menor), além de uma comunicação ética adaptada ao nível de desenvolvimento da criança para garantir que ela entenda como seus dados serão usados."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O monitoramento da atividade online do paciente 24 horas por dia, 7 dias por semana, sem aviso prévio.",
+                      "explanation": "Incorreta. Isso violaria a privacidade do paciente (mesmo menor) e criaria uma responsabilidade inviável para o profissional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A substituição total da psicoterapia por jogos terapêuticos digitais (*serious games*).",
+                      "explanation": "Incorreta. Os jogos são complementos, não substitutos da terapia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A exigência de que o menor forneça seu nome de usuário e senha de todas as redes sociais ao psicólogo.",
+                      "explanation": "Incorreta. Isso é uma invasão de privacidade e viola a confiança."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q22",
+                  "statement": "O desafio da **autenticidade** na era digital leva à questão das **relações duplas** (*dual relationships*). Qual é a principal orientação ética que o psicólogo deve seguir em relação às solicitações de **amizade em redes sociais** feitas por pacientes atuais ou passados?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aceitar imediatamente para demonstrar engajamento e conexão com o paciente.",
+                      "explanation": "Incorreta. Isso é desencorajado e pode ser uma violação ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Criar um perfil público onde o paciente pode seguir o psicólogo, mas **nunca aceitar solicitações de amizade** (conexões mútuas) em perfis pessoais, para preservar a **fronteira terapêutica** e a imparcialidade do processo.",
+                      "explanation": "Correta. A manutenção de uma fronteira clara é essencial. Aceitar amizade em redes sociais pessoais cria uma relação dupla (amigo/terapeuta) que pode comprometer a objetividade, o sigilo e a assimetria da relação terapêutica. O psicólogo pode ter perfis profissionais para divulgação, mas as relações pessoais e clínicas devem ser separadas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aceitar todas as solicitações, mas bloquear as mensagens diretas do paciente.",
+                      "explanation": "Incorreta. A aceitação já configura a relação dupla e o risco de violação de fronteira."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Requerer que o paciente apague todas as suas redes sociais durante o tratamento.",
+                      "explanation": "Incorreta. Isso violaria a autonomia e a vida social do paciente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Utilizar a rede social do paciente para buscar informações que ele não compartilha na sessão.",
+                      "explanation": "Incorreta. Isso é antiético (violação de privacidade) e quebra a confiança, a menos que haja um acordo prévio para o monitoramento."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q23",
+                  "statement": "O **vício em tecnologia** (*tech addiction*), como em jogos ou redes sociais, é um tema de intervenção central na Psicologia Digital. Qual é a abordagem terapêutica mais eficaz, conforme as diretrizes, para tratar esse vício?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A proibição total e imediata de qualquer uso de tecnologia pelo paciente.",
+                      "explanation": "Incorreta. A tecnologia é ubíqua; a abstinência total é irrealista para a maioria e não ensina o controle."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O foco exclusivo na medicação psiquiátrica para controlar a compulsão.",
+                      "explanation": "Incorreta. A medicação pode ser um complemento, mas a intervenção psicológica é central."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O desenvolvimento de **habilidades de autorregulação**, a **identificação dos gatilhos** subjacentes (ansiedade, tédio) e a **renegociação do uso** da tecnologia de forma equilibrada e funcional (*harm reduction*).",
+                      "explanation": "Correta. A intervenção busca a redução de danos e a regulação, em vez da abstinência total. O foco é entender a função do vício, tratar as comorbidades (gatilhos) e ensinar o uso consciente e saudável da tecnologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A aplicação de choques elétricos condicionantes para associar a tecnologia à dor.",
+                      "explanation": "Incorreta. É uma técnica obsoleta e antiética."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A substituição de um vício por outro, como o incentivo ao vício em exercícios físicos.",
+                      "explanation": "Incorreta. Isso não trata a raiz do problema de compulsão."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q24",
+                  "statement": "A **crise e a emergência** na Telepsicologia são um grande desafio ético. O que o psicólogo deve ter estabelecido de forma clara no **contrato terapêutico** antes de iniciar o tratamento *online*?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A obrigatoriedade de o paciente gravar todas as sessões.",
+                      "explanation": "Incorreta. A gravação exige consentimento mútuo e é um risco à privacidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Um **protocolo de crise** detalhado, incluindo **contatos de emergência locais** do paciente (hospital, polícia, pessoa de confiança) e a **quebra de sigilo** em caso de risco iminente de vida.",
+                      "explanation": "Correta. É vital ter um plano de crise para contornar a limitação física. O paciente deve fornecer endereços e contatos de emergência locais para que o profissional possa acionar recursos no local do paciente, se necessário, mediante a quebra de sigilo acordada previamente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A proibição de o paciente buscar ajuda em outros serviços de saúde.",
+                      "explanation": "Incorreta. Isso violaria o direito do paciente ao tratamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A garantia de que o psicólogo irá se deslocar imediatamente para o local do paciente em caso de crise.",
+                      "explanation": "Incorreta. Essa promessa é inviável e irrealista, especialmente em atendimento internacional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A eliminação de qualquer discussão sobre o suicídio, para não induzir o comportamento.",
+                      "explanation": "Incorreta. A discussão sobre o risco de suicídio é essencial para a prevenção."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q25",
+                  "statement": "A Psicologia Digital tem potencial para mitigar a **exclusão digital** no acesso à saúde mental. Qual é a principal barreira de acesso que a Telepsicologia ajuda a superar, promovendo a equidade?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A dificuldade de acesso a conteúdos científicos de alto nível.",
+                      "explanation": "Incorreta. A Telepsicologia foca na assistência clínica, não na pesquisa científica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A barreira do **distanciamento geográfico** e a **limitação de mobilidade**, tornando o serviço acessível a pessoas em áreas remotas ou com deficiências físicas.",
+                      "explanation": "Correta. A Telepsicologia é uma ferramenta poderosa para democratizar o acesso, superando a distância geográfica, a escassez de profissionais especializados em certas regiões e as limitações de mobilidade de alguns pacientes."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A falta de conhecimento de idiomas estrangeiros.",
+                      "explanation": "Incorreta. É uma barreira linguística, não de acesso físico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O custo proibitivo dos serviços de saúde mental.",
+                      "explanation": "Incorreta. Embora o custo possa ser um pouco menor, a principal barreira superada é a física/geográfica, não o custo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A incompatibilidade entre sistemas operacionais (Windows vs. Mac).",
+                      "explanation": "Incorreta. É um desafio técnico, não a principal barreira de acesso."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q26",
+                  "statement": "A **psicoeducação digital** (*e-learning*), utilizando vídeos, blogs e *webinars*, é uma ferramenta de prevenção e promoção da saúde mental. O que o psicólogo deve priorizar eticamente ao criar esse conteúdo público?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A garantia de que o conteúdo seja visto apenas como entretenimento, sem qualquer valor terapêutico.",
+                      "explanation": "Incorreta. O conteúdo tem valor educativo e de prevenção."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A promessa de cura ou a oferta de **diagnósticos gratuitos** por meio de questionários rápidos (*quizzes*) e superficiais.",
+                      "explanation": "Incorreta. É uma falha ética grave prometer cura ou fazer diagnósticos (prática exclusiva do consultório) em plataformas públicas, o que pode induzir a erro e criar falsas expectativas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A inclusão de **cláusulas de isenção de responsabilidade** (*disclaimer*) que deixem claro que o conteúdo **não substitui a terapia individual** e não estabelece uma relação terapêutica formal.",
+                      "explanation": "Correta. É uma exigência ética de transparência. O psicólogo deve deixar claro que a informação pública é apenas educativa e não configura um tratamento clínico, protegendo o público do risco de automedicação ou autodiagnóstico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O uso de linguagem excessivamente técnica e jargão científico para manter a credibilidade.",
+                      "explanation": "Incorreta. A linguagem deve ser acessível para promover a psicoeducação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A exclusão de qualquer referência a fontes ou evidências científicas para simplificar a mensagem.",
+                      "explanation": "Incorreta. A credibilidade do conteúdo deve ser baseada em evidências."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q27",
+                  "statement": "A integração de **Inteligência Artificial (IA) generativa** (como *chatbots* ou modelos de linguagem) em aplicativos de saúde mental levanta a questão da **atribuição de responsabilidade**. Quem detém a responsabilidade ética e legal pela intervenção fornecida por um *chatbot* de apoio emocional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O próprio *chatbot* ou o algoritmo de IA.",
+                      "explanation": "Incorreta. Algoritmos não são sujeitos de responsabilidade legal ou ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O usuário que decidiu interagir com o *chatbot*.",
+                      "explanation": "Incorreta. O usuário tem autonomia, mas o desenvolvedor e o profissional que endossa o uso têm responsabilidade sobre a ferramenta."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O **desenvolvedor do *software*** e a **empresa que o hospeda**, e, em caso de endosso clínico, o **psicólogo que supervisiona** ou recomenda a ferramenta, pois a responsabilidade humana é inalienável.",
+                      "explanation": "Correta. A responsabilidade por uma ferramenta de IA é distribuída, mas o peso maior recai sobre as entidades humanas que a criaram, a disponibilizaram e o profissional (se houver) que a incorporou ao plano de tratamento, pois a responsabilidade final pelos resultados clínicos e éticos é sempre humana."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Conselho Federal de Psicologia (CFP), por ter regulamentado a Telepsicologia.",
+                      "explanation": "Incorreta. O CFP regulamenta a prática, mas não é responsável pela ferramenta individual."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O provedor de internet do usuário.",
+                      "explanation": "Incorreta. O provedor de internet é responsável pela conexão, não pelo conteúdo clínico."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q28",
+                  "statement": "O desafio da **desinformação** (*misinformation*) e da **desinformação maliciosa** (*disinformation*) é amplificado nas redes sociais e pode afetar a saúde mental. Qual é o papel ético do psicólogo ao intervir com um paciente que está sendo influenciado por uma 'câmera de eco' (*echo chamber*) digital sobre questões de saúde?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Assumir uma postura neutra, pois o psicólogo não deve intervir na vida online do paciente.",
+                      "explanation": "Incorreta. A postura neutra em relação a danos à saúde mental é irresponsável."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Focar na **análise crítica** das informações e dos **processos de pensamento** do paciente, ajudando-o a desenvolver a **alfabetização midiática** (*media literacy*) e a diferenciar fontes confiáveis de desinformação.",
+                      "explanation": "Correta. O psicólogo deve usar a sessão como um espaço seguro para analisar o impacto da desinformação na saúde mental do paciente, promovendo o desenvolvimento do senso crítico e das habilidades para navegar no ambiente de informação complexo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Exigir que o paciente abandone o uso de internet e redes sociais imediatamente.",
+                      "explanation": "Incorreta. Isso violaria a autonomia e é uma solução impraticável para o mundo moderno."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Denunciar anonimamente as fontes de desinformação do paciente às autoridades.",
+                      "explanation": "Incorreta. Embora a denúncia possa ser apropriada em certos casos, a primeira intervenção é clínica e visa à autonomia do paciente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Concordar com a desinformação do paciente para evitar conflitos na relação terapêutica.",
+                      "explanation": "Incorreta. O psicólogo deve manter a integridade e o compromisso com a saúde e o bem-estar do paciente."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q29",
+                  "statement": "O uso de **Realidade Virtual (RV)** e **Realidade Aumentada (RA)** em terapias de exposição e dessensibilização (*Exposure and Desensitization*) exige uma avaliação rigorosa do profissional. Qual é o aspecto da RV/RA que mais contribui para o sucesso terapêutico dessas técnicas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A capacidade de induzir a amnésia para as experiências traumáticas passadas.",
+                      "explanation": "Incorreta. A terapia não visa à amnésia, mas ao reprocessamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A capacidade de criar um ambiente **seguro, replicável** e **altamente controlável** para a **exposição gradual e customizada**, permitindo o domínio da situação de forma progressiva.",
+                      "explanation": "Correta. O valor da RV/RA está na sua capacidade de simular o ambiente real (validade ecológica), mas com controle total sobre o nível de estímulo estressor, garantindo a segurança, a repetibilidade e a personalização da exposição gradual, essenciais para a dessensibilização."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A eliminação total da necessidade de o paciente interagir com o ambiente real.",
+                      "explanation": "Incorreta. O objetivo final é sempre generalizar a aprendizagem para a vida real."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O baixo custo de implementação, acessível a qualquer consultório.",
+                      "explanation": "Incorreta. O custo pode ser alto, o que é um desafio, não um benefício clínico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade de o paciente usar a tecnologia sem a presença do psicólogo.",
+                      "explanation": "Incorreta. A supervisão profissional é necessária."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q30",
+                  "statement": "O que é a principal consideração prática e de infraestrutura que os profissionais de saúde mental devem avaliar *antes* de incorporar soluções de Realidade Virtual (RV) ou Aumentada (RA) em sua prática clínica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A eliminação de qualquer treinamento para a equipe, focando apenas na interface intuitiva do *software*.",
+                      "explanation": "Incorreta. O treinamento e a formação específica são necessários."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A padronização dos tratamentos, utilizando cenários virtuais genéricos que não exigem personalização.",
+                      "explanation": "Incorreta. A personalização é um dos maiores benefícios."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A seleção de *hardware* e *software* que sejam compatíveis, acessíveis e alinhados aos objetivos terapêuticos e à **capacidade de computação da infraestrutura existente**.",
+                      "explanation": "Correta. A avaliação da infraestrutura existente (espaço, capacidade de computação, conectividade) e a seleção de *hardware* e *software* compatíveis e alinhados aos objetivos são etapas fundamentais para a implementação prática."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A dependência de dados biométricos para o diagnóstico, excluindo dados autorrelatados.",
+                      "explanation": "Incorreta. A avaliação digital utiliza múltiplas fontes de dados."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade de trabalhar em parceria com instituições de ensino superior, para validar a eficácia de cada sessão.",
+                      "explanation": "Incorreta. Parcerias são estratégias de treinamento, mas não uma consideração de infraestrutura inicial."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q31",
+                  "statement": "O paradoxo \"conexão *versus* isolamento\" na era digital é definido como o fenômeno pelo qual as ferramentas digitais:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Romem as barreiras geográficas, mas não as temporais, impedindo a comunicação instantânea.",
+                      "explanation": "Incorreta. As tecnologias rompem barreiras geográficas e temporais, facilitando a comunicação instantânea."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Facilitam a conexão entre indivíduos, mas podem fomentar relações superficiais e levar ao **isolamento social e emocional**.",
+                      "explanation": "Correta. O paradoxo é exatamente este: a tecnologia facilita a conexão, mas pode levar a relações superficiais e ao isolamento social e emocional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Levam os usuários a valorizar as interações face a face em detrimento das virtuais, fortalecendo laços sociais.",
+                      "explanation": "Incorreta. A preferência por interações virtuais em detrimento das presenciais está associada a um aumento do isolamento físico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exigem a substituição da presença física por interações ricas em complexidades sensoriais e emocionais.",
+                      "explanation": "Incorreta. As interações mediadas por tela, embora práticas, são empobrecidas em comparação com a riqueza sensorial e emocional da presença física."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Concentram a sociabilidade em espaços geográficos limitados, ignorando a capacidade de interação global.",
+                      "explanation": "Incorreta. A era digital expande a sociabilidade para além das limitações geográficas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q32",
+                  "statement": "Qual é a principal preocupação ética em relação ao uso de **algoritmos de triagem** (*screening*) para saúde mental em aplicativos de uso massivo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de diversidade nos idiomas oferecidos pelos aplicativos.",
+                      "explanation": "Incorreta. É uma questão de acesso/usabilidade, não a principal preocupação ética."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O risco de **falsos negativos** (não detectar uma condição grave) ou **falsos positivos** (indicar uma condição inexistente), especialmente em populações minoritárias não representadas nos dados de treinamento, levando a um **diagnóstico incompleto ou tendencioso**.",
+                      "explanation": "Correta. O uso massivo de algoritmos de triagem, com base em dados não representativos, aumenta o risco de erros de diagnóstico que podem atrasar o tratamento ou causar sofrimento desnecessário, perpetuando o viés algorítmico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A dificuldade de *upload* de documentos de identificação.",
+                      "explanation": "Incorreta. É um desafio técnico/prático."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A necessidade de *reboot* (reiniciar) o aplicativo com frequência.",
+                      "explanation": "Incorreta. É um desafio técnico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A obrigatoriedade de o usuário pagar uma taxa de assinatura mensal.",
+                      "explanation": "Incorreta. É um desafio de acesso/financeiro."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q33",
+                  "statement": "A **vigilância social** e a **perda de privacidade** são subprodutos da coleta de *Big Data* em plataformas digitais. O que a Psicologia deve considerar ao analisar o impacto disso na saúde mental do usuário?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O fato de que os usuários de plataformas digitais não se importam com a privacidade.",
+                      "explanation": "Incorreta. Embora a prática demonstre negligência com a privacidade, a preocupação existe e impacta o bem-estar."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O sentimento de **controle constante** e o **medo de julgamento**, que podem levar à **inibição da expressão autêntica**, aumentando a **ansiedade de performance** e o **estresse psicológico**.",
+                      "explanation": "Correta. O conhecimento de que se está sob vigilância constante e de que os dados são usados para manipulação pode gerar um estado de hipervigilância, ansiedade de performance e inibição da autodescoberta, prejudicando o bem-estar mental."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O baixo custo da publicidade direcionada, que beneficia a economia local.",
+                      "explanation": "Incorreta. É um benefício econômico, mas o foco é no impacto psicológico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A possibilidade de o paciente ser contratado para um novo emprego através da plataforma.",
+                      "explanation": "Incorreta. É uma externalidade positiva, mas o foco é no impacto negativo na saúde mental."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O fato de que o *Big Data* não contém dados pessoais, sendo totalmente anônimo.",
+                      "explanation": "Incorreta. O *Big Data* contém vastos dados pessoais, e a desanonimização é um risco real."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q34",
+                  "statement": "O uso de **Psicoterapia Assistida por Inteligência Artificial (PAIA)**, onde o *AI* auxilia o terapeuta (não o substitui), é uma inovação. Qual é o papel ético da *AI* nesse cenário?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Tomar decisões clínicas importantes de forma autônoma, sem intervenção do psicólogo.",
+                      "explanation": "Incorreta. A decisão clínica final é sempre humana."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Funcionar como uma **ferramenta de apoio** que **processa padrões de dados** (ex: analisar linguagem ou frequência de temas) para **sugerir *insights* ao psicólogo**, mantendo a **autonomia** e o **julgamento clínico** do profissional.",
+                      "explanation": "Correta. O papel ético da *AI* é complementar: processar grandes volumes de dados de forma que um humano não conseguiria, sugerindo padrões ou correlações, mas a interpretação e a decisão de intervenção permanecem na esfera do psicólogo, que deve ser o responsável final."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Substituir a necessidade de supervisão profissional, pois o *AI* faz a checagem ética.",
+                      "explanation": "Incorreta. A supervisão humana é insubstituível."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Limitar a intervenção do psicólogo à checagem de erros do *AI*.",
+                      "explanation": "Incorreta. O psicólogo é o agente ativo da terapia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Eliminar a necessidade de sigilo, pois a *AI* garante que os dados sejam completamente anônimos.",
+                      "explanation": "Incorreta. O sigilo continua sendo um dever ético e legal."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q35",
+                  "statement": "A **gamificação** (*gamification*) de aplicativos de saúde mental, que utiliza elementos de jogos (recompensas, níveis, *badges*), tem como risco ético principal:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de diversidade de cores nos *badges* (distintivos de recompensa).",
+                      "explanation": "Incorreta. É uma questão de design/preferência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A desmotivação do usuário quando ele não consegue atingir o nível máximo rapidamente.",
+                      "explanation": "Incorreta. É um desafio de engajamento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A tendência de **simplificar em excesso** comportamentos complexos, transformando a **saúde mental em um desafio a ser vencido**, e a criação de uma **dependência da recompensa externa** (o *badge*), em vez da motivação intrínseca.",
+                      "explanation": "Correta. A gamificação pode reduzir a complexidade da experiência psicológica a um sistema de 'pontos e níveis', incentivando uma abordagem superficial e extrínseca (dependência da recompensa) em vez do aprofundamento e da motivação interna para a mudança."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O alto custo do *hardware* necessário para rodar o aplicativo.",
+                      "explanation": "Incorreta. É um desafio de acesso/financeiro."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A incompatibilidade com a maioria dos sistemas operacionais.",
+                      "explanation": "Incorreta. É um desafio técnico."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q36",
+                  "statement": "O **monitoramento remoto de humor** (*mood tracking*), feito por aplicativos e *wearables*, exige do profissional de saúde mental uma consideração ética sobre a **natureza da emoção**. O que a coleta de dados de humor, em sua forma bruta, **não** consegue capturar e que é essencial para o julgamento clínico?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A frequência com que o humor é registrado pelo paciente.",
+                      "explanation": "Incorreta. Isso é facilmente capturado pelo dado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A **complexidade, o contexto** e a **experiência subjetiva** da emoção, que exigem a **interpretação e a contextualização** do paciente e do terapeuta em uma sessão de conversação.",
+                      "explanation": "Correta. O dado quantitativo (ex: humor 3/5) é incompleto. O julgamento clínico é necessário para entender *o porquê* do humor (o contexto, o significado subjetivo) e o que está por trás do número, uma informação que o dado bruto não contém."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A hora exata em que o registro foi feito.",
+                      "explanation": "Incorreta. Isso é facilmente capturado pelo dado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O tipo de dispositivo usado para o registro.",
+                      "explanation": "Incorreta. Isso é facilmente capturado pelo dado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A geolocalização do paciente no momento do registro.",
+                      "explanation": "Incorreta. Isso pode ser capturado pelo dado, dependendo da permissão."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q37",
+                  "statement": "No contexto das **fronteiras profissionais e da vida pessoal** (*professional and personal boundaries*), o psicólogo na era digital deve ter um cuidado ético extremo com a **linguagem corporal e a ambientação da sessão online**. Qual é a exigência crucial para manter o rigor ético da prática?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Realizar a sessão de Telepsicologia na cozinha, com a família participando ao fundo.",
+                      "explanation": "Incorreta. Isso viola o sigilo e a privacidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir um **ambiente físico e virtual (fundo, iluminação, vestuário)** que preserve a **formalidade**, a **confidencialidade** e a **ausência de distrações**, replicando o rigor do consultório presencial.",
+                      "explanation": "Correta. A falta de atenção ao ambiente pode violar o sigilo e a seriedade da sessão. O psicólogo deve assegurar que o espaço virtual e físico seja um 'consultório' adequado, livre de elementos que quebrem a fronteira (ex: familiares ao fundo, roupas informais em excesso)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Usar um filtro de Realidade Aumentada (RA) no rosto, para garantir o anonimato do profissional.",
+                      "explanation": "Incorreta. O profissional deve ser identificado de forma clara, e o uso de filtros quebra a seriedade e a autenticidade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Permitir que o paciente grave a sessão sem consentimento prévio.",
+                      "explanation": "Incorreta. A gravação requer consentimento mútuo e é um risco ao sigilo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Realizar a sessão enquanto dirige ou realiza outra tarefa simultaneamente (*multitasking*).",
+                      "explanation": "Incorreta. Isso demonstra desatenção e é antiético."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q38",
+                  "statement": "A **Resolução CFP nº 11/2018** exige que o psicólogo faça o **registro** dos serviços digitais na plataforma **e-Psi**. Qual é a função principal desse registro para a regulação da Psicologia Digital no Brasil?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Permitir que o Conselho Federal de Psicologia (CFP) monitore o conteúdo de todas as sessões.",
+                      "explanation": "Incorreta. O CFP não monitora o conteúdo das sessões."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir que a prática seja realizada por profissionais **licenciados** e **capacitados**, conferindo a **legitimidade** e a **fiscalização** dos serviços oferecidos, protegendo o público de práticas não regulamentadas.",
+                      "explanation": "Correta. O registro no e-Psi é o mecanismo de controle e fiscalização do CFP para assegurar que apenas psicólogos registrados e autorizados, que se comprometeram com as diretrizes de segurança e ética, possam oferecer serviços online, conferindo legitimidade e protegendo a sociedade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Permitir que o psicólogo cobre um valor mais alto pela sessão online do que pela presencial.",
+                      "explanation": "Incorreta. É uma questão de mercado, não de regulação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A exclusão de qualquer necessidade de documentação em prontuário, devido à segurança do sistema e-Psi.",
+                      "explanation": "Incorreta. A documentação em prontuário é obrigatória."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A eliminação da necessidade de seguro contra erros de prática (*malpractice insurance*).",
+                      "explanation": "Incorreta. O seguro pode ser recomendado, e o registro não o substitui."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q39",
+                  "statement": "O **Engajamento e a Adesão ao Tratamento (*Adherence*)** são desafios críticos em intervenções digitais. O que a Psicologia Digital pode fazer para otimizar o engajamento do paciente, garantindo o princípio de Autonomia?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Utilizar *spam* e notificações constantes para forçar o paciente a usar o aplicativo.",
+                      "explanation": "Incorreta. Isso viola o princípio da autonomia e é intrusivo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Focar na **personalização** do conteúdo, na **escolha flexível de módulos** (se houver) e na **integração** das ferramentas aos objetivos de vida do paciente, atendendo à sua necessidade de **Autonomia** e **Competência**.",
+                      "explanation": "Correta. A Teoria da Autodeterminação sugere que a adesão é maior quando as ferramentas atendem às necessidades de autonomia (poder de escolha), competência (sensação de domínio) e relação (sentimento de conexão). A personalização e a flexibilidade são chaves para isso."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Limitar a intervenção do paciente através de protocolos rígidos e pré-definidos.",
+                      "explanation": "Incorreta. A personalização e a escolha atendem à necessidade de Autonomia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Exigir que o paciente faça uma postagem diária sobre sua terapia em suas redes sociais.",
+                      "explanation": "Incorreta. Isso viola o sigilo e a privacidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Tornar o tratamento o mais genérico possível para atingir o maior número de pessoas.",
+                      "explanation": "Incorreta. A personalização é fundamental para o engajamento individual."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_PnED_compilado1_L1_Q40",
+                  "statement": "A **colaboração interinstitucional** (setor tecnológico, legisladores e organizações de defesa dos direitos) é fundamental na construção de espaços digitais seguros porque permite:",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desenvolvimento de leis estaduais que substituem regulamentações internacionais como o GDPR.",
+                      "explanation": "Incorreta. A sinergia é necessária para desenvolver legislação que acompanhe a rápida evolução tecnológica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A criação de câmeras de eco para proteger os usuários de conteúdo externo.",
+                      "explanation": "Incorreta. Câmeras de eco reforçam preconceitos e desinformação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A implementação de políticas contra *cyberbullying* que não precisam se alinhar aos princípios de liberdade de expressão.",
+                      "explanation": "Incorreta. A colaboração deve equilibrar segurança *on-line* e direitos digitais, incluindo a liberdade de expressão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A elaboração de políticas eficazes contra o *cyberbullying* que **equilibram os esforços legais, tecnológicos e educacionais**.",
+                      "explanation": "Correta. A colaboração interinstitucional é essencial para uma abordagem multidimensional que combine esforços legais, tecnológicos e educacionais na mitigação do *cyberbullying* e na promoção de um ambiente digital seguro."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A restrição do acesso à internet a programas de educação digital para jovens e adolescentes.",
+                      "explanation": "Incorreta. Os programas educacionais são uma *ferramenta*, mas não a razão da colaboração institucional."
                     }
                   ],
                   "answer": "D"
