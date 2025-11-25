@@ -19367,7 +19367,7 @@
           "lists": [
             {
               "id": "p4_PnED_V1_L1",
-              "title": "(v1) — Lista 1",
+              "title": "(v1) — Lista 1: Psi e Inter 1",
               "questions": [
                 {
                   "id": "p4_PnED_V1_L1_Q1",
@@ -20333,7 +20333,7 @@
             },
             {
               "id": "p4_PnED_V2_L1",
-              "title": "(v2) — Lista 1",
+              "title": "(v2) — Lista 1: Era Digital 1 e 2",
               "questions": [
                 {
                   "id": "p4_PnED_V2_L1_Q1",
@@ -21299,7 +21299,7 @@
             },
             {
               "id": "p4_PnED_V3_L1",
-              "title": "(v3) — Lista 1",
+              "title": "(v3) — Lista 1: Era Digital 3 Uni4",
               "questions": [
                 {
                   "id": "p4_PnED_V3_L1_Q1",
@@ -26460,11 +26460,11 @@
           "title": "🤝 Relações Grupais",
           "lists": [
             {
-              "id": "p4_RG_L1",
+              "id": "p4_RG_V1_L1",
               "title": "(v1) - Lista 01",
               "questions": [
                 {
-                  "id": "p4_RG_L1_Q1",
+                  "id": "P4_RG_V1_L1_Q1",
                   "statement": "Qual dos seguintes conceitos é central na Teoria de Campo de Kurt Lewin para explicar o comportamento de um indivíduo?",
                   "options": [
                     {
@@ -26496,7 +26496,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L1_Q2",
+                  "id": "P4_RG_V1_L1_Q2",
                   "statement": "Segundo a Teoria de Campo de Kurt Lewin, qual o principal foco da pesquisa-ação?",
                   "options": [
                     {
@@ -26528,7 +26528,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L1_Q3",
+                  "id": "P4_RG_V1_L1_Q3",
                   "statement": "Qual é um dos principais objetivos da Teoria de Campo de Lewin em relação ao comportamento individual?",
                   "options": [
                     {
@@ -26560,7 +26560,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L1_Q4",
+                  "id": "P4_RG_V1_L1_Q4",
                   "statement": "O conceito de 'campo' em Kurt Lewin pode ser análogo ao conceito de 'campo de forças' na física, mas com qual diferença fundamental?",
                   "options": [
                     {
@@ -26592,7 +26592,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L1_Q5",
+                  "id": "P4_RG_V1_L1_Q5",
                   "statement": "A Psicologia Social de Pichon-Rivière se baseia na noção de 'Grupo Operativo'. O que caracteriza esse tipo de grupo?",
                   "options": [
                     {
@@ -26624,7 +26624,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L1_Q6",
+                  "id": "P4_RG_V1_L1_Q6",
                   "statement": "Pichon-Rivière descreve um conceito para a 'movimentação do indivíduo no espaço de vida', que é central em sua teoria. Qual é esse conceito?",
                   "options": [
                     {
@@ -26656,7 +26656,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L1_Q7",
+                  "id": "P4_RG_V1_L1_Q7",
                   "statement": "Qual a principal crítica de Pichon-Rivière ao modelo freudiano de análise do indivíduo em isolamento?",
                   "options": [
                     {
@@ -26688,7 +26688,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L1_Q8",
+                  "id": "P4_RG_V1_L1_Q8",
                   "statement": "Na Teoria de Campo, os 'Vetores' são o que impulsionam ou limitam o comportamento de uma pessoa. Que tipo de força um 'vetor' representa?",
                   "options": [
                     {
@@ -26720,7 +26720,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L1_Q9",
+                  "id": "P4_RG_V1_L1_Q9",
                   "statement": "Na teoria de Pichon-Rivière, o 'Grupo Operativo' se desenvolve em torno de uma 'tarefa' explícita. O que essa 'tarefa' representa?",
                   "options": [
                     {
@@ -26752,7 +26752,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L1_Q10",
+                  "id": "P4_RG_V1_L1_Q10",
                   "statement": "Segundo Pichon-Rivière, o que é o 'ECRO' (Esquema Conceitual Referencial e Operativo)?",
                   "options": [
                     {
@@ -26786,11 +26786,11 @@
               ]
             },
             {
-              "id": "p4_RG_L2",
+              "id": "p4_RG_V1_L2",
               "title": "(v1) - Lista 2",
               "questions": [
                 {
-                  "id": "p4_RG_L2_Q1",
+                  "id": "P4_RG_V1_L2_Q1",
                   "statement": "De acordo com a introdução da Unidade 1, qual é uma das capacidades que o grupo sensibiliza, possibilita, amplia e estimula nos participantes?",
                   "options": [
                     {
@@ -26822,7 +26822,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q2",
+                  "id": "P4_RG_V1_L2_Q2",
                   "statement": "Qual indivíduo é considerado o precursor da psicoterapia de grupo, devido à sua prática importante nos Estados Unidos?",
                   "options": [
                     {
@@ -26854,7 +26854,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q3",
+                  "id": "P4_RG_V1_L2_Q3",
                   "statement": "Qual a principal abordagem da psicoterapia de grupo de Sigmund Freud, de acordo com o material?",
                   "options": [
                     {
@@ -26886,7 +26886,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q4",
+                  "id": "P4_RG_V1_L2_Q4",
                   "statement": "Qual autor se destaca por introduzir o conceito de 'campo de forças' para explicar a dinâmica de grupo, de forma análoga aos estudos da física?",
                   "options": [
                     {
@@ -26918,7 +26918,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q5",
+                  "id": "P4_RG_V1_L2_Q5",
                   "statement": "Segundo o material, J. L. Moreno foi um dos primeiros a fazer uma crítica ao individualismo da psicanálise. Qual foi a principal contribuição de sua abordagem?",
                   "options": [
                     {
@@ -26950,7 +26950,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q6",
+                  "id": "P4_RG_V1_L2_Q6",
                   "statement": "Qual é a definição de 'matriz grupal', um conceito fundamental na teoria de Foulkes?",
                   "options": [
                     {
@@ -26982,7 +26982,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q7",
+                  "id": "P4_RG_V1_L2_Q7",
                   "statement": "O que o modelo de 'pesquisa-ação' de Kurt Lewin busca, em contraste com a pesquisa tradicional?",
                   "options": [
                     {
@@ -27014,7 +27014,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q8",
+                  "id": "P4_RG_V1_L2_Q8",
                   "statement": "Qual é a principal crítica que a abordagem sociológica faz à análise psicológica de grupos?",
                   "options": [
                     {
@@ -27046,7 +27046,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q9",
+                  "id": "P4_RG_V1_L2_Q9",
                   "statement": "Qual a principal característica que diferencia o conceito de 'matriz grupal' de Foulkes da 'teoria de campo de forças' de Lewin?",
                   "options": [
                     {
@@ -27078,7 +27078,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q10",
+                  "id": "P4_RG_V1_L2_Q10",
                   "statement": "Qual é a principal função da fase de 'diagnóstico' ou 'análise' em uma intervenção grupal, de acordo com as teorias?",
                   "options": [
                     {
@@ -27110,7 +27110,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q11",
+                  "id": "P4_RG_V1_L2_Q11",
                   "statement": "O que a técnica grupal sensibiliza, possibilita, amplia e estimula, de acordo com o material?",
                   "options": [
                     {
@@ -27142,7 +27142,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q12",
+                  "id": "P4_RG_V1_L2_Q12",
                   "statement": "Qual o principal objetivo da teoria de Bion sobre os 'pressupostos básicos' nos grupos de trabalho?",
                   "options": [
                     {
@@ -27174,7 +27174,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q13",
+                  "id": "P4_RG_V1_L2_Q13",
                   "statement": "O que o conceito de 'espaço vital' de Kurt Lewin implica para a compreensão do comportamento humano?",
                   "options": [
                     {
@@ -27206,7 +27206,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q14",
+                  "id": "P4_RG_V1_L2_Q14",
                   "statement": "O que a teoria de Kurt Lewin sobre a dinâmica de grupo, especialmente o conceito de 'espaço vital', enfatiza?",
                   "options": [
                     {
@@ -27238,7 +27238,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q15",
+                  "id": "P4_RG_V1_L2_Q15",
                   "statement": "De acordo com o material, qual é o principal objetivo da teoria de Bion sobre os 'pressupostos básicos' nos grupos de trabalho?",
                   "options": [
                     {
@@ -27270,7 +27270,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q16",
+                  "id": "P4_RG_V1_L2_Q16",
                   "statement": "O que caracteriza a perspectiva interacionista no estudo de grupos?",
                   "options": [
                     {
@@ -27302,7 +27302,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q17",
+                  "id": "P4_RG_V1_L2_Q17",
                   "statement": "Qual a crítica central da sociologia em relação à aplicação da psicanálise aos grupos, segundo o material?",
                   "options": [
                     {
@@ -27334,7 +27334,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q18",
+                  "id": "P4_RG_V1_L2_Q18",
                   "statement": "O que o material aponta como o principal desafio para o psicólogo que trabalha com a dinâmica de grupo?",
                   "options": [
                     {
@@ -27366,7 +27366,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q19",
+                  "id": "P4_RG_V1_L2_Q19",
                   "statement": "Qual dos seguintes aspectos não é um dos objetivos de competência profissional da Unidade 1, conforme o material?",
                   "options": [
                     {
@@ -27398,7 +27398,7 @@
                   "answer": "E"
                 },
                 {
-                  "id": "p4_RG_L2_Q20",
+                  "id": "P4_RG_V1_L2_Q20",
                   "statement": "O que o material aponta como o principal benefício da técnica de grupo para o psicólogo, além de sua capacidade de intervenção?",
                   "options": [
                     {
@@ -27430,7 +27430,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q21",
+                  "id": "P4_RG_V1_L2_Q21",
                   "statement": "Qual dos seguintes autores se destaca na Psicologia Social por sua contribuição com a \"pesquisa-ação\"?",
                   "options": [
                     {
@@ -27462,7 +27462,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_RG_L2_Q22",
+                  "id": "P4_RG_V1_L2_Q22",
                   "statement": "O que o conceito de 'espaço vital' de Kurt Lewin implica para a compreensão do comportamento humano?",
                   "options": [
                     {
@@ -27494,7 +27494,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q23",
+                  "id": "P4_RG_V1_L2_Q23",
                   "statement": "Qual a principal crítica que a abordagem sociológica faz à análise psicológica de grupos?",
                   "options": [
                     {
@@ -27526,7 +27526,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q24",
+                  "id": "P4_RG_V1_L2_Q24",
                   "statement": "O que o material aponta como o principal desafio para o psicólogo que trabalha com a dinâmica de grupo?",
                   "options": [
                     {
@@ -27558,7 +27558,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L2_Q25",
+                  "id": "P4_RG_V1_L2_Q25",
                   "statement": "Qual a principal contribuição de Bion para a teoria dos grupos?",
                   "options": [
                     {
@@ -27590,7 +27590,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q26",
+                  "id": "P4_RG_V1_L2_Q26",
                   "statement": "O que o texto sugere ser a principal diferença entre a Psicologia de Grupos e o Movimento da Terapia de Grupo?",
                   "options": [
                     {
@@ -27622,7 +27622,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_RG_L2_Q27",
+                  "id": "P4_RG_V1_L2_Q27",
                   "statement": "Qual a principal crítica feita à aplicação da Teoria do Campo de Forças de Lewin no estudo das dinâmicas de grupo?",
                   "options": [
                     {
@@ -27654,7 +27654,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_RG_L2_Q28",
+                  "id": "P4_RG_V1_L2_Q28",
                   "statement": "Em qual cenário, de acordo com o estudo sobre as dinâmicas e situações relacionadas ao estudo de grupos, este tipo de serviço se mostra importante para os usuários?",
                   "options": [
                     {
@@ -27686,7 +27686,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L2_Q29",
+                  "id": "P4_RG_V1_L2_Q29",
                   "statement": "Além do cuidado com o sofrimento psíquico, para que mais a técnica grupal se mostra uma forma muito produtiva de intervenção?",
                   "options": [
                     {
@@ -27718,7 +27718,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_RG_L2_Q30",
+                  "id": "P4_RG_V1_L2_Q30",
                   "statement": "O que o texto sugere ser a principal diferença entre a Psicologia de Grupos e o Movimento da Terapia de Grupo?",
                   "options": [
                     {
@@ -27752,11 +27752,11 @@
               ]
             },
             {
-              "id": "p4_RG_L3",
+              "id": "p4_RG_V1_L3",
               "title": "(v1) - Lista 3",
               "questions": [
                 {
-                  "id": "p4_RG_L3_Q1",
+                  "id": "P4_RG_V1_L3_Q1",
                   "statement": "De acordo com os objetivos de competência profissional da Unidade 1, qual aspecto deve ser compreendido em relação ao comportamento psicossocial das massas?",
                   "options": [
                     {
@@ -27788,7 +27788,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q2",
+                  "id": "P4_RG_V1_L3_Q2",
                   "statement": "Quem é considerado o precursor da psicoterapia de grupo, sendo fundamental para o início do desenvolvimento presente hoje na atuação dos profissionais da saúde?",
                   "options": [
                     {
@@ -27820,7 +27820,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L3_Q3",
+                  "id": "P4_RG_V1_L3_Q3",
                   "statement": "Em qual cenário, em especial, a contribuição de W. R. Bion e suas teorias sobre a dinâmica de grupo, como os pressupostos básicos, é importante?",
                   "options": [
                     {
@@ -27852,7 +27852,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q4",
+                  "id": "P4_RG_V1_L3_Q4",
                   "statement": "O que o modelo de pesquisa-ação de Kurt Lewin buscava como um de seus principais objetivos?",
                   "options": [
                     {
@@ -27884,7 +27884,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q5",
+                  "id": "P4_RG_V1_L3_Q5",
                   "statement": "Qual é a principal característica da abordagem de J. L. Moreno que a diferencia de outras teorias de grupo?",
                   "options": [
                     {
@@ -27916,7 +27916,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q6",
+                  "id": "P4_RG_V1_L3_Q6",
                   "statement": "Para que se utiliza o sociograma, uma ferramenta desenvolvida por J. L. Moreno?",
                   "options": [
                     {
@@ -27948,7 +27948,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L3_Q7",
+                  "id": "P4_RG_V1_L3_Q7",
                   "statement": "Qual dos seguintes é um conceito central na teoria de Kurt Lewin que descreve o conjunto de forças que atuam no ambiente de um indivíduo ou grupo?",
                   "options": [
                     {
@@ -27980,7 +27980,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q8",
+                  "id": "P4_RG_V1_L3_Q8",
                   "statement": "Qual a principal crítica que a abordagem sociológica faz à análise psicológica de grupos?",
                   "options": [
                     {
@@ -28012,7 +28012,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L3_Q9",
+                  "id": "P4_RG_V1_L3_Q9",
                   "statement": "O que caracteriza a perspectiva interacionista no estudo de grupos?",
                   "options": [
                     {
@@ -28044,7 +28044,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q10",
+                  "id": "P4_RG_V1_L3_Q10",
                   "statement": "De acordo com o material, qual é uma das principais utilidades do estudo dos 'fenômenos de grupo' para a atuação do psicólogo?",
                   "options": [
                     {
@@ -28076,7 +28076,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q11",
+                  "id": "P4_RG_V1_L3_Q11",
                   "statement": "Para que a técnica grupal se mostra uma forma muito produtiva de intervenção, além do cuidado com o sofrimento psíquico?",
                   "options": [
                     {
@@ -28108,7 +28108,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_RG_L3_Q12",
+                  "id": "P4_RG_V1_L3_Q12",
                   "statement": "Em qual cenário, de acordo com o estudo sobre as dinâmicas e situações relacionadas ao estudo de grupos, este tipo de serviço se mostra importante para os usuários?",
                   "options": [
                     {
@@ -28140,7 +28140,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q13",
+                  "id": "P4_RG_V1_L3_Q13",
                   "statement": "Qual dos seguintes aspectos não é um dos objetivos de competência profissional da Unidade 1, conforme o material?",
                   "options": [
                     {
@@ -28172,7 +28172,7 @@
                   "answer": "E"
                 },
                 {
-                  "id": "p4_RG_L3_Q14",
+                  "id": "P4_RG_V1_L3_Q14",
                   "statement": "De acordo com o material, qual é o principal objetivo da teoria dos 'pressupostos básicos' de W. R. Bion?",
                   "options": [
                     {
@@ -28204,7 +28204,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L3_Q15",
+                  "id": "P4_RG_V1_L3_Q15",
                   "statement": "O que a teoria de Kurt Lewin sobre a dinâmica de grupo, especialmente o conceito de 'espaço vital', enfatiza?",
                   "options": [
                     {
@@ -28236,7 +28236,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q16",
+                  "id": "P4_RG_V1_L3_Q16",
                   "statement": "O texto menciona que o psicólogo, ao trabalhar com grupos, deve ter uma atitude de 'escuta flutuante' ou 'atenção flutuante'. Qual o significado dessa atitude, inspirada na psicanálise?",
                   "options": [
                     {
@@ -28268,7 +28268,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q17",
+                  "id": "P4_RG_V1_L3_Q17",
                   "statement": "Qual é a principal função da fase de 'diagnóstico' ou 'análise' em uma intervenção grupal, de acordo com as teorias?",
                   "options": [
                     {
@@ -28300,7 +28300,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L3_Q18",
+                  "id": "P4_RG_V1_L3_Q18",
                   "statement": "O que o conceito de 'espaço vital' de Kurt Lewin implica para a compreensão do comportamento humano?",
                   "options": [
                     {
@@ -28332,7 +28332,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L3_Q19",
+                  "id": "P4_RG_V1_L3_Q19",
                   "statement": "Qual é a crítica central da sociologia em relação à aplicação da psicanálise aos grupos, segundo o material?",
                   "options": [
                     {
@@ -28364,7 +28364,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q20",
+                  "id": "P4_RG_V1_L3_Q20",
                   "statement": "Segundo o material, qual é o papel do psicólogo no processo de intervenção em grupos, em contraste com um líder autoritário?",
                   "options": [
                     {
@@ -28396,7 +28396,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q21",
+                  "id": "P4_RG_V1_L3_Q21",
                   "statement": "A prática de J. H. Pratt é vista como o precursor da psicoterapia de grupo por qual motivo?",
                   "options": [
                     {
@@ -28428,7 +28428,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_RG_L3_Q22",
+                  "id": "P4_RG_V1_L3_Q22",
                   "statement": "Qual é a diferença entre a abordagem de Kurt Lewin e a de J. L. Moreno?",
                   "options": [
                     {
@@ -28460,7 +28460,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q23",
+                  "id": "P4_RG_V1_L3_Q23",
                   "statement": "Qual dos seguintes aspectos é central na abordagem de J. L. Moreno e distingue seu trabalho na área da dinâmica de grupo?",
                   "options": [
                     {
@@ -28492,7 +28492,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L3_Q24",
+                  "id": "P4_RG_V1_L3_Q24",
                   "statement": "Qual é a principal função da 'matriz grupal' na teoria de Foulkes, no contexto da análise de grupo?",
                   "options": [
                     {
@@ -28524,7 +28524,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q25",
+                  "id": "P4_RG_V1_L3_Q25",
                   "statement": "O que o modelo de pesquisa-ação de Kurt Lewin implica para a relação entre teoria e prática na dinâmica de grupo?",
                   "options": [
                     {
@@ -28556,7 +28556,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q26",
+                  "id": "P4_RG_V1_L3_Q26",
                   "statement": "Qual dos seguintes exemplos representa uma atuação do psicólogo com base na perspectiva sociológica no estudo de grupos?",
                   "options": [
                     {
@@ -28588,7 +28588,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q27",
+                  "id": "P4_RG_V1_L3_Q27",
                   "statement": "O que a abordagem de Bion sobre os 'pressupostos básicos' nos grupos de trabalho sugere sobre o comportamento do grupo?",
                   "options": [
                     {
@@ -28620,7 +28620,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L3_Q28",
+                  "id": "P4_RG_V1_L3_Q28",
                   "statement": "Qual dos seguintes é um dos principais desafios para o psicólogo que trabalha com a dinâmica de grupo, conforme o material?",
                   "options": [
                     {
@@ -28652,7 +28652,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_L3_Q29",
+                  "id": "P4_RG_V1_L3_Q29",
                   "statement": "Qual foi a contribuição principal de Freud para a dinâmica de grupo, de acordo com o material?",
                   "options": [
                     {
@@ -28684,7 +28684,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_L3_Q30",
+                  "id": "P4_RG_V1_L3_Q30",
                   "statement": "A escolha do modelo de investigação (quantitativo, qualitativo ou misto) para o estudo de fenômenos grupais dependerá fundamentalmente de quê?",
                   "options": [
                     {
@@ -28718,11 +28718,11 @@
               ]
             },
             {
-              "id": "p4_psicopatologia2_v2_L1",
+              "id": "p4_RG_v2_L1",
               "title": "(v2) - Lista 1: relações v2 parte2",
               "questions": [
                 {
-                  "id": "p4_RG_v2_L1_Q1",
+                  "id": "P4_RG_V2_L1_Q",
                   "statement": "De acordo com as considerações a respeito dos grupos segundo Bion, em qual hospital e setor ele iniciou seus trabalhos com grupos, durante a Segunda Guerra Mundial?",
                   "options": [
                     {
@@ -29010,7 +29010,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q10",
+                  "id": "P4_RG_V2_L1_Q0",
                   "statement": "No contexto institucional, qual é a principal diferença entre os conceitos de 'Instituição' e 'Organização', segundo o texto?",
                   "options": [
                     {
@@ -29042,7 +29042,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q11",
+                  "id": "P4_RG_V2_L1_Q1",
                   "statement": "A Análise Institucional de René Lourau utiliza o conceito de 'Implicação'. O que é a Implicação para Lourau no trabalho do analista?",
                   "options": [
                     {
@@ -29074,7 +29074,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q12",
+                  "id": "P4_RG_V2_L1_Q2",
                   "statement": "No que consiste a 'Análise da Demanda' no contexto da intervenção psicológica institucional?",
                   "options": [
                     {
@@ -29106,7 +29106,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q13",
+                  "id": "P4_RG_V2_L1_Q3",
                   "statement": "Qual é a principal função do psicólogo no trabalho com grupos na instituição, conforme o texto?",
                   "options": [
                     {
@@ -29138,7 +29138,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q14",
+                  "id": "P4_RG_V2_L1_Q4",
                   "statement": "De acordo com as considerações sobre o trabalho grupal em instituições, o que significa a ideia de 'transição da psicoterapia para a intervenção no campo das relações'?",
                   "options": [
                     {
@@ -29170,7 +29170,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q15",
+                  "id": "P4_RG_V2_L1_Q5",
                   "statement": "Qual dos seguintes é um desafio crucial para o analista de grupo ao conciliar o coletivo e o singular, em uma perspectiva psicanalítica?",
                   "options": [
                     {
@@ -29202,7 +29202,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q16",
+                  "id": "P4_RG_V2_L1_Q6",
                   "statement": "Conforme a teoria de Bion sobre os grupos, o que diferencia a 'Mente Grupal' (Group Mind) da 'Cultura Grupal' (Group Culture)?",
                   "options": [
                     {
@@ -29234,7 +29234,7 @@
                   "answer": "C"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q17",
+                  "id": "P4_RG_V2_L1_Q7",
                   "statement": "O que Bion define como 'Grupo de Trabalho' (Work Group) e como ele se relaciona com os 'Pressupostos Básicos' (Basic Assumptions)?",
                   "options": [
                     {
@@ -29266,7 +29266,7 @@
                   "answer": "B"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q18",
+                  "id": "P4_RG_V2_L1_Q8",
                   "statement": "A 'ilusão grupal' de Anzieu, que se manifesta como a negação da diferença em prol de um coletivo idealizado, pode ser conceitualmente aproximada de qual fenômeno bioniano, considerando a função de negação da realidade e da tarefa?",
                   "options": [
                     {
@@ -29298,7 +29298,7 @@
                   "answer": "D"
                 },
                 {
-                  "id": "p4_RG_v2_L1_Q19",
+                  "id": "P4_RG_V2_L1_Q9",
                   "statement": "Qual é a contribuição principal de René Kaës para a Psicanálise de Grupo, em relação aos conceitos de 'alianças inconscientes' e 'grupalidade'?",
                   "options": [
                     {
@@ -29677,6 +29677,2258 @@
                       "id": "E",
                       "text": "Conciliar o coletivo sem deixar de lado a dimensão singular do sujeito.",
                       "explanation": "Incorreta. Esta é a definição do desafio do psicanalista, mas não o propósito das 'rachaduras'."
+                    }
+                  ],
+                  "answer": "B"
+                }
+              ]
+            },
+            {
+              "id": "p4_RG_V3_L1",
+              "title": "(v3) - Lista 1",
+              "questions": [
+                {
+                  "id": "p4_RG_V3_L1_Q1",
+                  "statement": "O trabalho em grupo, na atuação profissional do psicólogo, é considerado uma ferramenta fundamental para a intervenção psicológica, sendo um contexto enriquecido para o cuidado humano. Qual o efeito significativo que o trabalho grupal tem na vida do indivíduo, de acordo com o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O grupo foca apenas na evolução da consciência individual, desconsiderando a troca coletiva de experiências.",
+                      "explanation": "A consciência grupal surge pela troca de experiências, potencializando a evolução coletiva, não se limitando à consciência individual."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O efeito significativo está limitado apenas à prevenção e à promoção da saúde física.",
+                      "explanation": "O grupo proporciona condições de prevenção e promoção da saúde, sensibiliza quanto às vivências emocionais, possibilita a expressão de tensões e sentimentos, amplia a percepção e estimula a criatividade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promove o surgimento de uma consciência grupal, gerada pela troca de experiências que contribui coletivamente para a evolução de todos os participantes.",
+                      "explanation": "A troca de experiências efetiva leva ao surgimento de uma consciência grupal, que beneficia todos os participantes, incluindo o profissional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O trabalho grupal não afeta a criatividade, pois ela é uma característica estritamente individual.",
+                      "explanation": "A troca grupal estimula a criatividade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A atuação grupal limita a expressão de sentimentos e tensões individuais.",
+                      "explanation": "O grupo possibilita a expressão de tensões e sentimentos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q2",
+                  "statement": "Na fase inicial do trabalho com grupos, é crucial que o profissional promova um ambiente de segurança e acolhimento para o indivíduo. Qual é a principal função do profissional nessa fase, conforme o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Garantir que todos os participantes revelem imediatamente suas questões mais íntimas para agilizar o processo terapêutico.",
+                      "explanation": "O profissional deve promover um ambiente de segurança e acolhimento, respeitando o ritmo do indivíduo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Estabelecer um clima de aceitação e confiança, orientando os indivíduos a respeito dos limites e combinados do trabalho.",
+                      "explanation": "A principal função do profissional no início é estabelecer esse clima de aceitação, confiança e orientar sobre as regras (combinados)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Focar exclusivamente nas normas e regras, sem dar espaço para a expressão de dúvidas e ansiedades.",
+                      "explanation": "O profissional deve ser receptivo às dúvidas e ansiedades."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Sugerir que os participantes se auto-avaliem e se corrijam mutuamente de forma imediata.",
+                      "explanation": "A correção mútua deve ser mediada pelo profissional e não é o foco inicial."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Promover a rápida coesão do grupo por meio de atividades competitivas.",
+                      "explanation": "O foco deve ser no acolhimento e confiança, não na competição."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q3",
+                  "statement": "O termo \"setting\" é um conceito fundamental na teoria psicanalítica, mas é adaptado para o trabalho com grupos. Qual o elemento que a definição de \"setting\" para grupos *não* inclui?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O tempo de duração de cada encontro grupal.",
+                      "explanation": "O tempo é um componente do setting."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O lugar físico onde o grupo se reúne.",
+                      "explanation": "O lugar é um componente do setting."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A modalidade de trabalho escolhida (por exemplo, psicoterapia, grupos operativos).",
+                      "explanation": "A modalidade faz parte da organização do setting."
+                    },
+                    {
+                      "id": "D",
+                      "text": "As regras e combinados do grupo, como o sigilo e a frequência.",
+                      "explanation": "As regras e combinados são elementos cruciais do setting."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A interpretação imediata do inconsciente grupal pelo coordenador.",
+                      "explanation": "A interpretação é uma *intervenção* do coordenador e não um *componente estrutural* do setting."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q4",
+                  "statement": "No trabalho com grupos, a intervenção do psicólogo deve ser balizada por uma postura que contemple a dimensão grupal sem desconsiderar a singularidade dos sujeitos. Qual é o principal desafio dessa postura, segundo o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Conseguir manter o grupo em silêncio absoluto para que o inconsciente possa emergir.",
+                      "explanation": "O silêncio pode ser uma forma de resistência ou reflexão, mas não o principal desafio."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Conciliar o coletivo sem deixar de lado a dimensão singular do sujeito.",
+                      "explanation": "O desafio é justamente equilibrar o olhar para o grupo (coletivo) e o olhar para cada participante (singularidade)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Focar exclusivamente no objetivo do grupo, ignorando os processos emocionais dos participantes.",
+                      "explanation": "Os processos emocionais são centrais no trabalho grupal."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Evitar qualquer tipo de conflito, mantendo uma atmosfera de conciliação artificial.",
+                      "explanation": "O conflito é inerente à dinâmica grupal e deve ser trabalhado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Transformar rapidamente os conteúdos grupais em materiais individuais para a psicoterapia.",
+                      "explanation": "O trabalho grupal tem sua própria especificidade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q5",
+                  "statement": "Um dos elementos básicos para o trabalho com grupos é o objetivo, que orienta a intervenção do profissional. Qual das opções descreve corretamente a função do objetivo na condução de um grupo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Impede a flexibilização do processo, tornando-o rígido e inflexível.",
+                      "explanation": "O objetivo não deve engessar, mas sim nortear."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Permite que a equipe de coordenação evite se preparar, delegando a responsabilidade aos participantes.",
+                      "explanation": "O objetivo exige planejamento e preparação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Orienta o profissional na escolha das técnicas e do \"setting\", mas deve ser flexível, podendo ser alterado ao longo do processo.",
+                      "explanation": "O objetivo norteia e orienta, mas deve ser passível de alteração para atender às necessidades emergentes do grupo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É estabelecido unicamente pelo profissional, sem qualquer participação dos indivíduos.",
+                      "explanation": "O ideal é que o objetivo seja construído conjuntamente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Deve ser mantido o mesmo desde o início até o fim, sem qualquer possibilidade de mudança.",
+                      "explanation": "O objetivo deve ser flexível."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q6",
+                  "statement": "Na dinâmica grupal, os participantes manifestam sentimentos, atitudes e expectativas. Qual é o fenômeno que se refere à transferência de sentimentos e atitudes dos membros do grupo para o coordenador, baseados em experiências passadas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Contratransferência.",
+                      "explanation": "Contratransferência é a reação do coordenador ao material do grupo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Associações livres.",
+                      "explanation": "Associações livres é uma técnica psicanalítica, não o fenômeno de transferência de sentimentos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Identificação projetiva.",
+                      "explanation": "Identificação projetiva é um mecanismo de defesa."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Transferência.",
+                      "explanation": "Transferência é o fenômeno pelo qual os sentimentos e atitudes vividas em experiências passadas são transferidos para o coordenador (ou outros membros do grupo)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Regressão.",
+                      "explanation": "Regressão é um retorno a um estado anterior de desenvolvimento."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q7",
+                  "statement": "O manejo da contratransferência é um desafio essencial para o psicólogo que trabalha com grupos. O que a contratransferência representa, especificamente, no contexto da coordenação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A reação inconsciente do coordenador aos sentimentos e atitudes manifestados pelo grupo.",
+                      "explanation": "A contratransferência é a manifestação da reação do coordenador ao material do grupo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O desejo dos membros de competir com o coordenador.",
+                      "explanation": "Isso é um aspecto da dinâmica de poder, não a contratransferência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A identificação consciente do coordenador com o sofrimento do paciente.",
+                      "explanation": "A contratransferência é inconsciente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A projeção dos medos e ansiedades dos participantes nos demais membros do grupo.",
+                      "explanation": "Isso se refere à projeção."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A neutralidade completa e a ausência de sentimentos do coordenador em relação ao grupo.",
+                      "explanation": "O coordenador deve reconhecer seus sentimentos."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q8",
+                  "statement": "A \"resistência\" é um conceito que se manifesta frequentemente no trabalho com grupos. Qual é a principal característica da resistência no contexto grupal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A ausência de conflitos e a concordância total entre os membros.",
+                      "explanation": "A resistência manifesta-se no silêncio, na apatia, nos atrasos, etc."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A manifestação de atitudes ou sentimentos que atuam como barreiras para o desenvolvimento e a mudança.",
+                      "explanation": "A resistência são as manifestações de atitudes ou sentimentos que atuam como barreiras para o desenvolvimento do processo, podendo surgir por medo ou ansiedade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O desejo intenso de todos os membros de encerrar o trabalho de forma prematura.",
+                      "explanation": "Pode ser um sintoma, mas não a principal característica."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A capacidade de o grupo de se autogerenciar, dispensando a presença do coordenador.",
+                      "explanation": "A resistência exige o manejo do coordenador."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A livre associação de ideias de forma espontânea e irrefletida.",
+                      "explanation": "Livre associação é o oposto da resistência."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q9",
+                  "statement": "A coesão grupal é um fator crucial para o sucesso do trabalho. O que a coesão representa na dinâmica de um grupo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A ausência de indivíduos que se destaquem dos demais.",
+                      "explanation": "A coesão não anula a individualidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O sentimento de união, atração mútua e identificação dos membros com o grupo e seus objetivos.",
+                      "explanation": "Coesão é o sentimento de união, de atração mútua e de identificação dos membros com o grupo e seus objetivos, sendo um facilitador do processo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A capacidade de o coordenador de impor suas regras e evitar qualquer tipo de discussão.",
+                      "explanation": "A coesão surge da identificação e atração mútua."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A dependência total dos membros em relação ao coordenador para a tomada de decisões.",
+                      "explanation": "A coesão estimula a autonomia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A competição constante e saudável entre os membros, visando o melhor desempenho.",
+                      "explanation": "A competição excessiva pode diminuir a coesão."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q10",
+                  "statement": "Para que o trabalho com grupos seja efetivo, o psicólogo deve definir regras claras. Qual é o propósito primário dessas regras ou \"combinados\"?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Eliminar completamente a possibilidade de conflito no grupo.",
+                      "explanation": "As regras minimizam o conflito, mas não o eliminam."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Facilitar a comunicação e a interação, estabelecendo o limite entre o individual e o coletivo.",
+                      "explanation": "As regras facilitam a comunicação e a interação, estabelecendo o limite entre o individual e o coletivo, sendo essenciais para a organização grupal."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Garantir que apenas o coordenador possa falar durante os encontros.",
+                      "explanation": "As regras promovem a comunicação de todos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Reforçar a autoridade do coordenador sobre os participantes, sem chance de negociação.",
+                      "explanation": "O ideal é que as regras sejam estabelecidas em conjunto."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Manter o \"setting\" em constante mudança, evitando a previsibilidade.",
+                      "explanation": "O setting, incluindo as regras, deve ser estável."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q11",
+                  "statement": "Em um grupo terapêutico, qual fenômeno é caracterizado pela tendência dos participantes a se comportarem de maneira semelhante a um padrão ou modelo, frequentemente o coordenador?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Desidentificação.",
+                      "explanation": "Desidentificação é o oposto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Transferência.",
+                      "explanation": "Transferência é a projeção de sentimentos passados."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Contratransferência.",
+                      "explanation": "Contratransferência é a reação do coordenador."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Identificação.",
+                      "explanation": "Identificação é o processo pelo qual os participantes do grupo tendem a se comportar de maneira semelhante a um padrão, que pode ser o coordenador ou outro membro."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Regressão.",
+                      "explanation": "Regressão é o retorno a estágios anteriores."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q12",
+                  "statement": "A comunicação no grupo não se limita apenas ao que é verbalizado. Qual o tipo de comunicação que expressa a dimensão emocional e inconsciente da interação grupal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Comunicação interpessoal.",
+                      "explanation": "Refere-se à troca entre indivíduos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Comunicação verbal explícita.",
+                      "explanation": "Refere-se ao conteúdo manifesto."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Comunicação não verbal e subliminar.",
+                      "explanation": "A comunicação não verbal e subliminar (gestos, olhares, silêncios) carrega a dimensão emocional e inconsciente, sendo um campo rico para a intervenção."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Comunicação formal e estruturada.",
+                      "explanation": "É mais racional e superficial."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Comunicação técnica e objetiva.",
+                      "explanation": "É mais racional e superficial."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q13",
+                  "statement": "No contexto de grupos, a função de \"mediador de conflitos\" do psicólogo é vital. Qual é o papel principal do psicólogo ao mediar um conflito?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Impor uma solução rápida e definitiva, evitando o debate.",
+                      "explanation": "A mediação visa o aprendizado e a compreensão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Proteger um dos lados do conflito, assegurando a vitória do mais fraco.",
+                      "explanation": "A mediação deve ser neutra."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Transformar a energia destrutiva do conflito em energia construtiva para o desenvolvimento do grupo.",
+                      "explanation": "O conflito é inerente, e o profissional deve transformá-lo em algo construtivo para o desenvolvimento do grupo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Retirar os membros em conflito do grupo para preservar a harmonia geral.",
+                      "explanation": "O conflito deve ser trabalhado dentro do grupo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ignorar o conflito, esperando que ele se resolva naturalmente com o tempo.",
+                      "explanation": "A omissão pode ser prejudicial."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q14",
+                  "statement": "Em relação ao contrato de trabalho com o grupo, qual é a principal razão para que ele deva ser claro e estabelecido preferencialmente no início do processo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Para garantir que o profissional tenha o poder total de decisão sobre o grupo.",
+                      "explanation": "O contrato estabelece limites, mas não o poder total do profissional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Para evitar que qualquer membro desista do grupo, criando uma obrigação legal.",
+                      "explanation": "O contrato é ético, não legal para retenção."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Para delimitar o tempo, o lugar, os objetivos e as expectativas, estruturando o \"setting\" e gerando segurança.",
+                      "explanation": "O contrato é essencial para estruturar o setting, delimitando tempo, lugar, objetivos e expectativas, gerando segurança para o grupo e o profissional."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Para que o profissional possa focar exclusivamente nos conteúdos individuais, desconsiderando a dinâmica grupal.",
+                      "explanation": "O contrato estrutura a dinâmica grupal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Para permitir mudanças radicais no formato do grupo sem a consulta dos participantes.",
+                      "explanation": "O contrato visa a estabilidade e a clareza."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q15",
+                  "statement": "Qual o principal risco da **não** observância das normas éticas e dos limites na condução de grupos pelo psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aumentar a coesão e a dependência do grupo em relação ao coordenador.",
+                      "explanation": "A não observância pode levar ao prejuízo, não à coesão."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Promover a rápida evolução individual, ignorando o processo grupal.",
+                      "explanation": "Não seguir as normas leva ao risco de prejuízo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Prejudicar o processo terapêutico, gerar insegurança e até mesmo causar danos psíquicos aos participantes.",
+                      "explanation": "O principal risco é o prejuízo ao processo e a possibilidade de causar danos psíquicos aos indivíduos, visto que a ética e os limites são o balizador do trabalho."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Manter o foco estrito na técnica, evitando o contato com a dimensão emocional.",
+                      "explanation": "A ética abrange a dimensão emocional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Limitar a atuação do profissional apenas ao campo teórico, sem prática.",
+                      "explanation": "O risco é na prática."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q16",
+                  "statement": "Qual é a principal característica que a **escuta psicanalítica** acrescenta ao trabalho com grupos, distinguindo-a de uma escuta meramente sociológica ou pedagógica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A ênfase na análise das relações de poder e na estrutura social do grupo.",
+                      "explanation": "Isso é mais sociológico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A priorização do conteúdo manifesto e das tarefas a serem realizadas pelo grupo.",
+                      "explanation": "A psicanálise foca no latente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A atenção ao **latente** (inconsciente) e aos processos de transferência e contratransferência que emergem na dinâmica grupal.",
+                      "explanation": "A escuta psicanalítica no grupo foca no latente, nos aspectos inconscientes, e na complexa trama de transferência e contratransferência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A exclusão total de qualquer foco no coletivo, priorizando apenas o indivíduo.",
+                      "explanation": "O grupo é o foco da psicanálise grupal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A imposição de um diagnóstico imediato e categórico sobre a patologia do grupo.",
+                      "explanation": "O foco não é no diagnóstico imediato, mas na compreensão."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q17",
+                  "statement": "No trabalho com grupos de mães, o texto indica a importância de o psicólogo promover a escuta e a troca de experiências, estimulando as mães a se sentirem menos culpadas. Qual o *mecanismo de defesa* que é frequentemente acionado nessas mães, e que o grupo ajuda a elaborar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Projeção.",
+                      "explanation": "A projeção é o ato de atribuir a outros o que é de si."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Sublimação.",
+                      "explanation": "Sublimação é a canalização de impulsos para fins socialmente aceitáveis."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Racionalização.",
+                      "explanation": "Racionalização é a justificação lógica de atos ou sentimentos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Identificação.",
+                      "explanation": "A identificação, especialmente com outras mães (no sentido de partilha de sentimentos e culpas), é o mecanismo principal de apoio, ajudando a elaborar sentimentos de culpa e solidão."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Negação.",
+                      "explanation": "A negação é a recusa em aceitar uma realidade."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q18",
+                  "statement": "Em relação à coesão grupal, qual é a principal crítica feita à sua busca **excessiva**, sem o manejo da resistência e do conflito?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A coesão excessiva garante a estabilidade do grupo e minimiza o trabalho do coordenador.",
+                      "explanation": "A coesão excessiva pode ser uma resistência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ela pode se tornar uma **resistência** contra o desenvolvimento, evitando o enfrentamento de conflitos e a expressão de diferenças.",
+                      "explanation": "A busca excessiva por coesão (harmonização) pode ser uma forma de resistência do grupo contra a análise de seus conflitos e diferenças."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aumenta a individualização dos membros, fragmentando o grupo.",
+                      "explanation": "A coesão aumenta a união."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Leva ao completo silêncio dos participantes, pois todos estão satisfeitos.",
+                      "explanation": "Silêncio pode ser resistência ou apatia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estimula a livre associação de ideias, facilitando a intervenção psicanalítica.",
+                      "explanation": "Coesão excessiva pode inibir."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q19",
+                  "statement": "O texto menciona que, em momentos de ansiedade e resistência, o grupo pode tender a regredir e buscar um funcionamento mais **dependente**. Qual é o principal risco dessa regressão para a dinâmica grupal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O aumento da criatividade e da autonomia dos participantes.",
+                      "explanation": "O oposto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A delegação da responsabilidade e da autonomia ao coordenador, retardando o processo de elaboração.",
+                      "explanation": "A regressão leva à dependência, na qual o grupo delega a responsabilidade e autonomia ao coordenador, retardando o seu próprio desenvolvimento e elaboração."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O fortalecimento do \"setting\" e das regras, tornando o ambiente mais seguro.",
+                      "explanation": "A dependência fragiliza o grupo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A valorização da singularidade, em detrimento do coletivo.",
+                      "explanation": "A dependência homogeneíza."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O surgimento de líderes que desafiam o coordenador, promovendo a competição saudável.",
+                      "explanation": "A dependência busca a figura de autoridade, não a desafia."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q20",
+                  "statement": "O que é o \"coletivo\" no contexto de um grupo, na perspectiva psicanalítica, e como ele se diferencia da simples soma de indivíduos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É a soma das individualidades, sem qualquer interferência mútua.",
+                      "explanation": "Há interferência mútua."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É a manifestação de um inconsciente grupal, que transcende e integra as singularidades, não sendo a simples soma delas.",
+                      "explanation": "O coletivo (ou inconsciente grupal) é mais do que a soma das singularidades; é a produção de um campo que as transcende."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É o espaço físico onde o grupo se reúne, sendo o principal componente do \"setting\".",
+                      "explanation": "Isso é o lugar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É a parte racional do grupo, que busca evitar a emergência dos sentimentos.",
+                      "explanation": "O coletivo é também emocional e inconsciente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É o conjunto de regras e combinados estabelecidos pelo coordenador.",
+                      "explanation": "Isso é o contrato ou regras."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q21",
+                  "statement": "O texto ressalta que o psicólogo, ao trabalhar com grupos, deve ter uma postura de **observador participante**. Qual é a característica fundamental dessa postura que a torna tão essencial no manejo grupal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A neutralidade absoluta, na qual o profissional não se afeta pelo que ocorre no grupo.",
+                      "explanation": "O profissional se afeta, mas deve manejar a contratransferência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A capacidade de intervir apenas no conteúdo manifesto, ignorando o latente.",
+                      "explanation": "O observador participante busca o latente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A intervenção a partir do que é observado, ao mesmo tempo em que se permite ser **afetado** e utiliza a **própria contratransferência** para a compreensão do processo.",
+                      "explanation": "O profissional observa o processo (participante) e se permite ser afetado (utilizando a contratransferência), o que enriquece a sua intervenção."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O foco exclusivo na dimensão singular do sujeito, desconsiderando a dinâmica coletiva.",
+                      "explanation": "O foco é na dinâmica coletiva e singular."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A imposição de técnicas e exercícios para evitar que os sentimentos do grupo emerjam.",
+                      "explanation": "O oposto: a postura permite a emergência de sentimentos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q22",
+                  "statement": "Qual o principal risco de o psicólogo tentar acelerar o processo de acolhimento e o estabelecimento do vínculo na fase inicial do grupo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Fortalecer a autonomia do grupo, levando à independência precoce.",
+                      "explanation": "O risco é o oposto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Gerar insegurança, ansiedade e uma sensação de ameaça mental, levando à resistência e ao abandono.",
+                      "explanation": "A pressa pode gerar insegurança, ansiedade e uma sensação de ameaça, o que pode fazer o indivíduo evitar o desenvolvimento e levar ao abandono."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Aumentar a coesão de forma saudável, otimizando o tempo.",
+                      "explanation": "A pressa compromete a coesão."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Focar em demasia no objetivo final, ignorando a experiência do presente.",
+                      "explanation": "Isso não é o principal risco da *aceleração do vínculo*."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Transformar o grupo em um espaço de livre associação, sem foco.",
+                      "explanation": "A livre associação é útil, mas não o risco da pressa."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q23",
+                  "statement": "A transferência, no contexto grupal, pode se manifestar de forma **horizontal** e **vertical**. Qual é a distinção central entre esses dois tipos de manifestação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Horizontal: transferência para o coordenador; Vertical: transferência para os membros.",
+                      "explanation": "O inverso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Horizontal: transferência para os membros (parceiros); Vertical: transferência para o coordenador (figura de autoridade).",
+                      "explanation": "A transferência horizontal é a projetada nos pares (membros), e a vertical é a dirigida ao coordenador (figura de autoridade)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Horizontal: conteúdo manifesto; Vertical: conteúdo latente.",
+                      "explanation": "Refere-se à direção da projeção, não ao conteúdo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Horizontal: sentimentos positivos; Vertical: sentimentos negativos.",
+                      "explanation": "Pode ser positiva ou negativa em ambos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Horizontal: identificação; Vertical: contratransferência.",
+                      "explanation": "Horizontal/Vertical são tipos de transferência."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q24",
+                  "statement": "Para a psicanálise, as intervenções no grupo não devem ser meramente informativas. Qual é a principal característica que a intervenção psicanalítica deve possuir para ser eficaz?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ser focada em soluções práticas para os problemas do cotidiano.",
+                      "explanation": "O foco é na elaboração."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ser uma **interpretação** que promova a reflexão e o insight, a partir do que é **latente**.",
+                      "explanation": "A intervenção psicanalítica deve ser uma interpretação que busca promover a reflexão e o *insight*, trabalhando o latente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Evitar qualquer menção a sentimentos, focando apenas nos fatos objetivos.",
+                      "explanation": "Os sentimentos são o foco."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ser uma repreensão direta ao comportamento inadequado de um membro.",
+                      "explanation": "A intervenção deve ser continente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ser uma comunicação formal e técnica, que reforce a autoridade do coordenador.",
+                      "explanation": "Deve ser acolhedora e reflexiva."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q25",
+                  "statement": "O texto descreve que os grupos podem se mobilizar por **medo** ou **desejo**. Qual é a implicação dessa dicotomia para o trabalho do psicólogo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O psicólogo deve focar exclusivamente no medo para eliminá-lo.",
+                      "explanation": "O medo é inerente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O desejo é sempre destrutivo e deve ser contido pelo coordenador.",
+                      "explanation": "O desejo é motor de desenvolvimento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O medo mobiliza a **resistência** (manutenção do *status quo*), enquanto o desejo mobiliza o **desenvolvimento** e a **mudança**.",
+                      "explanation": "O medo mobiliza a resistência (manutenção do *status quo* e da dependência), e o desejo mobiliza a evolução e a mudança. O psicólogo deve trabalhar com ambos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O trabalho deve ser centrado apenas no desejo do grupo, ignorando os temores.",
+                      "explanation": "Deve trabalhar com ambos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O medo e o desejo se anulam mutuamente, não tendo impacto na dinâmica.",
+                      "explanation": "Eles são a força motriz."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q26",
+                  "statement": "A noção de que o grupo possui um \"inconsciente grupal\" implica que o coletivo é mais do que a soma das partes. Qual o principal papel desse \"inconsciente grupal\" na dinâmica?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É a fonte de toda a resistência e deve ser evitado.",
+                      "explanation": "Ele é a matriz de significados."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É a matriz de significados e de conflitos, que se manifesta por meio das **produções grupais** e da **dinâmica** (olhares, silêncios, rituais).",
+                      "explanation": "O inconsciente grupal é a matriz de significados, conflitos e afetos, que se manifesta nas produções do grupo (linguagem, rituais, silêncios) e influencia a dinâmica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Serve apenas para reforçar a autoridade do coordenador.",
+                      "explanation": "Ele é um campo de análise."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É um constructo meramente teórico, sem aplicação prática.",
+                      "explanation": "Possui aplicação prática nas intervenções."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É a parte do grupo que foca em soluções lógicas e racionais.",
+                      "explanation": "É inconsciente, não racional."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q27",
+                  "statement": "Qual a principal diferença entre a atuação do psicólogo em um **grupo operativo** e em um **grupo de psicoterapia**?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Grupo Operativo: foco no *insight*; Grupo de Psicoterapia: foco na *tarefa*.",
+                      "explanation": "O inverso."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Grupo Operativo: foco na **tarefa** e no aprendizado/reflexão; Grupo de Psicoterapia: foco na **elaboração** do inconsciente e no *insight*.",
+                      "explanation": "O Grupo Operativo foca na tarefa e no aprendizado/reflexão, enquanto o de Psicoterapia foca na elaboração do inconsciente e no *insight*."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Grupo Operativo: pode ser coordenado por não-psicólogos; Grupo de Psicoterapia: exige coordenador psicanalista.",
+                      "explanation": "Ambos os grupos, no contexto profissional, exigem coordenação qualificada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Grupo Operativo: não tem regras; Grupo de Psicoterapia: tem regras rígidas.",
+                      "explanation": "Ambos têm regras."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Grupo Operativo: foco na cura da doença; Grupo de Psicoterapia: foco na prevenção.",
+                      "explanation": "O de psicoterapia foca na elaboração."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q28",
+                  "statement": "Na análise da comunicação grupal, por que a **comunicação não verbal e subliminar** (silêncios, olhares, gestos) é considerada mais reveladora do **inconsciente grupal** do que a comunicação verbal explícita?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Porque a comunicação verbal é sempre verdadeira e não esconde nada.",
+                      "explanation": "A comunicação verbal pode ser censurada."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Porque ela é menos sujeita à **censura** e à **racionalização**, permitindo que o latente se manifeste de forma mais pura.",
+                      "explanation": "A comunicação não verbal e subliminar é menos sujeita à censura e racionalização, sendo a via de manifestação mais direta do inconsciente grupal (o latente)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Porque apenas o coordenador pode entendê-la, sendo a ferramenta de poder dele.",
+                      "explanation": "O grupo também reage a ela."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Porque ela é mais objetiva e técnica.",
+                      "explanation": "É mais subjetiva e emocional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Porque a comunicação verbal é proibida no setting analítico.",
+                      "explanation": "A verbal é o principal meio de trabalho."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q29",
+                  "statement": "Qual a estratégia mais adequada para que o psicólogo promova o **acolhimento** e a **segurança** de um novo membro ou de um grupo em sua fase inicial?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Forçar o indivíduo a falar de seu trauma logo no primeiro encontro.",
+                      "explanation": "Isso gera insegurança e ansiedade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ser um **\"escudo\"** contra os ataques e ansiedades grupais, estabelecendo o **vínculo** com o novo membro de forma clara e acolhedora.",
+                      "explanation": "A estratégia é ser um \"escudo\" para o novo membro ou o grupo, protegendo-o da ansiedade grupal (ataques), estabelecendo um vínculo claro e acolhedor para que o processo possa se desenvolver."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Manter-se neutro e evitar que o indivíduo fale de si mesmo logo no início.",
+                      "explanation": "É normal obter apoio para falar de si, e o vínculo deve ser estabelecido."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Acelerar o cronograma da sessão para focar na coesão grupal.",
+                      "explanation": "A aceleração pode comprometer o sentimento de acolhimento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Indicar apenas leituras e tarefas de casa complexas para a revisão da sessão.",
+                      "explanation": "As tarefas de casa são úteis, mas a estratégia de acolhimento é o foco."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L1_Q30",
+                  "statement": "O texto descreve que, no meio do grupo de líderes, alguns tipos podem se destacar. Quais são os três tipos de líderes mencionados com base em sua interação e atuação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O observador, o interventor e o árbitro.",
+                      "explanation": "Estes descrevem a atuação ou analogia do facilitador."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O líder colaborativo, o líder conceitual e o líder autoritário.",
+                      "explanation": "Existem alguns tipos [de líderes] que podem se destacar: colaborativos (ajudando no que for preciso), conceituais (aprimorando conhecimentos e inspirando) e autoritários (impõem direcionamentos sem flexibilidade)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O dominador, o dependente e o criador de obstáculos.",
+                      "explanation": "Estes são papéis não construtivos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O supervisor, o treinador e o gerente.",
+                      "explanation": "Estes são nomenclaturas para o responsável, não tipos de atuação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O escudo, o que atrapalha e o responsável.",
+                      "explanation": "Nenhuma das alternativas."
+                    }
+                  ],
+                  "answer": "B"
+                }
+              ]
+            },
+            {
+              "id": "p4_RG_V3_L2",
+              "title": "(v3) — Lista 2: Compilado",
+              "questions": [
+                {
+                  "id": "p4_RG_V3_L2_Q1",
+                  "statement": "De acordo com Freud e Kernberg, a atuação com grupos é frequentemente vista como uma desconstrução que aborda um cenário de grupos \"rachados ou impossibilitados de se desenvolverem completamente\". Qual é a natureza desses comportamentos e o que eles tipicamente ativam nos participantes, segundo o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Comportamentos racionais e bem-refletidos, ativando mecanismos de defesa avançados.",
+                      "explanation": "Incorreta. Os comportamentos citados são primitivos e irrefletidos, ativando relações objetais primitivas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Comportamentos primitivos, irrefletidos e emocionalmente dirigidos, que ativam as relações objetais primitivas e operações defensivas.",
+                      "explanation": "Correta. Segundo Freud e Kernberg, essa atuação lida com a desconstrução de grupos rachados, relacionados a comportamentos primitivos, irrefletidos e emocionalmente dirigidos, ativando relações objetais primitivas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Vivências transpessoais e coletivas, ativando a necessidade de feedback constante e cooperação.",
+                      "explanation": "Incorreta. A desconstrução mencionada por Freud e Kernberg está ligada a comportamentos problemáticos e agressividade."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Uma busca pela sinergia do conhecimento, ativando a necessidade de debate e conversa exploratória.",
+                      "explanation": "Incorreta. A sinergia e a busca por conhecimento são aspectos construtivos do grupo, não estando ligados aos 'grupos rachados' abordados neste contexto psicanalítico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Expressão de sentimentos de forma polida e restrita, mantendo a coesão superficial do grupo.",
+                      "explanation": "Incorreta. Os comportamentos são irrefletidos e emocionalmente dirigidos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q2",
+                  "statement": "O texto descreve que os grupos podem se manifestar de diversas formas no contexto de trabalho. Qual é uma das manifestações de grupos descrita, que se relaciona com um sistema de organização focado na produção e na repetição, e qual seu efeito principal?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Grupo de Amigos: Fortalecem o vínculo emocional, mas podem ignorar as tarefas.",
+                      "explanation": "Incorreta. Grupos de amigos são formados por afinidade e podem estar em qualquer local, mas não são o foco dessa descrição."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O 'Grupo-em-trabalho' ou 'Grupo em Atividade': Desenvolve um sistema de organização que visa a produção e a repetição para preservar o desenvolvimento em si, o que pode levar à alienação do singular.",
+                      "explanation": "Correta. O 'Grupo-em-trabalho' (ou em atividade) é um sistema de organização focado na produção e repetição, com o risco de alienação do sujeito."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O Grupo de Reflexão: Concentra-se exclusivamente na subjetividade individual, impedindo a objetividade do trabalho.",
+                      "explanation": "Incorreta. O Grupo de Reflexão é um tipo de intervenção grupal."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O Grupo Espontâneo: Foca no atendimento das necessidades imediatas dos indivíduos, ignorando a estrutura institucional.",
+                      "explanation": "Incorreta. Grupos espontâneos ocorrem em diversas esferas, mas a questão foca em uma manifestação institucionalizada."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Grupo de Discussão: Tem como principal efeito a resolução imediata de conflitos, sem aprofundamento emocional.",
+                      "explanation": "Incorreta. O Grupo de Discussão é um tipo de intervenção."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q3",
+                  "statement": "A analogia freudiana da 'Igreja' e do 'Exército' é utilizada para explicar a formação e manutenção de massas (grupos). Qual é o conceito psicanalítico central que sustenta a coesão em ambos os grupos, e qual é o fenômeno que é substituído pela ligação libidinal com o líder?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Repressão; o conceito de Edipo é substituído pela idealização do Eu.",
+                      "explanation": "Incorreta. A Repressão é um mecanismo de defesa; o foco deve ser no conceito de Identificação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A Identificação; o amor ao próximo é substituído pelo laço libidinal (idealização) com o líder e pelos laços horizontais entre os membros.",
+                      "explanation": "Correta. O conceito é a Identificação. O amor ao próximo (sentimento horizontal) é substituído pela idealização do líder (laço libidinal vertical), e os membros se identificam entre si pela idealização do mesmo líder."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A Projeção; o desejo individual é substituído pela vontade coletiva imposta pelo líder.",
+                      "explanation": "Incorreta. A Projeção é um mecanismo de defesa; o foco é na Identificação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A Sublimação; a energia sexual é canalizada para as tarefas e objetivos do grupo.",
+                      "explanation": "Incorreta. A Sublimação é um mecanismo de defesa; o foco é na Identificação."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O Complexo de Édipo; a hostilidade entre os membros é eliminada pela figura paterna do líder.",
+                      "explanation": "Incorreta. A hostilidade é reprimida pela ligação libidinal ao líder, mas o conceito central é a Identificação."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q4",
+                  "statement": "O texto sugere que a intervenção psicanalítica em grupos e instituições busca 'explorar o que buscam em condição de operar rachaduras no que está cristalizado'. O que representa o 'cristalizado' no contexto institucional e qual é a sua função?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Representa o potencial individual dos membros, cuja função é buscar a expressão de sentimentos a qualquer custo.",
+                      "explanation": "Incorreta. O cristalizado refere-se aos discursos institucionais, não ao potencial individual."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Representa os discursos e as práticas institucionais que tendem a produzir repetições para preservar o desenvolvimento em si, o que impede a reflexão e o novo.",
+                      "explanation": "Correta. O cristalizado são as repetições dos discursos institucionais que impedem a reflexão crítica e a mudança."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Representa a resistência do líder do grupo, cuja função é manter a autoridade inquestionável.",
+                      "explanation": "Incorreta. A resistência do líder pode ser um aspecto, mas o 'cristalizado' é mais amplo e estrutural."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Representa o conjunto de normas e regulamentos, cuja função é impor a disciplina e a ordem sem espaço para a subjetividade.",
+                      "explanation": "Incorreta. As normas são a base, mas o 'cristalizado' é o efeito da repetição dos discursos e práticas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Representa o vínculo emocional entre os membros, cuja função é facilitar a resolução rápida dos conflitos.",
+                      "explanation": "Incorreta. O vínculo é um elemento do grupo, mas não o 'cristalizado'."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q5",
+                  "statement": "Bion, em seu trabalho no Hospital Northfield, introduziu o conceito de 'cultura de grupo' ao estudar os fenômenos grupais. Qual é a definição de 'cultura de grupo' no contexto bioniano e qual é o seu papel?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A soma das personalidades dos indivíduos, cuja função é apenas facilitar a comunicação.",
+                      "explanation": "Incorreta. A cultura de grupo é o resultado da interação entre o grupo de trabalho e o grupo de pressupostos básicos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O resultado da interação entre o 'grupo de trabalho' (objetivos racionais) e o 'grupo de pressupostos básicos' (atividades inconscientes), cuja função é mediar as operações do grupo.",
+                      "explanation": "Correta. A cultura de grupo é a resultante da interação entre o grupo de trabalho e os grupos de pressupostos básicos, mediando as operações do grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "As normas formais impostas pela instituição, cuja função é garantir a ordem e a disciplina.",
+                      "explanation": "Incorreta. As normas formais são parte do contexto, mas não a 'cultura de grupo' bioniana."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O conjunto de rituais e costumes, cuja função é definir o tipo de liderança a ser adotada.",
+                      "explanation": "Incorreta. A cultura de grupo é um conceito mais complexo do que rituais e costumes."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A capacidade dos membros de evitar conflitos, cuja função é manter o ambiente sempre produtivo.",
+                      "explanation": "Incorreta. A cultura de grupo não se limita a evitar conflitos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q6",
+                  "statement": "A Análise do Comportamento (AC) na atuação grupal se fundamenta em pressupostos específicos. Qual é o principal objetivo da intervenção analítico-comportamental em grupo, de acordo com o texto, e qual é o foco de análise?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Promover a catarse emocional dos membros, focando na revivência de traumas passados para a liberação de afetos reprimidos.",
+                      "explanation": "Incorreta. A catarse é um conceito mais ligado à psicanálise e não é o foco principal da AC."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Instigar a reflexão sobre a história individual dos membros, focando na identificação dos papéis de cada um na dinâmica familiar.",
+                      "explanation": "Incorreta. O foco não é apenas na história individual, mas na interação do grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Auxiliar na identificação de contingências controladoras do comportamento dos membros e na formulação de estratégias para modificá-las, focando na relação entre estímulos e respostas no contexto grupal.",
+                      "explanation": "Correta. A AC visa identificar e modificar contingências controladoras do comportamento dos membros no contexto grupal (relação estímulo-resposta)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Desenvolver a capacidade de autoconhecimento intuitivo, focando na experiência não-verbal dos membros para promover a autoaceitação.",
+                      "explanation": "Incorreta. A AC é baseada em evidências e na análise funcional, não no autoconhecimento intuitivo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Estabelecer uma relação de transferência intensa com o terapeuta, focando na repetição dos padrões de relacionamento primários.",
+                      "explanation": "Incorreta. A transferência é um conceito psicanalítico."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q7",
+                  "statement": "No contexto da Abordagem Centrada na Pessoa (ACP), a postura do facilitador do grupo é crucial para o processo de crescimento. Qual é o conceito que exige que o facilitador seja 'genuíno' em suas comunicações, 'sem máscaras', e qual é o seu impacto no grupo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Empatia: O facilitador se coloca no lugar do outro, gerando um clima de acolhimento e compreensão mútua.",
+                      "explanation": "Incorreta. A Empatia é uma das atitudes, mas não é o 'ser genuíno'."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Congruência: O facilitador é ele mesmo, sem fachadas, sendo uma 'pessoa transparente', o que estimula a honestidade e a autodescoberta nos membros.",
+                      "explanation": "Correta. A Congruência (ou autenticidade) implica em ser genuíno e transparente, estimulando a autodescoberta."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Consideração Positiva Incondicional: O facilitador aceita o membro do grupo integralmente, promovendo a desativação de defesas.",
+                      "explanation": "Incorreta. A C.P.I. é uma das atitudes, mas não é o 'ser genuíno'."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Transferência: O facilitador permite que os membros projetem nele suas figuras parentais, facilitando a resolução de conflitos edipianos.",
+                      "explanation": "Incorreta. A Transferência é um conceito psicanalítico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Intervenção Diretiva: O facilitador orienta ativamente o grupo para as tarefas, garantindo que os objetivos sejam alcançados de forma rápida.",
+                      "explanation": "Incorreta. A ACP preconiza a não-diretividade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q8",
+                  "statement": "A Teoria Sistêmica, ao ser aplicada no contexto de grupos, introduz a ideia de que o grupo não é apenas a soma das partes, mas uma totalidade em interação. Qual é a implicação desse pressuposto para a intervenção, e qual conceito descreve a tendência do grupo em manter seu equilíbrio?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Implica que o foco da intervenção deve ser apenas no indivíduo mais sintomático; o conceito de **Catarse** descreve a busca pelo equilíbrio.",
+                      "explanation": "Incorreta. O foco é na totalidade e interação, não apenas no sintomático. Catarse é um conceito psicanalítico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Implica que uma mudança em um membro afetará todo o sistema; o conceito de **Homeostase** descreve a tendência do grupo em resistir à mudança para manter seu equilíbrio atual.",
+                      "explanation": "Correta. A Teoria Sistêmica enfatiza que a mudança em uma parte afeta o todo. Homeostase é a tendência a manter o equilíbrio, resistindo à mudança."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Implica que a intervenção deve ser sempre diretiva e focada na tarefa; o conceito de **Transferência** descreve a busca pelo equilíbrio.",
+                      "explanation": "Incorreta. A Teoria Sistêmica não impõe a diretividade. Transferência é um conceito psicanalítico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Implica que o grupo deve ser isolado do ambiente externo para focar nas relações internas; o conceito de **Isomorfismo** descreve a busca pelo equilíbrio.",
+                      "explanation": "Incorreta. O grupo é um sistema aberto. Isomorfismo é a semelhança entre sistemas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Implica que a causalidade é linear (A causa B); o conceito de **Causalidade Circular** descreve a busca pelo equilíbrio.",
+                      "explanation": "Incorreta. A Teoria Sistêmica adota a Causalidade Circular, não a linear."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q9",
+                  "statement": "A perspectiva da Análise Institucional (AI) no trabalho grupal se distingue por focar em elementos que transcendem a subjetividade individual. Qual é o foco principal da AI e o que ela busca analisar na dinâmica de um grupo em uma instituição?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O desejo individual e inconsciente dos membros, buscando sua liberação por meio da catarse emocional.",
+                      "explanation": "Incorreta. O foco da AI é nas relações de poder e nas determinações institucionais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "As relações de poder, as determinações políticas e as práticas institucionais que se manifestam no grupo, buscando o **desvendamento do não-dito** e a reflexão crítica.",
+                      "explanation": "Correta. A AI busca desvendar o não-dito e analisar as relações de poder, políticas e práticas institucionais que se manifestam no grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A resolução de conflitos interpessoais imediatos, utilizando técnicas de *role-playing* para simular situações do cotidiano.",
+                      "explanation": "Incorreta. A resolução de conflitos pode ser um efeito, mas não é o foco principal da AI."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A padronização dos comportamentos dos membros, buscando a adequação às normas e regras internas da organização.",
+                      "explanation": "Incorreta. A AI busca a crítica e a reflexão sobre as normas, e não a padronização."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desenvolvimento de habilidades técnicas e a formação profissional, priorizando a eficiência e a produtividade.",
+                      "explanation": "Incorreta. O foco da AI é sociopolítico e institucional."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q10",
+                  "statement": "No contexto da Terapia Cognitivo-Comportamental (TCC) de grupo, a interação entre os membros é vista como um importante recurso terapêutico. Qual é a principal vantagem do grupo, e em que aspecto ele se assemelha ao processo individual, conforme o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Vantagem: Promover a catarse de emoções negativas. Semelhança: Foco na relação de transferência com o terapeuta.",
+                      "explanation": "Incorreta. Catarse e Transferência são conceitos psicanalíticos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Vantagem: Promover a validação social e a troca de estratégias de *coping*. Semelhança: Estrutura altamente diretiva e focada na tarefa e nas metas do cliente.",
+                      "explanation": "Correta. A TCC de grupo permite a troca e a validação social, mas mantém a estrutura diretiva e focada em metas, comum ao setting individual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Vantagem: Redução da Homeostase grupal. Semelhança: Ênfase na exploração do inconsciente.",
+                      "explanation": "Incorreta. Homeostase é sistêmica e o inconsciente é psicanalítico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Vantagem: Possibilidade de recontar a história familiar. Semelhança: Postura de não-diretividade do terapeuta.",
+                      "explanation": "Incorreta. O foco da TCC é no presente e na mudança de comportamento, e a postura é diretiva."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Vantagem: Aumento da dependência do terapeuta. Semelhança: Priorização da análise das relações objetais primitivas.",
+                      "explanation": "Incorreta. A TCC busca a autonomia e não foca em relações objetais primitivas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q11",
+                  "statement": "O conceito de *setting* (enquadre) na psicanálise de grupo estabelece as condições fixas e invariáveis para o trabalho. Qual é o papel do *setting* e qual é a consequência de sua quebra, de acordo com o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É uma flexibilização das regras para aumentar o conforto dos membros; sua quebra leva ao aumento da coesão grupal.",
+                      "explanation": "Incorreta. O *setting* é fixo e invariável. Sua quebra é problemática."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É o conjunto de condições fixas (tempo, lugar, honorários, etc.); sua quebra gera ansiedade e insegurança, podendo comprometer o desenvolvimento do processo terapêutico.",
+                      "explanation": "Correta. O *setting* é o conjunto de condições fixas cuja quebra gera ansiedade e compromete o processo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É a função de acolhimento do terapeuta; sua quebra é o momento de intervenção diretiva.",
+                      "explanation": "Incorreta. O *setting* é a moldura, não a função de acolhimento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É a liberdade total para o membro expressar seus sentimentos; sua quebra leva à resolução imediata de conflitos.",
+                      "explanation": "Incorreta. O *setting* impõe limites."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É a postura de neutralidade absoluta do analista; sua quebra é o momento de estabelecer a transferência.",
+                      "explanation": "Incorreta. A postura de neutralidade faz parte, mas o *setting* é mais abrangente."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q12",
+                  "statement": "Bion categoriza os grupos de pressupostos básicos como formas de atividade mental inconsciente que se manifestam para evitar a frustração inerente ao *grupo de trabalho*. Qual é o principal objetivo do **Pressuposto Básico de Dependência**?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Atacar o líder e o grupo para destruir as ideias e o processo, evitando o desenvolvimento e a mudança.",
+                      "explanation": "Incorreta. Este é o P.B. de Ataque e Fuga."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Manter a expectativa de que o grupo será salvo por um líder onipotente, evitando o crescimento e a responsabilidade individual.",
+                      "explanation": "Correta. O P.B. de Dependência manifesta a crença de que o grupo existe para ser sustentado por um líder onipotente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Formar pares para se reproduzir ou gerar uma nova ideia/líder que salvará o grupo, evitando a realidade e o trabalho.",
+                      "explanation": "Incorreta. Este é o P.B. de Acorrentamento/Ataque e Fuga (ou P.B. de Acasalamento)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Buscar a sinergia e a cooperação para atingir os objetivos conscientes do grupo, mobilizando as capacidades e o conhecimento.",
+                      "explanation": "Incorreta. Esta é a descrição do *Grupo de Trabalho* (GT)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Rejeitar a figura do líder, buscando a autonomia do grupo a qualquer custo e de forma irrefletida.",
+                      "explanation": "Incorreta. A rejeição pode ser um componente do P.B. de Ataque/Fuga, mas a Dependência busca a salvação no líder."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q13",
+                  "statement": "No trabalho com grupos em uma perspectiva sistêmica, a comunicação é vista como um complexo jogo de interações, e não apenas de emissão e recepção de mensagens. Qual é o conceito que descreve o princípio de que **toda comunicação tem um aspecto de conteúdo e um aspecto de relação** (metacomunicação), sendo o aspecto de relação o que define a interação?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Totalidade: O grupo não é a soma das partes, mas o todo.",
+                      "explanation": "Incorreta. Totalidade é um princípio sistêmico geral."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Analogia: A semelhança entre sistemas (isomorfismo).",
+                      "explanation": "Incorreta. Analogia ou Isomorfismo é um princípio sistêmico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Axioma 2 da Comunicação (Ponto 2): O aspecto de conteúdo (o que é dito) e o aspecto de relação (como é dito, definindo a interação).",
+                      "explanation": "Correta. O Axioma 2 da Comunicação (*Toda comunicação tem um aspecto de conteúdo e um aspecto de relação*) afirma que o aspecto de relação classifica o conteúdo, e é, portanto, metacomunicação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Homeostase: A tendência do sistema em manter o equilíbrio.",
+                      "explanation": "Incorreta. Homeostase é um princípio sistêmico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Causalidade Linear: A causa de um evento é direta e unívoca (A causa B).",
+                      "explanation": "Incorreta. A Teoria Sistêmica adota a Causalidade Circular."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q14",
+                  "statement": "Na Abordagem Centrada na Pessoa (ACP), a aceitação e o respeito pelo indivíduo são traduzidos em uma atitude crucial do facilitador. Qual é a atitude que se refere ao 'acolhimento incondicional do cliente', percebendo-o como digno de estima e aceitação em sua totalidade, e qual é o seu efeito na autopercepção do membro?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Congruência: Gera um clima de transparência e autenticidade.",
+                      "explanation": "Incorreta. A Congruência refere-se ao 'ser genuíno'."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Empatia: Gera um clima de compreensão e *insight* dos sentimentos.",
+                      "explanation": "Incorreta. A Empatia refere-se à 'compreensão do quadro de referência do outro'."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Consideração Positiva Incondicional (CPI): Gera a percepção de ser aceito integralmente, o que contribui para a **desativação das defesas** e o início do processo de mudança.",
+                      "explanation": "Correta. A CPI é o acolhimento incondicional que contribui para a desativação das defesas e o início da mudança."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Transferência: Gera a repetição dos padrões de relacionamento primários.",
+                      "explanation": "Incorreta. A Transferência é um conceito psicanalítico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Diretividade: Gera o foco nas tarefas e metas do tratamento.",
+                      "explanation": "Incorreta. A ACP é não-diretiva."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q15",
+                  "statement": "A intervenção do psicólogo em instituições, a partir da psicanálise, deve ter como princípio o respeito à singularidade do sujeito. Qual é o papel da dimensão **singular** e da dimensão **coletiva** nesse trabalho, e qual é o grande desafio do psicanalista?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Singular: Foco na tarefa a ser realizada. Coletiva: Foco na eficiência. Desafio: Impor o inconsciente ao grupo.",
+                      "explanation": "Incorreta. O foco do singular é no sujeito e o coletivo é na instituição/grupo."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Singular: O sujeito em sua história e subjetividade. Coletiva: O campo institucional e a repetição. Desafio: **Conciliar o coletivo sem deixar de lado a dimensão singular do sujeito**.",
+                      "explanation": "Correta. O desafio central é a conciliação entre o coletivo e o singular, com o singular sendo o sujeito e o coletivo, o campo institucional e a repetição."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Singular: A obediência às normas. Coletiva: A imposição da disciplina. Desafio: Manter o foco apenas nas relações de poder.",
+                      "explanation": "Incorreta. O foco do singular é no sujeito, não na obediência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Singular: A resistência do grupo. Coletiva: A catarse emocional. Desafio: Acelerar a resolução dos conflitos.",
+                      "explanation": "Incorreta. Resistência e Catarse são conceitos, não as dimensões em si."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Singular: A transferência do líder. Coletiva: O *setting* fixo. Desafio: Evitar a comunicação não-verbal.",
+                      "explanation": "Incorreta. Transferência e *Setting* são conceitos, não as dimensões em si."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q16",
+                  "statement": "Qual é a principal função do profissional que atua com a Análise Institucional (AI), e o que ele deve evitar para não cair na armadilha da alienação institucional?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ser um mero executor de ordens da direção, evitando a reflexão sobre o não-dito.",
+                      "explanation": "Incorreta. O analista deve promover o desvendamento do não-dito."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Atuar como **analista-analisador**, auxiliando o grupo a desvendar o não-dito e as relações de poder, **evitando a posição de especialista que sabe a resposta**.",
+                      "explanation": "Correta. O profissional deve atuar como analisador, promovendo a reflexão, e evitar a posição de 'sábio' que aliena o grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Manter uma postura de neutralidade total e silêncio, esperando que o grupo resolva seus conflitos sozinho.",
+                      "explanation": "Incorreta. O profissional deve intervir para desvendar o não-dito."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Focar apenas na subjetividade do indivíduo, evitando a análise das determinações políticas e sociais.",
+                      "explanation": "Incorreta. O foco é nas relações de poder e no institucional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Acelerar o processo de intervenção para entregar resultados imediatos à gestão da instituição.",
+                      "explanation": "Incorreta. A AI é um processo de reflexão crítica, não focado em resultados imediatos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q17",
+                  "statement": "No contexto da Terapia Cognitivo-Comportamental (TCC) em grupo, o conceito de **fator comum** é fundamental. O que esse conceito representa e como ele se diferencia do foco da intervenção individual?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Representa o Pressuposto Básico de Dependência. Diferenciação: Na TCC individual, ele é irrelevante.",
+                      "explanation": "Incorreta. O Pressuposto Básico é um conceito bioniano."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Representa a **relação terapêutica** (vínculo de confiança, empatia e aliança). Diferenciação: Na TCC individual, o foco é apenas na reestruturação cognitiva, e não na relação.",
+                      "explanation": "Incorreta. A relação terapêutica é um fator comum e é relevante tanto no grupo quanto no individual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Representa os **elementos que são comuns a todos os membros** (estrutura diretiva, foco na tarefa). Diferenciação: No grupo, a intervenção também se beneficia da **troca de experiências** e da **validação social** entre os membros, o que não ocorre no individual.",
+                      "explanation": "Correta. Embora o termo 'fator comum' na terapia se refira à relação terapêutica e características compartilhadas, a alternativa destaca corretamente que a troca de experiências e a validação social são elementos adicionais e cruciais do grupo que não existem no setting individual."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Representa a catarse emocional dos membros. Diferenciação: Na TCC individual, a catarse é o foco principal.",
+                      "explanation": "Incorreta. Catarse é um conceito psicanalítico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Representa a padronização dos comportamentos. Diferenciação: No TCC individual, o foco é na singularidade.",
+                      "explanation": "Incorreta. O foco é na singularidade no individual, mas o fator comum não é a padronização, e sim a relação terapêutica e a estrutura de tratamento."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q18",
+                  "statement": "No contexto psicanalítico de grupos, o fenômeno da **transferência** é crucial. Em que se baseia a transferência no grupo, e qual é o efeito desse fenômeno nas interações entre os membros?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Baseia-se na projeção de sentimentos e experiências passadas no terapeuta e nos outros membros. Efeito: **Repetição** de padrões de relacionamento primários (familiares) e mobilização de afetos.",
+                      "explanation": "Correta. A transferência se baseia na projeção de experiências passadas, e o efeito é a repetição de padrões de relacionamento, que é o material de análise."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Baseia-se na relação de amizade e cooperação mútua. Efeito: Eliminação de todos os conflitos.",
+                      "explanation": "Incorreta. O foco não é na amizade, e sim na repetição de padrões inconscientes."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Baseia-se na capacidade de autoconhecimento intuitivo. Efeito: Aceleração da resolução de problemas.",
+                      "explanation": "Incorreta. A transferência é inconsciente e não é sinônimo de autoconhecimento intuitivo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Baseia-se na hierarquia do grupo. Efeito: Manutenção da disciplina e da ordem.",
+                      "explanation": "Incorreta. A transferência é inconsciente e não ligada à hierarquia formal."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Baseia-se na satisfação das necessidades imediatas do indivíduo. Efeito: Aumento da produtividade do grupo.",
+                      "explanation": "Incorreta. A transferência é um fenômeno inconsciente."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q19",
+                  "statement": "Bion também descreve o **Pressuposto Básico de Acasalamento** (*Pairing*). Qual é a sua manifestação no grupo, e qual é a sua principal função inconsciente?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Manifestação: Formação de pares (subgrupos) para realizar a tarefa do grupo. Função: Aumentar a eficiência.",
+                      "explanation": "Incorreta. O P.B. de Acasalamento é inconsciente e busca o salvador, não a tarefa."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Manifestação: Formação de díades (casais) que falam e agem separadamente do restante do grupo. Função: Manter a **esperança messiânica** de que algo (uma nova ideia ou um novo líder) irá surgir e salvar o grupo no futuro, **evitando o trabalho presente**.",
+                      "explanation": "Correta. O P.B. de Acasalamento manifesta a formação de díades e a esperança messiânica, evitando o trabalho (GT)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Manifestação: Ataque constante ao líder e ao grupo. Função: Buscar a punição e a eliminação da frustração.",
+                      "explanation": "Incorreta. Este é o P.B. de Ataque e Fuga."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Manifestação: Busca incessante por um líder forte. Função: Preservar o status quo e a dependência.",
+                      "explanation": "Incorreta. Este é o P.B. de Dependência."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Manifestação: Discussões racionais e bem estruturadas. Função: Cumprir os objetivos do grupo de trabalho.",
+                      "explanation": "Incorreta. Esta é a descrição do *Grupo de Trabalho* (GT)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q20",
+                  "statement": "A principal diferença entre a Terapia de Grupo da **Abordagem Centrada na Pessoa (ACP)** e a **Psicanálise de Grupo** reside nas atitudes do facilitador/analista em relação ao processo e à intervenção. Qual é a principal característica da postura do facilitador na ACP que contrasta com a não-diretividade da Psicanálise?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "ACP é diretiva, focada em técnicas e exercícios estruturados, enquanto a Psicanálise foca na catarse.",
+                      "explanation": "Incorreta. A ACP é não-diretiva. A Psicanálise não é necessariamente diretiva e não foca apenas na catarse."
+                    },
+                    {
+                      "id": "B",
+                      "text": "ACP é não-diretiva, focada na **experiência imediata** do grupo, visando a **atualização** do potencial do indivíduo. A Psicanálise é também não-diretiva (em um sentido mais formal), mas o foco é na **interpretação da transferência** e na **análise da repetição inconsciente**.",
+                      "explanation": "Correta. A ACP é não-diretiva, focada na experiência atual e na atualização. A Psicanálise foca na interpretação da transferência e na repetição inconsciente."
+                    },
+                    {
+                      "id": "C",
+                      "text": "ACP foca na reestruturação cognitiva, enquanto a Psicanálise foca na análise das relações de poder.",
+                      "explanation": "Incorreta. A TCC foca na reestruturação. A Psicanálise foca na transferência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "ACP exige a quebra constante do *setting*. A Psicanálise exige a Homeostase grupal.",
+                      "explanation": "Incorreta. A ACP não exige a quebra do *setting* e Homeostase é sistêmica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "ACP impõe a meta de tratamento. A Psicanálise foca na análise da comunicação não-verbal.",
+                      "explanation": "Incorreta. A ACP é não-diretiva e a meta emerge do cliente."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q21",
+                  "statement": "A Terapia de Grupo na perspectiva da **Análise do Comportamento (AC)** se distingue por sua ênfase na identificação e modificação de contingências. Qual é o principal papel do grupo para o terapeuta e para os membros, segundo a AC?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Para o terapeuta: Ser um objeto de transferência para a repetição de padrões. Para os membros: Promover a catarse.",
+                      "explanation": "Incorreta. Transferência e catarse são conceitos psicanalíticos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Para o terapeuta: Ser um **laboratório de análise de contingências** em tempo real. Para os membros: Ser um ambiente para a **emissão de novos repertórios comportamentais** e para o **reforçamento social**.",
+                      "explanation": "Correta. O grupo é um laboratório para o terapeuta analisar contingências e um ambiente para os membros treinarem novos comportamentos (repertórios) e obterem reforço social."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Para o terapeuta: Ser o detentor do saber institucional. Para os membros: Promover a análise das relações de poder.",
+                      "explanation": "Incorreta. O foco é na análise funcional e comportamental."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Para o terapeuta: Manter a neutralidade absoluta e o silêncio. Para os membros: Promover a autoaceitação intuitiva.",
+                      "explanation": "Incorreta. A AC é diretiva e focada na mudança de comportamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Para o terapeuta: Focar na história familiar. Para os membros: Eliminar a necessidade de reforçadores externos.",
+                      "explanation": "Incorreta. O foco principal é no presente e na interação."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q22",
+                  "statement": "A Análise Institucional (AI) se apropria do conceito de **analisador**. Qual é o significado de analisador na AI e qual é a sua função?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É o profissional que atua como especialista, cuja função é resolver os problemas do grupo.",
+                      "explanation": "Incorreta. O analista-analisador não é o detentor do saber."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É a **pessoa ou situação** que revela o não-dito, as contradições e os conflitos institucionais, cuja função é promover a **reflexão e a autogestão** do grupo sobre suas próprias práticas.",
+                      "explanation": "Correta. O analisador é o que revela o 'não-dito' e promove a reflexão crítica e a autogestão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É a transferência do grupo projetada no líder, cuja função é manter a coesão grupal.",
+                      "explanation": "Incorreta. Analisador é um conceito da AI, não da psicanálise."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É o conjunto de normas e regras, cuja função é padronizar os comportamentos dos membros.",
+                      "explanation": "Incorreta. O analisador revela as contradições das normas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É a intervenção diretiva do facilitador, cuja função é impor a tarefa e as metas.",
+                      "explanation": "Incorreta. A AI busca a autogestão, não a imposição."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q23",
+                  "statement": "Bion propõe o conceito de **Grupo de Trabalho (GT)** como um nível de funcionamento grupal. Qual é a principal característica do GT, e o que ele exige dos seus membros para que possa ser produtivo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "É uma atividade mental inconsciente. Exige a formação de díades para buscar um salvador (esperança messiânica).",
+                      "explanation": "Incorreta. Esta é a descrição do Pressuposto Básico de Acasalamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "É uma **atividade mental consciente**, orientada para a realidade e a realização de tarefas. Exige **colaboração, experiência, disciplina e sinergia** dos membros.",
+                      "explanation": "Correta. O GT é consciente, orientado para a tarefa e exige a mobilização das capacidades dos membros (colaboração, experiência, disciplina, sinergia)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "É um estado emocional de dependência. Exige um líder forte e onipotente para manter a coesão.",
+                      "explanation": "Incorreta. Esta é a descrição do Pressuposto Básico de Dependência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "É uma postura de ataque e fuga. Exige a projeção de um inimigo externo para manter o grupo unido.",
+                      "explanation": "Incorreta. Esta é a descrição do Pressuposto Básico de Ataque e Fuga."
+                    },
+                    {
+                      "id": "E",
+                      "text": "É o conjunto de normas formais da instituição. Exige a obediência inquestionável para evitar a punição.",
+                      "explanation": "Incorreta. O GT é uma atividade mental, não um conjunto de normas."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q24",
+                  "statement": "No que diz respeito à **Terapia de Grupo Sistêmica**, o conceito de **Causalidade Circular** é crucial. O que esse conceito implica para a compreensão dos problemas no grupo e para a intervenção do terapeuta?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Implica que o problema tem uma causa linear (A causa B). Intervenção: Focar em um único membro (o 'paciente identificado').",
+                      "explanation": "Incorreta. A Teoria Sistêmica adota a Causalidade Circular, não a linear."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Implica que os eventos se influenciam mutuamente em um ciclo (A causa B, B causa A). Intervenção: Focar nos **padrões de interação** e na **estrutura do sistema** (grupo/família), em vez de culpar um único membro.",
+                      "explanation": "Correta. A Causalidade Circular implica influência mútua e o foco da intervenção são os padrões de interação e a estrutura do sistema."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Implica que a única causa do problema é o inconsciente. Intervenção: Interpretação da transferência.",
+                      "explanation": "Incorreta. Esta é uma visão psicanalítica."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Implica que a Homeostase é indesejável. Intervenção: Eliminação da resistência de todos os membros.",
+                      "explanation": "Incorreta. A Homeostase é a tendência do sistema, e a intervenção busca uma nova Homeostase mais funcional."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Implica que a comunicação é apenas de conteúdo. Intervenção: Focar apenas no que é dito, ignorando a relação (metacomunicação).",
+                      "explanation": "Incorreta. O Axioma 2 da Comunicação afirma que a comunicação tem conteúdo e relação."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q25",
+                  "statement": "No início do trabalho com grupos, o **vínculo** entre os membros e o terapeuta é essencial. Qual é a estratégia fundamental que o terapeuta deve empregar para estabelecer esse vínculo e evitar a sensação de ameaça nos participantes?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Acelerar o cronograma da sessão para focar na coesão grupal.",
+                      "explanation": "Incorreta. A aceleração pode comprometer o sentimento de acolhimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Indicar apenas leituras e tarefas de casa complexas para a revisão da sessão.",
+                      "explanation": "Incorreta. As tarefas de casa são úteis, mas a estratégia de acolhimento é o foco."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Manter-se neutro e evitar que o indivíduo fale de si mesmo logo no início.",
+                      "explanation": "Incorreta. É normal obter apoio para falar de si, e o vínculo deve ser estabelecido."
+                    },
+                    {
+                      "id": "D",
+                      "text": "**Estabelecer a aliança terapêutica** por meio do **acolhimento**, da **confiança** e do **respeito**, comunicando o *setting* de forma clara para que o indivíduo não se sinta mentalmente ameaçado.",
+                      "explanation": "Correta. O acolhimento, a confiança e o respeito, juntamente com a comunicação do *setting*, evitam a ameaça e estabelecem o vínculo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Promover um estado de dependência no líder onipotente, para que o grupo não precise trabalhar.",
+                      "explanation": "Incorreta. A dependência é um Pressuposto Básico a ser analisado, não promovido."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q26",
+                  "statement": "No trabalho em grupo, é comum a manifestação de **papéis não-construtivos**, que tendem a impedir o desenvolvimento do grupo de trabalho. Quais são os três exemplos de papéis não-construtivos citados no texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O facilitador, o mediador e o observador.",
+                      "explanation": "Incorreta. Estes são papéis construtivos/do profissional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "**O dominador, o dependente e o criador de obstáculos**.",
+                      "explanation": "Correta. Estes são os três papéis não-construtivos citados no texto."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O líder colaborativo, o líder conceitual e o líder autoritário.",
+                      "explanation": "Incorreta. Estes são tipos de líderes."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O *self*, o *ego* e o *superego*.",
+                      "explanation": "Incorreta. Estes são conceitos da Psicanálise (estruturas da personalidade)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O grupo de trabalho, o pressuposto de dependência e o pressuposto de acasalamento.",
+                      "explanation": "Incorreta. Estes são conceitos de Bion (modos de funcionamento grupal)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q27",
+                  "statement": "No âmbito da Terapia Cognitivo-Comportamental (TCC) de grupo, as sessões iniciais são estruturadas com foco em tarefas específicas. Qual é o objetivo principal da **psicoeducação** nas sessões iniciais da TCC de grupo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Promover a catarse emocional e a liberação de afetos reprimidos.",
+                      "explanation": "Incorreta. Catarse é um conceito psicanalítico."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Enfatizar a transferência e a repetição de padrões de relacionamento.",
+                      "explanation": "Incorreta. Transferência é um conceito psicanalítico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Garantir a não-diretividade do terapeuta para que o cliente se atualize.",
+                      "explanation": "Incorreta. A TCC é diretiva e focada na tarefa."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Instruir os membros sobre a **abordagem, o tratamento e as metas**, aumentando o **engajamento e a adesão**, e **reduzindo as taxas de abandono**.",
+                      "explanation": "Correta. A psicoeducação (instrução sobre a abordagem, o tratamento e as metas) nas sessões iniciais aumenta o engajamento e a adesão, reduzindo o abandono."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Focar apenas na análise das relações de poder e nas determinações institucionais.",
+                      "explanation": "Incorreta. Este é o foco da Análise Institucional."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q28",
+                  "statement": "A intervenção em grupos baseada na **Análise do Comportamento (AC)** busca a mudança de comportamento através da manipulação de contingências. Qual é o papel do **reforçamento social** e da **modelagem** no contexto do grupo de AC?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Reforçamento Social: Aumenta a dependência do líder. Modelagem: Acelera a catarse emocional.",
+                      "explanation": "Incorreta. O reforçamento social no grupo é importante para o treino de novos repertórios, e a modelagem é um conceito comportamental."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Reforçamento Social: Incentiva a **emissão e a manutenção de novos repertórios** (comportamentos desejados). Modelagem: Permite que os membros aprendam por **observação e imitação** dos comportamentos uns dos outros, potencializando a mudança.",
+                      "explanation": "Correta. O reforçamento social mantém novos repertórios, e a modelagem (aprendizado por observação/imitação) potencializa a mudança no grupo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Reforçamento Social: Elimina a necessidade de tarefas de casa. Modelagem: Impõe o comportamento a ser adotado.",
+                      "explanation": "Incorreta. O reforçamento social não elimina tarefas, e a modelagem é aprendizado por observação, não imposição."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Reforçamento Social: Garante a neutralidade do terapeuta. Modelagem: Promove a interpretação da transferência.",
+                      "explanation": "Incorreta. Neutralidade e Transferência são conceitos de outras abordagens."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Reforçamento Social: Foca no passado do indivíduo. Modelagem: Elimina a necessidade de autogestão.",
+                      "explanation": "Incorreta. O foco é no presente e na aquisição de novos repertórios."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q29",
+                  "statement": "Bion também descreve o **Pressuposto Básico de Ataque e Fuga** (*Fight/Flight*). Qual é a sua manifestação no grupo, e qual é a sua principal função inconsciente?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Manifestação: Ataque direto ao líder, ou fuga da tarefa (atrasos, silêncio). Função: Evitar a frustração inerente ao **crescimento e à mudança**.",
+                      "explanation": "Correta. O P.B. de Ataque e Fuga manifesta-se por ataques (diretos ou indiretos) ou fugas (silêncio, atrasos) para evitar o confronto com o crescimento e a frustração do trabalho."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Manifestação: Formação de díades (casais) que falam separadamente. Função: Manter a esperança messiânica.",
+                      "explanation": "Incorreta. Este é o P.B. de Acasalamento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Manifestação: Busca incessante por um líder forte. Função: Preservar o *status quo* e a dependência.",
+                      "explanation": "Incorreta. Este é o P.B. de Dependência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Manifestação: Discussões racionais e estruturadas. Função: Cumprir os objetivos conscientes do grupo de trabalho.",
+                      "explanation": "Incorreta. Esta é a descrição do *Grupo de Trabalho* (GT)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Manifestação: Ênfase na empatia e na consideração positiva. Função: Promover a atualização do potencial individual.",
+                      "explanation": "Incorreta. Estes são conceitos da Abordagem Centrada na Pessoa (ACP)."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q30",
+                  "statement": "A **Análise Institucional (AI)** se baseia na compreensão de que o grupo está inserido em um **dispositivo social, político e econômico**. Qual é a implicação dessa visão para o trabalho do analista, e o que ele deve evitar na sua intervenção?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Implicação: O analista deve focar apenas na história individual dos membros. Evitar: A análise das relações de poder.",
+                      "explanation": "Incorreta. A AI foca nas relações de poder e nas determinações sociais, não apenas na história individual."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Implicação: O analista deve atuar como **analisador** para desvendar as determinações políticas e sociais. Evitar: A **alienação institucional**, que ocorre quando o profissional ignora a determinação social e foca apenas na dinâmica interna.",
+                      "explanation": "Correta. O analista deve desvendar o político/social e evitar a alienação institucional."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Implicação: O analista deve impor as normas e regras. Evitar: A autogestão do grupo.",
+                      "explanation": "Incorreta. A AI busca a autogestão e a crítica às normas."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Implicação: O analista deve buscar a catarse emocional. Evitar: A transferência com o líder.",
+                      "explanation": "Incorreta. Catarse e Transferência são conceitos psicanalíticos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Implicação: O analista deve buscar a Homeostase. Evitar: A Causalidade Circular.",
+                      "explanation": "Incorreta. Homeostase e Causalidade Circular são conceitos sistêmicos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q31",
+                  "statement": "No início do trabalho com grupos, a **comunicação** do facilitador deve ser clara e transparente. Qual é o aspecto crucial que o facilitador deve comunicar para estabelecer o vínculo e gerenciar as expectativas dos membros?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "As metas secretas da terapia, para manter o mistério.",
+                      "explanation": "Incorreta. O facilitador deve ser transparente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A sua experiência pessoal e os resultados de outros grupos, para demonstrar competência.",
+                      "explanation": "Incorreta. O foco deve ser no processo do grupo atual."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A **estrutura da sessão** (*setting*), os **objetivos do trabalho** e as **regras básicas** (confidencialidade, participação, etc.), para reduzir a ansiedade inicial e promover a segurança.",
+                      "explanation": "Correta. A comunicação clara do *setting* (estrutura, objetivos, regras) é fundamental para reduzir a ansiedade e promover a segurança."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A expectativa de que o grupo será salvo por um líder onipotente.",
+                      "explanation": "Incorreta. Esta é a manifestação do P.B. de Dependência, que deve ser analisado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de atacar a instituição e fugir da tarefa, para promover a autogestão.",
+                      "explanation": "Incorreta. Ataque e fuga são reações a serem analisadas."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q32",
+                  "statement": "O texto descreve que os membros do grupo na **ACP** podem passar por um processo de **amadurecimento**. Qual é o aspecto que o facilitador deve manter como princípio básico para que o membro possa **assumir a responsabilidade por sua experiência** e se tornar mais **autônomo**?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A diretividade, para impor as metas do tratamento.",
+                      "explanation": "Incorreta. A ACP é não-diretiva."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A interpretação da transferência e o foco na repetição inconsciente.",
+                      "explanation": "Incorreta. Esta é a abordagem psicanalítica."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A **não-diretividade**, a **aceitação incondicional** e a **empatia**, para que o indivíduo confie em sua **tendência atualizante** (potencial inato para o crescimento).",
+                      "explanation": "Correta. A não-diretividade, a CPI e a empatia permitem que o indivíduo confie em seu potencial (tendência atualizante) e se torne autônomo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A identificação de contingências e o reforçamento social.",
+                      "explanation": "Incorreta. Esta é a abordagem da Análise do Comportamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O desvendamento do não-dito e a análise das relações de poder.",
+                      "explanation": "Incorreta. Esta é a abordagem da Análise Institucional."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q33",
+                  "statement": "No trabalho com grupos na perspectiva sistêmica, o terapeuta deve estar atento aos **limites** e **subsistemas** do grupo/família. Qual é a principal função dos limites, e o que eles devem evitar para que o sistema funcione de forma saudável?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Função: Manter o fluxo de comunicação aberto. Evitar: A Causalidade Circular.",
+                      "explanation": "Incorreta. Causalidade Circular é um princípio sistêmico, não algo a ser evitado."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Função: Proteger a diferenciação do sistema. Evitar: O **envolvimento exagerado (limites difusos)** ou o **isolamento (limites rígidos)**, para que haja funcionalidade e autonomia.",
+                      "explanation": "Correta. Os limites (fronteiras) protegem a diferenciação e devem ser claros para evitar a fusão (difusos) ou o isolamento (rígidos)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Função: Promover a Homeostase. Evitar: O conflito entre os membros.",
+                      "explanation": "Incorreta. Os limites promovem a diferenciação, e a Homeostase é a tendência do sistema."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Função: Determinar as relações de poder. Evitar: A autogestão do grupo.",
+                      "explanation": "Incorreta. Determinação de poder é mais associada à AI."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Função: Estabelecer a transferência. Evitar: A contratransferência do terapeuta.",
+                      "explanation": "Incorreta. Transferência e Contratransferência são conceitos psicanalíticos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q34",
+                  "statement": "No contexto psicanalítico de grupos, o fenômeno da **contratransferência** é a reação do analista ao paciente. O que ela representa e qual deve ser a postura do analista diante dela?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Representa a interpretação do analista sobre o inconsciente do paciente. Postura: Comunicá-la imediatamente ao paciente.",
+                      "explanation": "Incorreta. A contratransferência é a reação do analista, não a interpretação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Representa a **totalidade de suas reações inconscientes** ao material e à transferência do paciente. Postura: Deve ser **analisada e utilizada** como **ferramenta de compreensão** do que está ocorrendo na dinâmica grupal.",
+                      "explanation": "Correta. A contratransferência é a reação inconsciente do analista e deve ser analisada e usada como ferramenta de compreensão."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Representa a manifestação do Pressuposto Básico de Dependência do analista. Postura: Buscar a ajuda do líder onipotente do grupo.",
+                      "explanation": "Incorreta. P.B. de Dependência é um conceito bioniano, e a postura é de autoanálise, não de dependência."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Representa a quebra do *setting* e do sigilo. Postura: Encerrar a sessão imediatamente.",
+                      "explanation": "Incorreta. A contratransferência é um fenômeno esperado, não uma quebra ética."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Representa a Homeostase do grupo. Postura: Reforçar a resistência do sistema.",
+                      "explanation": "Incorreta. Homeostase é um conceito sistêmico."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q35",
+                  "statement": "Na Terapia Cognitivo-Comportamental (TCC) de grupo, o conceito de **tarefas de casa** é central para a manutenção dos ganhos. Qual é o papel principal das tarefas de casa e como elas contribuem para a eficácia do tratamento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "São atividades extras para ocupar o tempo dos membros. Contribuição: Aumentam a dependência do terapeuta.",
+                      "explanation": "Incorreta. As tarefas buscam a autonomia, não a dependência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "São técnicas de *role-playing* aplicadas no grupo. Contribuição: Promovem a catarse emocional.",
+                      "explanation": "Incorreta. As tarefas de casa são realizadas fora do grupo, e a catarse não é o foco da TCC."
+                    },
+                    {
+                      "id": "C",
+                      "text": "São exercícios realizados fora do *setting* para **praticar novos comportamentos/cognições** e **generalizar os ganhos** terapêuticos para a vida diária, promovendo a **autonomia**.",
+                      "explanation": "Correta. As tarefas de casa promovem a prática de novos repertórios, a generalização dos ganhos e a autonomia do cliente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "São instrumentos de avaliação para o terapeuta. Contribuição: Aumentam a Homeostase grupal.",
+                      "explanation": "Incorreta. As tarefas são de intervenção, não apenas de avaliação, e Homeostase é sistêmica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "São formas de manifestação do Pressuposto Básico de Ataque/Fuga. Contribuição: Aumentam a resistência à mudança.",
+                      "explanation": "Incorreta. P.B. de Ataque/Fuga é um conceito bioniano."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q36",
+                  "statement": "Bion, ao descrever o **Grupo de Trabalho (GT)**, enfatiza que ele lida com a **frustração** inerente à realidade e à tarefa. Qual é a principal característica do líder do GT, e qual é o seu papel para manter o grupo produtivo?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Líder: É onipotente e carismático. Papel: Assumir a responsabilidade total pelas falhas.",
+                      "explanation": "Incorreta. O líder onipotente é do P.B. de Dependência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Líder: Não precisa ser uma pessoa, mas uma **função** (racionalidade, método, etc.). Papel: **Estimular a cooperação, o método e o contato com a realidade** para a realização da tarefa, tolerando a frustração.",
+                      "explanation": "Correta. O líder do GT é a função (método, racionalidade) que estimula a cooperação e o contato com a realidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Líder: É o bode expiatório do grupo. Papel: Ser atacado para promover a coesão.",
+                      "explanation": "Incorreta. O bode expiatório é um papel de P.B. de Ataque/Fuga."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Líder: É o mediador de díades. Papel: Garantir a esperança messiânica.",
+                      "explanation": "Incorreta. Este é o P.B. de Acasalamento."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Líder: É o analista-analisador. Papel: Desvendar o não-dito e as relações de poder.",
+                      "explanation": "Incorreta. Este é o conceito de líder da Análise Institucional."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q37",
+                  "statement": "Na **Análise Institucional (AI)**, o conceito de **instituído e instituinte** é fundamental para a análise das dinâmicas de poder. O que cada termo representa e qual é a relação entre eles?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Instituído: As forças de mudança e crítica. Instituinte: As normas e regras formais. Relação: O instituído é a resistência ao instituinte.",
+                      "explanation": "Incorreta. Instituído são as normas e instituinte são as forças de mudança."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Instituído: As **normas, regras e estruturas formais** (o que está estabelecido). Instituinte: As **forças de mudança, crítica e criação** (o que questiona o instituído). Relação: **Dialética**; o instituinte questiona o instituído e pode, ao ser assimilado, tornar-se um novo instituído.",
+                      "explanation": "Correta. O instituído é a norma e o instituinte é a força de mudança; a relação é dialética, onde o instituinte se torna um novo instituído."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Instituído: O inconsciente do grupo. Instituinte: A transferência do líder. Relação: O instituído é a repetição do instituinte.",
+                      "explanation": "Incorreta. Instituído e instituinte são conceitos sociopolíticos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Instituído: A Homeostase grupal. Instituinte: A Causalidade Linear. Relação: O instituído busca a eliminação do instituinte.",
+                      "explanation": "Incorreta. Homeostase e Causalidade Linear são conceitos sistêmicos."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Instituído: O grupo de trabalho. Instituinte: Os pressupostos básicos. Relação: O instituído é o oposto do instituinte.",
+                      "explanation": "Incorreta. Estes são conceitos bionianos."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q38",
+                  "statement": "No contexto da Abordagem Centrada na Pessoa (ACP), a **Empatia** é uma atitude essencial. Qual é o seu significado na relação terapêutica e qual é o seu papel no processo de **insight** (compreensão) do cliente?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Significado: Ser genuíno e transparente. Papel: Estimular a honestidade e a autodescoberta.",
+                      "explanation": "Incorreta. Esta é a descrição da Congruência."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Significado: **Colocar-se no quadro de referência do outro** (ver o mundo como o outro o vê). Papel: Permite que o cliente se sinta compreendido em profundidade, **facilitando a consciência** de seus sentimentos e a reavaliação de sua experiência (*insight*).",
+                      "explanation": "Correta. A Empatia é o colocar-se no lugar do outro, facilitando a consciência (insight) e a reavaliação da experiência."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Significado: Aceitar o cliente incondicionalmente. Papel: Desativar as defesas e iniciar a mudança.",
+                      "explanation": "Incorreta. Esta é a descrição da Consideração Positiva Incondicional (CPI)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Significado: Interpretar o inconsciente do cliente. Papel: Acelerar a catarse emocional.",
+                      "explanation": "Incorreta. Esta é a abordagem psicanalítica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Significado: Identificar as contingências controladoras. Papel: Reforçar os novos repertórios comportamentais.",
+                      "explanation": "Incorreta. Esta é a abordagem da Análise do Comportamento."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q39",
+                  "statement": "O texto descreve uma situação específica de interdependência observada por Bion, em que o grupo \"se divide em dois ou mais subgrupos, que se atacam mutuamente ou se defendem do grupo\". Qual é o nome dessa situação e a qual pressuposto básico ela está frequentemente associada?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Cisma Terapêutico; Pressuposto Básico de Dependência.",
+                      "explanation": "Incorreta. O Pressuposto Básico de Dependência não está ligado à divisão e ao ataque mútuo desta forma."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ataque Contratransferencial; Pressuposto Básico de Acasalamento.",
+                      "explanation": "Incorreta. Contratransferência é a reação do analista e o P.B. de Acasalamento foca na esperança messiânica de díades, não necessariamente no ataque mútuo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Divisão (Splitting); Pressuposto Básico de Ataque/Fuga.",
+                      "explanation": "Correta. A Divisão (Splitting) é um mecanismo de defesa primitivo, frequentemente associado ao P.B. de Ataque/Fuga, onde o grupo divide-se em 'bom' e 'mau' e se ataca mutuamente."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Homeostase Negativa; Pressuposto Básico de Dependência.",
+                      "explanation": "Incorreta. Homeostase é um conceito sistêmico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Assédio Moral Estrutural; Grupo de Trabalho.",
+                      "explanation": "Incorreta. O Assédio Moral Estrutural é um conceito sociopolítico."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_RG_V3_L2_Q40",
+                  "statement": "Qual a relevância da compreensão das **necessidades interpessoais** dos integrantes do grupo para o processo de intervenção?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A compreensão é relevante para acelerar o processo, impondo o início, meio e fim da dinâmica para maior efetividade.",
+                      "explanation": "Incorreta. O facilitador não deve impor o início, meio e fim."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A compreensão é crucial para que todos possam entender o **real objetivo do tratamento**, analisando as **maneiras de atuação** e a **responsabilização** pela interação entre os indivíduos.",
+                      "explanation": "Correta. A compreensão de como as necessidades interpessoais se apresentam é importante para que todos compreendam o real objetivo do tratamento, analisando as maneiras de atuação e a responsabilização por meio da interação dos indivíduos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A compreensão é necessária para garantir que a comunicação flua de forma transparente e que o coordenador não manipule os membros.",
+                      "explanation": "Incorreta. Isso é um princípio do processo de comunicação em geral."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A compreensão é vital para que o terapeuta possa estabelecer as metas do cliente de forma eficaz, devido ao seu conhecimento externo.",
+                      "explanation": "Incorreta. Na ACP, o terapeuta não pode estabelecer metas devido à falta de conhecimento da experiência real do cliente."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A compreensão é útil para que o profissional assuma a postura de observador, abstendo-se de intervir na discussão ou dar rumo à atividade.",
+                      "explanation": "Incorreta. A postura de observador é inicial; a intervenção deve ocorrer de forma planejada."
                     }
                   ],
                   "answer": "B"
