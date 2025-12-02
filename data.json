@@ -35864,6 +35864,972 @@
                   "answer": "D"
                 }
               ]
+            },
+            {
+              "id": "p4_psicologia_e_inclusao_V3_L1",
+              "title": "(v3) - Lista 1: inclusão uni4",
+              "questions": [
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q1",
+                  "statement": "O termo Tecnologia Assistiva (TA) é central para a Educação Inclusiva. De acordo com a definição apresentada nas fontes, qual é o principal objetivo da Tecnologia Assistiva?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Fornecer apoio tecnológico exclusivo para a reabilitação médica de indivíduos com deficiência.",
+                      "explanation": "Incorreta. A TA foca em recursos e serviços para ampliar habilidades funcionais e promover a inclusão e a vida independente, não se limitando à reabilitação médica."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Desenvolver equipamentos de alta tecnologia para uso exclusivo em ambientes hospitalares.",
+                      "explanation": "Incorreta. A TA inclui tanto baixa quanto alta tecnologia e é aplicada em diversos ambientes, incluindo o educacional e o social."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Identificar recursos e serviços que contribuem para proporcionar ou ampliar as habilidades funcionais de pessoas com deficiência, promovendo uma vida independente e a inclusão.",
+                      "explanation": "Correta. A TA é definida como o termo que identifica recursos e serviços que ampliam as habilidades funcionais de pessoas com deficiência, visando a independência e a inclusão social."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Classificar pessoas com deficiência com base em suas limitações físicas ou sensoriais, facilitando o diagnóstico.",
+                      "explanation": "Incorreta. A TA tem foco na funcionalidade, não na classificação diagnóstica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Promover a eliminação total de todas as barreiras arquitetônicas nas escolas.",
+                      "explanation": "Incorreta. Embora contribua para isso, a TA é mais ampla, incluindo recursos e serviços de diversos tipos."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q2",
+                  "statement": "A Tecnologia Assistiva (TA) abrange uma ampla gama de recursos e serviços. Qual dos exemplos a seguir representa um *recurso* de baixa tecnologia no contexto da TA?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Um sistema de comunicação alternativa e ampliada (CAA) digital complexo.",
+                      "explanation": "Incorreta. Recursos digitais complexos geralmente são classificados como alta tecnologia."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Um software de reconhecimento de voz para operar um computador.",
+                      "explanation": "Incorreta. Softwares e sistemas avançados são exemplos de alta tecnologia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Uma cadeira de rodas motorizada de última geração.",
+                      "explanation": "Incorreta. Equipamentos motorizados complexos são considerados alta tecnologia."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Pranchas de comunicação com símbolos de velcro, ponteiras de cabeça e engrossadores de lápis.",
+                      "explanation": "Correta. Pranchas, ponteiras e engrossadores são exemplos de recursos simples, muitas vezes não industrializados, caracterizando a baixa tecnologia."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um exoesqueleto robótico para mobilidade de membros inferiores.",
+                      "explanation": "Incorreta. Robótica e próteses avançadas são exemplos de alta tecnologia."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q3",
+                  "statement": "Além dos *recursos* (produtos, equipamentos), a Tecnologia Assistiva (TA) também engloba *serviços*. Qual das opções a seguir descreve corretamente um *serviço* de Tecnologia Assistiva?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A produção e comercialização de órteses e próteses.",
+                      "explanation": "Incorreta. A produção é um ato comercial, mas o serviço é a assistência, como o treinamento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O desenvolvimento de novos softwares e aplicativos de acessibilidade.",
+                      "explanation": "Incorreta. O desenvolvimento é um recurso. O serviço é a aplicação, o aconselhamento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O treinamento do usuário e da família para o uso e manutenção de um recurso de TA.",
+                      "explanation": "Correta. O treinamento, o aconselhamento e o acompanhamento do uso de um recurso de TA são exemplos de serviços de Tecnologia Assistiva."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A manutenção periódica de equipamentos de informática em uma escola.",
+                      "explanation": "Incorreta. É um serviço de informática geral, não específico da TA."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A emissão de laudos médicos para a concessão de recursos de TA.",
+                      "explanation": "Incorreta. A emissão de laudo é um ato médico/burocrático, não o serviço de TA em si."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q4",
+                  "statement": "A Sala de Recursos Multifuncionais (SRM) é um espaço fundamental na escola comum para a oferta do Atendimento Educacional Especializado (AEE). Qual é o principal objetivo da SRM no contexto da Educação Inclusiva?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substituir a sala de aula comum, promovendo o ensino de conteúdos curriculares em um ambiente especializado e segregado.",
+                      "explanation": "Incorreta. A SRM é complementar à escolarização na classe comum, não substitutiva."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Oferecer o AEE, complementando ou suplementando a formação dos alunos com deficiência, TGD ou altas habilidades/superdotação, sem substituí-los na classe comum.",
+                      "explanation": "Correta. Este é o objetivo central da SRM: oferecer o AEE para complementar/suplementar a formação, articulado com a sala comum."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Servir exclusivamente como local de reabilitação física e terapia ocupacional, desvinculada do projeto pedagógico da escola.",
+                      "explanation": "Incorreta. A SRM foca na educação, não na reabilitação clínica, e deve estar integrada ao projeto pedagógico."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Ser um centro de diagnóstico para classificar os alunos com deficiência antes da matrícula na escola comum.",
+                      "explanation": "Incorreta. O objetivo é o AEE, não o diagnóstico."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Alocar temporariamente alunos com dificuldades de aprendizagem não relacionadas à deficiência, até que sejam encaminhados para a medicina.",
+                      "explanation": "Incorreta. A SRM é para o público-alvo da educação especial, não para dificuldades de aprendizagem gerais."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q5",
+                  "statement": "Qual dos seguintes elementos *não* é um componente essencial da Sala de Recursos Multifuncionais (SRM), conforme o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Mobiliários e equipamentos para acessibilidade e adequação postural.",
+                      "explanation": "Incorreta. São essenciais para garantir a acessibilidade e o conforto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Recursos pedagógicos e de acessibilidade, como softwares, jogos, materiais e brinquedos adaptados.",
+                      "explanation": "Incorreta. São o cerne do trabalho pedagógico na SRM."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Computadores com softwares e periféricos adaptados para alunos com deficiência.",
+                      "explanation": "Incorreta. Essenciais para o uso da Tecnologia Assistiva e recursos digitais."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um professor para o Atendimento Educacional Especializado (AEE).",
+                      "explanation": "Incorreta. O professor de AEE é o profissional fundamental na SRM."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Um médico pediatra em tempo integral para emissão de laudos de deficiência.",
+                      "explanation": "Correta. A SRM é um espaço pedagógico com um professor de AEE. A presença de um médico em tempo integral não é um componente essencial da SRM."
+                    }
+                  ],
+                  "answer": "E"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q6",
+                  "statement": "A Avaliação Inclusiva difere da avaliação tradicional, pois seu foco está na individualização do processo e na diversidade. Qual é a principal característica que define a Avaliação Inclusiva?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A padronização das provas e critérios de correção para todos os alunos, visando a igualdade de tratamento.",
+                      "explanation": "Incorreta. A avaliação padronizada é característica do modelo tradicional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A criação de notas e conceitos específicos que dependem da deficiência do aluno, separando-o do restante da turma.",
+                      "explanation": "Incorreta. Embora haja adaptação, o objetivo é a inclusão, não a segregação por conceito."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A flexibilização do currículo e das formas de avaliação, considerando as necessidades, os estilos e os ritmos de aprendizagem de cada aluno.",
+                      "explanation": "Correta. A flexibilização e a consideração da diversidade são o cerne da Avaliação Inclusiva."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A eliminação de qualquer tipo de prova ou exame formal, substituindo-os por observação informal.",
+                      "explanation": "Incorreta. A avaliação pode incluir provas, mas com flexibilização, não eliminação total de instrumentos formais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A comparação dos resultados do aluno com deficiência com a média da turma, buscando o nivelamento.",
+                      "explanation": "Incorreta. O foco deve ser no progresso individual e não na comparação com a média da turma."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q7",
+                  "statement": "No contexto da Avaliação Inclusiva, qual é o papel do psicólogo na avaliação psicopedagógica dos alunos público-alvo da Educação Especial?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Determinar o diagnóstico clínico da deficiência e prescrever o tratamento médico adequado.",
+                      "explanation": "Incorreta. O psicólogo não determina o diagnóstico clínico da deficiência, mas sim o processo educacional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Isolar o aluno da turma para aplicar testes padronizados que comprovem seu atraso no desenvolvimento.",
+                      "explanation": "Incorreta. A avaliação é em contexto, focada nas potencialidades e não apenas nos atrasos."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Identificar as barreiras e potencialidades do aluno, em colaboração com o professor, para subsidiar o planejamento do Atendimento Educacional Especializado (AEE).",
+                      "explanation": "Correta. O psicólogo atua identificando barreiras e potencialidades para planejar intervenções pedagógicas, em um trabalho colaborativo."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aplicar o mesmo sistema de avaliação da turma regular, garantindo a isonomia no tratamento.",
+                      "explanation": "Incorreta. A avaliação inclusiva requer flexibilização e individualização."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Responsabilizar a família pela falta de progresso do aluno, devido à ausência de estímulo em casa.",
+                      "explanation": "Incorreta. O psicólogo deve buscar a parceria com a família, e a avaliação foca nas barreiras da escola, não na culpabilização da família."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q8",
+                  "statement": "A Resolução CNE/CEB nº 2/2001 estabelece as diretrizes para a Educação Especial e define as deficiências a serem atendidas. Qual é a principal crítica que se faz à classificação das deficiências (como Deficiência Física, Mental, Auditiva, Visual etc.) no contexto da inclusão?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A classificação é excessivamente vaga e não permite a identificação precisa das necessidades individuais.",
+                      "explanation": "Incorreta. A crítica é o oposto: foca muito na limitação e não na funcionalidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A classificação tende a priorizar a limitação funcional (o que o indivíduo não faz) em detrimento da funcionalidade e do potencial de desenvolvimento (o que ele é capaz de fazer).",
+                      "explanation": "Correta. Esta é a principal crítica: o foco no déficit em vez do potencial e da funcionalidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A classificação é a única forma de garantir que o aluno receba os recursos de Tecnologia Assistiva adequados.",
+                      "explanation": "Incorreta. Embora possa ser usada para acesso a recursos, o foco excessivo no déficit é a crítica."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A classificação impede a atuação do psicólogo no ambiente escolar, pois é uma prerrogativa médica.",
+                      "explanation": "Incorreta. O psicólogo atua no processo educacional, independentemente da classificação médica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A classificação se baseia em critérios ultrapassados da década de 1970, ignorando os avanços científicos modernos.",
+                      "explanation": "Incorreta. A crítica é sobre o paradigma (foco na limitação), não necessariamente a data da classificação."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q9",
+                  "statement": "No contexto das deficiências múltiplas, a atenção deve ser redobrada para o planejamento do Atendimento Educacional Especializado (AEE). Qual é o principal desafio na intervenção com alunos que apresentam deficiências múltiplas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A necessidade de escolher qual das deficiências será priorizada no trabalho pedagógico, ignorando as demais.",
+                      "explanation": "Incorreta. A intervenção deve ser simultânea e interdisciplinar, abordando todas as necessidades."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A exigência de que o professor de AEE atue de forma isolada, sem a colaboração de outros profissionais ou da família.",
+                      "explanation": "Incorreta. O trabalho interdisciplinar é crucial para deficiências múltiplas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A complexidade de atender às demandas educacionais, considerando o agravamento das limitações e as dificuldades na comunicação e na autonomia, o que exige um trabalho interdisciplinar.",
+                      "explanation": "Correta. O agravamento das limitações e a necessidade de trabalho interdisciplinar são os principais desafios."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A impossibilidade de utilização de qualquer recurso de Tecnologia Assistiva, devido à complexidade do quadro.",
+                      "explanation": "Incorreta. A TA é fundamental, e o recurso deve ser adaptado à complexidade."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A simples duplicação do tempo de atendimento na Sala de Recursos Multifuncionais (SRM).",
+                      "explanation": "Incorreta. A complexidade vai além da duplicação do tempo; requer estratégias específicas."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q10",
+                  "statement": "A Deficiência Mental (ou Deficiência Intelectual) é caracterizada por limitações em quais áreas, de acordo com o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas na área motora, com dificuldade de locomoção e coordenação motora fina.",
+                      "explanation": "Incorreta. Essa é a Deficiência Física."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Apenas na área sensorial, com prejuízo na visão e audição.",
+                      "explanation": "Incorreta. Essa é a Deficiência Visual e Auditiva."
+                    },
+                    {
+                      "id": "C",
+                      "text": "No funcionamento intelectual (raciocínio, aprendizagem, solução de problemas) e no comportamento adaptativo (habilidades sociais e práticas), com início antes dos 18 anos.",
+                      "explanation": "Correta. Esta é a definição completa e correta de Deficiência Intelectual (DM) conforme o texto."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Apenas na capacidade de fala e linguagem, sem prejuízo no raciocínio lógico.",
+                      "explanation": "Incorreta. A Deficiência Intelectual envolve o funcionamento intelectual e o comportamento adaptativo."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Na estabilidade emocional e no controle de impulsos, sem relação com a capacidade de aprendizagem acadêmica.",
+                      "explanation": "Incorreta. Essa pode ser uma comorbidade, mas não a definição central da DM."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q11",
+                  "statement": "Qual é a principal função do profissional de apoio escolar, também chamado de mediador escolar, no contexto da inclusão de alunos com Transtorno do Espectro Autista (TEA)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substituir o professor em todas as aulas, assumindo a responsabilidade total pelo ensino do conteúdo curricular.",
+                      "explanation": "Incorreta. O profissional de apoio não substitui o professor, mas atua como mediador."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Auxiliar o aluno nas tarefas de higiene, alimentação e locomoção, sem intervenção pedagógica.",
+                      "explanation": "Incorreta. Esta é a função do profissional de cuidado (cuidador), que pode ser o mesmo, mas a função do mediador abrange o pedagógico."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Mediar a interação do aluno com o meio (colegas e professores), auxiliar nas tarefas pedagógicas e garantir sua participação nas atividades, sob orientação do professor da classe e do AEE.",
+                      "explanation": "Correta. A mediação e o auxílio pedagógico para a participação são as funções centrais do mediador escolar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Realizar o diagnóstico clínico do TEA e prescrever o tratamento farmacológico adequado.",
+                      "explanation": "Incorreta. O profissional de apoio não é responsável pelo diagnóstico ou prescrição médica."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Garantir que o aluno com TEA permaneça em uma sala especial, separado dos demais alunos.",
+                      "explanation": "Incorreta. O objetivo é a inclusão na sala comum."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q12",
+                  "statement": "Um aluno com cegueira (Deficiência Visual Total) está sendo incluído em uma turma do Ensino Fundamental. Qual adaptação curricular é essencial para garantir seu acesso ao conhecimento?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Eliminar as disciplinas de exatas, focando apenas nas de humanas e artes.",
+                      "explanation": "Incorreta. O currículo deve ser completo, com acesso a todo o conhecimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Disponibilizar todo o material didático em tinta e aumentar o tamanho da fonte.",
+                      "explanation": "Incorreta. O aluno é cego (DV Total) e não se beneficiaria de material em tinta."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Utilização do Sistema Braille para leitura e escrita, e recursos táteis e auditivos para o aprendizado de conceitos.",
+                      "explanation": "Correta. O Braille é o principal recurso para o aluno cego, complementado por recursos táteis e auditivos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Encaminhar o aluno exclusivamente para uma escola especial para que aprenda a linguagem de sinais.",
+                      "explanation": "Incorreta. A linguagem de sinais é para Deficiência Auditiva. O objetivo é a inclusão na escola comum."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Permitir que o aluno não participe das avaliações formais, devido à sua condição.",
+                      "explanation": "Incorreta. A avaliação deve ser adaptada, não eliminada."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q13",
+                  "statement": "A Deficiência Auditiva (DA) é classificada em diferentes graus e tipos. Qual é o aspecto mais crucial a ser considerado pelo professor para a comunicação e o desenvolvimento da linguagem do aluno com DA, especialmente quando ele utiliza a Língua Brasileira de Sinais (Libras)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A obrigatoriedade de o aluno aprender a leitura labial, abandonando o uso de Libras.",
+                      "explanation": "Incorreta. A Libras é a língua natural da pessoa surda; a leitura labial é uma estratégia complementar, mas não obrigatória em detrimento de Libras."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A garantia de um Intérprete Educacional de Libras (IEL) na sala de aula e a oferta de Libras como primeira língua e do Português na modalidade escrita como segunda língua.",
+                      "explanation": "Correta. A presença do IEL e o reconhecimento de Libras como primeira língua são essenciais para o desenvolvimento educacional do aluno surdo."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O uso exclusivo de dispositivos de amplificação sonora (aparelhos auditivos), ignorando a necessidade de apoio visual.",
+                      "explanation": "Incorreta. O apoio visual (Libras) é fundamental, pois a amplificação não garante a aquisição plena da linguagem oral."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A segregação do aluno em classes especiais para que ele conviva apenas com outros alunos surdos.",
+                      "explanation": "Incorreta. O objetivo é a inclusão na sala comum."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A restrição do uso de Libras, priorizando a comunicação oral em todas as interações.",
+                      "explanation": "Incorreta. A Libras deve ser priorizada, pois é a primeira língua."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q14",
+                  "statement": "No contexto da Deficiência Física, qual é o principal papel da Tecnologia Assistiva (TA) na promoção da autonomia do aluno?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Substituir o aluno na realização de todas as atividades escolares, minimizando seu esforço.",
+                      "explanation": "Incorreta. A TA visa potencializar, não substituir a ação do aluno, focando na autonomia."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir a locomoção independente e a manipulação de materiais escolares, como adaptações de cadeiras de rodas, órteses, e engrossadores de lápis.",
+                      "explanation": "Correta. A TA atua para garantir a funcionalidade em locomoção, comunicação e manipulação, visando a autonomia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Limitar a participação do aluno apenas às atividades que não exigem esforço físico.",
+                      "explanation": "Incorreta. A TA deve possibilitar a participação, não a limitação."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Focar exclusivamente na reabilitação muscular, desvinculada das atividades pedagógicas.",
+                      "explanation": "Incorreta. O foco é na funcionalidade e inclusão, em articulação com as atividades pedagógicas."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Promover a criação de rampas de acesso apenas nas entradas da escola.",
+                      "explanation": "Incorreta. Rampas e acessibilidade são essenciais, mas a TA é mais ampla e inclui recursos para a funcionalidade individual."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q15",
+                  "statement": "As Altas Habilidades/Superdotação (AH/SD) são consideradas público-alvo do Atendimento Educacional Especializado (AEE). Qual é a principal intervenção pedagógica indicada para este público na Sala de Recursos Multifuncionais (SRM)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Aceleramento (avanço escolar) sem qualquer tipo de enriquecimento curricular.",
+                      "explanation": "Incorreta. O enriquecimento curricular é fundamental para atender à profundidade de interesse; o aceleramento pode ser uma opção, mas não o principal."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Implementação de programas de enriquecimento curricular, com aprofundamento e exploração de áreas de interesse, em articulação com a classe comum.",
+                      "explanation": "Correta. O enriquecimento curricular é a principal estratégia do AEE para AH/SD, visando aprofundar e diversificar o aprendizado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Atividades de reforço escolar, com foco em áreas de dificuldade acadêmica.",
+                      "explanation": "Incorreta. O foco não é em áreas de dificuldade, mas sim em aprofundar e explorar o potencial."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Adoção de um currículo simplificado e com metas reduzidas para evitar o tédio.",
+                      "explanation": "Incorreta. O currículo deve ser expandido e aprofundado, não simplificado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Isolamento do aluno em tempo integral na SRM para que ele trabalhe em projetos individuais.",
+                      "explanation": "Incorreta. A intervenção é complementar, em articulação com a classe comum, não em tempo integral ou isolada."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q16",
+                  "statement": "Qual o princípio ético e técnico mais fundamental que o psicólogo deve observar ao atuar na avaliação psicopedagógica inclusiva, conforme as diretrizes do Conselho Federal de Psicologia (CFP)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A priorização de testes psicométricos padronizados, pois garantem a objetividade e a neutralidade na avaliação de todos os alunos.",
+                      "explanation": "Incorreta. O uso exclusivo de testes psicométricos padronizados não atende às diretrizes da avaliação inclusiva, que exige flexibilização e consideração do contexto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O foco na identificação do déficit e da limitação, para garantir a precisão do diagnóstico médico e o acesso a benefícios sociais.",
+                      "explanation": "Incorreta. O foco deve ser nas potencialidades e barreiras, não apenas no déficit."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A garantia de que a avaliação seja contextualizada, multiprofissional e interdisciplinar, focada na identificação de barreiras, recursos e potencialidades do aluno e do ambiente, para subsidiar o Projeto Pedagógico e o AEE.",
+                      "explanation": "Correta. A Resolução CFP enfatiza a avaliação em contexto, colaborativa e focada na funcionalidade e nas barreiras."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A exclusividade da responsabilidade pelo diagnóstico, não compartilhando as informações com o professor da classe comum.",
+                      "explanation": "Incorreta. O trabalho é colaborativo e interdisciplinar."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A utilização de métodos de observação exclusivamente informais, recusando-se a registrar dados de forma sistemática.",
+                      "explanation": "Incorreta. A avaliação deve ser sistemática e baseada em evidências."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q17",
+                  "statement": "A Deficiência Múltipla é definida pela associação de duas ou mais deficiências primárias. Qual é a implicação pedagógica dessa associação para o planejamento do Atendimento Educacional Especializado (AEE)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "As deficiências múltiplas se anulam, simplificando o processo de ensino e exigindo apenas o currículo padrão.",
+                      "explanation": "Incorreta. O quadro se agrava, exigindo estratégias mais complexas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A necessidade de currículos e materiais adaptados de forma radical, focando em habilidades de vida diária e comunicação funcional, com alta intensidade de apoio e atuação interdisciplinar, priorizando o trabalho em pequenas unidades de aprendizagem.",
+                      "explanation": "Correta. A complexidade exige adaptações radicais, foco funcional, alta intensidade e trabalho em unidades de aprendizagem, com colaboração de múltiplos profissionais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A restrição do atendimento apenas ao ambiente familiar, devido à impossibilidade de inclusão na escola comum.",
+                      "explanation": "Incorreta. O objetivo é a inclusão na escola comum."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O uso exclusivo da Língua Brasileira de Sinais (Libras), independentemente das deficiências associadas.",
+                      "explanation": "Incorreta. Libras é apenas para DA; o recurso deve ser multimodal e individualizado."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A duplicação do tempo de aula na classe comum, sem a necessidade de Sala de Recursos Multifuncionais (SRM).",
+                      "explanation": "Incorreta. A SRM é essencial para o AEE."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q18",
+                  "statement": "A Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (PNEEPEI, 2008) orienta a transformação do sistema educacional. Qual é o papel central da Sala de Recursos Multifuncionais (SRM) no cumprimento dessa política?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Constituir um espaço de ensino substitutivo, que concentra todos os alunos com deficiência para ensino em tempo integral, garantindo a especialização do atendimento.",
+                      "explanation": "Incorreta. A SRM é complementar e não substitutiva da classe comum."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Ser o local de oferta do Atendimento Educacional Especializado (AEE), que atua na eliminação de barreiras e na disponibilização de recursos, complementando ou suplementando a escolarização na classe comum, de forma transversal e articulada.",
+                      "explanation": "Correta. O papel central é a oferta do AEE, com foco na transversalidade e na eliminação de barreiras, em um trabalho articulado."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Promover a capacitação exclusiva do professor da classe comum, desresponsabilizando o professor do AEE pela articulação do trabalho.",
+                      "explanation": "Incorreta. A responsabilidade é compartilhada e o trabalho é articulado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Focar exclusivamente na produção de materiais didáticos para o Ensino Médio, ignorando os níveis iniciais da educação.",
+                      "explanation": "Incorreta. A SRM abrange todos os níveis de ensino."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Servir como um centro de pesquisa acadêmica sobre a eficácia da inclusão, sem vínculo direto com a prática pedagógica diária.",
+                      "explanation": "Incorreta. O foco é na prática pedagógica, não na pesquisa acadêmica desvinculada."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q19",
+                  "statement": "A Tecnologia Assistiva (TA) na educação inclusiva deve seguir um processo de intervenção. Qual é a etapa que *antecede* a escolha de um recurso (produto ou equipamento) de TA?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A aquisição imediata do produto mais caro e moderno do mercado, por ser o mais eficiente.",
+                      "explanation": "Incorreta. O custo não define a eficiência, e a escolha deve ser precedida de avaliação."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O treinamento do aluno para o uso, pois o recurso já deve ser adquirido antes do treinamento.",
+                      "explanation": "Incorreta. O treinamento é a etapa que *sucede* a escolha e adaptação do recurso."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A avaliação e a identificação das necessidades e habilidades do aluno e do ambiente, em um processo colaborativo e funcional.",
+                      "explanation": "Correta. A avaliação funcional e a identificação das necessidades são a primeira e crucial etapa para garantir a escolha do recurso mais adequado."
+                    },
+                    {
+                      "id": "D",
+                      "text": "O diagnóstico médico da deficiência, que por si só determina o recurso de TA a ser utilizado.",
+                      "explanation": "Incorreta. O diagnóstico é importante, mas a avaliação *funcional* e a identificação das necessidades específicas do aluno e do ambiente são mais decisivas para a escolha do recurso."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A elaboração do Plano de Desenvolvimento Individual (PDI) pelo professor do AEE, sem consulta ao professor da classe comum.",
+                      "explanation": "Incorreta. A elaboração do PDI deve ser colaborativa e sucede a avaliação."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q20",
+                  "statement": "Na avaliação do aluno com Deficiência Intelectual (DI), a abordagem deve ser centrada nas capacidades adaptativas. Qual é a principal implicação dessa abordagem para o psicólogo escolar?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Focar na pontuação do QI, utilizando-o como único indicador para definir o grau da deficiência e o prognóstico educacional.",
+                      "explanation": "Incorreta. O foco deve ir além do QI, abrangendo o comportamento adaptativo e o contexto."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Avaliar o desempenho do aluno em habilidades conceituais, sociais e práticas em diferentes contextos (escola, casa, comunidade), para identificar os apoios necessários para a vida autônoma.",
+                      "explanation": "Correta. A avaliação das habilidades adaptativas em contexto é fundamental para identificar o nível de apoio e promover a autonomia."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Utilizar apenas métodos de autoavaliação, pois o aluno com DI é o único capaz de relatar suas dificuldades e potencialidades.",
+                      "explanation": "Incorreta. O relato é importante, mas a avaliação deve ser multiprofissional e contextualizada."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Recomendar a matrícula em instituições especializadas, pois a escola comum não está preparada para avaliar o DI.",
+                      "explanation": "Incorreta. A DI é público-alvo da educação inclusiva na escola comum."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ignorar o contexto sociofamiliar, pois o DI é uma limitação de ordem exclusivamente biológica.",
+                      "explanation": "Incorreta. O contexto é crucial, pois o comportamento adaptativo é afetado pelo ambiente."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q21",
+                  "statement": "A avaliação psicopedagógica de alunos com Altas Habilidades/Superdotação (AH/SD) deve ir além do desempenho acadêmico. Qual é o aspecto crucial que o psicólogo deve buscar identificar para o planejamento do AEE?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Exclusivamente a média de notas em provas formais, pois o desempenho superior é o único indicador de AH/SD.",
+                      "explanation": "Incorreta. O AH/SD envolve criatividade, talento e envolvimento com a tarefa, não apenas notas."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A presença de isolamento social e comportamentos disruptivos, pois o AH/SD está sempre associado a problemas de comportamento.",
+                      "explanation": "Incorreta. Embora possa ocorrer, não é a regra e nem o foco principal da avaliação."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Os tipos de talento e áreas de interesse (acadêmica, criativa, artística, psicomotora), a motivação e o estilo de aprendizagem do aluno, para o enriquecimento e aprofundamento curricular.",
+                      "explanation": "Correta. A identificação das áreas específicas de talento, interesse e motivação é crucial para o planejamento do enriquecimento curricular, conforme Renzulli (1978)."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ausência de dificuldades de aprendizagem, pois um aluno superdotado nunca terá dificuldades em nenhuma área.",
+                      "explanation": "Incorreta. O aluno com AH/SD pode ter dificuldades em áreas específicas (Dupla Excepcionalidade)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A necessidade de currículo reduzido, pois o aluno já domina a maior parte do conteúdo.",
+                      "explanation": "Incorreta. O currículo deve ser enriquecido/expandido, não reduzido."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q22",
+                  "statement": "A Classificação Internacional de Funcionalidade, Incapacidade e Saúde (CIF) se contrapõe à visão que foca exclusivamente no diagnóstico. Qual é a principal mudança de paradigma proposta pela CIF para a compreensão da deficiência?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A Deficiência é vista como uma condição puramente clínica, sem interferência de fatores ambientais.",
+                      "explanation": "Incorreta. A CIF é um modelo biopsicossocial, considerando os fatores ambientais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A mudança do foco da doença/limitação para a saúde/funcionalidade, considerando a interação entre a condição de saúde do indivíduo e os fatores contextuais (ambientais e pessoais).",
+                      "explanation": "Correta. A CIF propõe um modelo biopsicossocial que considera a funcionalidade (o que a pessoa faz) em relação aos fatores do ambiente, superando o foco exclusivo na doença."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A eliminação de qualquer tipo de classificação de saúde, pois todas as pessoas são funcionalmente iguais.",
+                      "explanation": "Incorreta. A CIF é uma classificação, mas com foco na funcionalidade e não apenas na doença."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A priorização dos fatores ambientais como única causa da deficiência, desconsiderando a condição de saúde.",
+                      "explanation": "Incorreta. A CIF considera a interação entre a condição de saúde e os fatores ambientais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A classificação da deficiência baseada unicamente na etiologia (causa) da condição.",
+                      "explanation": "Incorreta. A CIF foca nas consequências (funcionalidade), não apenas na causa (etiologia)."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q23",
+                  "statement": "O conceito de **Desenho Universal para a Aprendizagem (DUA)** é crucial para o planejamento da Sala de Recursos Multifuncionais (SRM) e da aula comum. Qual é a essência do DUA?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Criar um currículo padrão e rígido que minimize a necessidade de adaptações futuras.",
+                      "explanation": "Incorreta. O DUA visa a flexibilidade e a múltipla representação, não a rigidez."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Eliminar a necessidade da Sala de Recursos Multifuncionais, transferindo todas as responsabilidades para o professor da classe comum.",
+                      "explanation": "Incorreta. O DUA complementa a SRM; ambos são necessários."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Adoção de métodos e materiais que, desde o princípio, sejam flexíveis e acessíveis para a maior diversidade possível de alunos, oferecendo múltiplas formas de representação, engajamento e expressão.",
+                      "explanation": "Correta. O DUA foca em planejar a diversidade desde o início, oferecendo múltiplas opções para todos os alunos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Focar o planejamento na média dos alunos da classe, criando adaptações apenas para os que têm deficiência.",
+                      "explanation": "Incorreta. O DUA foca na diversidade *desde o início* para o maior número de pessoas, evitando adaptações tardias."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A aplicação de testes padronizados para identificar quais alunos necessitam de adaptações curriculares específicas.",
+                      "explanation": "Incorreta. O DUA é uma abordagem de planejamento, não de avaliação diagnóstica."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q24",
+                  "statement": "A transição do aluno com deficiência do ambiente escolar para o mundo do trabalho (formação profissional) requer um planejamento cuidadoso. Qual é o papel da escola e do psicólogo nesse processo de transição?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A escola deve se isentar dessa responsabilidade, pois a formação profissional é exclusiva das empresas e centros de reabilitação.",
+                      "explanation": "Incorreta. A escola tem um papel fundamental na preparação para a vida adulta e o trabalho."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Oferecer um currículo de trabalho protegido, isolando o aluno em oficinas terapêuticas sem contato com o mercado de trabalho.",
+                      "explanation": "Incorreta. O objetivo é a inclusão e a participação no mercado, não o isolamento."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O planejamento deve envolver a articulação entre escola, família e sociedade, focando no desenvolvimento de habilidades de autonomia, comunicação e no autoconhecimento vocacional, com mediação e apoio do psicólogo.",
+                      "explanation": "Correta. A articulação intersetorial (escola, família, trabalho) e o foco na autonomia/autoconhecimento, com o apoio do psicólogo, são cruciais para a transição."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Priorizar a inserção imediata no mercado de trabalho após a formatura, ignorando a necessidade de treinamento vocacional.",
+                      "explanation": "Incorreta. O treinamento vocacional e o planejamento são essenciais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A imposição de uma carreira profissional que garanta a estabilidade financeira, independentemente dos interesses do aluno.",
+                      "explanation": "Incorreta. O foco deve ser nos interesses e potencialidades do aluno."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q25",
+                  "statement": "O Transtorno Global do Desenvolvimento (TGD), que inclui o Transtorno do Espectro Autista (TEA), é caracterizado por prejuízos qualitativos em quais áreas?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas na coordenação motora fina e na capacidade de leitura e escrita.",
+                      "explanation": "Incorreta. Os prejuízos são na interação, comunicação e padrões restritos/repetitivos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Na interação social recíproca, na comunicação (verbal e não verbal) e nos padrões restritos, repetitivos e estereotipados de comportamento, interesses e atividades.",
+                      "explanation": "Correta. Esta é a definição completa do Transtorno do Espectro Autista (TEA), que é um TGD."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Exclusivamente na capacidade de cálculo e raciocínio lógico, sem afetar as relações sociais.",
+                      "explanation": "Incorreta. O prejuízo social e de comunicação é central."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Na audição e na visão, resultando em cegueira e surdez congênitas.",
+                      "explanation": "Incorreta. Essa é a Deficiência Visual e Auditiva."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Na instabilidade emocional e no humor, levando a crises de choro e agressividade.",
+                      "explanation": "Incorreta. Embora possa haver comorbidades emocionais, a tríade social/comunicação/comportamento é a característica central."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q26",
+                  "statement": "Qual é o principal desafio ético e prático na utilização de Tecnologia Assistiva (TA) na Sala de Recursos Multifuncionais (SRM)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A dificuldade em encontrar softwares de alta tecnologia que sejam caros e complexos de usar.",
+                      "explanation": "Incorreta. A TA engloba baixa e alta tecnologia; o foco ético e prático é na adequação e abandono."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O risco de o aluno se tornar *demasiadamente* dependente da tecnologia, perdendo a autonomia nas tarefas de vida diária.",
+                      "explanation": "Incorreta. O objetivo da TA é a autonomia, mas o risco de dependência excessiva é uma preocupação, assim como o abandono, que é um problema prático."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A tendência ao abandono do recurso de TA pelo aluno ou professor, devido à falta de treinamento, adaptação inadequada ou complexidade de uso.",
+                      "explanation": "Correta. A inadequação e o subsequente abandono do recurso são os principais desafios práticos, que exigem a intervenção do psicólogo na avaliação e treinamento."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A obrigatoriedade de o professor de AEE se tornar um especialista em *hardware* e *software*.",
+                      "explanation": "Incorreta. O professor deve ser capacitado para o uso, mas não precisa ser um técnico de informática."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A imposição do uso de um recurso de TA pela família, ignorando a avaliação funcional da equipe escolar.",
+                      "explanation": "Incorreta. Embora a pressão familiar seja um desafio, o abandono devido à inadequação é mais central."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q27",
+                  "statement": "A avaliação do aluno com Deficiência Física que apresenta comprometimento motor severo deve focar na funcionalidade. Qual é o principal objetivo da avaliação nesse caso?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Estabelecer o grau de paralisia e a etiologia da lesão para fins de aposentadoria precoce.",
+                      "explanation": "Incorreta. O foco é na funcionalidade e inclusão, não na aposentadoria."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Identificar as capacidades de comunicação alternativa (CAA) e as formas de controle motor residual (olhos, cabeça, mão) que podem ser utilizadas para acionar recursos de TA e interação.",
+                      "explanation": "Correta. O foco na funcionalidade e na comunicação (CAA) é crucial para garantir que o aluno com comprometimento severo possa interagir e aprender."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Priorizar a reabilitação física em detrimento da aprendizagem acadêmica.",
+                      "explanation": "Incorreta. A aprendizagem acadêmica e a reabilitação devem andar juntas no contexto escolar."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Aplicar provas escritas e orais padronizadas, garantindo que o aluno se esforce para superar suas limitações.",
+                      "explanation": "Incorreta. As provas devem ser adaptadas (ex: via computador adaptado, comunicação alternativa)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ignorar o ambiente escolar, pois o problema é de ordem exclusivamente biológica.",
+                      "explanation": "Incorreta. O ambiente (acessibilidade e recursos) é fundamental para a funcionalidade."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q28",
+                  "statement": "No contexto das Altas Habilidades/Superdotação (AH/SD), a 'Dupla Excepcionalidade' refere-se à condição de um aluno que apresenta AH/SD *associada a* qual outro quadro?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Apenas um talento isolado em uma única área, como música ou esporte, sem desempenho acadêmico superior.",
+                      "explanation": "Incorreta. O talento isolado é um tipo de AH/SD, mas não a Dupla Excepcionalidade."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Altas Habilidades em duas ou mais áreas acadêmicas (ex: Matemática e Linguagens).",
+                      "explanation": "Incorreta. Isso é apenas AH/SD em múltiplas áreas, não a Dupla Excepcionalidade."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Uma deficiência, um transtorno de aprendizagem ou uma condição de saúde mental (ex: TEA, Dislexia, TDAH ou Deficiência Visual).",
+                      "explanation": "Correta. A Dupla Excepcionalidade é a coexistência de AH/SD com uma deficiência ou transtorno, o que torna a identificação e a intervenção mais desafiadoras."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Uma inteligência superior que se manifesta apenas na vida adulta, sem indícios na infância.",
+                      "explanation": "Incorreta. O AH/SD se manifesta na infância."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A ausência de motivação e envolvimento com a tarefa, apesar de apresentar alto QI.",
+                      "explanation": "Incorreta. A falta de envolvimento é um problema de AH/SD, mas não define a Dupla Excepcionalidade."
+                    }
+                  ],
+                  "answer": "C"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q29",
+                  "statement": "Ao analisar os dados de matrículas da Educação Especial na perspectiva da inclusão (considerando alunos em classe comum com AEE - Atendimento Educacional Especializado) e as informações sobre a Meta 4 do PNE (2014 a 2018), o que o aumento do percentual de alunos incluídos em classe comum com AEE (de 37,1% para 40,0%) sugere?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Uma diminuição significativa de matrículas de alunos em classes comuns, conforme a Meta 4.",
+                      "explanation": "Incorreta. O percentual total de incluídos em classe comum *aumentou* (de 87,1% para 92,1%)."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Uma tendência positiva de retorno à educação segregada, com aumento de alunos em classes especiais.",
+                      "explanation": "Incorreta. O percentual de alunos em Classe Especial *diminuiu* de 12,9% para 7,9%."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O PNE Meta 4 não foi atingido no período, pois a maioria dos alunos incluídos ainda estava sem acesso ao AEE em 2018.",
+                      "explanation": "Incorreta. Embora o texto não afirme que a Meta 4 foi atingida, a análise comparativa mostra um aumento no acesso ao AEE."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Um crescimento gradual do acesso dos estudantes público-alvo da educação especial (4 a 17 anos) ao serviço especializado complementar, mesmo que a maioria dos alunos incluídos (52,1%) ainda estivesse sem o AEE em 2018.",
+                      "explanation": "Correta. O percentual de alunos com AEE cresceu no período (37,1% para 40,0%), indicando maior acesso, embora a maior parcela ainda estivesse sem AEE (50% para 52,1%)."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A subutilização dos equipamentos nas Salas de Recursos Multifuncionais foi totalmente eliminada em 2018.",
+                      "explanation": "Incorreta. O texto não fornece dados para concluir a eliminação total da subutilização."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_psicologia_e_inclusao_v3_L1_Q30",
+                  "statement": "O processo de **Adaptação Racional** é uma das chaves para o sucesso da Tecnologia Assistiva (TA). O que essa abordagem exige do profissional, em oposição à abordagem tradicional de 'testar e descartar'?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A insistência em um único recurso de TA, independentemente da resposta do aluno.",
+                      "explanation": "Incorreta. A insistência em um único recurso é o oposto da adaptação racional."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A realização de uma avaliação *funcional* rigorosa, seguida pela seleção e customização de recursos, e o treinamento sistemático do usuário, com acompanhamento contínuo (M&A).",
+                      "explanation": "Correta. A Adaptação Racional é um processo sistemático que exige avaliação funcional, seleção/customização e treinamento/acompanhamento contínuo, em oposição ao método de tentativa e erro."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A compra imediata do recurso mais popular do mercado, com base na opinião de outros usuários.",
+                      "explanation": "Incorreta. A Adaptação Racional exige uma avaliação individualizada e customização."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A exclusão de qualquer envolvimento da família e do professor da classe comum no processo.",
+                      "explanation": "Incorreta. O envolvimento da equipe e da família é fundamental."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco exclusivo nos aspectos técnicos do equipamento, ignorando as barreiras do ambiente escolar.",
+                      "explanation": "Incorreta. As barreiras do ambiente são o foco da avaliação funcional."
+                    }
+                  ],
+                  "answer": "B"
+                }
+              ]
             }
           ]
         }
