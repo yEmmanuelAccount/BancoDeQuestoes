@@ -26452,6 +26452,275 @@
                   "answer": "B"
                 }
               ]
+            },
+            {
+              "id": "p4_orientacao_profissional_V3_L1",
+              "title": "(v3) - Lista 1: Texto V",
+              "questions": [
+                {
+                  "id": "p4_OP_V3_L1_Q1",
+                  "statement": "Segundo o texto, o trabalho adquiriu um papel central na sociedade, estando associado a diversos fatores importantes para o indivíduo. Qual é a principal associação atual da noção de trabalho, conforme citada no texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Exclusivamente à satisfação pessoal e realização existencial.",
+                      "explanation": "Incorreta. A noção de trabalho está associada a elementos básicos para estruturação da identidade e um sentido de vida, mas o texto destaca outras associações mais centrais."
+                    },
+                    {
+                      "id": "B",
+                      "text": "À garantia de dignidade humana, de direitos e à distribuição de renda da sociedade.",
+                      "explanation": "Correta! A noção de trabalho está simultaneamente associada à distribuição de renda da sociedade e, sobretudo, à garantia de dignidade humana e de direitos atribuídos direta ou indiretamente ao trabalho (CARVALHO, 2004)."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Apenas à possibilidade de crescimento pessoal e profissional (SARRIERRA, 2001).",
+                      "explanation": "Incorreta. Embora o trabalho possibilite crescimento pessoal e profissional, a noção atual do trabalho, segundo Carvalho (2004), está ligada a renda, dignidade e direitos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "À crise de identidade desencadeada pelas transformações psicossociais e econômicas na adolescência.",
+                      "explanation": "Incorreta. A crise de identidade é um fator relevante para a OP, mas não a principal associação atual da noção de trabalho."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aos ritos de passagem que marcam a transição da adolescência para a vida adulta.",
+                      "explanation": "Incorreta. Os ritos de passagem são uma parte importante do desenvolvimento adolescente."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_OP_V3_L1_Q2",
+                  "statement": "Qual é o principal fator que contribui para o sofrimento psíquico na escolha profissional, conforme o texto?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A falta de interesse em qualquer profissão disponível no mercado.",
+                      "explanation": "Incorreta. O texto não aborda a falta de interesse como fator central."
+                    },
+                    {
+                      "id": "B",
+                      "text": "A limitação do campo de escolha e a restrição ao futuro profissional por falta de recursos.",
+                      "explanation": "Correta! A limitação do campo de escolha e a restrição ao futuro profissional são os principais fatores que contribuem para o sofrimento psíquico, devido à falta de recursos para o investimento em um projeto de vida."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O excesso de profissões e a dificuldade em tomar uma decisão final.",
+                      "explanation": "Incorreta. Embora a multiplicidade de opções seja um desafio, o texto foca na restrição de recursos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ausência de influência familiar sobre a carreira a seguir.",
+                      "explanation": "Incorreta. A influência familiar, quando excessiva, pode ser um problema."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A desvalorização social das carreiras universitárias em detrimento das técnicas.",
+                      "explanation": "Incorreta. O foco é na restrição individual e de classe."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_OP_V3_L1_Q29",
+                  "statement": "Neiva (1983) apud Levenfus (2014) desenvolveu um conceito de **Maturidade para a Escolha Profissional** que engloba três fatores. Qual é a alternativa que apresenta corretamente esses três fatores?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Informação, Decisão e Conflito (IDEC).",
+                      "explanation": "Incorreta. São os três fatores de Carvalho (2004) para a OP."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Autonomia na escolha, Relação com a realidade e Planejamento para o futuro.",
+                      "explanation": "Correta! Os três fatores da maturidade profissional de Neiva (1983) são Autonomia, Relação com a realidade e Planejamento para o futuro."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Conhecimento das profissões, Conhecimento de si e Conhecimento do mercado.",
+                      "explanation": "Incorreta. Estes são fatores para uma escolha responsável."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Identidade, Crise e Moratória.",
+                      "explanation": "Incorreta. Estes são conceitos de Erikson."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Aptidão vocacional, Habilidade social e Capacidade de mudança.",
+                      "explanation": "Incorreta. Estas são características que o indivíduo deve possuir."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_OP_V3_L1_Q30",
+                  "statement": "A dimensão **Conhecimento da Realidade Educativa e Socioprofissional** (EMEP) refere-se especificamente ao conhecimento que o sujeito tem sobre quais elementos?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Interesses, habilidades e valores.",
+                      "explanation": "Incorreta. Estes são elementos do Autoconhecimento."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Instituições educativas, profissões, e mercado de trabalho.",
+                      "explanation": "Correta! Conhecimento da Realidade Educativa e Socioprofissional, que se refere ao conhecimento que o sujeito tem das instituições educativas, das profissões, do mercado de trabalho etc."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Fatores internos e externos que influenciam o processo de decisão.",
+                      "explanation": "Incorreta. Esta é a implicação de uma escolha autônoma e responsável."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Conflitos e crises internas típicas da adolescência.",
+                      "explanation": "Incorreta. Este é o foco de Erikson."
+                    },
+                    {
+                      "id": "E",
+                      "text": "A certeza sobre o futuro emprego e o momento da aposentadoria.",
+                      "explanation": "Incorreta. Esta é a definição de maturidade profissional de Neiva."
+                    }
+                  ],
+                  "answer": "B"
+                }
+              ]
+            },
+            {
+              "id": "p4_orientacao_profissional_V3_L2",
+              "title": "(v3) - Lista 2: Texto VI",
+              "questions": [
+                {
+                  "id": "p4_OP_V3_L2_Q1",
+                  "statement": "Segundo Max Weber, qual era o principal critério que definia a importância das profissões na sociedade moderna e ocidental?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A possibilidade de realizar atividades que garantissem sucesso financeiro e destaque social.",
+                      "explanation": "Incorreta. Estes são resultados possíveis, mas Weber pautava a profissionalização em outros fatores."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O status que cada profissão oferece e as atividades que são exercidas.",
+                      "explanation": "Correta! Para ele [Max Weber], a profissionalização pautada no status que cada profissão oferece e das atividades exercidas."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A capacidade de o sujeito fazer uma escolha satisfatória, independentemente do sucesso financeiro.",
+                      "explanation": "Incorreta. Este é um resultado intrapessoal, e não o critério de Weber para a importância social das profissões."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A busca por mecanismos racionais para solucionar dúvidas quanto à escolha profissional.",
+                      "explanation": "Incorreta. Essa é uma visão de teorias objetivas, não a defesa de Weber."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O grau de investimento libidinal e a capacidade de prender o homem à sua ocupação.",
+                      "explanation": "Incorreta. Esta é a visão psicanalítica de Freud."
+                    }
+                  ],
+                  "answer": "B"
+                },
+                {
+                  "id": "p4_OP_V3_L2_Q2",
+                  "statement": "Qual é o objetivo principal da Orientação Profissional na clínica, no que tange à compreensão dos aspectos intrapsíquicos do sujeito?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "Ajudar o sujeito a se responsabilizar por sua história de vida e a integrar seus interesses e aptidões com a realidade social.",
+                      "explanation": "Correta! A OP na clínica tem como objetivo principal auxiliar o sujeito a se responsabilizar pela sua história de vida e a integrar seus interesses e aptidões com a realidade social, fazendo uma escolha mais consciente."
+                    },
+                    {
+                      "id": "B",
+                      "text": "Garantir a descoberta de uma vocação inata e preexistente no inconsciente do indivíduo.",
+                      "explanation": "Incorreta. A OP não se baseia na ideia de vocação inata, mas sim de uma construção ao longo da vida."
+                    },
+                    {
+                      "id": "C",
+                      "text": "Fornecer informações objetivas sobre o mercado de trabalho, eliminando toda a subjetividade do processo.",
+                      "explanation": "Incorreta. A OP na clínica foca na subjetividade e nos aspectos intrapsíquicos."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Acelerar o processo de escolha para que o jovem se insira rapidamente no ensino superior.",
+                      "explanation": "Incorreta. O foco é na reflexão profunda e não na aceleração."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Ignorar a história de vida para focar apenas nas habilidades e aptidões atuais do indivíduo.",
+                      "explanation": "Incorreta. A história de vida e os aspectos intrapsíquicos são centrais na OP clínica."
+                    }
+                  ],
+                  "answer": "A"
+                },
+                // ... [Questões 3 a 28]
+                {
+                  "id": "p4_OP_V3_L2_Q29",
+                  "statement": "Qual é a principal diferença entre a atuação do Orientador Profissional na organização e a atuação do Gerente de Recursos Humanos (RH)?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "O OP foca em planejar o futuro da organização e o RH, em focar no presente.",
+                      "explanation": "Incorreta. Ambos têm papéis estratégicos."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O OP deve tomar as decisões de desligamento e o RH, de contratação.",
+                      "explanation": "Incorreta. O OP atua no desenvolvimento, e o RH, nos processos burocráticos e estratégicos de pessoal."
+                    },
+                    {
+                      "id": "C",
+                      "text": "O OP deve supervisionar a equipe e o RH, dar treinamento.",
+                      "explanation": "Incorreta. Esta é a função do gerente de RH."
+                    },
+                    {
+                      "id": "D",
+                      "text": "Auxiliar o empregado em um processo de reflexão sobre si mesmo, suas aspirações e interesses profissionais.",
+                      "explanation": "Correta! O orientador ajuda o empregado num processo de reflexão sobre si mesmo, sobre suas aspirações e interesses profissionais."
+                    },
+                    {
+                      "id": "E",
+                      "text": "Acompanhar o empregado de forma sistemática, planejando estratégias de desenvolvimento objetivo.",
+                      "explanation": "Incorreta. Este é o modo de atuação, mas não o foco de intervenção comparado ao RH."
+                    }
+                  ],
+                  "answer": "D"
+                },
+                {
+                  "id": "p4_OP_V3_L2_Q30",
+                  "statement": "A Orientação Profissional na clínica foca nas implicações intrapsíquicas que fazem parte da história de vida. Na perspectiva psicanalítica, o que é necessário ter ocorrido para que o **Ideal do Eu** se estabeleça e viabilize a profissionalização?",
+                  "options": [
+                    {
+                      "id": "A",
+                      "text": "A convergência exclusiva do narcisismo e das identificações.",
+                      "explanation": "Incorreta. Faltam as idealizações."
+                    },
+                    {
+                      "id": "B",
+                      "text": "O recalcamento e a determinação das satisfações dos sujeitos em torno das escolhas objetais.",
+                      "explanation": "Correta! Sabemos que o ideal do eu acontece, quando já ocorreu o recalcamento e a determinação das satisfações dos sujeitos em torno das escolhas objetais."
+                    },
+                    {
+                      "id": "C",
+                      "text": "A entrada do ser no universo da palavra e da linguagem (matriz simbólica).",
+                      "explanation": "Incorreta. Isso constrói o Ideal de Eu, não o Ideal do Eu."
+                    },
+                    {
+                      "id": "D",
+                      "text": "A ausência total de investimento libidinal (pulsão sexual) na busca pelo objeto.",
+                      "explanation": "Incorreta. A pulsão libidinal está envolvida na busca."
+                    },
+                    {
+                      "id": "E",
+                      "text": "O foco exclusivo em fontes que são inconscientes e inacessíveis à consciência.",
+                      "explanation": "Incorreta. O Ideal do Eu é menos rígido."
+                    }
+                  ],
+                  "answer": "B"
+                }
+              ]
             }
           ]
         },
